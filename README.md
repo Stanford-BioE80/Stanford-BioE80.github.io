@@ -6,12 +6,11 @@ Students successfully completing BIOE/ENGR.80 will have a working understanding 
 
 ### How does this class work?
 
-[Syllabus](general/Syllabus.md)
+[Syllabus](general/syllabus.md)
 
-test test test 
+test test 
 
-
-[How does this class work?](general/Basics.md)
+[How does this class work?](general/basics.md)
 
 ### Introduction to Markdown: How to edit files and add new materials
 
