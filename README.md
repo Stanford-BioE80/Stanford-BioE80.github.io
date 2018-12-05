@@ -1,3 +1,9 @@
+---
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
+---
+
 ## Welcome to BIOE/ENGR.80 - Spring 2018
 
 **_Introduction to Bioengineering (Engineering Living Matter)_**
