@@ -1,4 +1,4 @@
-## Welcome to Bioe80
+## Welcome to BioE80
 
 
 
