@@ -1,11 +1,3 @@
----
-title:  BIOE/ENGR.80 - Spring 2018  Syllabus.docx
-layout: post
-author: jtliphardt
-permalink: /-bioe/engr.80---spring-2018--syllabus.docx/
-source-id: 10EltvWwq83qSzmuseRJIc4ydl00l7YRamGDU_VYw9Mk
-published: true
----
 ** BIOE/ENGR.80 - Spring 2018****_      		     Introduction to Bioengineering (Engineering Living Matter)_**
 
 **_ _**
@@ -37,8 +29,6 @@ Self-proctored three hour written exam due by 6:30p 11 June 2018
 Prof. Drew Endy; Office Hours Mon 4p & Wed 4p @ Shriram 252; [endy@stanford.edu](mailto:endy@stanford.edu)
 
 Prof. Jan Liphardt; Office Hours Mon 10a & Fri 3p @ Shriram 005; [jan.liphardt@stanford.edu](mailto:jan.liphardt@stanford.edu)
-
- 
 
 **Education Fellow**
 
@@ -80,7 +70,7 @@ Final Exam (15%); 3 design problems
 
 We expect you will uphold Stanford's Honor Code. Discussion among peers and with the teaching staff is strongly encouraged.  All submitted work must be completed individually unless explicitly noted otherwise.
 
-**Week 1		Why are you here?  Why engineer biology?  What's unique about living matter?**
+**Week 1 Why are you here? Why engineer biology? What's unique about living matter?**
 
 Mon 	2 April		320-105	Hello; course mechanics; initial questions; opening tour
 
@@ -106,29 +96,27 @@ Fri 	20 April	SC 112/132	What can't be encoded in DNA? **(PSET 3)**
 
 **Week 4		If we can construct a genome then why can't we build an organism?**
 
-Mon 	23 April	320-105	How to parse a research paper on the frontiers of bioengineering
+Mon 	23 Apr	320-105	How to parse a research paper on the frontiers of bioengineering
 
-Wed 	25 April	320-105	Why is humpty dumpty more than just a nursery rhyme?
+Wed 	25 Apr	320-105	Why is humpty dumpty more than just a nursery rhyme?
 
-Fri 	27 April 	SC 112/132	Meet your microbes **(PSET 4)**
+Fri 	27 Apr 	SC 112/132	Meet your microbes **(PSET 4)**
 
 **Week 5		Something from "nothing." Why do molecules move? How do patterns grow?**
 
-Mon 	30 April	320-105	Molecular diffusion, what is it and why does it matter to bioengr.?
+Mon 	30 Apr 	320-105	Molecular diffusion, what is it and why does it matter to bioengr.?
 
-Wed 	2 May		320-105	Patterns via development; e.g., could you grow an arm?
+Wed 	2 May	320-105	Patterns via development; e.g., could you grow an arm?
 
-Fri 	4 May		SC 112/132	Dancing droplets; "programming" autonomous objects **(PSET 5)**
-
-   
+Fri 	4 May	SC 112/132	Dancing droplets; "programming" autonomous objects **(PSET 5)**
 
 **Week 6		Abstraction as a tool for managing complexity in bioengineering**
 
-Mon 	7 May		320-105	How to implement Boolean logic in DNA 
+Mon 	7 May	320-105	How to implement Boolean logic in DNA 
 
-Wed 	9 May		320-105	How to architect arbitrary genetic systems 
+Wed 	9 May	320-105	How to architect arbitrary genetic systems 
 
-Fri 	11 May		SC 112/132	GOOP revisited; genetic sensors, logic, actuators **(PSET 6)**
+Fri 	11 May	SC 112/132	GOOP revisited; genetic sensors, logic, actuators **(PSET 6)**
 
 **Week 7		Evolution as an algorithm; Evolution as a service**
 
@@ -152,11 +140,11 @@ Mon 	28 May 	**NO CLASS (Memorial Day)**
 
 Wed 	30 May	320-105	Why don't we have modern biological weapons?
 
-Fri 	1 June		SC 112/132	How many people should learn bioengineering? **(PSET 9)**
+Fri 	1 June	SC 112/132	How many people should learn bioengineering? **(PSET 9)**
 
 **Week 10		Summary Sendoff**
 
 Mon 	4 June 	320-105	What is bioengineering from a technical perspective?
 
-Wed 	6 June		320-105	What is bioengineering from a cultural perspective?
+Wed 	6 June	320-105	What is bioengineering from a cultural perspective?
 
