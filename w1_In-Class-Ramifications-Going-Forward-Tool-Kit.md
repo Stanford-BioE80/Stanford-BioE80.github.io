@@ -2,7 +2,7 @@
 title: w1_In Class Ramifications Going Forward Tool Kit
 layout: post
 author: jtliphardt
-permalink: /w1_In-class-ramifications-going-forward-tool-kit/
+permalink: /week1/w1_In-class-ramifications-going-forward-tool-kit/
 source-id: 1OO4rsZzAaDre8x2ck0o-z3oh9BIU4ZRZ1t6aM-5aTNY
 published: true
 ---
