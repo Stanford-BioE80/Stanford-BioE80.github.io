@@ -1,20 +1,16 @@
-## Welcome to BioE80
-
-** BIOE/ENGR.80 - Spring 2018**
+## Welcome to BIOE/ENGR.80 - Spring 2018
 
 **_Introduction to Bioengineering (Engineering Living Matter)_**
 
-**_ _**
+Students successfully completing BIOE/ENGR.80 will have a working understanding for how to approach the systematic engineering of living systems to benefit all people and the planet. MOur three main goals for the quarter are (1) to help you learn ways of thinking about engineering living matter, (2) to empower you to explore and do bioengineering starting from DNA, and (3) for you to become more capable of learning and explaining bioengineering to yourself and others, including discussing the broader ramifications of engineering the living world. 
 
-Students successfully completing BIOE/ENGR.80 should have a working understanding for how to approach the systematic engineering of living systems to benefit all people and the planet. More specifically, our three main goals for the quarter are (1) to help you learn ways of thinking about engineering living matter, (2) to empower you to explore and do bioengineering starting from DNA, and (3) for you to become more capable of learning and explaining bioengineering to yourself and others, including discussing the broader ramifications of engineering the living world. 
+### How does this class work?
 
-How does this class work?
+[Syllabus](https://stanford-bioe80.github.io/general/Syllabus.md).
 
-[Syllabus](https://https://stanford-bioe80.github.io/general/Syllabus.md).
+[How does this class work?](https://stanford-bioe80.github.io/general/Basics.md).
 
-[How does this class work?](https://https://stanford-bioe80.github.io/general/Basics.md).
-
-## Basic introduction to Markdown: How to edit files and add new materials
+### Introduction to Markdown: How to edit files and add new materials
 
 You can use the [editor on GitHub](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
