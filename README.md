@@ -1,7 +1,18 @@
 ## Welcome to BioE80
 
+** BIOE/ENGR.80 - Spring 2018**
 
+**_Introduction to Bioengineering (Engineering Living Matter)_**
 
+**_ _**
+
+Students successfully completing BIOE/ENGR.80 should have a working understanding for how to approach the systematic engineering of living systems to benefit all people and the planet. More specifically, our three main goals for the quarter are (1) to help you learn ways of thinking about engineering living matter, (2) to empower you to explore and do bioengineering starting from DNA, and (3) for you to become more capable of learning and explaining bioengineering to yourself and others, including discussing the broader ramifications of engineering the living world. 
+
+How does this class work?
+
+[Syllabus](https://https://stanford-bioe80.github.io/general/Syllabus.md).
+
+[How does this class work?](https://https://stanford-bioe80.github.io/general/Basics.md).
 
 ## Basic introduction to Markdown: How to edit files and add new materials
 
