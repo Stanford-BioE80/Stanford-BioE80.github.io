@@ -1,36 +1,32 @@
-** BIOE/ENGR.80 - Spring 2018****_      		     Introduction to Bioengineering (Engineering Living Matter)_**
+## Syllabus
 
-**_ _**
+**_Introduction to Bioengineering (Engineering Living Matter)_**
 
 Students successfully completing BIOE/ENGR.80 should have a working understanding for how to approach the systematic engineering of living systems to benefit all people and the planet. More specifically, our three main goals for the quarter are (1) to help you learn ways of thinking about engineering living matter, (2) to empower you to explore and do bioengineering starting from DNA, and (3) for you to become more capable of learning and explaining bioengineering to yourself and others, including discussing the broader ramifications of engineering the living world.  
 
-** **
-
-**When**: 
+### When 
 
 2 April to 6 June 2018
 
 MWF, 1:30-2:20p , Lectures & Activities
 
-**Where**: 
+### Where 
 
 Classroom (most Mondays and some Wednesdays): Building 320 Room 105
 
 Activity Space (many Wednesdays & most Fridays): Shriram Center Rooms 112 & 132
 
-**Final Exam**: 
+### Final Exam 
 
 Self-proctored three hour written exam due by 6:30p 11 June 2018
 
-** **
-
-**Instructors**
+### Instructors
 
 Prof. Drew Endy; Office Hours Mon 4p & Wed 4p @ Shriram 252; [endy@stanford.edu](mailto:endy@stanford.edu)
 
 Prof. Jan Liphardt; Office Hours Mon 10a & Fri 3p @ Shriram 005; [jan.liphardt@stanford.edu](mailto:jan.liphardt@stanford.edu)
 
-**Education Fellow**
+### Education Fellow
 
 Dr. Siavash Ahrar; Office Hours Mon 3p @ Tressider & Fri 3p @ Shriram Tea Room; [sahrar@stanford.edu](mailto:sahrar@stanford.edu)
 
