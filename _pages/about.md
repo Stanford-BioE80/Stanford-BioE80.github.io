@@ -1,5 +1,4 @@
 ---
-permalink: /
 title: "Welcome to BIOE/ENGR.80 - Spring 2019"
 excerpt: "About me"
 author_profile: true
