@@ -5,8 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-sidebar:
-  nav: "docs"
 ---
 
 **_Introduction to Bioengineering (Engineering Living Matter)_**
