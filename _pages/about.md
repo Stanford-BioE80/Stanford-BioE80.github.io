@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "Welcome to BioE80"
+title: "Welcome to BIOE/ENGR.80 - Spring 2019"
+permalink: /_pages/
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+toc: true
 ---
-
-## Welcome to BIOE/ENGR.80 - Spring 2018
 
 **_Introduction to Bioengineering (Engineering Living Matter)_**
 
