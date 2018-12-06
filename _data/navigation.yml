@@ -20,8 +20,8 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+  - title: "Introduction"
+    url: /docs/introduction/
   - title: "About"
     url: /about/
   - title: "Sample Posts"
@@ -34,6 +34,16 @@ main:
 
 # documentation links
 docs:
+  - title: Getting Started
+    children:
+      - title: "Introduction"
+        url: /docs/introduction/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
