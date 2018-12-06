@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+sidebar:
+  nav: "docs"
 ---
 
 ## Welcome to BIOE/ENGR.80 - Spring 2018
