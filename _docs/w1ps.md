@@ -5,7 +5,7 @@ last_modified_at: 2018-11-25T22:21:33-05:00
 toc: true
 ---
 
-## Problem Set Week-1
+# Problem Set Week-1
 
 **DUE:** Friday Next Week (start of class)
 
@@ -15,11 +15,14 @@ toc: true
 
 **Goal:** To help you reflect on the implications of engineering living matter.  To help you prepare for the quarter by thinking about your goals for the class. Finally, to help get you started on your journey as an explorer or maker in bioengineering.
 
-**(Q1)** What is your major and year? Have you taken (or are currently taking) any other bioengineering classes? What were the last books that you read (list up to 3)? (2 pts)
+## (Q1) Let's hear about you.
+What is your major and year? Have you taken (or are currently taking) any other bioengineering classes? What were the last books that you read (list up to 3)? (2 pts)
 
-**(Q2)** Why are you taking BIOE.80? Stated differently, what do you most want to gain by successfully completing BIOE.80 this quarter? (200 words or less) (8 pts)
+## (Q2) What do you hope for out of this class? 
+Why are you taking BIOE.80? Stated differently, what do you most want to gain by successfully completing BIOE.80 this quarter? (200 words or less) (8 pts)
 
-**(Q3)** After the first week of the class, a friend asks you about bioengineering. Your friend is specifically interested in the impact of bioengineering on humanity and civilization so far. You think back to the three examples provided in the "Why has bioengineering mattered?" and decide to draw upon those in formulating your response. 
+## (Q3) The impact of Bioengineering
+After the first week of the class, a friend asks you about bioengineering. Your friend is specifically interested in the impact of bioengineering on humanity and civilization so far. You think back to the three examples provided in the "Why has bioengineering mattered?" and decide to draw upon those in formulating your response. 
 
 1. In <150 words explain the impact of engineering living matter using the three provided examples. (10 pts)
 
