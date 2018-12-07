@@ -17,7 +17,6 @@ foo:
       - title: "Child Link 3"
         url: /child-3-page-url/
 
-
 # main links
 main:
   - title: "Introduction"
@@ -31,10 +30,9 @@ main:
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
 
-
 # documentation links
 docs:
-  - title: Getting Started
+  - title: Getting started
     children:
       - title: "Introduction"
         url: /docs/introduction/
@@ -42,12 +40,16 @@ docs:
         url: /docs/structure/
   - title: Weeks
     children:
-      - title: "Week 1 reading"
-        url: /docs/w1reading/
+      - title: "Week 1 Preclass"
+        url: /docs/w1preclass/
+      - title: "Week 1 Inclass"
+        url: /docs/w1inclass/
       - title: "Week 1 PS"
         url: /docs/w1ps/
-      - title: "Week 2 reading"
+      - title: "Week 2 Preclass"
         url: /docs/w2reading/
+      - title: "Week 2 Inclass"
+        url: /docs/w2inclass/
       - title: "Week 2 PS"
         url: /docs/w2ps                   
   - title: Extras
