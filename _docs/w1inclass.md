@@ -27,9 +27,7 @@ As more detailed questions related to a future bio-enabled economy please consid
 
 WWI and WWII had completely different wartime strategies largely due to differences in weapon and transportation technologies available at the time. In WWI trenches were used to slowly advance the front lines using machine guns, artillery, chemical weapons, and slow armored vehicles. WWII was no longer a war with long static front lines as, for example, tanks and airplanes increased the mobility and maneuverability of the troops.
 
-Now think about how engineering living matter might influence war tactics and how our physical security might be changed. For examples click this link to see  the full genome of the 1918 flu that infected up to one third of the world population a century ago:
-
-[Flu genome sequenced](https://www.the-scientist.com/?articles.view/articleNo/23462/title/Flu-genome-sequenced/)
+Now think about how engineering living matter might influence war tactics and how our physical security might be changed. For example click this link to see the full genome of the 1918 flu that infected up to one third of the world population a century ago: [Flu genome sequenced](https://www.the-scientist.com/?articles.view/articleNo/23462/title/Flu-genome-sequenced/).
 
 1. **What is the difference between safety and security?**
 2. **How does one prepare differently for safety concerns versus security concerns?**
@@ -61,11 +59,11 @@ To complete this activity you will first build your own simple microscope, simil
 
 Using your own Foldscope, you will discover the world around you by going outside and taking microscopic pictures of stuff that fascinates you (living matter and otherwise). It does not matter what you take a picture of and the teaching team purposefully won't give you a direction. We want you to explore for yourself and interact with what you find interesting.  
 
-Finally, you are asked to document and share your images. This will be part of your PSET-1. This can be completed today or anytime in the next week (PSET-1 is due WHEN)
+Finally, you are asked to document and share your images. This will be part of your PSET-1. This can be completed today or anytime in the next week (PSET-1 is due WHEN).
 
 ### B. Build your own Foldscope:
 
-Your Foldscope kit has a manual which will guide you through its construction. However, if you would like a video tutorial please visit the [Foldscope website(https://www.foldscope.com/foldscope-instructions/). TAs will be available during the activity (Friday 4/6, Shriram 112 and 132) session to help you with building your Foldscope as well. Instructions for how to use the foldscope with a smartphone can be found [here](https://www.youtube.com/watch?v=LpeJUbs32VU).
+Your Foldscope kit has a manual which will guide you through its construction. However, if you would like a video tutorial please visit the [Foldscope website](https://www.foldscope.com/foldscope-instructions/). TAs will be available during the activity (Friday 4/6, Shriram 112 and 132) session to help you with building your Foldscope as well. Instructions for how to use the foldscope with a smartphone can be found [here](https://www.youtube.com/watch?v=LpeJUbs32VU).
 
 **To checkout of class have a TA confirm your Foldscope is made**
 
