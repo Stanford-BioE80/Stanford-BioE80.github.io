@@ -5,17 +5,17 @@ last_modified_at: 2018-11-25T22:21:33-05:00
 toc: true
 ---
 
-##Preclass for Wednesday
+## Preclass for Wednesday
 
-Please read and consider the below before start of class on **Wednesday 4 April 2018**. The questions given are only study questions not homework to be answered. Talk about it all with your classmates, friends, or TAs, as you like.
+Please read and consider the below before start of class on **Wednesday**. The questions given are only study questions not homework to be answered. Talk about it all with your classmates, friends, or TAs, as you like.
 
-###What has been the impact of engineering interacting with biology?
+### What has been the impact of engineering interacting with biology?
 
 Here you will examine the role that bioengineering, with a core emphasis on living matter, has had on the world. Stated differently, we ask: Why has bioengineering mattered?
 
-**Goal-1:** After considering the following examples you should be able to describe example impacts of bioengineering on humanity and civilization to this day. 
+**Goal 1:** After considering the following examples you should be able to describe example impacts of bioengineering on humanity and civilization to this day. 
 
-**Goal-2:** Prepare yourself for a constructive class discussion about the future impact and ramifications of engineering living matter for realizing a future to benefit, and not to harm, all people and the planet. 
+**Goal 2:** Prepare yourself for a constructive class discussion about the future impact and ramifications of engineering living matter for realizing a future to benefit, and not to harm, all people and the planet. 
 
 First let's examine in more detail an interesting topic, some of the ancient origins of bioengineering: 
 
@@ -25,13 +25,13 @@ Here, we organize these partnerships into three general categories:
 
 First, is the application of the new tools and technologies to engineer **for** living matter. I.e., using other modes of engineering to do something for biology as a science or biology as a type of stuff.  Examples of this category include prosthetic limbs, surgical tools, microscopes, technologies for controlled drug delivery, and machines to read and write DNA. 
 
-Second, is the use or adaptation of living matter as a type of material (cells, enzymes, plants, animals) towards various goals. We call this engineering **_with_** living matter. This approach has brought us, for example, vaccines such as for polio, leather made with mushrooms in place of vertebrates, and initial progress in growing human some types of human tissues.
+Second, is the use or adaptation of living matter as a type of material (cells, enzymes, plants, animals) towards various goals. We call this engineering **with** living matter. This approach has brought us, for example, vaccines such as for polio, leather made with mushrooms in place of vertebrates, and initial progress in growing human some types of human tissues.
 
-The third and final category is the engineering **_of_** living matter. This involves the manipulation of biological organisms directly, typically starting from their DNA. This approach has brought us innovations like large scale manufacturing of human therapeutics via microbes (e.g., insulin), genetically modified plants (e.g., virus-resistant papaya), therapeutic immune cells for fighting some types of cancer, (e.g,. CAR-T cells), animal-free meat, and so on. 
+The third and final category is the engineering **of** living matter. This involves the manipulation of biological organisms directly, typically starting from their DNA. This approach has brought us innovations like large scale manufacturing of human therapeutics via microbes (e.g., insulin), genetically modified plants (e.g., virus-resistant papaya), therapeutic immune cells for fighting some types of cancer, (e.g,. CAR-T cells), animal-free meat, and so on. 
 
 Let's examine one example from each category.  Please note, there are a few questions after each example (10 total).  Please think of these as study questions, not questions on an assignment.  I.e., you do not have to turn in anything from the reading and study questions in the pre-class material.  We estimate you will spend about 10 minutes on each example, or more but only if you wish to follow-up re: details via the curated links provided.
 
-###Example 1 | Microscopes
+### Example 1 | Microscopes
 
 The history of the microscope is an amazing example of how partnership between engineering (i.e., building a new technology) and biology can enable an entirely new paradigm (i.e., world) of discoveries.
 
@@ -39,14 +39,9 @@ In mid 17th century Anton van Leeuwenhoek was an amature lens maker (he ran a ha
 
 Observations enabled by microscopes were one of the most visceral discoveries that astounded the public, including all of the many microorganisms that can be found in a drop of water, a historical depiction of which is shown below.
 
-<table>
-  <tr>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Figure.1. Van Leeuwenhoek's simple yet powerful microscope 1670s (arrow points at the lens History of microscope). An artist etching of a person’s reaction to a magnified drop of Thames water (monster soup), revealing the impurity of London drinking water 1828 source.</td>
-  </tr>
-</table>
+<table><tr><td></td></tr><tr><td>
+Figure 1. Van Leeuwenhoek's simple yet powerful microscope 1670s (arrow points at the lens History of microscope). An artist etching of a person’s reaction to a magnified drop of Thames water (monster soup), revealing the impurity of London drinking water 1828 source.
+</td></tr></table>
 
 **Q.1. What do you think was the impact of the invention of the microscope? How do you think it changed the attitudes of both the practitioners (scientists) and the citizens of 17th century?**
 
@@ -58,7 +53,7 @@ Observations enabled by microscopes were one of the most visceral discoveries th
 
 If you are excited about learning more about microscopy please follow this fantastic [optional link](https://www.youtube.com/watch?v=4c5ILWQmqRY&t=579s). If you want to know more about the discovery of bacteria by Van Leeuwenhoek  please follow this [optional link 2](https://www.vox.com/2016/8/9/12405306/antoni-van-leeuwenhoek)**.**
 
-###Example 2 | Polio Vaccine
+### Example 2 | Polio Vaccine
 
 Polio is a crippling and potentially deadly disease and is caused by the very contagious poliovirus that spreads rapidly from person to person. Polio can lead to paralysis if the virus invades the person's brain and spinal cord. About 1 out of 200 people infected with poliovirus will suffer from this outcome.
 
@@ -74,20 +69,15 @@ Watch [this video](https://www.youtube.com/watch?v=2LlDn_MQDkc) which will bring
 
 **Q.7. The video of the released clinical trial results shows the public's excitement and faith in research at that time. What discoveries today would lead to that type of response? Could bioengineers take for granted a similar response today?  Why or why not?**
 
-###Example 3 | Ringspot Resistant Papaya
+### Example 3 | Ringspot Resistant Papaya
 
 In the early 90s, hundreds of Hawaiian papaya farmers were in the state of panic. Papaya Ring Spot Virus (PRSV), named since it leaves discolored spots resembling tiny rings, were spreading across their fields. For the next several years, the farmers would lose most of their fields after and crop to PRSV. 
 
 In 1992, a plant pathologist at Cornell University, Dennis Gonsalves, who grew up in the region most affected by the virus, suggested a vaccination approach to stop the spread of this devastating virus. After a decade of work Gonsalves and his team carefully genetically modified the papaya planet by inserting a gene from the PRSV. They were able to create (i.e., cultivate) a papaya plant -- which they named the Rainbow papaya - that was genetically resistant to the ringspot virus, effectively saving the papaya industry in Hawaii. Their work is an example of engineering of living matter. (Here is a fascinating interview with Dennis Gonslaves about the Rainbow Papaya and the social impact titled: "Why public sector biotechnology research matter?" [link 3](https://www.youtube.com/watch?v=CX7AqBOJS84).) However, this story did not end there… (read on)
 
-<table>
-  <tr>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Figure.2. Symptoms of  Papaya Ring Spot Virus (PRSV) on the tree and the fruit (a,b). Abandoned fields of papaya (early 90s) juxtaposed against the cultivation of Rainbow papya (late 90s) developed by Dennis Gonslaves. source</td>
-  </tr>
-</table>
+<table><tr><td></td></tr><tr><td>
+Figure 2. Symptoms of Papaya Ring Spot Virus (PRSV) on the tree and the fruit (a,b). Abandoned fields of papaya (early 90s) juxtaposed against the cultivation of Rainbow papya (late 90s) developed by Dennis Gonslaves. source
+</td></tr></table>
 
 In 2013 anti-Genetically Modified Organism (GMO) groups strongly and successfully advocated, and passed a ban in Hawaii restricting cultivation of GMOs. Naturally this was faced with strong opposition from the local papaya farmers. The bill was amended to make exception of genetically modified papaya (and corn). The ban was turned into law in 2014, which was stuck in a legal limbo. Eventually, a U.S. Court of Appeals overturned the bill ruling that counties in Hawaii could not enact their own GMO bans. However, this was not the end of the story either. The debate over the Hawaii bill sparked numerous bills around the country seeking to limit or to ban GMO food, crops, or ingredients. Finally in 2016 President Obama signed the first national GMO labeling law, which required food makers to list any GMO ingredients. Currently there are numerous active anti-GMO organizations all around the country, as well an many for-profit companies working to make and deliver products (and realize profits) via genetically modified organisms.   
 
@@ -99,11 +89,11 @@ In 2013 anti-Genetically Modified Organism (GMO) groups strongly and successfull
 
 If you are excited about the ringspot resistant papaya and want to learn more, follow these optional links: [link 1](https://www.youtube.com/watch?v=2G-yUuiqIZ0), [link 2](https://www.youtube.com/watch?v=3rgUEUDkj2U), and [link 3](https://www.rottentomatoes.com/m/food_evolution/).
 
-###Summary
+### Summary
 
 In the Day 2 pre-class material you examined the cases highlighting the impact and role of bioengineering, broadly defined, in society. First, you examined the role and development of a transformative technology, the microscope, that opened opportunities and vistas previously inconceivable. From this you examined, what **tools and technologies** do we want coupled with biology? Next, you examined development of a life saving vaccine for polio (an example for engineering with biology). Here you examined what **cultures** do we want coupled with bioengineering? Finally, you learned more about the Rainbow Papaya as a case for engineering of biology. Here you began to examine what **futures** we wish to realize via bioengineering? And who gets to decide?
 
-###Additional References: 
+### Additional References: 
 
 [1] [History of the microscope] (http://www.history-of-the-microscope.org/invention-of-glass-lenses-and-the-history-of-the-light-microscope.php)
 
@@ -119,7 +109,7 @@ In the Day 2 pre-class material you examined the cases highlighting the impact a
 
 [7] [U.S. GMO food labeling bill passes Senate](https://www.reuters.com/article/us-usa-food-gmo-vote/u-s-gmo-food-labeling-bill-passes-senate-idUSKCN0ZO08N)
 
-##Preclass for Friday
+## Preclass for Friday
 
 **What's Unique About Living Matter?**
 
@@ -137,7 +127,7 @@ Watch [this video](https://youtu.be/NpZ3PXTnxdw) from Prof. Liphardt detailing t
 
 **Q.4. What did you find most surprising?**
 
-###Self-Assessment | Maker or Explorer
+### Self-Assessment | Maker or Explorer
 
 Imagine that you spend hours assembling a device ( a box ) that, once finished, is supposed to power a light bulb when a button is pushed. You place your finished construction on your workshop table and press the button... POOF! Smoke pours from the device but the bulb remains dark. Do you exclaim (choose one):
 
@@ -145,26 +135,26 @@ DARN!!! 	COOL!!!
 
 Why did you pick your choice? Remember your answer for the class on Friday.
 
-###Foldscope
+### Foldscope
 
 In the activity on Friday you will be making your own Foldscope (engineering for living matter similar to Anton van Leeuwenhoek)  and use it to explore and discover the world around you. You will be going outside during class so wear appropriate shoes and jacket.
 
 Watch the following three videos to prepare for the foldscope activity.
 
-1. Dr. Manu Prakash's vision for the paper microscope back in 2012. [Link ](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437)
+1. Dr. Manu Prakash's vision for the [paper microscope back in 2012](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437).
 
-2. Instructions for how to use the foldscope with a smartphone. [Link](https://www.youtube.com/watch?v=LpeJUbs32VU)
+2. Instructions for how to use the [foldscope with a smartphone](https://www.youtube.com/watch?v=LpeJUbs32VU).
 
-3. Instructions for how to build the foldscope (You will be doing this in class). [Link](https://www.youtube.com/watch?v=RvZRO36IRYY)
+3. Instructions for how to [build the foldscope](https://www.youtube.com/watch?v=RvZRO36IRYY). You will be doing this in class). 
 
-###Resources
+### Resources
 
 Full URL of links from above:
 
-1. [https://www.youtube.com/watch?v=NpZ3PXTnxdw](https://www.youtube.com/watch?v=NpZ3PXTnxdw)
+[1]. [https://www.youtube.com/watch?v=NpZ3PXTnxdw](https://www.youtube.com/watch?v=NpZ3PXTnxdw)
 
-2. [https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437)
+[2]. [https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437)
 
-3. [https://www.youtube.com/watch?v=LpeJUbs32VU](https://www.youtube.com/watch?v=LpeJUbs32VU)
+[3]. [https://www.youtube.com/watch?v=LpeJUbs32VU](https://www.youtube.com/watch?v=LpeJUbs32VU)
 
-4. [https://www.youtube.com/watch?v=RvZRO36IRYY](https://www.youtube.com/watch?v=RvZRO36IRYY)
+[4]. [https://www.youtube.com/watch?v=RvZRO36IRYY](https://www.youtube.com/watch?v=RvZRO36IRYY)
