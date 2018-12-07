@@ -1,90 +1,70 @@
 ---
-title: "Week 1 Preclass"
-permalink: /docs/w1preclass/
-excerpt: "TBD."
+title: "Week 1 Inclass"
+permalink: /docs/w1inclass/
 last_modified_at: 2018-11-25T22:21:33-05:00
 toc: true
 ---
 
-##Preclass for Friday
+## In Class Activity - Foldscope:
 
-**What's Unique About Living Matter?*** * *
+### Be a Naturalist | Be a Maker
 
-Here you will learn and think about what makes living matter such a unique material when compared to inert matter when considering its properties and capabilities.
+Recall from the safety training that the UTL space (our undergraduate learning lab space) requires that shoes must cover the entire foot and pants must cover the ankle. Leave food and drinks on the cart outside. 
 
-**Goal:** After watching the following video you should be able to explain the properties of living matter that make it more effective at solving many engineering challenges compared to inert matter.
+### A. Introduction  **
 
-Watch [this video](https://youtu.be/NpZ3PXTnxdw) from Prof. Liphardt detailing the unique properties of living matter. Write down any questions you have so you can ask your peers, TA's, and professors in class or office hours.
+Welcome to Foldscope activity! We hope that you are as excited as we are! Our goal is to help you discover and get you inspired by the living matter and world around you. 
 
-**Q.1. Think of at least two more applications which could benefit from the use of living matter that weren't mentioned in the video.**
+### In class goal: Build your own foldscope.
 
-**Q.2. According to the video, what is the universal code that makes engineering and tinkering with living matter feasible? **
+To complete this activity you will first build your own simple microscope, similar to Anton van Leeuwenhoek, and use it to explore and discover the world around you. Your microscope is called a **Foldscope**. If you would like to learn about the story behind Foldscope go [here](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437).
 
-**Q.3. Describe what it means that living matter functions and is organized on many orders of magnitude (multiple scales). Think about an additional example (video discusses the brain) ****to explain organization from nanometers to meters to scale.**
+Using your own Foldscope, you will discover the world around you by going outside and taking microscopic pictures of stuff that fascinates you (living matter and otherwise). It does not matter what you take a picture of and the teaching team purposefully won't give you a direction. We want you to explore for yourself and interact with what you find interesting.  
 
-**Q.4. What did you find m****o****st surprising? **
+Finally, you are asked to document and share your images. This will be part of your PSET-1. This can be completed today or anytime in the next week (PSET-1 is due WHEN)
 
-###Self-Assessment | Maker or Explorer *** * *
+### B. Build your own Foldscope:
 
-Imagine that you spend hours assembling a device ( a box ) that, once finished, is supposed to power a light bulb when a button is pushed. You place your finished construction on your workshop table and press the button... POOF! Smoke pours from the device but the bulb remains dark. Do you exclaim (choose one):
+Your Foldscope kit has a manual which will guide you through its construction. However, if you would like a video tutorial please visit the Foldscope website [here](https://www.foldscope.com/foldscope-instructions/). TAs will be available during the activity (Friday 4/6, Shriram 112 and 132) session to help you with building your Foldscope as well. Instructions for how to use the foldscope with a smartphone can be found [here](https://www.youtube.com/watch?v=LpeJUbs32VU).
 
-DARN!!! 		COOL!!!
+**To checkout of class have a TA confirm your Foldscope is made**
 
-Why did you pick your choice? Remember your answer for the class on Friday.
+### C. Where to go next:
 
-###Foldscope
+There are several great spots on campus to explore. For this activity you can explore the variety of plant life outside (even the engineering quad has plants to discover!) or explore indoor treasures such as your food or samples from your body. 
 
-In the activity on Friday you will be making your own Foldscope (engineering for living matter similar to Anton van Leeuwenhoek)  and use it to explore and discover the world around you. You will be going outside during class so wear appropriate shoes and jacket.
+The four main types of plant life you will find in the Engineering Quad include:
 
-Watch the following three videos to prepare for the foldscope activity.
+	Historic Native American (Ohlone Tribe Plants)
 
-1. Dr. Manu Prakash's vision for the paper microscope back in 2012. [Link ](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437)
+	Plants for pigments and dyes 
 
-2. Instructions for how to use the foldscope with a smartphone. [Link](https://www.youtube.com/watch?v=LpeJUbs32VU)
+	Plants for Biofuels 
 
-3. Instructions for how to build the foldscope (You will be doing this in class). [Link](https://www.youtube.com/watch?v=RvZRO36IRYY)
+	Plants as food for birds and people 
 
-## * * *
+You can also get inspired by looking at the global community of explorers that are using Foldscope and see examples of their posts from here: 
 
+[http://microcosmos.foldscope.com/](http://microcosmos.foldscope.com/)
 
-**Resources*** * *
+For more info/inspiration you might check out:
 
+[http://bgm.stanford.edu/groups/grounds/plant_life](http://bgm.stanford.edu/groups/grounds/plant_life)
 
-Full URL of links from above:
+[https://trees.stanford.edu/treewalks/treemaps.htm](https://trees.stanford.edu/treewalks/treemaps.htm)
 
-1. [https://www.youtube.com/watch?v=NpZ3PXTnxdw](https://www.youtube.com/watch?v=NpZ3PXTnxdw)
+### D. Guiding questions to think about as you explore
 
-2. [https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437)
+1. Based on what you've seen and taken a picture of, what type of invention or pattern have you observed?
 
-3. [https://www.youtube.com/watch?v=LpeJUbs32VU](https://www.youtube.com/watch?v=LpeJUbs32VU)
+2. What was the most surprising/unexpected moment during your adventure?
 
-4. [https://www.youtube.com/watch?v=RvZRO36IRYY](https://www.youtube.com/watch?v=RvZRO36IRYY)
+3. From your exploration, what ideas or thoughts come up in your mind (either as a bioengineer or a citizen of a bioengineered world)?
 
+### E. Grading Scheme
 
+There is a question based on the Foldscope activity on your PSET-1. Participation during class is part of that question (and your grade). Specifically we will ask:
 
+- Did you show up on Friday April 6th, build your Foldscope, and have a TA check it?
 
-
-
-
-
-bla bla bla
-
-## Header 2
-
-bla bla bla
-
-### Header 3
-
-bla bla bla
-
-### Header 3
-
-bla bla bla
-
-## Header 2
-
-bla bla bla
-
-### Header 3
-
-bla bla bla
+- The second part of the question will ask you to use your Foldscope and either be an explorer or to be a maker - in search of discoveries or inspiration for new bioengineered machines. You have to write a summary of going through this process and add photos that you took. If you want you can start now, and begin your exploration.
