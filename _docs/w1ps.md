@@ -5,7 +5,7 @@ last_modified_at: 2018-11-25T22:21:33-05:00
 toc: true
 ---
 
-###Problem Set Week-1
+## Problem Set Week-1
 
 **DUE:** Friday Next Week (start of class)
 
@@ -15,11 +15,11 @@ toc: true
 
 **Goal:** To help you reflect on the implications of engineering living matter.  To help you prepare for the quarter by thinking about your goals for the class. Finally, to help get you started on your journey as an explorer or maker in bioengineering.
 
-###(Q1) What is your major and year? Have you taken (or are currently taking) any other bioengineering classes? What were the last books that you read (list up to 3)? (2 pts)
+## (Q1) What is your major and year? Have you taken (or are currently taking) any other bioengineering classes? What were the last books that you read (list up to 3)? (2 pts)
 
-###(Q2) Why are you taking BIOE.80? Stated differently, what do you most want to gain by successfully completing BIOE.80 this quarter? (200 words or less) (8 pts)
+## (Q2) Why are you taking BIOE.80? Stated differently, what do you most want to gain by successfully completing BIOE.80 this quarter? (200 words or less) (8 pts)
 
-###(Q3) After the first week of the class, a friend asks you about bioengineering. Your friend is specifically interested in the impact of bioengineering on humanity and civilization so far. You think back to the three examples provided in the "Why has bioengineering mattered?" and decide to draw upon those in formulating your response. 
+## (Q3) After the first week of the class, a friend asks you about bioengineering. Your friend is specifically interested in the impact of bioengineering on humanity and civilization so far. You think back to the three examples provided in the "Why has bioengineering mattered?" and decide to draw upon those in formulating your response. 
 
 1. In <150 words explain the impact of engineering living matter using the three provided examples. (10 pts)
 
@@ -27,7 +27,7 @@ toc: true
 
 3. Do you have any unanswered questions based on your own example from (B) or from the examples given in class that remain unanswered? Share your most interesting or difficult question; just one question, please. (10 pts)
 
-###(Q4) Foldscope Activity: (30 pts)
+## (Q4) Foldscope Activity: (30 pts)
 
 (A) Did you show up on Friday, build your Foldscope, and have a TA check it? (5 pts)
 (B) Complete and submit the foldscope post class question "Explorer or Maker" (<150 words). (25 pts)
@@ -100,7 +100,7 @@ an entry following the detailed instructions provided on Friday.  Consider inclu
 
 Your entry should be in a form where an 8-10 year old anywhere in the world could study your findings & actually replicate your work.
 
-###(Q5) Making with Methane (10 points)
+## (Q5) Making with Methane (10 points)
 
 In class you've already learned about examples of making with biology via organisms that are powered directly by the sun (e.g., papaya) and also by sugar (e.g., yeast-based brewing of medicines).  But did you know that there are microbes that "eat" natural gas?  These organisms are called methanotrophs, and they grow directly on methane (CH4), which provides both the energy and matter (i.e., carbon atoms) that the organisms require to reproduce, etc.
 
