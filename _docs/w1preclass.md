@@ -31,7 +31,7 @@ The third and final category is the engineering **of** living matter. This invol
 
 Let's examine one example from each category.  Please note, there are a few questions after each example (10 total).  Please think of these as study questions, not questions on an assignment.  I.e., you do not have to turn in anything from the reading and study questions in the pre-class material.  We estimate you will spend about 10 minutes on each example, or more but only if you wish to follow-up re: details via the curated links provided.
 
-### Example 1 | Microscopes
+### Example 1 - Microscopes
 
 The history of the microscope is an amazing example of how partnership between engineering (i.e., building a new technology) and biology can enable an entirely new paradigm (i.e., world) of discoveries.
 
@@ -47,17 +47,17 @@ Figure 1. Van Leeuwenhoek's simple yet powerful microscope 1670s (arrow points a
 
 **Q.2. Do you think the developer of the early microscopes could predict all the many applications of their technology to this day?**
 
-**Q.3.**** Identify one example of a modern day necessity that would have been impossible without the invention of the microscope (yes, there are many examples but just identify your favorite!).**
+**Q.3. Identify one example of a modern day necessity that would have been impossible without the invention of the microscope (yes, there are many examples but just identify your favorite!).**
 
-**Q.4. Now, let's think about a contemporary technology that enables us to read DNA. So-called DNA sequencing technology allows you to take a physical sample of DNA (e.g., the genome of an organism, which is the physical object comprising all the DNA of an organism) and identify the specific sequence of DNA bases (typically represented by the letters A, T, C, and G) that comprise the DNA.  (Don’t worry if you do not know much about the details DNA sequencing, we will cover this later in the course.) What do you think has been the impact of DNA sequencing technology? Stated differently, what do you think has been the impact of being able to read out the "letters" in DNA encoding organisms.  Do you know of any current applications of DNA sequencing? Can you imagine what would be the impact of DNA sequencing  in 10, 50, or 100 years given developments occurring right now?**
+**Q.4. Now, let's think about a contemporary technology that enables us to read DNA.** So-called DNA sequencing technology allows you to take a physical sample of DNA (e.g., the genome of an organism, which is the physical object comprising all the DNA of an organism) and identify the specific sequence of DNA bases (typically represented by the letters A, T, C, and G) that comprise the DNA.  (Don’t worry if you do not know much about the details DNA sequencing, we will cover this later in the course.) What do you think has been the impact of DNA sequencing technology? Stated differently, what do you think has been the impact of being able to read out the "letters" in DNA encoding organisms.  Do you know of any current applications of DNA sequencing? Can you imagine what would be the impact of DNA sequencing  in 10, 50, or 100 years given developments occurring right now?
 
 If you are excited about learning more about microscopy please follow this fantastic [optional link](https://www.youtube.com/watch?v=4c5ILWQmqRY&t=579s). If you want to know more about the discovery of bacteria by Van Leeuwenhoek  please follow this [optional link 2](https://www.vox.com/2016/8/9/12405306/antoni-van-leeuwenhoek)**.**
 
-### Example 2 | Polio Vaccine
+### Example 2 - Polio Vaccine
 
 Polio is a crippling and potentially deadly disease and is caused by the very contagious poliovirus that spreads rapidly from person to person. Polio can lead to paralysis if the virus invades the person's brain and spinal cord. About 1 out of 200 people infected with poliovirus will suffer from this outcome.
 
-In the early 20th century, fewer diseases frightened parents more than polio. Children could come down with polio suddenly, and rapidly suffer from permanent paralysis in one or both legs. A tank respirator, better known as "Iron Lung," was developed to help patients breathe. These giant tanks engulfing a whole person from their neck down were often required as a long-term solution and patients' survival depended (and depends) on them. (Here is an additional [interviews](https://gizmodo.com/the-last-of-the-iron-lungs-1819079169) with people that depend on iron lungs for their survival to this day.)[3,4]
+In the early 20th century, fewer diseases frightened parents more than polio. Children could come down with polio suddenly, and rapidly suffer from permanent paralysis in one or both legs. A tank respirator, better known as "Iron Lung," was developed to help patients breathe. These giant tanks engulfing a whole person from their neck down were often required as a long-term solution and patients' survival depended (and depends) on them. Here is an additional [interview](https://gizmodo.com/the-last-of-the-iron-lungs-1819079169) with people that depend on iron lungs for their survival to this day. [3,4]
 
 In 1955, Jonas Salk and his team successfully developed a vaccine for polio. Salk's team manipulated the virulent poliovirus to inactivate it. This inactivation engineered the native virus into a form that was safe to the host (i.e., person) but still had the immune stimulating components that would lead to successful immunization via the vaccine.
 
@@ -69,14 +69,14 @@ Watch [this video](https://www.youtube.com/watch?v=2LlDn_MQDkc) which will bring
 
 **Q.7. The video of the released clinical trial results shows the public's excitement and faith in research at that time. What discoveries today would lead to that type of response? Could bioengineers take for granted a similar response today?  Why or why not?**
 
-### Example 3 | Ringspot Resistant Papaya
+### Example 3 - Ringspot Resistant Papaya
 
 In the early 90s, hundreds of Hawaiian papaya farmers were in the state of panic. Papaya Ring Spot Virus (PRSV), named since it leaves discolored spots resembling tiny rings, were spreading across their fields. For the next several years, the farmers would lose most of their fields after and crop to PRSV. 
 
-In 1992, a plant pathologist at Cornell University, Dennis Gonsalves, who grew up in the region most affected by the virus, suggested a vaccination approach to stop the spread of this devastating virus. After a decade of work Gonsalves and his team carefully genetically modified the papaya planet by inserting a gene from the PRSV. They were able to create (i.e., cultivate) a papaya plant -- which they named the Rainbow papaya - that was genetically resistant to the ringspot virus, effectively saving the papaya industry in Hawaii. Their work is an example of engineering of living matter. (Here is a fascinating interview with Dennis Gonslaves about the Rainbow Papaya and the social impact titled: "Why public sector biotechnology research matter?" [link 3](https://www.youtube.com/watch?v=CX7AqBOJS84).) However, this story did not end there… (read on)
+In 1992, a plant pathologist at Cornell University, Dennis Gonsalves, who grew up in the region most affected by the virus, suggested a vaccination approach to stop the spread of this devastating virus. After a decade of work Gonsalves and his team carefully genetically modified the papaya planet by inserting a gene from the PRSV. They were able to create (i.e., cultivate) a papaya plant -- which they named the Rainbow papaya - that was genetically resistant to the ringspot virus, effectively saving the papaya industry in Hawaii. Their work is an example of engineering of living matter. Here is a fascinating interview with Dennis Gonslaves about the Rainbow Papaya and the social impact titled [Why public sector biotechnology research matter?](https://www.youtube.com/watch?v=CX7AqBOJS84). However, this story did not end there… (read on)
 
 <table><tr><td></td></tr><tr><td>
-Figure 2. Symptoms of Papaya Ring Spot Virus (PRSV) on the tree and the fruit (a,b). Abandoned fields of papaya (early 90s) juxtaposed against the cultivation of Rainbow papya (late 90s) developed by Dennis Gonslaves. source
+Figure 2. Symptoms of Papaya Ring Spot Virus (PRSV) on the tree and the fruit (a,b). Abandoned fields of papaya (early 90s) juxtaposed against the cultivation of Rainbow papya (late 90s) developed by Dennis Gonslaves. Source ???
 </td></tr></table>
 
 In 2013 anti-Genetically Modified Organism (GMO) groups strongly and successfully advocated, and passed a ban in Hawaii restricting cultivation of GMOs. Naturally this was faced with strong opposition from the local papaya farmers. The bill was amended to make exception of genetically modified papaya (and corn). The ban was turned into law in 2014, which was stuck in a legal limbo. Eventually, a U.S. Court of Appeals overturned the bill ruling that counties in Hawaii could not enact their own GMO bans. However, this was not the end of the story either. The debate over the Hawaii bill sparked numerous bills around the country seeking to limit or to ban GMO food, crops, or ingredients. Finally in 2016 President Obama signed the first national GMO labeling law, which required food makers to list any GMO ingredients. Currently there are numerous active anti-GMO organizations all around the country, as well an many for-profit companies working to make and deliver products (and realize profits) via genetically modified organisms.   
@@ -87,7 +87,10 @@ In 2013 anti-Genetically Modified Organism (GMO) groups strongly and successfull
 
 **Q.10. Who are the  stakeholders in the debate between the pro Rainbow Papaya and the anti-GMO campaign? Who (or what process) should decide the outcome of this debate?**
 
-If you are excited about the ringspot resistant papaya and want to learn more, follow these optional links: [link 1](https://www.youtube.com/watch?v=2G-yUuiqIZ0), [link 2](https://www.youtube.com/watch?v=3rgUEUDkj2U), and [link 3](https://www.rottentomatoes.com/m/food_evolution/).
+If you are excited about the ringspot resistant papaya and want to learn more, follow these optional links: 
+[link 1](https://www.youtube.com/watch?v=2G-yUuiqIZ0), 
+[link 2](https://www.youtube.com/watch?v=3rgUEUDkj2U), and 
+[link 3](https://www.rottentomatoes.com/m/food_evolution/).
 
 ### Summary
 
@@ -95,7 +98,7 @@ In the Day 2 pre-class material you examined the cases highlighting the impact a
 
 ### Additional References: 
 
-[1] [History of the microscope] (http://www.history-of-the-microscope.org/invention-of-glass-lenses-and-the-history-of-the-light-microscope.php)
+[1] [History of the microscope](http://www.history-of-the-microscope.org/invention-of-glass-lenses-and-the-history-of-the-light-microscope.php)
 
 [2] Ed Young, [I Contain Multitude](https://edyong.me/i-contain-multitudes/)
 
@@ -123,7 +126,7 @@ Watch [this video](https://youtu.be/NpZ3PXTnxdw) from Prof. Liphardt detailing t
 
 **Q.2. According to the video, what is the universal code that makes engineering and tinkering with living matter feasible?**
 
-**Q.3. Describe what it means that living matter functions and is organized on many orders of magnitude (multiple scales). Think about an additional example (video discusses the brain) ****to explain organization from nanometers to meters to scale.**
+**Q.3. Describe what it means that living matter functions and is organized on many orders of magnitude (multiple scales). Think about an additional example (video discusses the brain) to explain organization from nanometers to meters to scale.**
 
 **Q.4. What did you find most surprising?**
 
@@ -145,7 +148,7 @@ Watch the following three videos to prepare for the foldscope activity.
 
 2. Instructions for how to use the [foldscope with a smartphone](https://www.youtube.com/watch?v=LpeJUbs32VU).
 
-3. Instructions for how to [build the foldscope](https://www.youtube.com/watch?v=RvZRO36IRYY). You will be doing this in class). 
+3. Instructions for how to [build the foldscope](https://www.youtube.com/watch?v=RvZRO36IRYY). You will be doing this in class. 
 
 ### Resources
 
