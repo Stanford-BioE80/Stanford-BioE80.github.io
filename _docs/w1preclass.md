@@ -45,7 +45,6 @@ Observations enabled by microscopes were one of the most visceral discoveries th
 <b>Left</b>. Van Leeuwenhoek's simple yet powerful microscope 1670s (arrow points at the lens,  
 <a href="http://www.physics.umd.edu/courses/Phys106/rolston/Lectures/Lec28.pdf">History of the microscope</a>). 
 <b>Right</b>. An artist etching of a person’s reaction to a magnified drop of Thames water (monster soup), revealing the impurity of London drinking water 1828. <a href="https://wellcomecollection.org/works/qqcx38hr">Source</a>
-source.
 </figcaption>
 </figure>
 
@@ -79,7 +78,7 @@ Watch [this video](https://www.youtube.com/watch?v=2LlDn_MQDkc) which will bring
 
 In the early 90s, hundreds of Hawaiian papaya farmers were in the state of panic. Papaya Ring Spot Virus (PRSV), named since it leaves discolored spots resembling tiny rings, were spreading across their fields. For the next several years, the farmers would lose most of their fields after and crop to PRSV. 
 
-In 1992, a plant pathologist at Cornell University, Dennis Gonsalves, who grew up in the region most affected by the virus, suggested a vaccination approach to stop the spread of this devastating virus. After a decade of work Gonsalves and his team carefully genetically modified the papaya planet by inserting a gene from the PRSV. They were able to create (i.e., cultivate) a papaya plant -- which they named the Rainbow papaya - that was genetically resistant to the ringspot virus, effectively saving the papaya industry in Hawaii. Their work is an example of engineering of living matter. Here is a fascinating interview with Dennis Gonslaves about the Rainbow Papaya and the social impact titled [Why public sector biotechnology research matter?](https://www.youtube.com/watch?v=CX7AqBOJS84). However, this story did not end there… (read on)
+In 1992, a plant pathologist at Cornell University, Dennis Gonsalves, who grew up in the region most affected by the virus, suggested a vaccination approach to stop the spread of this devastating virus. After a decade of work Gonsalves and his team carefully genetically modified the papaya planet by inserting a gene from the PRSV. They were able to create (i.e., cultivate) a papaya plant -- which they named the Rainbow papaya - that was genetically resistant to the ringspot virus, effectively saving the papaya industry in Hawaii. Their work is an example of engineering of living matter. Here is a fascinating interview with Dennis Gonslaves about the Rainbow Papaya and the social impact titled [Why public sector biotechnology research matters?](https://www.youtube.com/watch?v=CX7AqBOJS84). However, this story did not end there… (read on)
 
 <figure>
 <a href="/assets/images/w1pc_ringspot.png"><img src="/assets/images/w1pc_ringspot.png"></a>

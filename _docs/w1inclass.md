@@ -60,7 +60,7 @@ Finally, you are asked to document and share your images. This will be part of y
 
 ### B. Build your own Foldscope:
 
-Your Foldscope kit has a manual which will guide you through its construction. However, if you would like a video tutorial please visit the [Foldscope website](https://www.foldscope.com/foldscope-instructions/). TAs will be available during the activity (Friday 4/6, Shriram 112 and 132) session to help you with building your Foldscope as well. Instructions for how to use the foldscope with a smartphone can be found [here](https://www.youtube.com/watch?v=LpeJUbs32VU).
+Your Foldscope kit has a manual which will guide you through its construction. However, if you would like a video tutorial please visit the [Foldscope website](https://www.foldscope.com/tutorials/). TAs will be available during the activity session to help you with building your Foldscope as well. Instructions for how to use the foldscope with a smartphone can be found [here](https://www.youtube.com/watch?v=LpeJUbs32VU).
 
 **To checkout of class have a TA confirm your Foldscope is made**
 
