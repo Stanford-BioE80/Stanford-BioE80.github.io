@@ -81,7 +81,9 @@ As we saw in class, the [Free Genes Project](https://biobricks.org/freegenes/) w
 
 **(Q2) Approximate and rapid numerical estimates** (20 pts)
 
-Approximations based on simple physical principles are known as Fermi problems. These problems will help you build quantitative intuition. This quantitative intuition will help you during the DBT cycle (estimating feasibility). Most of these estimates are rough: they are designed to give you a broad, order of magnitude intuition for the biology, so keep in mind that that the exactly correct number could be different. Give your answers to two significant figures and provide units where appropriate. You should only need simple math and arithmetic; a couple of lines of work at most. (Additional resources: bionumbers is an excellent source for biological numbers [link](http://bionumbers.hms.harvard.edu/) . "_Cell Biology by the Numbers_" is a great book on estimation problems in biology You can get a free copy of the draft version here: [link](http://book.bionumbers.org/))
+Approximations based on simple physical principles are known as Fermi problems. These problems will help you build quantitative intuition. This quantitative intuition will help you during the DBT cycle (estimating feasibility). Most of these estimates are rough: they are designed to give you a broad, order of magnitude intuition for the biology, so keep in mind that that the exactly correct number could be different. Give your answers to two significant figures and provide units where appropriate. You should only need simple math and arithmetic; a couple of lines of work at most. 
+
+Additional resources: bionumbers is an excellent source for biological numbers [link](http://bionumbers.hms.harvard.edu/) . "_Cell Biology by the Numbers_" is a great book on estimation problems in biology. You can get a free copy of the draft version [here](http://book.bionumbers.org/).
 
 _Escherichia coli_ is well-studied bacteria considered to be representative of how bacterial systems work generally (i.e., a 'model' organism). _E. coli_ is also easy to grow in the lab and divides rapidly (about 20 mins). As a result, _E. coli_ is frequently used in bioengineering.
 
@@ -89,7 +91,7 @@ _Escherichia coli_ is well-studied bacteria considered to be representative of h
 <a href="/assets/images/w2pc_ecoli.png"><img src="/assets/images/w2pc_ecoli.png"></a>
 <figcaption><b>Figure 1</b>.
 _E. coli_ is shaped like a rod, which we can approximate as a spherocylinder: a cylinder with hemispherical caps. Of note, MG1655 is a strain derived from a lineage of _E. coli_ variants that was originally isolated from a diphtheria patient at the Palo Alto hospital in 1922.
-<a href="https://??????????">Source</a>
+<a href="https://??????????">Source TBD</a>
 </figcaption>
 </figure>
 
@@ -192,13 +194,3 @@ In your own words, in one sentence, what does the given resolution value mean?
 Interestingly, although the validation of a design/build through testing is the only method through which can determine our success, failure is not widely discussed in our society. 
 
 **Q.5.d.** Give an example of a biological experiment you might conduct where using _both_ GFP and your selected fluorescent protein could be useful. Describe the experiment in no more than a few sentences. Draw upon what you've learned about how fluorescent proteins are expressed using DNA constructs (genes). 
-
-
-
-
-
-
-
-
-
-
