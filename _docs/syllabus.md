@@ -23,7 +23,7 @@ Classroom (most Mondays and some Wednesdays): Building 320 Room 105
 
 Activity Space (many Wednesdays & most Fridays): Shriram Center Rooms 112 & 132
 
-### Final Exam**
+### Final Exam
 
 Self-proctored three hour written exam due by XXX on XXX June 2019
 
@@ -141,7 +141,7 @@ Mon 	20 May		320-105	Why do people work to solve problems via bioengineering?
 
 Wed 	22 May		320-105	How much can we make with biology? 
 
-Fri 	24 May		SC 112/132	Making with mushrooms **(PSET 8) **
+Fri 	24 May		SC 112/132	Making with mushrooms **(PSET 8)**
 
 ### Week 9		
 **Citizenship & Humanity -- Doom & Dystopia?**
