@@ -40,19 +40,14 @@ In mid 17th century Anton van Leeuwenhoek was an amature lens maker (he ran a ha
 Observations enabled by microscopes were one of the most visceral discoveries that astounded the public, including all of the many microorganisms that can be found in a drop of water, a historical depiction of which is shown below.
 
 <figure>
-	<a href="/assets/images/w1pc_microscope.png">
-		<img src="/assets/images/w1pc_microscope.png">
-	</a>
-	<figcaption>
-		Van Leeuwenhoek's simple yet powerful microscope 1670s (arrow points at the lens,  
-<a href="http://www.physics.umd.edu/courses/Phys106/rolston/Lectures/Lec28.pdf">History of the microscope</a>)
+<a href="/assets/images/w1pc_microscope.png"><img src="/assets/images/w1pc_microscope.png"></a>
+<figcaption>Van Leeuwenhoek's simple yet powerful microscope 1670s (arrow points at the lens,  
+<a href="http://www.physics.umd.edu/courses/Phys106/rolston/Lectures/Lec28.pdf">History of the microscope</a>). An artist etching of a person’s reaction to a magnified drop of Thames water (monster soup), revealing the impurity of London drinking water 1828 source.</figcaption>
+</figure>
 
 [history](http://www.physics.umd.edu/courses/Phys106/rolston/Lectures/Lec28.pdf)
 
-		History of microscope). An artist etching of a person’s reaction to a magnified drop of Thames water (monster soup), revealing the impurity of London drinking water 1828 source.
-
-	</figcaption>
-</figure>
+		History of microscope). 
 
 <table>
 	<tr><td></td></tr>
