@@ -41,18 +41,13 @@ Observations enabled by microscopes were one of the most visceral discoveries th
 
 <figure>
 <a href="/assets/images/w1pc_microscope.png"><img src="/assets/images/w1pc_microscope.png"></a>
-<figcaption>Van Leeuwenhoek's simple yet powerful microscope 1670s (arrow points at the lens,  
-<a href="http://www.physics.umd.edu/courses/Phys106/rolston/Lectures/Lec28.pdf">History of the microscope</a>). An artist etching of a person’s reaction to a magnified drop of Thames water (monster soup), revealing the impurity of London drinking water 1828 source.</figcaption>
+<figcaption><b>Figure 1</b>. 
+<b>Left</b>. Van Leeuwenhoek's simple yet powerful microscope 1670s (arrow points at the lens,  
+<a href="http://www.physics.umd.edu/courses/Phys106/rolston/Lectures/Lec28.pdf">History of the microscope</a>). 
+<b>Right</b>. An artist etching of a person’s reaction to a magnified drop of Thames water (monster soup), revealing the impurity of London drinking water 1828. <a href="https://wellcomecollection.org/works/qqcx38hr">Source</a>
+source.
+</figcaption>
 </figure>
-
-[history](http://www.physics.umd.edu/courses/Phys106/rolston/Lectures/Lec28.pdf)
-
-		History of microscope). 
-
-<table>
-	<tr><td></td></tr>
-	<tr><td><b>Figure 1</b>. Van Leeuwenhoek's simple yet powerful microscope 1670s (arrow points at the lens History of microscope). An artist etching of a person’s reaction to a magnified drop of Thames water (monster soup), revealing the impurity of London drinking water 1828 source.</td></tr>
-</table>
 
 **Q.1. What do you think was the impact of the invention of the microscope? How do you think it changed the attitudes of both the practitioners (scientists) and the citizens of 17th century?**
 
