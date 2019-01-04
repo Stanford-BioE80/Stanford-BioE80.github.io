@@ -1,6 +1,6 @@
 ---
-title: "Week 1 Inclass"
-permalink: /docs/w1inclass/
+title: "Week 2 Inclass"
+permalink: /docs/w2inclass/
 last_modified_at: 2018-11-25T22:21:33-05:00
 toc: true
 ---
