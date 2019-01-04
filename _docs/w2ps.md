@@ -75,17 +75,23 @@ As we saw in class, the [Free Genes Project](https://biobricks.org/freegenes/) w
 
 **[MycoWorks]**(http://www.mycoworks.com/)
 
-**Q.1.d.** Thinking to the future, if more and more Design, Build, and Test companies blossom in industry, what would be the role of the researcher? Could you outsource a research project and would it be cheaper / faster? Is that good? (<200 words)
+**Q.1.e.** Thinking to the future, if more and more Design, Build, and Test companies blossom in industry, what would be the role of the researcher? Could you outsource a research project and would it be cheaper / faster? Is that good? (<200 words)
 
-**Q.1.e.** Visit the Free Genes Project website. Briefly describe how it works. (<150 words) Who is responsible for each aspect? 
+**Q.1.f.** Visit the Free Genes Project website. Briefly describe how it works. (<150 words) Who is responsible for each aspect? 
 
 **(Q2) Approximate and rapid numerical estimates** (20 pts)
 
-Approximations based on simple physical principles are known as Fermi problems. These problems will help you build quantitative intuition. This quantitative intuition will help you during the DBT cycle (estimating feasibility). Most of these estimates are rough: they are designed to give you a broad, order of magnitude intuition for the biology, so keep in mind that that the exactly correct number could be different. Give your answers to two significant figures and provide units where appropriate. You should only need simple math and arithmetic; a couple of lines of work at most. (Additional resources: bionumbers is an excellent source for biological numbers [link](http://bionumbers.hms.harvard.edu/) . "Cell Biology by the Numbers" is a great book on estimation problems in biology You can get a free copy of the draft version here: [link](http://book.bionumbers.org/))
+Approximations based on simple physical principles are known as Fermi problems. These problems will help you build quantitative intuition. This quantitative intuition will help you during the DBT cycle (estimating feasibility). Most of these estimates are rough: they are designed to give you a broad, order of magnitude intuition for the biology, so keep in mind that that the exactly correct number could be different. Give your answers to two significant figures and provide units where appropriate. You should only need simple math and arithmetic; a couple of lines of work at most. (Additional resources: bionumbers is an excellent source for biological numbers [link](http://bionumbers.hms.harvard.edu/) . "_Cell Biology by the Numbers_" is a great book on estimation problems in biology You can get a free copy of the draft version here: [link](http://book.bionumbers.org/))
 
 _Escherichia coli_ is well-studied bacteria considered to be representative of how bacterial systems work generally (i.e., a 'model' organism). _E. coli_ is also easy to grow in the lab and divides rapidly (about 20 mins). As a result, _E. coli_ is frequently used in bioengineering.
 
-**Figure 1.** _E. coli_ is shaped like a rod, which we can approximate as a spherocylinder: a cylinder with hemispherical caps. (Of note, MG1655 is a strain derived from a lineage of _E. coli_ variants that was originally isolated from a diphtheria patient at the Palo Alto hospital in 1922.)
+<figure>
+<a href="/assets/images/w2pc_ecoli.png"><img src="/assets/images/w2pc_ecoli.png"></a>
+<figcaption><b>Figure 1</b>.
+_E. coli_ is shaped like a rod, which we can approximate as a spherocylinder: a cylinder with hemispherical caps. Of note, MG1655 is a strain derived from a lineage of _E. coli_ variants that was originally isolated from a diphtheria patient at the Palo Alto hospital in 1922.
+<a href="https://??????????">Source</a>
+</figcaption>
+</figure>
 
 **Q.2.a.** Based on a spherocylinder model, calculate the volume of an _E. coli_ cell. 
 
@@ -133,9 +139,9 @@ Working from our design specifications and field standards, we can outline an ac
 
 **Q.5.c.** How would you determine acceptable margins of error in the cases we have seen. Think about the stakeholders (who would be affected by a failure of the product), and how they would be impacted. Which do you think would have a larger margin of error? Why? (<150 words)
 
-1. KumaMax: Creating an oral enzyme therapeutic to treat Celiac Disease:
+1. KumaMax: Creating an oral enzyme therapeutic to treat Celiac Disease
 
-2. Mosis: Building integrated circuits that are faithful to user-specified design.
+2. Mosis: Building integrated circuits that are faithful to user-specified design
 
 3. The Free Genes Project: DNA Synthesis
 
@@ -151,11 +157,17 @@ You will explore and practice DBT in many BIOE classes: BIOE 44 (Fundamentals fo
 
 Next week we will learn more about what exactly happens when you order a gene (DNA synthesis) and how we can 'read' DNA sequences (sequencing) and **What arises from DNA read/write trends that will matter for the rest of our lives?**
 
-# Problem Set Week-2; extra Material
+# Problem Set Week-2; Extra Material
 
 As mentioned earlier _E. coli_ is often used in bioengineering either as a model organism (to be studied or engineered directly) or as a host to generate large copies of user defined DNA. You will see (and setup your own in BIOE44) cultures tubes of _E. coli_ (with medium - food for bacteria) often growing overnight on shaking incubators (set to 37C). (See **Figure 2** from the book _Cell Biology by the Numbers_. You can get a free copy of the draft version of the book from this [link](http://book.bionumbers.org/))
 
-**Figure 2.** _E. coli_ grown to saturation (after 8-12 hours) (source for the figure is the book _Cell Biology by the Numbers_). (_E. coli_ divides about every 20 mins)
+<figure>
+<a href="/assets/images/w2pc_ecoligrowth.png"><img src="/assets/images/w2pc_ecoligrowth.png"></a>
+<figcaption><b>Figure 2</b>.
+_E. coli_ grown to saturation (after 8-12 hours). _E. coli_ divides about every 20 mins. 
+<a href="http://book.bionumbers.org/">Source: Cell Biology by the Numbers</a>
+</figcaption>
+</figure>
 
 **Q.2.i.** Under saturated conditions, what percentage of the total volume (medium) is occupied by cells? 
 
