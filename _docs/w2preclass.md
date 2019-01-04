@@ -7,7 +7,7 @@ toc: true
 
 ## Material for Monday 
 
-Please read and consider the below before start of class on **Monday**. The questions given are only study questions not homework to be answered. Talk about it all with your classmates, friends, or TAs, as you like.
+Please read and consider the below before start of class. The questions given are only study questions not homework to be answered. Talk about it all with your classmates, friends, or TAs, as you like.
 
 ### How do engineers actually engineer with, of, and for biology?
 
@@ -21,7 +21,7 @@ Here you will examine the role of the core engineering cycle -- "Design, Build, 
 
 Let's begin:
 
-### Example 1 | What does it mean to "Engineer a Solution"?
+### Example 1 - What does it mean to "Engineer a Solution"?
 
 Every day we make innumerable choices about how to act, how to manage our time, how to complete a tough question in a problem set, what we should eat for lunch, and so on. Each decision we make forms a solution, a choice that we "enact to solve the problems in front of us. But have you ever thought about the decision process itself: How do we provide a solution to a problem? In our lives, the choices might be simple. Even when they're challenging (“I have one day to complete 5 assignments. How will I do it??") and the consequences are mitigated. But what about if the solution you’re engineering is a resolution of global hunger? Or a new cancer therapeutic with little-to-no side effects? Here, when the stakes are high and the options are limitless a common (and incredibly important) framework - the** Design-Build-Test (DBT) cycle** - can help us wade through the choices and toward success ([image](http://www.makemyownsite.com/loc_ms/step4_test.html)). 
 
@@ -118,7 +118,7 @@ Now that we have begun to think outside the box, let's analyze in a broader sens
 
 Faced with numerous pros and cons, it can be difficult to decide upon "the best" course of action. Luckily, the Design-Build-Test cycle provides a powerful framework to help refine the engineering of a solution.  
 
-### Example 2 | Bioengineering via Design-Build-Test
+### Example 2 - Bioengineering via Design-Build-Test
 
 What if, in a few years, you were given $35 million to fund clinical trials of a medicine based on one of your undergraduate bioengineering research projects? Applying Design-Build-Test appropriately can make this possible. For example...
 
@@ -186,7 +186,7 @@ In this pre-class activity you were introduced to the engineering cycle: design,
 
 ## Material for Wednesday 
 
-Please read and consider the below before start of class on **Wednesday**. Here, you will continue your examination of the Design-Build-Test process and how it can be used to engineering with, of, and for living matter. For reference, here are the goals for the material this week (provided in the pre-class material for Monday):
+Please read and consider the below before start of class. Here, you will continue your examination of the Design-Build-Test process and how it can be used to engineering with, of, and for living matter. For reference, here are the goals for the material this week (provided in the pre-class material for Monday):
 
 **Goal-1:** You will be able to describe the engineering cycle, design-build-test (DBT), and the central role it plays in (bio)engineering, and how DBT can be utilized at different scales (from one person to whole industry sectors).
 
@@ -194,7 +194,7 @@ Please read and consider the below before start of class on **Wednesday**. Here,
 
 **Goal-3:** By the end of this week, you will be able to describe the DBT framework as a dynamic process in response to the current needs (social, technological, environmental, etc.), and begin to consider what DBT will look like in the future. 
 
-### Example 1 | Mosis: the shared implementation service heard 'round the world'
+### Example 1 - Mosis: the shared implementation service heard 'round the world'
 
 While many of you may not have heard of Mosis, you have probably - in one way or another - benefited from its existence. How, you ask?
 
@@ -248,7 +248,7 @@ Post - This outsources labor to factories using standardized schedule + processi
 
 As we have seen, engineering with biology has not yet undergone the same type of decoupling and standardization of difference aspects of the DBT cycle that ushered in massive change in other fields (standardization of screws, outsourcing chip fabrication with Mosis). But, wait! We are on the cusp of a revolution!
 
-### Example 2 | The Free Genes Project: A synthetic biology shared implementation service?
+### Example 2 - The Free Genes Project: A synthetic biology shared implementation service?
 
 Not too long ago, people who wanted to make customized DNA had to do so with their own two hands, spending months and months to construct and validate a single piece of a larger DNA sequence. Then, with the commercialization of DNA synthesis technologies, it was possible to order your favorite customized gene, but you had to pay the big bucks. Now, the [Free Genes Project](https://biobricks.org/freegenes/) wants to bring ideas of decoupling and the "fabless foundry" to the engineering of DNA.
 
@@ -258,4 +258,4 @@ Q.X. Compare this to the Mosis workflow outlined above. How is it similar or dif
 
 Q.X. Need more questions….just want to get them excited about the idea of being about facile/inexpensive outsourcing of DNA 'construction'/’fab’.
 
-### Example 3 | Design, Build, and Test as a Service / Product
+### Example 3 - Design, Build, and Test as a Service / Product
