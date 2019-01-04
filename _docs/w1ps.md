@@ -15,7 +15,7 @@ toc: true
 
 **GOAL:** To help you reflect on the implications of engineering living matter.  To help you prepare for the quarter by thinking about your goals for the class. Finally, to help get you started on your journey as an explorer or maker in bioengineering.
 
-## (Q1) Let's hear about you.
+## (Q1) Let's hear about you
 What is your major and year? Have you taken (or are currently taking) any other bioengineering classes? What were the last books that you read (list up to 3)? (2 pts)
 
 ## (Q2) What do you hope for out of this class? 
@@ -26,7 +26,7 @@ After the first week of the class, a friend asks you about bioengineering. Your 
 
 1. In <150 words explain the impact of engineering living matter using the three provided examples. (10 pts)
 
-2. Your friend is now excited to learn more about the role and impact of bioengineering and asks for another example. Create your own brief example on the impact of bioengineering today. Use "why has bioengineering mattered? " Use the **Pre-Class and in-class materials**.  Keep your answer <150 words and include up to 3 key references in support of your new example; references can be websites or any citable source. (30 pts)
+2. Your friend is now excited to learn more about the role and impact of bioengineering and asks for another example. Create your own brief example on the impact of bioengineering today. Use "why has bioengineering mattered?" Use the **Pre-Class and in-class materials**.  Keep your answer <150 words and include up to 3 key references in support of your new example; references can be websites or any citable source. (30 pts)
 
 3. Do you have any unanswered questions based on your own example from (B) or from the examples given in class that remain unanswered? Share your most interesting or difficult question; just one question, please. (10 pts)
 

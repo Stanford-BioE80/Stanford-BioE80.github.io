@@ -125,7 +125,7 @@ Wed 	8 May		320-105	How to architect arbitrary genetic systems
 
 Fri 	10 May		SC 112/132 GOOP revisited; genetic sensors, logic, actuators **(PSET 6)**
 
-#### Week 7		
+### Week 7		
 **Evolution as an algorithm; Evolution as a service**
 
 Mon 	13 May		320-105	What is evolution from an engineering perspective?
@@ -152,7 +152,7 @@ Wed 	29 May		320-105	Why don't we have modern biological weapons?
 
 Fri 	31 May		SC 112/132	How many people should learn bioengineering? **(PSET 9)**
 
-#### Week 10		
+### Week 10		
 **Summary Sendoff**
 
 Mon 	3 June 		320-105	What is bioengineering from a technical perspective?
