@@ -5,8 +5,6 @@ last_modified_at: 2018-11-25T22:21:33-05:00
 toc: true
 ---
 
-# Problem Set Week-2
-
 **DUE:** Friday 1:30p 20 April 2018 (i.e., start of class via Canvas)
 
 **NOTE:** All BIOE.80 problems must be completed individually unless explicitly noted otherwise.
