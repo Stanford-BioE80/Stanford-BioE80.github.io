@@ -13,7 +13,7 @@ Students successfully completing BIOE/ENGR.80 should have a working understandin
 
 ### When 
 
-2 April to 6 June 2018
+2 April to 6 June 2019
 MWF, 1:30-2:20p , Lectures & Activities
 
 ### Where 
@@ -23,7 +23,7 @@ Activity Space (many Wednesdays & most Fridays): Shriram Center Rooms 112 & 132
 
 ### Final Exam**
 
-Self-proctored three hour written exam due by 6:30p 11 June 2018
+Self-proctored three hour written exam due by XXX on XXX June 2019
 
 ### Instructors
 
@@ -54,14 +54,12 @@ Final Exam (15%); 3 design problems
 ### Key Dates
 
 2 April 2018; first class
-
 25 May 2018; deadline to request change of grading basis or withdraw
-
 6 June 2018; last class
 
 ### Honor Code
 
-We expect you will uphold Stanford's Honor Code. Discussion among peers and with the teaching staff is strongly encouraged.  All submitted work must be completed individually unless explicitly noted otherwise.
+We expect you will uphold Stanford's Honor Code. Discussion among peers and with the teaching staff is strongly encouraged. All submitted work must be completed individually unless explicitly noted otherwise.
 
 #### Week 1
 **Why are you here? Why engineer biology? What's unique about living matter?**
@@ -84,35 +82,36 @@ Mon 	16 April	320-105	How much better can DNA synthesis get? So what?
 Wed 	18 April	SC 112/132	What happens as genetic material becomes equivalent to information?
 Fri 	20 April	SC 112/132	What can't be encoded in DNA? **(PSET 3)**
 
-**Week 4		If we can construct a genome then why can't we build an organism?**
+#### Week 4		
+**If we can construct a genome then why can't we build an organism?**
 
 Mon 	23 April	320-105	How to parse a research paper on the frontiers of bioengineering
 Wed 	25 April	320-105	Why is humpty dumpty more than just a nursery rhyme?
 Fri 	27 April 	SC 112/132	Meet your microbes **(PSET 4)**
 
-**Week 5		
-Something from "nothing." Why do molecules move? How do patterns grow?**
+#### Week 5		
+**Something from "nothing." Why do molecules move? How do patterns grow?**
 
 Mon 	30 April	320-105	Molecular diffusion, what is it and why does it matter to bioengr.?
 Wed 	2 May		320-105	Patterns via development; e.g., could you grow an arm?
 Fri 	4 May		SC 112/132	Dancing droplets; "programming" autonomous objects **(PSET 5)**
 
-**Week 6		
-Abstraction as a tool for managing complexity in bioengineering**
+#### Week 6		
+**Abstraction as a tool for managing complexity in bioengineering**
 
 Mon 	7 May		320-105	How to implement Boolean logic in DNA 
 Wed 	9 May		320-105	How to architect arbitrary genetic systems 
 Fri 	11 May		SC 112/132	GOOP revisited; genetic sensors, logic, actuators **(PSET 6)**
 
-**Week 7		
-Evolution as an algorithm; Evolution as a service**
+#### Week 7		
+**Evolution as an algorithm; Evolution as a service**
 
 Mon 	14 May		320-105	What is evolution from an engineering perspective?
 Wed 	16 May		320-105	How to use and change evolution 
 Fri 	18 May		SC 112/132	Plague; offense versus defense **(PSET 7)**
 
-**Week 8		
-Citizenship & Humanity --  Flourishing**
+#### Week 8		
+**Citizenship & Humanity --  Flourishing**
 
 Mon 	21 May		320-105	Why do people work to solve problems via bioengineering? 
 Wed 	23 May		320-105	How much can we make with biology? 
