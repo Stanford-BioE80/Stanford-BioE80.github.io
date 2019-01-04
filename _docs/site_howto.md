@@ -46,14 +46,30 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 #### One Up
 
+Here is an example of a figure with a caption and links to the sources. Where possible, please use permalinks, or link directly to the source, as opposed to linking to Google searches. 
+
+```html
 <figure>
-	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg">
-		<img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg">
-	</a>
-	<figcaption>
-		<a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">
-		Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.
-	</figcaption>
+<a href="/assets/images/w1pc_microscope.png"><img src="/assets/images/w1pc_microscope.png"></a>
+<figcaption><b>Figure 1</b>. 
+<b>Left</b>. Van Leeuwenhoek's simple yet powerful microscope 1670s (arrow points at the lens,  
+<a href="http://www.physics.umd.edu/courses/Phys106/rolston/Lectures/Lec28.pdf">History of the microscope</a>). 
+<b>Right</b>. An artist etching of a person’s reaction to a magnified drop of Thames water (monster soup), revealing the impurity of London drinking water 1828. <a href="https://wellcomecollection.org/works/qqcx38hr">Source</a>
+source.
+</figcaption>
+</figure>
+```
+
+And you'll get something that looks like this:
+
+<figure>
+<a href="/assets/images/w1pc_microscope.png"><img src="/assets/images/w1pc_microscope.png"></a>
+<figcaption><b>Figure 1</b>. 
+<b>Left</b>. Van Leeuwenhoek's simple yet powerful microscope 1670s (arrow points at the lens,  
+<a href="http://www.physics.umd.edu/courses/Phys106/rolston/Lectures/Lec28.pdf">History of the microscope</a>). 
+<b>Right</b>. An artist etching of a person’s reaction to a magnified drop of Thames water (monster soup), revealing the impurity of London drinking water 1828. <a href="https://wellcomecollection.org/works/qqcx38hr">Source</a>
+source.
+</figcaption>
 </figure>
 
 #### Two Up
