@@ -40,12 +40,17 @@ In mid 17th century Anton van Leeuwenhoek was an amature lens maker (he ran a ha
 Observations enabled by microscopes were one of the most visceral discoveries that astounded the public, including all of the many microorganisms that can be found in a drop of water, a historical depiction of which is shown below.
 
 <figure>
-	<a href="/assets/images/w1pc_microscope.jpg">
-		<img src="/assets/images/w1pc_microscope.jpg">
+	<a href="/assets/images/w1pc_microscope.png">
+		<img src="/assets/images/w1pc_microscope.png">
 	</a>
 	<figcaption>
-		<a href="/assets/images/w1pc_microscope.jpg" title="The first microscope">
-		Van Leeuwenhoek's simple yet powerful microscope 1670s (arrow points at the lens History of microscope). An artist etching of a person’s reaction to a magnified drop of Thames water (monster soup), revealing the impurity of London drinking water 1828 source.</a>.
+		Van Leeuwenhoek's simple yet powerful microscope 1670s (arrow points at the lens,  
+<a href="http://www.physics.umd.edu/courses/Phys106/rolston/Lectures/Lec28.pdf">History of the microscope</a>)
+
+[history](http://www.physics.umd.edu/courses/Phys106/rolston/Lectures/Lec28.pdf)
+
+		History of microscope). An artist etching of a person’s reaction to a magnified drop of Thames water (monster soup), revealing the impurity of London drinking water 1828 source.
+
 	</figcaption>
 </figure>
 
@@ -90,6 +95,8 @@ In 1992, a plant pathologist at Cornell University, Dennis Gonsalves, who grew u
 	<tr><td></td></tr>
 	<tr><td><b>Figure 2</b>. Symptoms of Papaya Ring Spot Virus (PRSV) on the tree and the fruit (a,b). Abandoned fields of papaya (early 90s) juxtaposed against the cultivation of Rainbow papya (late 90s) developed by Dennis Gonslaves. Source ???</td></tr>
 </table>
+
+w1pc_ringspot.png
 
 In 2013 anti-Genetically Modified Organism (GMO) groups strongly and successfully advocated, and passed a ban in Hawaii restricting cultivation of GMOs. Naturally this was faced with strong opposition from the local papaya farmers. The bill was amended to make exception of genetically modified papaya (and corn). The ban was turned into law in 2014, which was stuck in a legal limbo. Eventually, a U.S. Court of Appeals overturned the bill ruling that counties in Hawaii could not enact their own GMO bans. However, this was not the end of the story either. The debate over the Hawaii bill sparked numerous bills around the country seeking to limit or to ban GMO food, crops, or ingredients. Finally in 2016 President Obama signed the first national GMO labeling law, which required food makers to list any GMO ingredients. Currently there are numerous active anti-GMO organizations all around the country, as well an many for-profit companies working to make and deliver products (and realize profits) via genetically modified organisms.   
 
