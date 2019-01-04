@@ -56,7 +56,7 @@ To complete this activity you will first build your own simple microscope, simil
 
 Using your own Foldscope, you will discover the world around you by going outside and taking microscopic pictures of stuff that fascinates you (living matter and otherwise). It does not matter what you take a picture of and the teaching team purposefully won't give you a direction. We want you to explore for yourself and interact with what you find interesting.  
 
-Finally, you are asked to document and share your images. This will be part of your PSET-1. This can be completed today or anytime in the next week (PSET-1 is due WHEN).
+Finally, you are asked to document and share your images. This will be part of your PSET-1. This can be completed today or anytime in the next week.
 
 ### B. Build your own Foldscope:
 

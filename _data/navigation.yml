@@ -30,7 +30,7 @@ main:
 docs:
   - title: Getting Started
     children:
-      - title: "Class Basics"
+      - title: "Welcome"
         url: /docs/introduction/
       - title: "Syllabus"
         url: /docs/syllabus/
