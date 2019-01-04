@@ -7,7 +7,7 @@ toc: true
 
 ## Preclass for Wednesday
 
-Please read and consider the below before start of class on **Wednesday**. The questions given are only study questions not homework to be answered. Talk about it all with your classmates, friends, or TAs, as you like.
+Please read and consider the below before start of class. The questions given are only study questions not homework to be answered. Talk about it all with your classmates, friends, or TAs, as you like.
 
 ### What has been the impact of engineering interacting with biology?
 
@@ -104,18 +104,12 @@ In the Day 2 pre-class material you examined the cases highlighting the impact a
 
 ### Additional References: 
 
-[1] [History of the microscope](http://www.history-of-the-microscope.org/invention-of-glass-lenses-and-the-history-of-the-light-microscope.php)
-
+[1] [History of the microscope](http://www.physics.umd.edu/courses/Phys106/rolston/Lectures/Lec28.pdf)
 [2] Ed Young, [I Contain Multitude](https://edyong.me/i-contain-multitudes/)
-
 [3] [CDC Poliovirus](https://www.cdc.gov/vaccines/hcp/vis/vis-statements/ipv.html)
-
 [4] [History of Polio vaccines](https://www.historyofvaccines.org/timeline?timeline_categories[]=52)
-
 [5] [Erin Brodwin "This Cornell scientist saved an $11-million industry](http://www.businessinsider.com/gmo-controversy-beginning-fruit-2017-6)
-
 [6] [Ban in Hawaii on GMO Crops Is Ruled Invalid](https://www.wsj.com/articles/ban-in-hawaii-on-gmo-crops-is-ruled-invalid-1435713546)
-
 [7] [U.S. GMO food labeling bill passes Senate](https://www.reuters.com/article/us-usa-food-gmo-vote/u-s-gmo-food-labeling-bill-passes-senate-idUSKCN0ZO08N)
 
 ## Preclass for Friday
@@ -138,7 +132,7 @@ Watch [this video](https://youtu.be/NpZ3PXTnxdw) from Prof. Liphardt detailing t
 
 ### Self-Assessment - Maker or Explorer
 
-Imagine that you spend hours assembling a device ( a box ) that, once finished, is supposed to power a light bulb when a button is pushed. You place your finished construction on your workshop table and press the button... POOF! Smoke pours from the device but the bulb remains dark. Do you exclaim (choose one):
+Imagine that you spend hours assembling a device (a box) that, once finished, is supposed to power a light bulb when a button is pushed. You place your finished construction on your workshop table and press the button... POOF! Smoke pours from the device but the bulb remains dark. Do you exclaim (choose one):
 
 DARN!!! 	COOL!!!
 
@@ -159,9 +153,6 @@ Watch the following three videos to prepare for the foldscope activity.
 Full URL of links from above:
 
 [1] [https://www.youtube.com/watch?v=NpZ3PXTnxdw](https://www.youtube.com/watch?v=NpZ3PXTnxdw)
-
 [2] [https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437)
-
 [3] [https://www.youtube.com/watch?v=LpeJUbs32VU](https://www.youtube.com/watch?v=LpeJUbs32VU)
-
 [4] [https://www.youtube.com/watch?v=RvZRO36IRYY](https://www.youtube.com/watch?v=RvZRO36IRYY)
