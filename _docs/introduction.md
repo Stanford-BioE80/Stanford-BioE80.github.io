@@ -11,4 +11,4 @@ Students successfully completing BIOE/ENGR.80 will have a working understanding 
 
 ### How does this class work?
 
-There are two in-class sessions (Monday and Wednesday) and one lab, which 
+There are two in-class sessions (Monday and Wednesday) and one lab (Friday). The in-class sessions are a mix of active learning and short lectures. In a typical week, you will read the preclass material, attend the in-class sessions and lab, and do one problem set (which is due on Mondays). The course grade is based on your problems sets, your lab worksheets, and your grade in the final. This is fast moving area, with big advances (and controversies) every few weeks, so keep your eyes open and let us all know when you learn about something new that realtes to Bioengineering, genomics, or synthetic biology!
