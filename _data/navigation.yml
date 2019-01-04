@@ -19,7 +19,7 @@ foo:
 
 # main links
 main:
-  - title: "Introduction"
+  - title: "Welcome"
     url: /docs/introduction/
   - title: "Materials"
     url: /docs/w1preclass/
@@ -34,10 +34,8 @@ docs:
         url: /docs/introduction/
       - title: "Syllabus"
         url: /docs/syllabus/
-      - title: "Using Markdown"
-        url: /docs/markdown/
-      - title: "Using GitHub"
-        url: /docs/github/
+      - title: "Site HowTo"
+        url: /docs/site_howto/
   - title: Materials
     children:
       - title: "Week 1 Preclass"
