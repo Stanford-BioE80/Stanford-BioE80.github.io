@@ -7,9 +7,7 @@ toc: true
 
 **DUE:** Friday 1:30p 20 April 2018 (i.e., start of class via Canvas)
 
-**NOTE:** All BIOE.80 problems must be completed individually unless explicitly noted otherwise.
-
-**NOTE:** Please turn in your completed problem sets as an electronic copy via Canvas
+**NOTE:** All BIOE.80 problems must be completed individually unless explicitly noted otherwise. Please turn in your completed problem sets as an electronic copy via Canvas.
 
 **GOALS:** Reflect on the engineering design cycle: Design, Build, and Test (DBT) and its role in Bioengineering. Prepare for quantitative estimations in living matter (both related to what makes living matter unique and DBT cycles).
 
