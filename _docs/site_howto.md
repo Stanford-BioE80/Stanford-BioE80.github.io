@@ -68,7 +68,6 @@ And you'll get something that looks like this:
 <b>Left</b>. Van Leeuwenhoek's simple yet powerful microscope 1670s (arrow points at the lens,  
 <a href="http://www.physics.umd.edu/courses/Phys106/rolston/Lectures/Lec28.pdf">History of the microscope</a>). 
 <b>Right</b>. An artist etching of a person’s reaction to a magnified drop of Thames water (monster soup), revealing the impurity of London drinking water 1828. <a href="https://wellcomecollection.org/works/qqcx38hr">Source</a>
-source.
 </figcaption>
 </figure>
 
