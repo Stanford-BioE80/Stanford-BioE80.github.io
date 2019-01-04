@@ -91,7 +91,7 @@ We will take a sample collection trip during class on Friday for people to learn
 
 To complete this activity, over the next few days prepare and submit
 
-an entry following the detailed instructions provided on Friday.  Consider including responses to the fouritems below. **(Make sure to include photos with descriptions)**
+an entry following the detailed instructions provided on Friday.  Consider including responses to the four items below. **(Make sure to include photos with descriptions)**
 
 1. What useful biological object or potential inspiration from nature did I find?
 

@@ -23,8 +23,6 @@ main:
     url: /docs/introduction/
   - title: "Materials"
     url: /docs/w1preclass/
-  - title: "About"
-    url: /about/
 
 # documentation links
 docs:
