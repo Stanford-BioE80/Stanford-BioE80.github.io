@@ -81,12 +81,10 @@ In the early 90s, hundreds of Hawaiian papaya farmers were in the state of panic
 
 In 1992, a plant pathologist at Cornell University, Dennis Gonsalves, who grew up in the region most affected by the virus, suggested a vaccination approach to stop the spread of this devastating virus. After a decade of work Gonsalves and his team carefully genetically modified the papaya planet by inserting a gene from the PRSV. They were able to create (i.e., cultivate) a papaya plant -- which they named the Rainbow papaya - that was genetically resistant to the ringspot virus, effectively saving the papaya industry in Hawaii. Their work is an example of engineering of living matter. Here is a fascinating interview with Dennis Gonslaves about the Rainbow Papaya and the social impact titled [Why public sector biotechnology research matter?](https://www.youtube.com/watch?v=CX7AqBOJS84). However, this story did not end there… (read on)
 
-<table>
-	<tr><td></td></tr>
-	<tr><td><b>Figure 2</b>. Symptoms of Papaya Ring Spot Virus (PRSV) on the tree and the fruit (a,b). Abandoned fields of papaya (early 90s) juxtaposed against the cultivation of Rainbow papya (late 90s) developed by Dennis Gonslaves. Source ???</td></tr>
-</table>
-
-w1pc_ringspot.png
+<figure>
+<a href="/assets/images/w1pc_ringspot.png"><img src="/assets/images/w1pc_ringspot.png"></a>
+<figcaption><b>Figure 2</b>. Symptoms of Papaya Ring Spot Virus (PRSV) on the tree and the fruit (a,b). Abandoned fields of papaya (early 90s) juxtaposed against the cultivation of Rainbow papya (late 90s) developed by Dennis Gonslaves. <a href="http://www.apsnet.org/edcenter/intropp/lessons/viruses/Pages/PapayaRingspotvirus.aspx">Source</a>.</figcaption>
+</figure>
 
 In 2013 anti-Genetically Modified Organism (GMO) groups strongly and successfully advocated, and passed a ban in Hawaii restricting cultivation of GMOs. Naturally this was faced with strong opposition from the local papaya farmers. The bill was amended to make exception of genetically modified papaya (and corn). The ban was turned into law in 2014, which was stuck in a legal limbo. Eventually, a U.S. Court of Appeals overturned the bill ruling that counties in Hawaii could not enact their own GMO bans. However, this was not the end of the story either. The debate over the Hawaii bill sparked numerous bills around the country seeking to limit or to ban GMO food, crops, or ingredients. Finally in 2016 President Obama signed the first national GMO labeling law, which required food makers to list any GMO ingredients. Currently there are numerous active anti-GMO organizations all around the country, as well an many for-profit companies working to make and deliver products (and realize profits) via genetically modified organisms.   
 
