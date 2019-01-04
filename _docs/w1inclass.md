@@ -18,12 +18,9 @@ Imagine how biology may create a more distributed economy wherein centralized pr
 As more detailed questions related to a future bio-enabled economy please consider:
 
 1. **Describe daily life scenarios that you would be excited about in this biological production based economy. Emphasize how your new suggestions are different from the current production model.**
-
 2. **Will such models of manufacturing align well with existing markets? What would an economy look like wherein some physical products are free to make?**
-
 3. **What challenges would you envision in creating an economy like the one described?**
-
-2. **Security (how will we hurt each other?)**
+4. **Security (how might we hurt each other?)**
 
 WWI and WWII had completely different wartime strategies largely due to differences in weapon and transportation technologies available at the time. In WWI trenches were used to slowly advance the front lines using machine guns, artillery, chemical weapons, and slow armored vehicles. WWII was no longer a war with long static front lines as, for example, tanks and airplanes increased the mobility and maneuverability of the troops.
 

@@ -39,9 +39,10 @@ In mid 17th century Anton van Leeuwenhoek was an amature lens maker (he ran a ha
 
 Observations enabled by microscopes were one of the most visceral discoveries that astounded the public, including all of the many microorganisms that can be found in a drop of water, a historical depiction of which is shown below.
 
-<table><tr><td></td></tr><tr><td>
-Figure 1. Van Leeuwenhoek's simple yet powerful microscope 1670s (arrow points at the lens History of microscope). An artist etching of a person’s reaction to a magnified drop of Thames water (monster soup), revealing the impurity of London drinking water 1828 source.
-</td></tr></table>
+<table>
+	<tr><td></td></tr>
+	<tr><td><b>Figure 1</b>. Van Leeuwenhoek's simple yet powerful microscope 1670s (arrow points at the lens History of microscope). An artist etching of a person’s reaction to a magnified drop of Thames water (monster soup), revealing the impurity of London drinking water 1828 source.</td></tr>
+</table>
 
 **Q.1. What do you think was the impact of the invention of the microscope? How do you think it changed the attitudes of both the practitioners (scientists) and the citizens of 17th century?**
 
@@ -49,9 +50,9 @@ Figure 1. Van Leeuwenhoek's simple yet powerful microscope 1670s (arrow points a
 
 **Q.3. Identify one example of a modern day necessity that would have been impossible without the invention of the microscope (yes, there are many examples but just identify your favorite!).**
 
-**Q.4. Now, let's think about a contemporary technology that enables us to read DNA.** So-called DNA sequencing technology allows you to take a physical sample of DNA (e.g., the genome of an organism, which is the physical object comprising all the DNA of an organism) and identify the specific sequence of DNA bases (typically represented by the letters A, T, C, and G) that comprise the DNA.  (Don’t worry if you do not know much about the details DNA sequencing, we will cover this later in the course.) What do you think has been the impact of DNA sequencing technology? Stated differently, what do you think has been the impact of being able to read out the "letters" in DNA encoding organisms.  Do you know of any current applications of DNA sequencing? Can you imagine what would be the impact of DNA sequencing  in 10, 50, or 100 years given developments occurring right now?
+**Q.4. Now, let's think about a contemporary technology that enables us to read DNA.** DNA sequencing technology allows you to take a physical sample of DNA (e.g., the genome of an organism, which is the physical object comprising all the DNA of an organism) and identify the specific sequence of DNA bases (typically represented by the letters A, T, C, and G) that comprise the DNA.  (Don’t worry if you do not know much about the details DNA sequencing, we will cover this later in the course.) What do you think has been the impact of DNA sequencing technology? Stated differently, what do you think has been the impact of being able to read out the "letters" in DNA encoding organisms.  Do you know of any current applications of DNA sequencing? Can you imagine what would be the impact of DNA sequencing  in 10, 50, or 100 years given developments occurring right now?
 
-If you are excited about learning more about microscopy please follow this fantastic [optional link](https://www.youtube.com/watch?v=4c5ILWQmqRY&t=579s). If you want to know more about the discovery of bacteria by Van Leeuwenhoek  please follow this [optional link 2](https://www.vox.com/2016/8/9/12405306/antoni-van-leeuwenhoek)**.**
+If you are excited about learning more about microscopy please follow this fantastic [optional link](https://www.youtube.com/watch?v=4c5ILWQmqRY&t=579s). If you want to know more about the discovery of bacteria by Van Leeuwenhoek  please follow this [optional link 2](https://www.vox.com/2016/8/9/12405306/antoni-van-leeuwenhoek).
 
 ### Example 2 - Polio Vaccine
 
@@ -75,9 +76,10 @@ In the early 90s, hundreds of Hawaiian papaya farmers were in the state of panic
 
 In 1992, a plant pathologist at Cornell University, Dennis Gonsalves, who grew up in the region most affected by the virus, suggested a vaccination approach to stop the spread of this devastating virus. After a decade of work Gonsalves and his team carefully genetically modified the papaya planet by inserting a gene from the PRSV. They were able to create (i.e., cultivate) a papaya plant -- which they named the Rainbow papaya - that was genetically resistant to the ringspot virus, effectively saving the papaya industry in Hawaii. Their work is an example of engineering of living matter. Here is a fascinating interview with Dennis Gonslaves about the Rainbow Papaya and the social impact titled [Why public sector biotechnology research matter?](https://www.youtube.com/watch?v=CX7AqBOJS84). However, this story did not end there… (read on)
 
-<table><tr><td></td></tr><tr><td>
-Figure 2. Symptoms of Papaya Ring Spot Virus (PRSV) on the tree and the fruit (a,b). Abandoned fields of papaya (early 90s) juxtaposed against the cultivation of Rainbow papya (late 90s) developed by Dennis Gonslaves. Source ???
-</td></tr></table>
+<table>
+	<tr><td></td></tr>
+	<tr><td><b>Figure 2</b>. Symptoms of Papaya Ring Spot Virus (PRSV) on the tree and the fruit (a,b). Abandoned fields of papaya (early 90s) juxtaposed against the cultivation of Rainbow papya (late 90s) developed by Dennis Gonslaves. Source ???</td></tr>
+</table>
 
 In 2013 anti-Genetically Modified Organism (GMO) groups strongly and successfully advocated, and passed a ban in Hawaii restricting cultivation of GMOs. Naturally this was faced with strong opposition from the local papaya farmers. The bill was amended to make exception of genetically modified papaya (and corn). The ban was turned into law in 2014, which was stuck in a legal limbo. Eventually, a U.S. Court of Appeals overturned the bill ruling that counties in Hawaii could not enact their own GMO bans. However, this was not the end of the story either. The debate over the Hawaii bill sparked numerous bills around the country seeking to limit or to ban GMO food, crops, or ingredients. Finally in 2016 President Obama signed the first national GMO labeling law, which required food makers to list any GMO ingredients. Currently there are numerous active anti-GMO organizations all around the country, as well an many for-profit companies working to make and deliver products (and realize profits) via genetically modified organisms.   
 
@@ -145,9 +147,7 @@ In the activity on Friday you will be making your own Foldscope (engineering for
 Watch the following three videos to prepare for the foldscope activity.
 
 1. Dr. Manu Prakash's vision for the [paper microscope back in 2012](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437).
-
 2. Instructions for how to use the [foldscope with a smartphone](https://www.youtube.com/watch?v=LpeJUbs32VU).
-
 3. Instructions for how to [build the foldscope](https://www.youtube.com/watch?v=RvZRO36IRYY). You will be doing this in class. 
 
 ### Resources
