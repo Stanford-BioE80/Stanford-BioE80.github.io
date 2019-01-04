@@ -5,159 +5,133 @@ last_modified_at: 2018-11-25T22:21:33-05:00
 toc: true
 ---
 
-## Preclass for Wednesday
+## BIOE/ENGR.80 - Spring 2019
 
-Please read and consider the below before start of class on **Wednesday**. The questions given are only study questions not homework to be answered. Talk about it all with your classmates, friends, or TAs, as you like.
+**_Introduction to Bioengineering (Engineering Living Matter)_**
 
-### What has been the impact of engineering interacting with biology?
+Students successfully completing BIOE/ENGR.80 should have a working understanding for how to approach the systematic engineering of living systems to benefit all people and the planet. More specifically, our three main goals for the quarter are (1) to help you learn ways of thinking about engineering living matter, (2) to empower you to explore and do bioengineering starting from DNA, and (3) for you to become more capable of learning and explaining bioengineering to yourself and others, including discussing the broader ramifications of engineering the living world.  
 
-Here you will examine the role that bioengineering, with a core emphasis on living matter, has had on the world. Stated differently, we ask: Why has bioengineering mattered?
+### When 
 
-**Goal 1:** After considering the following examples you should be able to describe example impacts of bioengineering on humanity and civilization to this day. 
+2 April to 6 June 2018
+MWF, 1:30-2:20p , Lectures & Activities
 
-**Goal 2:** Prepare yourself for a constructive class discussion about the future impact and ramifications of engineering living matter for realizing a future to benefit, and not to harm, all people and the planet. 
+### Where 
 
-First let's examine in more detail an interesting topic, some of the ancient origins of bioengineering: 
+Classroom (most Mondays and some Wednesdays): Building 320 Room 105
+Activity Space (many Wednesdays & most Fridays): Shriram Center Rooms 112 & 132
 
-Is bioengineering a new field? What events mark the "start point" of bioengineering? For example, as far as we know fermentation of beer or use of lactic acid bacteria to make cheese or yogurt dates back to 7000 - 6000 BC. Is that the start of bioengineering? Or is the starting point the work of Leonardo da Vinci in 1450 in analyzing muscles and joint functions? Perhaps it is the work of Anton van Leeuwenhock and his amazing microscopes in the 1600s that enabled him to see bacteria everywhere. Or is the origin more recent, beginning with the discovery of penicillin? Is it the discovery of the double helical structure of DNA? And what of the various strategies and types of application that humanity has developed in partnering with living matter and nature in order to solve problems? Perhaps partnership between humanity and biology is as old as humanity, by definition.
+### Final Exam**
 
-Here, we organize these partnerships into three general categories:
+Self-proctored three hour written exam due by 6:30p 11 June 2018
 
-First, is the application of the new tools and technologies to engineer **for** living matter. I.e., using other modes of engineering to do something for biology as a science or biology as a type of stuff.  Examples of this category include prosthetic limbs, surgical tools, microscopes, technologies for controlled drug delivery, and machines to read and write DNA. 
+### Instructors
 
-Second, is the use or adaptation of living matter as a type of material (cells, enzymes, plants, animals) towards various goals. We call this engineering **with** living matter. This approach has brought us, for example, vaccines such as for polio, leather made with mushrooms in place of vertebrates, and initial progress in growing human some types of human tissues.
+Prof. Drew Endy; Office Hours Mon 4p & Wed 4p @ Shriram 252; [endy@stanford.edu](mailto:endy@stanford.edu)
+Prof. Jan Liphardt; Office Hours Mon 10a & Fri 3p @ Shriram 005; [jan.liphardt@stanford.edu](mailto:jan.liphardt@stanford.edu)
 
-The third and final category is the engineering **of** living matter. This involves the manipulation of biological organisms directly, typically starting from their DNA. This approach has brought us innovations like large scale manufacturing of human therapeutics via microbes (e.g., insulin), genetically modified plants (e.g., virus-resistant papaya), therapeutic immune cells for fighting some types of cancer, (e.g,. CAR-T cells), animal-free meat, and so on. 
+### Education Fellow
 
-Let's examine one example from each category.  Please note, there are a few questions after each example (10 total).  Please think of these as study questions, not questions on an assignment.  I.e., you do not have to turn in anything from the reading and study questions in the pre-class material.  We estimate you will spend about 10 minutes on each example, or more but only if you wish to follow-up re: details via the curated links provided.
+Dr. Siavash Ahrar; Office Hours Mon 3p @ Tressider & Fri 3p @ Shriram Tea Room; [sahrar@stanford.edu](mailto:sahrar@stanford.edu)
 
-### Example 1 - Microscopes
+### Head Teaching Assistant
 
-The history of the microscope is an amazing example of how partnership between engineering (i.e., building a new technology) and biology can enable an entirely new paradigm (i.e., world) of discoveries.
+Rolando Cruz Perez; Office Hours Mon 3p @ Tressider; [rcperez@stanford.edu](mailto:rcperez@stanford.edu)
 
-In mid 17th century Anton van Leeuwenhoek was an amature lens maker (he ran a haberdashery business). Van Leeuwenhoek was not a trained scholar; he didn't speak Latin, the scientific language of his time. But he was an excellent lens maker, incredibly curious, and a meticulous experimentalist. His unique lenses (small spheres of glass) enabled him to magnify objects up to 270 times. Leeuwenhoek’s simple microscope was the best microscope of his time. Prior to his work the typical compound microscopes were only able to magnify objects only up to 20-50 times. He was perhaps the first person to see many forms of living matter. [1,2]
+### Teaching Assistants
 
-Observations enabled by microscopes were one of the most visceral discoveries that astounded the public, including all of the many microorganisms that can be found in a drop of water, a historical depiction of which is shown below.
+Namrata Anand; Office Hours Tues 9a @ Huang Engr. Center; [namrataa](mailto:namrataa@stanford.edu)[@stanford.edu](mailto:namrataa@stanford.edu)
+Alyssa Ferris; Office Hours Thurs 4p @ Shriram Tea Room; [acferris@stanford.edu](mailto:acferris@stanford.edu)
+Nina Horowitz; Office Hours Mon 7p @ Old Union; [nina92](mailto:nina92@stanford.edu)[@stanford.edu](mailto:nina92@stanford.edu)
+Nelson Hall; Office Hours Tues 5p @ Shriram Tea Room; [rnhall](mailto:rnhall@stanford.edu)[@stanford.edu](mailto:rnhall@stanford.edu)
 
-<table>
-	<tr><td></td></tr>
-	<tr><td><b>Figure 1</b>. Van Leeuwenhoek's simple yet powerful microscope 1670s (arrow points at the lens History of microscope). An artist etching of a person’s reaction to a magnified drop of Thames water (monster soup), revealing the impurity of London drinking water 1828 source.</td></tr>
-</table>
+### Grading
 
-**Q.1. What do you think was the impact of the invention of the microscope? How do you think it changed the attitudes of both the practitioners (scientists) and the citizens of 17th century?**
+In-Class Puzzles (15%); 1-2 per week; lowest 2 dropped including absences; based on pre-class materials
+Problem Sets (70%); lowest 1 dropped including absences
+Final Exam (15%); 3 design problems
 
-**Q.2. Do you think the developer of the early microscopes could predict all the many applications of their technology to this day?**
+### Key Dates
 
-**Q.3. Identify one example of a modern day necessity that would have been impossible without the invention of the microscope (yes, there are many examples but just identify your favorite!).**
+2 April 2018; first class
 
-**Q.4. Now, let's think about a contemporary technology that enables us to read DNA.** DNA sequencing technology allows you to take a physical sample of DNA (e.g., the genome of an organism, which is the physical object comprising all the DNA of an organism) and identify the specific sequence of DNA bases (typically represented by the letters A, T, C, and G) that comprise the DNA.  (Don’t worry if you do not know much about the details DNA sequencing, we will cover this later in the course.) What do you think has been the impact of DNA sequencing technology? Stated differently, what do you think has been the impact of being able to read out the "letters" in DNA encoding organisms.  Do you know of any current applications of DNA sequencing? Can you imagine what would be the impact of DNA sequencing  in 10, 50, or 100 years given developments occurring right now?
+25 May 2018; deadline to request change of grading basis or withdraw
 
-If you are excited about learning more about microscopy please follow this fantastic [optional link](https://www.youtube.com/watch?v=4c5ILWQmqRY&t=579s). If you want to know more about the discovery of bacteria by Van Leeuwenhoek  please follow this [optional link 2](https://www.vox.com/2016/8/9/12405306/antoni-van-leeuwenhoek).
+6 June 2018; last class
 
-### Example 2 - Polio Vaccine
+### Honor Code
 
-Polio is a crippling and potentially deadly disease and is caused by the very contagious poliovirus that spreads rapidly from person to person. Polio can lead to paralysis if the virus invades the person's brain and spinal cord. About 1 out of 200 people infected with poliovirus will suffer from this outcome.
+We expect you will uphold Stanford's Honor Code. Discussion among peers and with the teaching staff is strongly encouraged.  All submitted work must be completed individually unless explicitly noted otherwise.
 
-In the early 20th century, fewer diseases frightened parents more than polio. Children could come down with polio suddenly, and rapidly suffer from permanent paralysis in one or both legs. A tank respirator, better known as "Iron Lung," was developed to help patients breathe. These giant tanks engulfing a whole person from their neck down were often required as a long-term solution and patients' survival depended (and depends) on them. Here is an additional [interview](https://gizmodo.com/the-last-of-the-iron-lungs-1819079169) with people that depend on iron lungs for their survival to this day. [3,4]
+#### Week 1
+**Why are you here? Why engineer biology? What's unique about living matter?**
 
-In 1955, Jonas Salk and his team successfully developed a vaccine for polio. Salk's team manipulated the virulent poliovirus to inactivate it. This inactivation engineered the native virus into a form that was safe to the host (i.e., person) but still had the immune stimulating components that would lead to successful immunization via the vaccine.
+Mon 	2 April		320-105	Hello; course mechanics; initial questions; opening tour
+Wed 	4 April		SC 112/132	Future impacts of bioengineering
+Fri 	6 April		SC 112/132	Make your foldscope; embrace nature **(PSET 1)**
 
-Watch [this video](https://www.youtube.com/watch?v=2LlDn_MQDkc) which will bring you back to 1955 when the clinical trials for the vaccine were released.
+#### Week 2		
+**How do design, build, and test tools work to support bioengineering?**
 
-**Q.5. What do you think was the social impact of the successful development of the polio vaccine?**
+Mon 	9 April		320-105	How do engineers engineer with, of, and for biology?
+Wed 	11 April	320-105	How will engineers engineer biology?
+Fri 	13 April	SC 112/132	Get your GOOP tube; express DNA **(PSET 2)**
 
-**Q.6. What cultures and attitudes had to be coupled with Salk's discovery to ensure the transfer and success of the vaccination campaign?**
+#### Week 3		
+**What arises from DNA read/write trends that will matter for the rest of our lives?**
 
-**Q.7. The video of the released clinical trial results shows the public's excitement and faith in research at that time. What discoveries today would lead to that type of response? Could bioengineers take for granted a similar response today?  Why or why not?**
+Mon 	16 April	320-105	How much better can DNA synthesis get? So what?
+Wed 	18 April	SC 112/132	What happens as genetic material becomes equivalent to information?
+Fri 	20 April	SC 112/132	What can't be encoded in DNA? **(PSET 3)**
 
-### Example 3 - Ringspot Resistant Papaya
+**Week 4		If we can construct a genome then why can't we build an organism?**
 
-In the early 90s, hundreds of Hawaiian papaya farmers were in the state of panic. Papaya Ring Spot Virus (PRSV), named since it leaves discolored spots resembling tiny rings, were spreading across their fields. For the next several years, the farmers would lose most of their fields after and crop to PRSV. 
+Mon 	23 April	320-105	How to parse a research paper on the frontiers of bioengineering
+Wed 	25 April	320-105	Why is humpty dumpty more than just a nursery rhyme?
+Fri 	27 April 	SC 112/132	Meet your microbes **(PSET 4)**
 
-In 1992, a plant pathologist at Cornell University, Dennis Gonsalves, who grew up in the region most affected by the virus, suggested a vaccination approach to stop the spread of this devastating virus. After a decade of work Gonsalves and his team carefully genetically modified the papaya planet by inserting a gene from the PRSV. They were able to create (i.e., cultivate) a papaya plant -- which they named the Rainbow papaya - that was genetically resistant to the ringspot virus, effectively saving the papaya industry in Hawaii. Their work is an example of engineering of living matter. Here is a fascinating interview with Dennis Gonslaves about the Rainbow Papaya and the social impact titled [Why public sector biotechnology research matter?](https://www.youtube.com/watch?v=CX7AqBOJS84). However, this story did not end there… (read on)
+**Week 5		
+Something from "nothing." Why do molecules move? How do patterns grow?**
 
-<table>
-	<tr><td></td></tr>
-	<tr><td><b>Figure 2</b>. Symptoms of Papaya Ring Spot Virus (PRSV) on the tree and the fruit (a,b). Abandoned fields of papaya (early 90s) juxtaposed against the cultivation of Rainbow papya (late 90s) developed by Dennis Gonslaves. Source ???</td></tr>
-</table>
+Mon 	30 April	320-105	Molecular diffusion, what is it and why does it matter to bioengr.?
+Wed 	2 May		320-105	Patterns via development; e.g., could you grow an arm?
+Fri 	4 May		SC 112/132	Dancing droplets; "programming" autonomous objects **(PSET 5)**
 
-In 2013 anti-Genetically Modified Organism (GMO) groups strongly and successfully advocated, and passed a ban in Hawaii restricting cultivation of GMOs. Naturally this was faced with strong opposition from the local papaya farmers. The bill was amended to make exception of genetically modified papaya (and corn). The ban was turned into law in 2014, which was stuck in a legal limbo. Eventually, a U.S. Court of Appeals overturned the bill ruling that counties in Hawaii could not enact their own GMO bans. However, this was not the end of the story either. The debate over the Hawaii bill sparked numerous bills around the country seeking to limit or to ban GMO food, crops, or ingredients. Finally in 2016 President Obama signed the first national GMO labeling law, which required food makers to list any GMO ingredients. Currently there are numerous active anti-GMO organizations all around the country, as well an many for-profit companies working to make and deliver products (and realize profits) via genetically modified organisms.   
+**Week 6		
+Abstraction as a tool for managing complexity in bioengineering**
 
-**Q.8. What do you think was the social impact of the successful development of the Rainbow Papaya?**
+Mon 	7 May		320-105	How to implement Boolean logic in DNA 
+Wed 	9 May		320-105	How to architect arbitrary genetic systems 
+Fri 	11 May		SC 112/132	GOOP revisited; genetic sensors, logic, actuators **(PSET 6)**
 
-**Q.9. What cultures and attitudes were coupled with the development and cultivation of the Rainbow Papaya?**
+**Week 7		
+Evolution as an algorithm; Evolution as a service**
 
-**Q.10. Who are the  stakeholders in the debate between the pro Rainbow Papaya and the anti-GMO campaign? Who (or what process) should decide the outcome of this debate?**
+Mon 	14 May		320-105	What is evolution from an engineering perspective?
+Wed 	16 May		320-105	How to use and change evolution 
+Fri 	18 May		SC 112/132	Plague; offense versus defense **(PSET 7)**
 
-If you are excited about the ringspot resistant papaya and want to learn more, follow these optional links: 
-[link 1](https://www.youtube.com/watch?v=2G-yUuiqIZ0), 
-[link 2](https://www.youtube.com/watch?v=3rgUEUDkj2U), and 
-[link 3](https://www.rottentomatoes.com/m/food_evolution/).
+**Week 8		
+Citizenship & Humanity --  Flourishing**
 
-### Summary
+Mon 	21 May		320-105	Why do people work to solve problems via bioengineering? 
+Wed 	23 May		320-105	How much can we make with biology? 
+Fri 	25 May		SC 112/132	Making with mushrooms **(PSET 8) **
 
-In the Day 2 pre-class material you examined the cases highlighting the impact and role of bioengineering, broadly defined, in society. First, you examined the role and development of a transformative technology, the microscope, that opened opportunities and vistas previously inconceivable. From this you examined, what **tools and technologies** do we want coupled with biology? Next, you examined development of a life saving vaccine for polio (an example for engineering with biology). Here you examined what **cultures** do we want coupled with bioengineering? Finally, you learned more about the Rainbow Papaya as a case for engineering of biology. Here you began to examine what **futures** we wish to realize via bioengineering? And who gets to decide?
+#### Week 9		
+**Citizenship & Humanity -- Doom & Dystopia?**
 
-### Additional References: 
+Mon 	28 May 		**NO CLASS (Memorial Day)**
+Wed 	30 May		320-105	Why don't we have modern biological weapons?
+Fri 	1 June		SC 112/132	How many people should learn bioengineering? **(PSET 9)**
 
-[1] [History of the microscope](http://www.history-of-the-microscope.org/invention-of-glass-lenses-and-the-history-of-the-light-microscope.php)
+#### Week 10		
+**Summary Sendoff**
 
-[2] Ed Young, [I Contain Multitude](https://edyong.me/i-contain-multitudes/)
+Mon 	4 June 		320-105	What is bioengineering from a technical perspective?
+Wed 	6 June		320-105	What is bioengineering from a cultural perspective?
 
-[3] [CDC Poliovirus](https://www.cdc.gov/vaccines/hcp/vis/vis-statements/ipv.html)
 
-[4] [History of Polio vaccines](https://www.historyofvaccines.org/timeline?timeline_categories[]=52)
 
-[5] [Erin Brodwin "This Cornell scientist saved an $11-million industry](http://www.businessinsider.com/gmo-controversy-beginning-fruit-2017-6)
 
-[6] [Ban in Hawaii on GMO Crops Is Ruled Invalid](https://www.wsj.com/articles/ban-in-hawaii-on-gmo-crops-is-ruled-invalid-1435713546)
 
-[7] [U.S. GMO food labeling bill passes Senate](https://www.reuters.com/article/us-usa-food-gmo-vote/u-s-gmo-food-labeling-bill-passes-senate-idUSKCN0ZO08N)
-
-## Preclass for Friday
-
-**What's Unique About Living Matter?**
-
-Here you will learn and think about what makes living matter such a unique material when compared to inert matter when considering its properties and capabilities.
-
-**Goal:** After watching the following video you should be able to explain the properties of living matter that make it more effective at solving many engineering challenges compared to inert matter.
-
-Watch [this video](https://youtu.be/NpZ3PXTnxdw) from Prof. Liphardt detailing the unique properties of living matter. Write down any questions you have so you can ask your peers, TA's, and professors in class or office hours.
-
-**Q.1. Think of at least two more applications which could benefit from the use of living matter that weren't mentioned in the video.**
-
-**Q.2. According to the video, what is the universal code that makes engineering and tinkering with living matter feasible?**
-
-**Q.3. Describe what it means that living matter functions and is organized on many orders of magnitude (multiple scales). Think about an additional example (video discusses the brain) to explain organization from nanometers to meters to scale.**
-
-**Q.4. What did you find most surprising?**
-
-### Self-Assessment - Maker or Explorer
-
-Imagine that you spend hours assembling a device ( a box ) that, once finished, is supposed to power a light bulb when a button is pushed. You place your finished construction on your workshop table and press the button... POOF! Smoke pours from the device but the bulb remains dark. Do you exclaim (choose one):
-
-DARN!!! 	COOL!!!
-
-Why did you pick your choice? Remember your answer for the class on Friday.
-
-### Foldscope
-
-In the activity on Friday you will be making your own Foldscope (engineering for living matter similar to Anton van Leeuwenhoek)  and use it to explore and discover the world around you. You will be going outside during class so wear appropriate shoes and jacket.
-
-Watch the following three videos to prepare for the foldscope activity.
-
-1. Dr. Manu Prakash's vision for the [paper microscope back in 2012](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437).
-2. Instructions for how to use the [foldscope with a smartphone](https://www.youtube.com/watch?v=LpeJUbs32VU).
-3. Instructions for how to [build the foldscope](https://www.youtube.com/watch?v=RvZRO36IRYY). You will be doing this in class. 
-
-### Resources
-
-Full URL of links from above:
-
-[1] [https://www.youtube.com/watch?v=NpZ3PXTnxdw](https://www.youtube.com/watch?v=NpZ3PXTnxdw)
-
-[2] [https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437)
-
-[3] [https://www.youtube.com/watch?v=LpeJUbs32VU](https://www.youtube.com/watch?v=LpeJUbs32VU)
-
-[4] [https://www.youtube.com/watch?v=RvZRO36IRYY](https://www.youtube.com/watch?v=RvZRO36IRYY)
