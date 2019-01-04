@@ -59,19 +59,19 @@ As we saw in class, the [Free Genes Project](https://biobricks.org/freegenes/) w
 
 **Q.1.d.** Go to company websites and determine in which "sector" they are situated (D, B, or T) and what do they do:
 
-**[Twist Biosciences]**(https://twistbioscience.com/company/about)
+**[Twist Biosciences](https://twistbioscience.com/company/about)**
 
-**[Ginkgo Bioworks]**(https://www.ginkgobioworks.com/)
+**[Ginkgo Bioworks](https://www.ginkgobioworks.com/)**
 
-**[Amyris]**(https://amyris.com/)
+**[Amyris](https://amyris.com/)**
 
-**[EnEvolv]**(http://enevolv.com/platform/)
+**[EnEvolv](http://enevolv.com/platform/)**
 
-**[Bolt Threads]**(https://boltthreads.com/)
+**[Bolt Threads](https://boltthreads.com/)**
 
-**[Nektar]**(http://www.nektar.com/) 
+**[Nektar](http://www.nektar.com/)**
 
-**[MycoWorks]**(http://www.mycoworks.com/)
+**[MycoWorks](http://www.mycoworks.com/)**
 
 **Q.1.e.** Thinking to the future, if more and more Design, Build, and Test companies blossom in industry, what would be the role of the researcher? Could you outsource a research project and would it be cheaper / faster? Is that good? (<200 words)
 
@@ -88,7 +88,7 @@ _Escherichia coli_ is well-studied bacteria considered to be representative of h
 <figure>
 <a href="/assets/images/w2pc_ecoli.png"><img src="/assets/images/w2pc_ecoli.png"></a>
 <figcaption><b>Figure 1</b>.
-_E. coli_ is shaped like a rod, which we can approximate as a spherocylinder: a cylinder with hemispherical caps. Of note, MG1655 is a strain derived from a lineage of _E. coli_ variants that was originally isolated from a diphtheria patient at the Palo Alto hospital in 1922.
+<i>E. coli</i> is shaped like a rod, which we can approximate as a spherocylinder: a cylinder with hemispherical caps. Of note, MG1655 is a strain derived from a lineage of <i>E. coli</i> variants that was originally isolated from a diphtheria patient at the Palo Alto hospital in 1922.
 <a href="https://??????????">Source TBD</a>
 </figcaption>
 </figure>
@@ -164,7 +164,7 @@ As mentioned earlier _E. coli_ is often used in bioengineering either as a model
 <figure>
 <a href="/assets/images/w2pc_ecoligrowth.png"><img src="/assets/images/w2pc_ecoligrowth.png"></a>
 <figcaption><b>Figure 2</b>.
-_E. coli_ grown to saturation (after 8-12 hours). _E. coli_ divides about every 20 mins. 
+<i>E. coli</i> grown to saturation (after 8-12 hours). <i>E. coli</i> divides about every 20 mins. 
 <a href="http://book.bionumbers.org/">Source: Cell Biology by the Numbers</a>
 </figcaption>
 </figure>
