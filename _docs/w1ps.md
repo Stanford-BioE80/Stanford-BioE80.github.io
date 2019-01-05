@@ -5,7 +5,7 @@ last_modified_at: 2018-11-25T22:21:33-05:00
 toc: true
 ---
 
-**DUE:** Friday Next Week (start of class)
+**DUE:** Next Wednesday, beginning of class.
 
 **NOTE:** All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
 
@@ -13,13 +13,16 @@ toc: true
 
 **GOAL:** To help you reflect on the implications of engineering living matter.  To help you prepare for the quarter by thinking about your goals for the class. Finally, to help get you started on your journey as an explorer or maker in bioengineering.
 
-## (Q1) Let's hear about you
-What is your major and year? Have you taken (or are currently taking) any other bioengineering classes? What were the last books that you read (list up to 3)? (2 pts)
+## (Q1) Let's hear about you (2 pts)
 
-## (Q2) What do you hope for out of this class? 
-Why are you taking BIOE.80? Stated differently, what do you most want to gain by successfully completing BIOE.80 this quarter? (200 words or less) (8 pts)
+What is your major and year? Have you taken (or are currently taking) any other bioengineering classes? What were the last books that you read (list up to 3)? 
+
+## (Q2) What do you hope for out of this class? (8 pts)
+
+Why are you taking BIOE.80? Stated differently, what do you most want to gain by successfully completing BIOE.80 this quarter? (200 words or less) 
 
 ## (Q3) The impact of Bioengineering
+
 After the first week of the class, a friend asks you about bioengineering. Your friend is specifically interested in the impact of bioengineering on humanity and civilization so far. You think back to the three examples provided in the "Why has bioengineering mattered?" and decide to draw upon those in formulating your response. 
 
 1. In <150 words explain the impact of engineering living matter using the three provided examples. (10 pts)
@@ -28,7 +31,7 @@ After the first week of the class, a friend asks you about bioengineering. Your 
 
 3. Do you have any unanswered questions based on your own example from (B) or from the examples given in class that remain unanswered? Share your most interesting or difficult question; just one question, please. (10 pts)
 
-## (Q4) Foldscope Activity: (30 pts)
+## (Q4) Foldscope Activity (30 pts)
 
 (A) Did you show up on Friday, build your Foldscope, and have a TA check it? (5 pts)
 (B) Complete and submit the foldscope post class question "Explorer or Maker" (<150 words). (25 pts)
