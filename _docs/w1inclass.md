@@ -5,9 +5,9 @@ last_modified_at: 2018-11-25T22:21:33-05:00
 toc: true
 ---
 
-## Wednesday In Class Activity
+## Wednesday In Class
 
-Today we'll ask you to think about emergent activities (i.e., case studies) arising within or associated to bioengineering.  We’d like you to work in small groups (~3 people). As you are discussing and brainstorming please work to ground your answers in the real possibilities. Feel free to use the internet and the TAs to help develop and debate your positions.  As a tool for considering each case we outline below three different aspects of how bioengineering can have impacts.  
+Today we'll ask you to think about emergent activities (i.e., case studies) arising within or associated to bioengineering.  We’d like you to work in small groups (3 people). As you are discussing and brainstorming please ground your answers in the real possibilities. Feel free to use the internet and the TAs to help develop and debate your positions. As a tool for considering each case we outline below three different aspects of how bioengineering can have impacts.  
 
 ### Economy (how will we make things?)
 
@@ -40,7 +40,7 @@ With all this in mind, please consider the following questions:
 2. **Who do you consider yourself to be?**
 3. **How could (or should) our access to advanced bioengineering tools and approaches change your answers to these questions?**
 
-## Friday In Class Activity - Foldscope:
+## Friday In Class - Foldscope:
 
 ### Be a Naturalist or Be a Maker
 
@@ -91,7 +91,7 @@ For more info/inspiration you might check out:
 2. What was the most surprising/unexpected moment during your adventure?
 3. From your exploration, what ideas or thoughts come up in your mind (either as a bioengineer or a citizen of a bioengineered world)?
 
-### E. Grading Scheme
+### E. Grading
 
 There is a question based on the Foldscope activity on your PSET-1. Participation during class is part of that question (and your grade). Specifically we will ask:
 

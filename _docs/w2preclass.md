@@ -29,7 +29,7 @@ As a specific example to start with, [Kiva](https://www.kiva.org/about) is a cha
 
 **Take a few minutes to browse the Kiva website, noting the geographic location of the groups you see and their goals.**
 
-**Q.1. What is your initial response to the Kiva platform? Do you find anything striking?**
+**Q.1.** What is your initial response to the Kiva platform? Do you find anything striking?
 
 Kiva breaks down into different topics, allowing the potential lender to filter by the topic they find the most compelling. Looking at a few of the most common loan requests and we can extract a general structure:
 
@@ -57,7 +57,6 @@ Kiva breaks down into different topics, allowing the potential lender to filter 
   </tr>
 </table>
 
-
 This focuses on solving problems immediately by providing (consuming) products as they currently exist. In this class, we have the opportunity to step outside the bounds of current offerings by thinking about **designing** and **building better** products that fix unmet **needs**.
 
 The first step toward this different approach requires us to really understand why the current solution is being used. To do that, let's consider the loans above that ask for money to buy livestock. Why? Because while we haven’t all necessarily raised livestock on a farm, many of us have interacted with animals in some way.
@@ -70,15 +69,15 @@ Think about how we - as humans - interact with all types of animals: cats, dogs,
 4. Cloth - wool from sheep
 5. Income - reselling of animals
 
-**Q.2. For each of the uses above, could you replace the function the animal serves with another solution/product? If yes, how?**
+**Q.2.** For each of the uses above, could you replace the function the animal serves with another solution/product? If yes, how?
 
-**Q.3. Think about when you might choose to use either the animal or your alternative approach.**
+**Q.3.** Think about when you might choose to use either the animal or your alternative approach.
 
 For example, consider the [Kantiembou Group](https://www.kiva.org/lend/1486507). Aissata wants to buy sheep with a loan from Kiva supporters. 
 
-**Q.4. What function are the sheep serving? (What did Aissata plan to do with the sheep?)**
+**Q.4.** What function are the sheep serving? (What did Aissata plan to do with the sheep?)
 
-**Q.5. Revisit your ideas about how to replace this function. Would it be applicable in this case? Why or why not? How would you refine your idea given this specific circumstance/use case?**
+**Q.5.** Revisit your ideas about how to replace this function. Would it be applicable in this case? Why or why not? How would you refine your idea given this specific circumstance/use case?
 
 Now that we have begun to think outside the box, let's analyze in a broader sense the merits of each approach. While this example was used to help you relate to and begin to engage with the initial considerations of the Design-Build-Test cycle, it is not meant to belittle the massive progress toward correcting global injustices that has been enabled by attempts to provide immediate aid. With any problem - whether engineering a solution to social need or engineering a protein in the lab - there are multiple meritorious approaches. It is important to understand these merits, their limitations, and when they can and should be utilized. 
 
@@ -126,21 +125,21 @@ Celiac disease is an autoimmune disease of the small intestine that is triggered
 
 Recognizing the need for a true therapy, a 2011 undergraduate iGEM team (see igem.org) from the University of Washington began to design a drug that could potentially provide relief. Six years later, that drug (KumaMax) was funded to undergo phase I clinical trials to the tune of $35 million.  To learn more skim the following two websites:
 
-[iGEM Startup PvP Biologics Closes a $35 Million Agreement with Pharmaceutical Company Takeda](https://synbiobeta.com/igem-startup-pvp-biologics-closes-35-million-agreement-pharmaceutical-company-takeda/), 
+[iGEM Startup PvP Biologics Closes a $35 Million Agreement with Pharmaceutical Company Takeda](https://synbiobeta.com/igem-startup-pvp-biologics-closes-35-million-agreement-pharmaceutical-company-takeda/) 
 
-[UW iGEM Wiki: Gluten Destruction](http://2011.igem.org/Team:Washington/Celiacs/Background),
+[UW iGEM Wiki: Gluten Destruction](http://2011.igem.org/Team:Washington/Celiacs/Background)
 
-**Q.7. According to the team's website, why had other approaches failed?**
+**Q.7.** According to the team's website, why had other approaches failed?
 
-**Q.8. What was unique about their approach?**
+**Q.8.** What was unique about their approach?
 
-**Q.9. How did they choose their starting enzyme? What key design specification made this a great choice?**
+**Q.9.** How did they choose their starting enzyme? What key design specification made this a great choice?
 
-**Q.10. How did they design their enzyme? What tools did they use?**
+**Q.10.** How did they design their enzyme? What tools did they use?
 
-**Q.11. How did they test their enzyme?**
+**Q.11.** How did they test their enzyme?
 
-**Q.12. What would you have done differently?**
+**Q.12.** What would you have done differently?
 
 This example highlights the power of the DBT framework applied to a bioengineering challenge. The students began with an enzyme that, by correctly navigating a DBT process, they were able to engineer into modified form that could breakdown gluten in the gut.
 
@@ -208,17 +207,11 @@ Recognizing a need, the clever minds behind Mosis (Danny Cohen) sought to help l
 
 Watch this [video](https://www.youtube.com/watch?v=d5SEFE_49Ug) made by Mosis explaining the workflow for using their service. As you do, pay special attention to each step of the workflow, who is involved, and which part of the DBT cycle is shown.
 
-**Q.X.** How does Mosis work? Specifically, what key feature makes this service better than others that had previously been used?
+**Q.1.** How does Mosis work? Specifically, what key feature makes this service better than others that had previously been used?
 
-- Multi-Project Wafers - enables many different designs onto one mask set, which are subsequently cut into one die (one for each design).
+**Q.2.** If I am designing a chip, what advantage does Mosis provide? Why would I choose to use it?
 
-**Q.X.** If I am designing a chip, what advantage does Mosis provide? Why would I choose to use it?
-
-Pre-MPW - one designer (for example a grad student prototyping a chip) had to fill the whole wafer, aggregate orders with colleagues, or make it themselves. 
-
-Post - This outsources labor to factories using standardized schedule + processing. Brings the cost of trial and error way down because each individual prototype is much less expensive.
-
-**Q.X. How does this differ from the DBT cycle we saw with KumaMax? Fill in the following table to compare and contrast the DBT workflow in each case.**
+**Q.3.** How does this differ from the DBT cycle we saw with KumaMax? Fill in the following table to compare and contrast the DBT workflow in each case.
 
 <table>
   <tr>
@@ -243,8 +236,7 @@ Post - This outsources labor to factories using standardized schedule + processi
   </tr>
 </table>
 
-
-(Additional resources: Reminiscences of the VLSI Revolution- Lynn Conway's memoir, see [here](http://ai.eecs.umich.edu/people/conway/Memoirs/VLSI/Lynn_Conway_VLSI_Reminiscences.pdf)) 
+(Additional resources: Reminiscences of the VLSI Revolution - Lynn Conway's memoir, see [here](http://ai.eecs.umich.edu/people/conway/Memoirs/VLSI/Lynn_Conway_VLSI_Reminiscences.pdf)) 
 
 As we have seen, engineering with biology has not yet undergone the same type of decoupling and standardization of difference aspects of the DBT cycle that ushered in massive change in other fields (standardization of screws, outsourcing chip fabrication with Mosis). But, wait! We are on the cusp of a revolution!
 
@@ -252,10 +244,6 @@ As we have seen, engineering with biology has not yet undergone the same type of
 
 Not too long ago, people who wanted to make customized DNA had to do so with their own two hands, spending months and months to construct and validate a single piece of a larger DNA sequence. Then, with the commercialization of DNA synthesis technologies, it was possible to order your favorite customized gene, but you had to pay the big bucks. Now, the [Free Genes Project](https://biobricks.org/freegenes/) wants to bring ideas of decoupling and the "fabless foundry" to the engineering of DNA.
 
-Q.X. Go to the Free Genes Project website, and describe how it works. Who is responsible for which aspect?
+**Q.1.** Go to the Free Genes Project website, and describe how it works. Who is responsible for which aspect?
 
-Q.X. Compare this to the Mosis workflow outlined above. How is it similar or different? 
-
-Q.X. Need more questions….just want to get them excited about the idea of being about facile/inexpensive outsourcing of DNA 'construction'/’fab’.
-
-### Example 3 - Design, Build, and Test as a Service / Product
+**Q.2.** Compare this to the Mosis workflow outlined above. How is it similar or different? 
