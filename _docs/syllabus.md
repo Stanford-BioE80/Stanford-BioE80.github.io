@@ -35,21 +35,19 @@ Prof. Jan Liphardt; Office Hours Mon 10a & Fri 3p @ Shriram 005; [jan.liphardt@s
 
 ### Education Fellow
 
-Dr. Siavash Ahrar; Office Hours Mon 3p @ Tressider & Fri 3p @ Shriram Tea Room; [sahrar@stanford.edu](mailto:sahrar@stanford.edu)
+Dr. Siavash Ahrar; Office Hours tbd @ Shriram Tea Room; [sahrar@stanford.edu](mailto:sahrar@stanford.edu)
 
 ### Head Teaching Assistant
 
-Rolando Cruz Perez; Office Hours Mon 3p @ Tressider; [rcperez@stanford.edu](mailto:rcperez@stanford.edu)
+NAME; Office Hours Time @ place; email
 
 ### Teaching Assistants
 
-Namrata Anand; Office Hours Tues 9a @ Huang Engr. Center; [namrataa](mailto:namrataa@stanford.edu)[@stanford.edu](mailto:namrataa@stanford.edu)
+NAME; Office Hours Time @ place; email
 
-Alyssa Ferris; Office Hours Thurs 4p @ Shriram Tea Room; [acferris@stanford.edu](mailto:acferris@stanford.edu)
+NAME; Office Hours Time @ place; email
 
-Nina Horowitz; Office Hours Mon 7p @ Old Union; [nina92](mailto:nina92@stanford.edu)[@stanford.edu](mailto:nina92@stanford.edu)
-
-Nelson Hall; Office Hours Tues 5p @ Shriram Tea Room; [rnhall](mailto:rnhall@stanford.edu)[@stanford.edu](mailto:rnhall@stanford.edu)
+NAME; Office Hours Time @ place; email
 
 ### Grading
 
@@ -71,18 +69,19 @@ Final Exam (15%); 3 design problems
 
 We expect you will uphold Stanford's Honor Code. Discussion among peers and with the teaching staff is strongly encouraged. All submitted work must be completed individually unless explicitly noted otherwise.
 
-### Week 1
+### Week 1 
 **Why are you here? Why engineer biology? What's unique about living matter?**
-
+      <!-- Lead Instructor-->
 Mon 	1 April		320-105	Hello; course mechanics; initial questions; opening tour
 
 Wed 	3 April		SC 112/132	Future impacts of bioengineering
-
+      <!-- lecture room for this activity?-->
 Fri 	5 April		SC 112/132	Make your foldscope; embrace nature **(PSET 1)**
+      <!-- Lead Teaching assistant-->
 
 ### Week 2		
 **How do design, build, and test tools work to support bioengineering?**
-
+    <!--  Genetic engineering and basic literacy; solving problems/applications/doing things-->
 Mon 	8 April		320-105	How do engineers engineer with, of, and for biology?
 
 Wed 	10 April	320-105	How will engineers engineer biology?
