@@ -72,41 +72,72 @@ We expect you will uphold Stanford's Honor Code. Discussion among peers and with
 ### Week 1 
 **Why are you here? Why engineer biology? What's unique about living matter?**
       <!-- Lead Instructor-->
+      
 Mon 	1 April		320-105	Hello; course mechanics; initial questions; opening tour
 
 Wed 	3 April		SC 112/132	Future impacts of bioengineering
       <!-- lecture room for this activity?-->
+      
 Fri 	5 April		SC 112/132	Make your foldscope; embrace nature **(PSET 1)**
       <!-- Lead Teaching assistant-->
 
+
 ### Week 2		
 **How do design, build, and test tools work to support bioengineering?**
-    <!--  Genetic engineering and basic literacy; solving problems/applications/doing things-->
+     <!-- Lead Instructor-->
+     <!--  Genetic engineering and basic literacy; solving problems/applications/doing things-->
+    
 Mon 	8 April		320-105	How do engineers engineer with, of, and for biology?
 
 Wed 	10 April	320-105	How will engineers engineer biology?
 
 Fri 	12 April	SC 112/132	Get your GOOP tube; express DNA **(PSET 2)**
+      <!-- Lead Teaching assistant-->
+
 
 ### Week 3		
-**What arises from DNA read/write trends that will matter for the rest of our lives?**
+**Abstraction as a tool for managing complexity in bioengineering**
+       <!-- Lead Instructor-->
+Mon 	15 April	320-105	How to implement Boolean logic in DNA 
 
-Mon 	15 April	320-105	How much better can DNA synthesis get? So what?
+Wed 	17 April		320-105	How to architect arbitrary genetic systems 
 
-Wed 	17 April	SC 112/132	What happens as genetic material becomes equivalent to information?
+Fri 	19 April		SC 112/132 GOOP revisited; genetic sensors, logic, actuators **(PSET 3)**
+      <!-- Last year: genetic architecture activity -->
+      <!-- Lead Teaching assistant-->
 
-Fri 	19 April	SC 112/132	What can't be encoded in DNA? **(PSET 3)**
 
 ### Week 4		
-**If we can construct a genome then why can't we build an organism?**
+**What arises from DNA read/write trends that will matter for the rest of our lives?**
+       <!-- Lead Instructor-->
+Mon 	22 April	320-105	How much better can DNA synthesis get? So what?
 
-Mon 	22 April	320-105	How to parse a research paper on the frontiers of bioengineering
+Wed 	24 April	SC 112/132	What happens as genetic material becomes equivalent to information?
 
-Wed 	24 April	320-105	Why is humpty dumpty more than just a nursery rhyme?
-
-Fri 	26 April 	SC 112/132	Meet your microbes **(PSET 4)**
-
+Fri 	26 April	SC 112/132	What can't be encoded in DNA? **(PSET 4)**
+       <!-- Lead Teaching assistant-->
+       
+       
 ### Week 5		
+**If we can construct a genome then why can't we build an organism?**
+      <!-- Lead Instructor-->
+Mon 	29 April	320-105	How to parse a research paper on the frontiers of bioengineering
+
+Wed 	1  May	  320-105	Why is humpty dumpty more than just a nursery rhyme?
+
+Fri 	3  May 	  SC 112/132	Meet your microbes **(PSET 5)**
+      <!-- Lead Teaching assistant-->
+      
+      
+### Week 6
+**Human Health**
+Mon 	
+
+
+
+
+
+### Week 7		
 **Something from "nothing." Why do molecules move? How do patterns grow?**
 
 Mon 	29 April	320-105	Molecular diffusion, what is it and why does it matter to bioengr.?
@@ -115,16 +146,7 @@ Wed 	1 May		320-105	Patterns via development; e.g., could you grow an arm?
 
 Fri 	3 May		SC 112/132	Dancing droplets; "programming" autonomous objects **(PSET 5)**
 
-### Week 6		
-**Abstraction as a tool for managing complexity in bioengineering**
-
-Mon 	6 May		320-105	How to implement Boolean logic in DNA 
-
-Wed 	8 May		320-105	How to architect arbitrary genetic systems 
-
-Fri 	10 May		SC 112/132 GOOP revisited; genetic sensors, logic, actuators **(PSET 6)**
-
-### Week 7		
+### Week 9		
 **Evolution as an algorithm; Evolution as a service**
 
 Mon 	13 May		320-105	What is evolution from an engineering perspective?
@@ -133,14 +155,20 @@ Wed 	15 May		320-105	How to use and change evolution
 
 Fri 	17 May		SC 112/132	Plague; offense versus defense **(PSET 7)**
 
-### Week 8		
-**Citizenship & Humanity --  Flourishing**
+### Week 10		
+**Cultural health citizenship & Humanity --  Flourishing**
 
 Mon 	20 May		320-105	Why do people work to solve problems via bioengineering? 
 
 Wed 	22 May		320-105	How much can we make with biology? 
 
 Fri 	24 May		SC 112/132	Making with mushrooms **(PSET 8)**
+
+
+
+
+
+
 
 ### Week 9		
 **Citizenship & Humanity -- Doom & Dystopia?**
