@@ -41,3 +41,19 @@ Start with this [video](https://www.youtube.com/watch?v=MvuYATh7Y74) that provid
 **Figure.2.** goes here
 
 During sequencing first, the genomic DNA (the DNA that we want to read) is broken intosmaller pieces (fragmented). Then a synthetic linker sequence is added to the end ofthe fragments (adaptor) which helps the DNA fragments get attached to a surface onwhich the sequencing happens (flow cell). Next, the DNA fragments are separated inspace and read individually. Each fragment is amplified (thousands of copies of eachpiece is made) to make sure the correct sequence is detected. To actually read thefragments, pre-labeled nucleotides (nucleotides with color) and enzymes (thatincorporate nucleotides into the fragments) are added to the flow cell. As each coloredbase pair is added to the fragments a new colorful spot is introduced. By taking imagesfrom the spots we are able to decode the sequence. Finally, the fragments are stitchedtogether to reveal the original sequence of the genomic DNA. Here is an additionalvideo that describes this process in even more detail [optional link](https://www.youtube.com/watch?v=fCd6B5HRaZ8).
+
+**Q.5.** According to the “How to sequence the human genome” video when was thefirst human genome sequenced? How long did it take? How much did it cost?
+
+**Q.6.** How much would it cost if you were to sequence the human genome in 2018?
+
+**Q.7.** Thinking back to the design, build, and test (DBT) class. What are theconsequences of lowering sequencing cost (both money and time)?
+
+**RESOURCES**
+
+If the links above do not work and you need to type them out, here are the full URLs foreach link:
+
+1. Amniocentesis procedure video: [link](https://www.youtube.com/watch?v=XXIW8GHwJ_M)
+
+2. Cell free fetal DNA analysis video:[link](https://www.youtube.com/watch?v=8Kynt75ssmE)
+
+3. Sequencing video 1:[link](https://www.youtube.com/watch?v=MvuYATh7Y74)
