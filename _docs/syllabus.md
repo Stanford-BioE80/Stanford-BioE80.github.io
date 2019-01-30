@@ -97,14 +97,16 @@ Fri 	12 April	SC 112/132	Get your GOOP tube; express DNA **(PSET 2)**
 
 ### Week 3		
 **Abstraction as a tool for managing complexity in bioengineering**
-       <!-- Lead Instructor-->
-Mon 	15 April	320-105	How to implement Boolean logic in DNA 
+     <!-- Lead Instructor-->
+     <!--  Genetic engineering and basic literacy; solving problems/applications/doing things-->
+    
+Mon 	15 April	320-105	How to implement Boolean logic in DNA? 
 
-Wed 	17 April		320-105	How to architect arbitrary genetic systems 
+Wed 	17 April	320-105	How How to architect arbitrary genetic systems?
 
-Fri 	19 April		SC 112/132 GOOP revisited; genetic sensors, logic, actuators **(PSET 3)**
-      <!-- Last year: genetic architecture activity -->
+Fri 	19 April	SC 112/132	Genetic sensors, logic, actuators **(PSET 3)**
       <!-- Lead Teaching assistant-->
+      <!-- Last year: genetic architecture activity -->
 
 
 ### Week 4		
@@ -129,64 +131,51 @@ Fri 	3  May 	  SC 112/132	Meet your microbes **(PSET 5)**
       <!-- Lead Teaching assistant-->
       
       
-### Week 6
+### Week 6 
 **Human Health**
-Mon 	
+      <!-- Lead Instructor-->
+      
+Mon 	6 May		320-105	Tbd 
 
-
-
+Wed 	8 May		320-105	Tbd (Could be Health in 2030)
+      
+Fri 	10 May	SC 112/132	Activity tbh **(PSET 6)**
+      <!-- Lead Teaching assistant-->
 
 
 ### Week 7		
 **Something from "nothing." Why do molecules move? How do patterns grow?**
 
-Mon 	29 April	320-105	Molecular diffusion, what is it and why does it matter to bioengr.?
+Mon 	13 May	 320-105	Molecular diffusion, what is it and why does it matter to bioengr.?
 
-Wed 	1 May		320-105	Patterns via development; e.g., could you grow an arm?
+Wed 	15 May	 320-105	Patterns via development; e.g., could you grow an arm?
 
-Fri 	3 May		SC 112/132	Dancing droplets; "programming" autonomous objects **(PSET 5)**
+Fri 	17  May	 SC 112/132	Dancing droplets; "programming" autonomous objects **(PSET 7)**
+
+### Week 8 
+**Natural Health**
+      <!-- Lead Instructor-->
+      
+Mon 	20 May		320-105	Tbd 
+
+Wed 	22 May		320-105	Tbd (Could be: Why don't we have modern biological weapons?)
+      
+Fri 	24 May	SC 112/132	Suggested Activity: Gene drive discussion  **(PSET 8)**
+      <!-- Lead Teaching assistant-->
 
 ### Week 9		
 **Evolution as an algorithm; Evolution as a service**
 
-Mon 	13 May		320-105	What is evolution from an engineering perspective?
+Mon 	27 May		**NO CLASS (Memorial Day)**
 
-Wed 	15 May		320-105	How to use and change evolution 
+Wed 	29 May		320-105	What is evolution from an engineering perspective? 
 
-Fri 	17 May		SC 112/132	Plague; offense versus defense **(PSET 7)**
-
-### Week 10		
-**Cultural health citizenship & Humanity --  Flourishing**
-
-Mon 	20 May		320-105	Why do people work to solve problems via bioengineering? 
-
-Wed 	22 May		320-105	How much can we make with biology? 
-
-Fri 	24 May		SC 112/132	Making with mushrooms **(PSET 8)**
-
-
-
-
-
-
-
-### Week 9		
-**Citizenship & Humanity -- Doom & Dystopia?**
-
-Mon 	27 May 		**NO CLASS (Memorial Day)**
-
-Wed 	29 May		320-105	Why don't we have modern biological weapons?
-
-Fri 	31 May		SC 112/132	How many people should learn bioengineering? **(PSET 9)**
+Fri 	31 May		320-105	How to use and change evolution **(PSET 9)**
 
 ### Week 10		
-**Summary Sendoff**
+**Summary Sendoff: Cultural health, Citizenship & Humanity --  Flourishing**
 
-Mon 	3 June 		320-105	What is bioengineering from a technical perspective?
+Mon 	3 June		320-105	Why do people work to solve problems via bioengineering? 
 
-Wed 	5 June		320-105	What is bioengineering from a cultural perspective?
-
-
-
-
+Wed 	5 June		320-105	How much can we make with biology? 
 
