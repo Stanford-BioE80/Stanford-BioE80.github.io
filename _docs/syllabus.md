@@ -153,14 +153,6 @@ Wed 	15 May	 320-105	Patterns via development; e.g., could you grow an arm?
 
 Fri 	17  May	 SC 112/132	Dancing droplets; "programming" autonomous objects **(PSET 7)**
 
-### Week 5		
-**Something from "nothing." Why do molecules move? How do patterns grow?**
-
-Mon 	29 April	320-105	Molecular diffusion, what is it and why does it matter to bioengr.?
-
-Wed 	1 May		320-105	Patterns via development; e.g., could you grow an arm?
-
-Fri 	3 May		SC 112/132	Dancing droplets; "programming" autonomous objects **(PSET 5)**
 
 ### Week 8 
 **Natural Health**
