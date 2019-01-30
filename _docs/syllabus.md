@@ -87,11 +87,11 @@ Fri 	5 April		SC 112/132	Make your foldscope; embrace nature **(PSET 1)**
      <!-- Lead Instructor-->
      <!--  Genetic engineering and basic literacy; solving problems/applications/doing things-->
     
-Mon 	8 April		320-105	How do engineers engineer with, of, and for biology?
+Mon     8 April		  320-105	How do engineers engineer with, of, and for biology?
 
-Wed 	10 April	320-105	How will engineers engineer biology?
+Wed 	  10 April	  320-105	How will engineers engineer biology?
 
-Fri 	12 April	SC 112/132	Get your GOOP tube; express DNA **(PSET 2)**
+Fri 	  12 April	  SC 112/132	Get your GOOP tube; express DNA **(PSET 2)**
       <!-- Lead Teaching assistant-->
 
 
