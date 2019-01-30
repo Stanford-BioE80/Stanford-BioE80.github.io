@@ -71,19 +71,18 @@ We expect you will uphold Stanford's Honor Code. Discussion among peers and with
 
 ### Week 1 
 **Why are you here? Why engineer biology? What's unique about living matter?**
-      <!-- Lead Instructor-->
-      
-Mon 	1 April		320-105	Hello; course mechanics; initial questions; opening tour
+      <!-- Lead Instructor-->      
+Mon    1    April    320-105    Hello; course mechanics; initial questions; opening tour
 
-Wed 	3 April		SC 112/132	Future impacts of bioengineering
+Wed    3    April   SC 112/132    Future impacts of bioengineering
       <!-- lecture room for this activity?-->
       
-Fri 	5 April		SC 112/132	Make your foldscope; embrace nature **(PSET 1)**
+Fri 	5     April		SC 112/132	Make your foldscope; embrace nature **(PSET 1)**
       <!-- Lead Teaching assistant-->
 
 
 ### Week 2		
-**How do design, build, and test tools work to support bioengineering?**
+**How do design, build, and test tools work to support bioengineering?**  
      <!-- Lead Instructor-->
      <!--  Genetic engineering and basic literacy; solving problems/applications/doing things-->
     
@@ -96,7 +95,7 @@ Fri 	  12 April	  SC 112/132	Get your GOOP tube; express DNA **(PSET 2)**
 
 
 ### Week 3		
-**Abstraction as a tool for managing complexity in bioengineering**
+**Abstraction as a tool for managing complexity in bioengineering**  
      <!-- Lead Instructor-->
      <!--  Genetic engineering and basic literacy; solving problems/applications/doing things-->
     
