@@ -69,19 +69,19 @@ Final Exam (15%); 3 design problems
 
 We expect you will uphold Stanford's Honor Code. Discussion among peers and with the teaching staff is strongly encouraged. All submitted work must be completed individually unless explicitly noted otherwise.
 
-### Week 1 
-**Why are you here? Why engineer biology? What's unique about living matter?**
-      <!-- Lead Instructor-->      
-Mon    1    April    320-105    Hello; course mechanics; initial questions; opening tour
 
-Wed    3    April   SC 112/132    Future impacts of bioengineering
-      <!-- lecture room for this activity?-->
-      
-Fri 	5     April		SC 112/132	Make your foldscope; embrace nature **(PSET 1)**
+**Why are you here? Why engineer biology? Whats unique about living matter? **  
+     <!-- Lead Instructor-->
+    
+Mon     1 April     320-105	Hello; course mechanics; initial questions; opening tour
+
+Wed 	  3 April	  320-105	Future impacts of bioengineering
+
+Fri 	  5 April	  SC 112/132	Make your foldscope; embrace nature **(PSET 1)**
       <!-- Lead Teaching assistant-->
 
 
-### Week 2		
+### Week 2
 **How do design, build, and test tools work to support bioengineering?**  
      <!-- Lead Instructor-->
      <!--  Genetic engineering and basic literacy; solving problems/applications/doing things-->
