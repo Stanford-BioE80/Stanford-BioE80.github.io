@@ -70,14 +70,14 @@ Final Exam (15%); 3 design problems
 We expect you will uphold Stanford's Honor Code. Discussion among peers and with the teaching staff is strongly encouraged. All submitted work must be completed individually unless explicitly noted otherwise.
 
 
-**Why are you here? Why engineer biology? Whats unique about living matter? **  
+**Why are you here? Why engineer biology? Whats unique about living matter?**  
      <!-- Lead Instructor-->
     
-Mon     1 April     320-105	Hello; course mechanics; initial questions; opening tour
+Mon  1  April  320-105  Hello; course mechanics; initial questions; opening tour
 
-Wed 	  3 April	  320-105	Future impacts of bioengineering
+Wed  3  April  320-105	Future impacts of bioengineering
 
-Fri 	  5 April	  SC 112/132	Make your foldscope; embrace nature **(PSET 1)**
+Fri  5  April	 SC 112/132	Make your foldscope; embrace nature **(PSET 1)**
       <!-- Lead Teaching assistant-->
 
 
@@ -111,6 +111,7 @@ Fri 	19 April	SC 112/132	Genetic sensors, logic, actuators **(PSET 3)**
 ### Week 4		
 **What arises from DNA read/write trends that will matter for the rest of our lives?**
        <!-- Lead Instructor-->
+       
 Mon 	22 April	320-105	How much better can DNA synthesis get? So what?
 
 Wed 	24 April	SC 112/132	What happens as genetic material becomes equivalent to information?
@@ -122,6 +123,7 @@ Fri 	26 April	SC 112/132	What can't be encoded in DNA? **(PSET 4)**
 ### Week 5		
 **If we can construct a genome then why can't we build an organism?**
       <!-- Lead Instructor-->
+      
 Mon 	29 April	320-105	How to parse a research paper on the frontiers of bioengineering
 
 Wed 	1  May	  320-105	Why is humpty dumpty more than just a nursery rhyme?
