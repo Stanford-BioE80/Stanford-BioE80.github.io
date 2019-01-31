@@ -66,5 +66,29 @@ ____________________________________________________________
 
 ## Preclass for Wednesday
 Please read and consider the below before start of class on Wednesday
+
+**DNA Synthesis**
+
+1. A less than 4 minute video introducing how Agilent builds 60mer oligos using inkjet dispensing.
+[link](https://www.youtube.com/watch?v=eSr5CxAdiww&feature=youtu.be)
+
+2. A summary of existing and recent DNA synthesis companies:
+[link](http://www.calinplesa.com/dna-synthesis-companies/)
+
+3. A recent article on difference approaches to DNA synthesis:
+[link](https://www.chemistryworld.com/feature/step-by-step-synthesis-of-dna/3008753.article)
+
+If you are short on time just watch the video (i.e., please consider (2) and (3) as nice optional/supplements).
+
+
+____________________________________________________________
+
+## Preclass for Friday
+Please read and consider the below before start of class on Friday 
 The questions given are only study questions not homework to be graded.
 Talk about it all with your classmates, friends, or TAs, as you like.
+
+**Hobbes, State of War, Qualitative Change**
+
+This week we are exploring **What changes may arise via trends in DNA read andwrite tools that could matter for the rest of our lives?**  Thus far we’ve discussedquantitative changes and some aspects of qualitative change, all for good. On Friday you will work actively in small teams to further explore and develop your own ideas.  In further preparation for Friday please consider the following possible negative consequences that may arise from advances in core bioengineering capacities...
+
