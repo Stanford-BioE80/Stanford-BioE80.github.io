@@ -1,6 +1,6 @@
 ---
 title: "Week 7 Preclass - Evolution "
-permalink: /docs/w6preclass/
+permalink: /docs/w7preclass/
 ---
 
 # Week 7 Preclass
