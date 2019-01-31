@@ -29,3 +29,12 @@ and abiotic systems.
  Where D=kTB/6πνa is Boltzmann's constant (1.3807 x 10 ^-23 J/K), T is the temperature (K) of the   
  surrounding medium ,ν is viscosity of surrounding medium (NxS/m^2), “a” is a measure of length 
  (radius of a sphere approximating the molecule).  What are the units for a diffusion coefficient? (5 pts)
+ 
+ 
+1.b. You learn that the diffusion coefficient for a protein (~30 kDa GFP) in water is about 100 µm^2/s.
+The diffusion constant for the same protein is in the cytoplasm of a eukaryotic cell is only 30µm^2/s.
+Intuitively do these numbers make sense? (Yes or No) Why? (Bullet points)
+Using these numbers estimate the viscosity of the cytoplasm relative to the viscosity of water? 
+(10 pts) (HINT: solve for using the equation given above).
+
+Next, let’s estimate the time it takes for a protein to diffuse spontaneously across different typesof cells (diffusion time 
