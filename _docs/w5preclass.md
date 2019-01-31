@@ -9,7 +9,6 @@ Please read and consider the below before start of class on Monday.
 The questions given are only study questions not homework to be graded.
 Talk about it all with your classmates, friends, or TAs, as you like.
 
-
 ## Preclass for Monday
 
 ## Introduction - Diffusion Happens
@@ -25,8 +24,8 @@ Stated differently, you will be able to describe what does it mean that diffusio
 
 **Goal-3:** You will be able to describe the role and application of diffusion in engineering living matter.
 
-Let's briefly learn about application of diffusion in engineering living matter 
-with an interesting example of **Blinking Squares** ...
+Let's briefly learn about application of diffusion in engineering living matter with an interesting example of
+**Blinking Squares** ...
 
 ## Case-1: Blinking Squares 
 
@@ -50,6 +49,7 @@ Video goes here.
 
 ## Case-2: Blinking Square
 
+Video goes here.
 Here is a videos of a single blinking square (100μmx100μm) containing about approximately 5,000 cells.
 [source-2](https://www.nature.com/articles/nature08753)
 
@@ -73,3 +73,13 @@ Diffusion is everywhere in living matter and beyond. We encounter diffusion rout
 Take a look at the following [video](https://www.youtube.com/watch?v=5JuEomRki_M)
 
 **Q.10. Is this diffusion? why or why not? How can you tell?**
+
+*Additional Resource*
+Entropy Explained, With Sheep [link-1](https://aatishb.com/entropy/)
+
+____________________________________________________________
+
+## Preclass for Wednesday
+
+Just a few minutes of your time spent on what following should get you ready for Wednesday's class.
+
