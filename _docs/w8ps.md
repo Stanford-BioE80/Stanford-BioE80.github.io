@@ -56,7 +56,7 @@ Extra resources:
 
 ## (Q3) Artemisinin (15 Points)
 
-Think back to the in class case study on the production of the key ingredient for the treatment ofmalaria, Artemisinin (Additional information here: [s](https://www.nature.com/articles/nrmicro3240), [s2](http://www.nature.com.stanford.idm.oclc.org/articles/nature12051)
+Think back to the in class case study on the production of the key ingredient for the treatment ofmalaria, Artemisinin (Additional information here: [source-1](https://www.nature.com/articles/nrmicro3240), [source-2](http://www.nature.com.stanford.idm.oclc.org/articles/nature12051)
 
 3.a. What were some of the key lessons from this example? (2-3 bullet points)
 
@@ -67,7 +67,7 @@ Think back to the in class case study on the production of the key ingredient fo
 
 ## (Q4) Artemisinin (15 Points)
 
-4.a. Did you show up on Friday, make your mycelium material object? (Yes /No)
+4.a. Did you show up on Friday, make your mycelium material object? (Yes / No)
 
 4.b. Describe in broad terms what processes unique to living matter are enabling building withmushrooms possible. 
 What are the potential and limitations of making with mushrooms? (bullet points)
@@ -81,9 +81,9 @@ What are the potential and limitations of making with mushrooms? (bullet points)
 
 There are several great spots on campus to explore and bioprospect in search of newmushrooms that could potentially be used for making materials. 
 
-For this activityyou can explore the variety of fungal diversity outside (even theengineering quad has fungi to discover!).
+For this activity you can explore the variety of fungal diversity outside (even theengineering quad has fungi to discover!).
 
-Find a mushroom on campus, take a photo of it, and note your location (GPS coordinates via your phone) and other characteristics such as the surrounding ecology.Document your finding by including a paragraph description, your photo, and thelocation of your find in your PSET submission. 
+Find a mushroom on campus, take a photo of it, and note your location (GPS coordinates via your phone) and other characteristics such as the surrounding ecology.  Document your finding by including a paragraph description, your photo, and the location of your find in your PSET submission. 
 
 Please don’t disturb or eat any mushrooms you find for this extra credit.
 
