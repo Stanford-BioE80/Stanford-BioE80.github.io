@@ -101,8 +101,9 @@ I.e., cell migration can result in significant changes in shape and form. Don't 
 [Immune Cell Migration in the Zebrafish Inner Ear](https://www.youtube.com/watch?v=Hz0VlUVjYfI&feature=youtu.be)
 
 Or, a slime mold swarming on a plate and growing a stalk...
-[name](https://www.youtube.com/watch?v=vjRPla0BONA&feature=youtu.be)
+[swarming](https://www.youtube.com/watch?v=vjRPla0BONA&feature=youtu.be)
 
-(###3) Cells cancommunicatewith each other.
+### (3) Cells cancommunicatewith each other.
 I.e., cells can send chemical messages between and among each other.
 E.g., here's a type of "pulse" in gene expression generated across many cells during development of a tail-like structure...
+[https://www.youtube.com/watch?v=T-fa1gYfwJk&feature=youtu.be](https://www.youtube.com/watch?v=T-fa1gYfwJk&feature=youtu.be)
