@@ -44,8 +44,24 @@ Which cellsgrow faster? ( Syn1.0 or Syn3.0.)
 ## (Q2) Approximation and estimation - Genome Size ** (40 pts)
 
 Now thatyou have examined a minimal genome have you wondered how big is a typical genome?
+
 The *E. coli* MG1655 genome is 4.6 Mbp (megabasepairs) long, or approximately 4,600,000base pairs. 
 A good rule of thumb for the length of a single DNA base pair is that it is ⅓ nm long.
-As another rule of thumb, let’s treat the volume of an *E. coli* cell as being approximately 1 μm^3 [ref](http://book.bionumbers.org/how-big-is-an-e-coli-cell-and-what-is-its-mass/). This is a rough, order-of-magnitude estimate. In real life, cell size and volume willvary based upon species, growth rate, and stage of division 
+As another rule of thumb, let’s treat the volume of an *E. coli* cell as being approximately 1 μm^3 [see](http://book.bionumbers.org/how-big-is-an-e-coli-cell-and-what-is-its-mass/). This is a rough, order-of-magnitude estimate. 
+
+In real life, cell size and volume willv ary based upon species, growth rate, and stage of division 
 in addition to many other factors.
+
+**Q.2.a.** How long would the *E. coli* genome be as a linear strand of DNA?  Provide your answerin μm. How long would the Syn3.0 genome be as as a linear strand of DNA?
+
+
+**Q.2.b.** The *E. coli* genome is actually circular. What is the radius of the genome, assuming thegenome is arranged as a perfect circle and given the linear length that you calculated above?
+
+
+**Q.2.c.** Consider your answers in relation to the size specifications for *E. coli* given above. Whatdoes this imply about the layout of DNA inside a living cell? (Two sentences).
+
+
+
+
+
 
