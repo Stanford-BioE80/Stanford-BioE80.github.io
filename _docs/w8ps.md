@@ -39,11 +39,15 @@ Hearing of Senate Special Committee on Aging:[resource-2](http://www.diabetes.or
 
 2.b. Examine the structure of insulin from [link](http://pdb101.rcsb.org/motm/14How) is human insulin different from pig insulin? Examine the structure of designer insulins from [link-2](http://pdb101.rcsb.org/motm/194) Pick either long-acting or fast-acting insulins. What changes to the protein made these designerproteins (e.g., long-acting or fast-acting) possible? (bullet points)
 
-2.c. Examine the following resources:First, skim the article titled: “Why is There No Generic Insulin? Historical Origins of a ModernProblem.”[link-3](https://www.nejm.org/doi/full/10.1056/NEJMms1411398)
+2.c. Examine the following resources: 
 
-Next, the link to an open source project for making insulin: [link-4](http://openinsulin.org/)
+First, skim the article titled: “Why is There No Generic Insulin? Historical Origins of a Modern Problem.”[link] (https://www.nejm.org/doi/full/10.1056/NEJMms1411398)
+
+Next, the link to an open source project for making insulin: [link](http://openinsulin.org/)
+
 
 Is it ok for the DIY bioengineers to create their own insulin? Use the Rousseau and Hobbesdiscussion to argue for your position? (2 to 3 sentences)
+
 
 Extra resources:
 1. https://www.gene.com/stories/cloning-insulin
