@@ -103,7 +103,7 @@ I.e., cell migration can result in significant changes in shape and form. Don't 
 Or, a slime mold swarming on a plate and growing a stalk...
 [swarming](https://www.youtube.com/watch?v=vjRPla0BONA&feature=youtu.be)
 
-### (3) Cells cancommunicatewith each other.
+### (3) Cells cancommunicate with each other.
 I.e., cells can send chemical messages between and among each other.
 E.g., here's a type of "pulse" in gene expression generated across many cells during development of a tail-like structure...
 [Wave of gene expression in an embryo](https://www.youtube.com/watch?v=T-fa1gYfwJk&feature=youtu.be)
@@ -112,3 +112,20 @@ E.g., here's a type of "pulse" in gene expression generated across many cells du
 ### (4) Cells canchange state.
 I.e., one type of cell can become another type of cell, in response to signals or even spontaneously.E.g., here are bacterial cells infected with virus realizing different cell-fate outcomes.
 [Bacteriophage lambda lysis and lysogeny](https://www.youtube.com/watch?v=sLkZ9FPHJGM&feature=youtu.be)
+
+### (5) Cells can undergo programmed cell death 
+I.e., cells can die. Watch this cell die...
+(need new video)
+
+Taken together these functions can be used to realize incredible outcomes.E.g., watch this old-time movie of a frog egg becoming a frog.
+
+[The Development of a Frog](https://www.youtube.com/watch?v=dXpAbezdOho&feature=youtu.be)
+
+**Question:How many of the five mechanisms introduced above can you observe or infer in the formation of a frog?**
+
+***WHAT NEXT?***
+We'll pick up from the abovetomorrowand you'll practice in reality the concepts learned Monday and Wednesday in Friday'sdancing droplets demo (which is absolutely amazing)...
+
+____________________________________________________________
+
+
