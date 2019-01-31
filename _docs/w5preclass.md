@@ -25,10 +25,10 @@ Stated differently, you will be able to describe what does it mean that diffusio
 
 **Goal-3:** You will be able to describe the role and application of diffusion in engineering living matter.
 
-Let's briefly learn about application of diffusion in engineering living matter with an interesting example 
-of **Blinking Squares** ...
+Let's briefly learn about application of diffusion in engineering living matter 
+with an interesting example of **Blinking Squares** ...
 
-## Blinking Squares 
+## Case-1: Blinking Squares 
 
 Here is a videos of 500 blinking squares. 
 Each square is about 100μmx100μm and there are 25 μm gaps between each square. 
@@ -46,3 +46,30 @@ Video goes here.
 **Q.4. Can the squares synchronize their blinking together without an external signal? If yes how would that signal synchronize the squares together?**
 
 **Q.5. Can autonomous agents synchronize their behavior, and if so how?**
+
+
+## Case-2: Blinking Square
+
+Here is a videos of a single blinking square (100μmx100μm) containing about approximately 5,000 cells.
+[source-2](https://www.nature.com/articles/nature08753)
+
+**Q.6. What do you observe?**
+
+**Q.7. What is the simplest mechanism you canimagine that would cause the square to synchronize its blinking?**
+
+**Q.8. Watching  cells inside the square do you see a different brightness levels within each cell- how uniformed is the distribution of fluorescentproteins inside each individual cell in the square?**  
+
+## What Is Diffusion
+
+Diffusion is everywhere in living matter and beyond. We encounter diffusion routinely in our daily lives.
+
+**Diffusion** is a spontaneous net movement of matter (e.g., molecules, atoms) from regions of high concentration to a region of low concentration. Stated differently, diffusion is a transfer of mass that causes the distribution of molecules, or atoms to be more uniform in space as time evolves. 
+
+**Q.9.Can you think about everyday examples of diffusion in your life?**
+
+
+## Is this Diffusion? 
+
+Take a look at the following [video](https://www.youtube.com/watch?v=5JuEomRki_M)
+
+**Q.10. Is this diffusion? why or why not? How can you tell?**
