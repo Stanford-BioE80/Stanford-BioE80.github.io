@@ -61,3 +61,10 @@ If the links above do not work and you need to type them out, here are the full 
 Image Sources:
 1. Name
 2. Next-Generation Sequencing: Shendure et al, Nature 2017
+
+____________________________________________________________
+
+## Preclass for Wednesday
+Please read and consider the below before start of class on Wednesday
+The questions given are only study questions not homework to be graded.
+Talk about it all with your classmates, friends, or TAs, as you like.
