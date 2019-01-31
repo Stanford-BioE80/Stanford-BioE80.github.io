@@ -45,15 +45,12 @@ Second, watch the person playing the part of the US National Security Council fr
 
 Third, watch the person playing the part of the expert from the Centers for Disease Control &Prevention (CDC) from 14’ to 15:30’ to get additional context.
 
-NOTE: You do not need to watch the entire exercise (hours of video) to proceed.  Answer thefollowing based on the facts and figures gleaned from the <10’ of introductory video.
+*NOTE:* You do not need to watch the entire exercise (hours of video) to proceed.  Answer thefollowing based on the facts and figures gleaned from the <10’ of introductory video.
 
 Develop back-of-the-envelope estimates for the following:
 
-2.a. How many people will be infected by the virus?  Make and note whatever simplifyingassumptions you find useful 
-(20 points).
+2.a. How many people will be infected by the virus?  Make and note whatever simplifyingassumptions you find useful (20 points).
 
-2.b. How many people will die from the virus?  Make and note whatever simplifyingassumptions you find useful 
-(20 points).
+2.b. How many people will die from the virus?  Make and note whatever simplifyingassumptions you find useful (20 points).
 
-2.c. Based on your experience calculating your estimates, what one intervention would youwish for and why?  <100 words.  
-(10 points).
+2.c. Based on your experience calculating your estimates, what one intervention would youwish for and why?  (Max 100 words, 10 points).
