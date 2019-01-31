@@ -18,7 +18,7 @@ In this PSET you will review the minimal genome paper as practiceto learn how to
 You will also improve your quantitative intuition with anestimation problem, 
 and finally revisit the meet your microbe activity.
 
-## (Q1) Design and Synthesis of a Minimal Bacterial Genome** (40 pts)
+## (Q1) Design and Synthesis of a Minimal Bacterial Genome (40 pts)
 
 A key skill that you will need as bioengineers is to read, understand, and extract informationfrom research papers that are shaping and defining the frontiers of bioengineering. This is inpart due to the fast changing pace of bioengineering. We would like you to practice this skill as early as possible, to help you become better at it.
 
