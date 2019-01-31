@@ -52,16 +52,32 @@ As another rule of thumb, let’s treat the volume of an *E. coli* cell as being
 In real life, cell size and volume willv ary based upon species, growth rate, and stage of division 
 in addition to many other factors.
 
-**Q.2.a.** How long would the *E. coli* genome be as a linear strand of DNA?  Provide your answerin μm. How long would the Syn3.0 genome be as as a linear strand of DNA?
+2.a. How long would the *E. coli* genome be as a linear strand of DNA?  Provide your answerin μm. How long would the Syn3.0 genome be as as a linear strand of DNA?
+
+2.b. The *E. coli* genome is actually circular. What is the radius of the genome, assuming thegenome is arranged as a perfect circle and given the linear length that you calculated above?
+
+2.c. Consider your answers in relation to the size specifications for *E. coli* given above. Whatdoes this imply about the layout of DNA inside a living cell? (Two sentences).
+
+Note: A good rule of thumb for the volume of a DNA base pair is that one base pair has avolume of approximately 1 nm^3.
+
+2.d. How much DNA could be packed into an *E. coli* cell, assuming that the whole cellvolume only contains DNA? Why is this number ridiculous? (i.e., the *E. coli* genome issignificantly smaller: why?)
+
+Additional resources: If you like to learn more about various genome sizes please visit this [link](http://book.bionumbers.org/how-big-are-genomes/)
 
 
-**Q.2.b.** The *E. coli* genome is actually circular. What is the radius of the genome, assuming thegenome is arranged as a perfect circle and given the linear length that you calculated above?
+## (Q3) Meet your Microbe (20 pts)
 
+On Wednesday and Friday of this week you cultivated, grew, and examined the microbes from your skin.
 
-**Q.2.c.** Consider your answers in relation to the size specifications for *E. coli* given above. Whatdoes this imply about the layout of DNA inside a living cell? (Two sentences).
+3.a. Describe in your own words what is the microbiome, and provide a current example ofstudy of the microbiome (include references if needed) (Max 100 words)
 
+3.b. What are key methods used to study the microbiome? (Bullet points)
 
+3.c. What are the current and future roles of DNA sequencing and synthesis in thestudy and engineering of microbiome? (1 or 2 Bullet points for each)
 
+3.d. **Colony Morphology** Examine the morphology of the colonies on your plates. Describe as comprehensively as possible the ONE most interesting colony at your table (you decide what’s interesting!). What is the size, shape, and shape of the colony? What is thenarrowest classification you can make of this colony? Make sure to include a picture. (Max 100 words)
 
+**Final Notes:** The Ability to read (and try to understand) primary sources (research papers) is a core skill that you will need both as a student and beyond college. This week you learned about Syn3.0 and how through building a minimal genome researchers discovered 149 essential genes that were previously unidentified. The paper highlighted our improved ability to synthesize genes, and combine them together to create a minimal genome. At the same time it highlighted our critical gaps in knowing what genes might be essential ahead of time.
 
-
+**Your questions**
+Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
