@@ -48,8 +48,30 @@ Next, the link to an open source project for making insulin: [link](http://openi
 
 Is it ok for the DIY bioengineers to create their own insulin? Use the Rousseau and Hobbesdiscussion to argue for your position? (2 to 3 sentences)
 
-
 Extra resources:
 1. https://www.gene.com/stories/cloning-insulin
 2. http://clinchem.aaccjnls.org/content/48/12/2270.long#sec-18
 3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3714061/
+
+
+## (Q3) Artemisinin (15 Points)
+
+Think back to the in class case study on the production of the key ingredient for the treatment ofmalaria, Artemisinin (Additional information here: [s](https://www.nature.com/articles/nrmicro3240), [s2](http://www.nature.com.stanford.idm.oclc.org/articles/nature12051)
+
+3.a. What were some of the key lessons from this example? (2-3 bullet points)
+
+3.b. Why was the project not successful?(bullet points)
+
+3.c. If you were in charge of this project what would you have done differently?(2-3 sentences)
+
+
+## (Q4) Artemisinin (15 Points)
+
+4.a. Did you show up on Friday, make your mycelium material object? (Yes /No)
+
+4.b. Describe in broad terms what processes unique to living matter are enabling building withmushrooms possible. 
+What are the potential and limitations of making with mushrooms? (bullet points)
+
+4.c. How is making with mushrooms similar to or different from other manufacturing processessuch as 3D printing? (bullet points)
+
+4.d. Looking forward, how do we go from creating matter with an inert function (e.g., a chair) to creat matter with biological function (i.e., growing a finger or a heart)? What new considerations need to be made? 
