@@ -41,7 +41,7 @@ Using the figure briefly explain how they went from Oligos to a whole genome? (b
 Describe what you see when comparing panel A and B and panel C?(bullet points) 
 Which cellsgrow faster? ( Syn1.0 or Syn3.0.)
 
-## (Q2) Approximation and estimation - Genome Size ** (40 pts)
+## (Q2) Approximation and estimation - Genome Size (40 pts)
 
 Now thatyou have examined a minimal genome have you wondered how big is a typical genome?
 
