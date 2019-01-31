@@ -65,10 +65,10 @@ Every year, we are reminded to go get a flu shot.
 
 Briefly examine the two following links:
 
-1.[Why You Need the Flu Shot Every Year](https://www.nytimes.com/2017/12/12/smarter-living/why-you-need-the-flu-shot-every-year.html)
+1. [Why You Need the Flu Shot Every Year](https://www.nytimes.com/2017/12/12/smarter-living/why-you-need-the-flu-shot-every-year.html)
 Let’s highlight to the following from above link: “Tiny mutations help the virus evade detection, and as it evades detection, it’s more successful at multiplying”.
 
-2.[How the Flu Virus Can Change](https://www.cdc.gov/flu/about/viruses/change.htm)
+2. [How the Flu Virus Can Change](https://www.cdc.gov/flu/about/viruses/change.htm)
 
 
 An **algorithm** can be defined as:  
