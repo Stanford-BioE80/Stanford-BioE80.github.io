@@ -12,8 +12,9 @@ _______________________________________________________________________
 
 ## Preclass for Monday
 
-## Introduction: Evolving Better Biology | From Natural Algorithm to Engineering Service
+## Introduction: Evolving Better Biology
 
+## From Natural Algorithm to Engineering Service
 
 This week you will examine the role of evolution from a Bioengineering perspective. 
 After considering the following example and the material throughout this week you will be able to: 
@@ -107,13 +108,13 @@ Through these examples, you have started to synthesize the workings of evolution
 *Additional Resources:*
  Please make sure to briefly take a look at these great resources: 
  
- [1.Collection of links - excellent place to learn about fundamental concepts in evolution](https://www.nature.com/scitable/knowledge/library/evolution-is-change-in-the-inherited-traits-15164254) 
+ [1. Collection of links - excellent place to learn about fundamental concepts in evolution](https://www.nature.com/scitable/knowledge/library/evolution-is-change-in-the-inherited-traits-15164254) 
  
  [2. Misconceptions about evolution](https://evolution.berkeley.edu/evolibrary/misconceptions_teacherfaq.php#a2)
  
  [3. Host and Viral Evolution: Molecular Evolutionary Arms Race Between Primate and Viral Genomes link](https://www.ibiology.org/microbiology/viral-evolution/)
 
-[4.Spanish Influenza Pandemic and Vaccines](https://www.historyofvaccines.org/content/blog/spanish-influenza-pandemic-and-vaccines)
+[4. Spanish Influenza Pandemic and Vaccines](https://www.historyofvaccines.org/content/blog/spanish-influenza-pandemic-and-vaccines)
 
 
 
@@ -149,12 +150,14 @@ Another example of human intervention in evolution is dog breeding. Take a look 
 
  ## Example-2: Directed evolution of proteins 
  
-[Directed evolution](https://www.nobelprize.org/prizes/chemistry/2018/press-release/) is an effective strategy for improving or altering the activity of biomolecules for industrial, research and therapeutic applications. Laboratory evolution of proteins requires methods for generating genetic diversity coupled with identifying protein variants with desired properties. Here is an introduction from a [research article](https://www.nature.com/articles/nrg3927)
+[Directed evolution](https://www.nobelprize.org/prizes/chemistry/2018/press-release/) is an effective strategy for improving or altering the activity of biomolecules for industrial, research and therapeutic applications. Laboratory evolution of proteins requires methods for generating genetic diversity coupled with identifying protein variants with desired properties. 
+
+Here is an introduction from a [research article](https://www.nature.com/articles/nrg3927)
 
 “ Over many generations, iterated mutation and natural selection during biological evolution provide solutions for challenges that organisms face in the natural world. However, the traits that result from natural selection only occasionally overlap with features of organisms and biomolecules that are sought by humans. To guide evolution to access useful phenotypes more frequently, humans for centuries have used artificial selection, beginning with the selective breeding of crops and domestication of animals. More recently, directed evolution in the laboratory has proved to be a highly effective and broadly applicable framework for optimizing or altering the activities of individual genes and gene products, which are the fundamental units of biology Genetic diversity fuels both natural and laboratory evolution. The occurrence rate of spontaneous mutations is generally insufficient to access desired gene variants on a time scale that is practical for laboratory evolution. A number of genetic diversification techniques are therefore used to generate libraries of gene variants that accelerate the exploration of a gene's sequence space. Methods to identify and isolate library members with desired properties are a second crucial component of laboratory evolution. During organismal evolution, phenotype and genotype are intrinsically coupled within each organism. However, during laboratory evolution (Figure-3), it is often inconvenient or impossible to manipulate genes and gene products in a coupled manner. Therefore, single-gene evolution in the laboratory requires carefully designed strategies for screening or selecting functional variants in ways that maintain the genotype–phenotype association.
 
 **Figure-3:** The process of directed evolution in the laboratory mimics that of biological evolution.  A diverse library of genes is translated into a corresponding library of gene products and screened or selected for functional variants in a manner that maintains the correspondence between genotype (genes) and phenotype (gene products and their functions). These functional genes are replicated and serve as starting points for subsequent rounds of diversification and screening or selection. B. Although the mutational space is multidimensional, it is conceptually helpful to visualize directed 
-evolution as a series of steps within a three-dimensional fitness landscape. Library generation samples the proximal surface of the landscape, and screening or selection identifies the genetic means to 'climb' towards fitness peaks. Directed evolution can arrive at absolute maximum activity levels but can also become trapped at local fitness maxima in which library diversification is insufficient to cross 'fitness valleys' and access neighbouring fitness peaks [Source](https://www.nature.com/articles/nrg3927)
+evolution as a series of steps within a three-dimensional fitness landscape. Library generation samples the proximal surface of the landscape, and screening or selection identifies the genetic means to 'climb' towards fitness peaks. Directed evolution can arrive at absolute maximum activity levels but can also become trapped at local fitness maxima in which library diversification is insufficient to cross 'fitness valleys' and access neighbouring fitness peaks [Source](https://www.nature.com/articles/nrg3927).
 
 **Natural selection:** A process by which individuals with the highest reproductive fitness pass on their genetic material to their offspring, thus maintaining and enriching heritable traits that are adaptive to the natural environment. 
 
@@ -175,7 +178,8 @@ evolution as a series of steps within a three-dimensional fitness landscape. Lib
  ([link-1](https://www.theatlantic.com/science/archive/2017/02/in-bacteria-persistence-leads-to-resistance/516138/), 
  [link-2](https://www.theatlantic.com/science/archive/2016/05/the-ten-part-plan-to-avert-our-post-antibiotic-apocalypse/483360/). 
  
- According to [CDC](https://www.cdc.gov/antibiotic-use/community/about/antibiotic-resistance-faqs.html):
+
+According to [CDC](https://www.cdc.gov/antibiotic-use/community/about/antibiotic-resistance-faqs.html):
  
 “Overuse and misuse of antibiotics can promote the development of antibiotic resistance. Every time a person takes antibiotics, sensitive bacteria (bacteria that antibiotics can still attack) are killed, but resistant bacteria are left to grow and multiply. This is how repeated use of antibiotics can increase the number of drug-resistant bacteria.  Antibiotics are not effective against viral infections like the common cold, flu, most sore throats, bronchitis, and many sinus and ear infections. Widespread use of antibiotics for these illnesses is an example of how overuse of antibiotics can promote the spread of antibiotic resistance. Smart use of antibiotics is key to controlling the spread of resistance.”
  
@@ -191,6 +195,7 @@ Here is the abstract from the [paper](http://science.sciencemag.org/content/353/
 "A key aspect of bacterial survival is the ability to evolve while migrating across spatially varying environmental challenges. Laboratory experiments, however, often study evolution in well-mixed systems. Here, we introduce an experimental device, the microbial evolution and growth arena (MEGA)–plate, in which bacteria spread and evolved on a large antibiotic landscape (120 × 60 centimeters) that allowed visual observation of mutation and selection in a migrating bacterial front. While resistance increased consistently, multiple coexisting lineages diversified both phenotypically and genotypically. Analyzing mutants at and behind the propagating front, we found that evolution is not always led by the most resistant mutants; highly resistant mutants may be trapped behind more sensitive lineages. The MEGA-plate provides a versatile platform for studying microbial adaption and directly visualizing evolutionary dynamics." 
 
 **Q.7. Could we use evolution to combat antibiotic resistance?**
+
 
 *Useful Additional Resource:* 
 Review the key Takeaways from: 
