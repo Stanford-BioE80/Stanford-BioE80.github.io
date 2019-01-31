@@ -75,3 +75,20 @@ What are the potential and limitations of making with mushrooms? (bullet points)
 4.c. How is making with mushrooms similar to or different from other manufacturing processessuch as 3D printing? (bullet points)
 
 4.d. Looking forward, how do we go from creating matter with an inert function (e.g., a chair) to creat matter with biological function (i.e., growing a finger or a heart)? What new considerations need to be made? 
+
+
+**Extra Credit (5 points)**
+
+There are several great spots on campus to explore and bioprospect in search of newmushrooms that could potentially be used for making materials. 
+
+For this activityyou can explore the variety of fungal diversity outside (even theengineering quad has fungi to discover!).
+
+Find a mushroom on campus, take a photo of it, and note your location (GPS coordinates via your phone) and other characteristics such as the surrounding ecology.Document your finding by including a paragraph description, your photo, and thelocation of your find in your PSET submission. 
+
+Please don’t disturb or eat any mushrooms you find for this extra credit.
+
+For more info/inspiration you might check out:
+
+- http://www.namyco.org/photography.php
+
+- https://www.mssf.org/
