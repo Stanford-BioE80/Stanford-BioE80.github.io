@@ -23,4 +23,32 @@ or synthesize the designs systems that could then be implemented in living matte
 
 ## Example-1:  Bacterial Flash Mob
 
-**Q.1. Write down the DNA sequence encoding a dynamic bacterial flash mob (see animation below in Figure.1 ).Q1. What is the first base of your DNA program?  A, T, C, or G?  (Note: Do not spend more than 100 seconds pondering and answering this question.  Time’s up!).  
+**Write down the DNA sequence** encoding a dynamic bacterial flash mob (see animation below in Figure.1 )
+
+**Q.1. What is the first base of your DNA program?  A, T, C, or G?  
+(Note: Do not spend more than 100 seconds pondering and answering this question.  Time’s up!).**  
+
+**ADD GIF here**
+*Figure 1.  Dynamic bacterial flash mob.* 
+A collection of engineered bacteria (black dots)move randomly in two dimensions.One cell activates randomly, turns red, and secretes a diffusing attractant molecule (green circle).All other cells sense and move towards the source of the attractant.After a period of time all cells return to their original stateuntil the process repeats over and again.
+
+**Q2. Why is Q1 a difficult question to answer?**   
+(Hint: Consider the difference between what you do and what must physically occur to use a smartphone to take a photograph and send an image to your best friend via text message.  Are you ever typing 0s and 1s into your phone?  What’s happening instead?)
+
+
+One simple-but-powerful and general-purpose approach for organizing engineered systems is shown on the next slide.  Forexample, a computer has a keyboard that receives input via keys (sensors), performs logical operations (computation), andcan output via a display, printer or other device (actuation).  As a second example, a pilot can control a Boeing 787 airplaneby moving the yoke, whose inputs are combined with other inputs collected by additional sensors (e.g., air pressure), andthen a flight computer determines what the actuated flight surfaces on the wings and tail physically do, as controlled by a“fly-by-wire” system.
+
+
+Note that our thinking about such systems can quickly become complicated by the details of any one example, but thateach example follows a similar pattern; inputs are received by one or more sensors; so-received information is computedupon as needed via an intermediate process; and finally some action is taken.  Please also note that in more complicatedsystems the output of a system can itself be an input, creating a “loop” or feedback to realize more sophisticated dynamics(e.g., repeating or other dynamically controlled behaviors, such as in the case of the looping bacterial flash mob).
+
+
+**ADD Fig-2 here**
+*Figure 2.  Generic system architecture.*  
+A sensor measures environmentalproperties or inputs  (for example: a keyboard) and transfers this information to a computer (logic unit) to be processed. The results are then transferred to an actuator (e.g., a printer or a display) that can output these results.
+
+
+This same framework can be applied to help manage the engineering of biological systems.Stated differently, the desired behavior of a complicated biological process can be represented at an intermediate level ofabstraction via a simpler-to-understand  “black box” diagram.
+
+
+**Q3. Revisit to the bacterial flash mob and develop a device-level block diagram that would result in the so-shownbehavior.  Label simple sensors, logic blocks, and actuators, as needed.  Connect outputs to inputs (i.e., connectboxes together via ines) where and as required.**  
+(Hint: Only give simple device names (e.g., “coin flip,” “turn red,” etc.);do not describe any biology in any molecular detail).
