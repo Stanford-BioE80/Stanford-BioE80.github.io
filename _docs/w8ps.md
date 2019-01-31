@@ -23,7 +23,7 @@ how people are organized, or organize themselves.
 Note: In this question, we are looking for a clear and logical argument that uses the assumptions from 1.a. 
 (100 words, 10 points)
 
-## (Q2)Insulin and Access (30 Points)
+## (Q2) Insulin and Access (30 Points)
 
 2.a. Examine these resources and briefly answer the following: What are theglobal trends of the disease? 
 How affordable (and accessible) is insulin currently? (bullet points)
@@ -35,4 +35,17 @@ How affordable (and accessible) is insulin currently? (bullet points)
 Hearing of Senate Special Committee on Aging:[resource-2](http://www.diabetes.org/newsroom/press-releases/2018/insulin-affordability-white-paper-release.html)
 
 
--PDB 101 - Diabetes Mellitus timeline:[resource-3](http://pdb101.rcsb.org/global-health/diabetes-mellitus/about/timeline)
+- PDB 101 - Diabetes Mellitus timeline:[resource-3](http://pdb101.rcsb.org/global-health/diabetes-mellitus/about/timeline)
+
+2.b. Examine the structure of insulin from [link](http://pdb101.rcsb.org/motm/14How) is human insulin different from pig insulin? Examine the structure of designer insulins from [link-2](http://pdb101.rcsb.org/motm/194) Pick either long-acting or fast-acting insulins. What changes to the protein made these designerproteins (e.g., long-acting or fast-acting) possible? (bullet points)
+
+2.c. Examine the following resources:First, skim the article titled: “Why is There No Generic Insulin? Historical Origins of a ModernProblem.”[link-3](https://www.nejm.org/doi/full/10.1056/NEJMms1411398)
+
+Next, the link to an open source project for making insulin: [link-4](http://openinsulin.org/)
+
+Is it ok for the DIY bioengineers to create their own insulin? Use the Rousseau and Hobbesdiscussion to argue for your position? (2 to 3 sentences)
+
+Extra resources:
+1. https://www.gene.com/stories/cloning-insulin
+2. http://clinchem.aaccjnls.org/content/48/12/2270.long#sec-18
+3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3714061/
