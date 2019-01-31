@@ -45,10 +45,14 @@ What is the percent difference between your two estimations?
 The US government has been using an underground salt mine in Pennsylvania as a long termstorage facility for physical documents, primarily retirement related papers. According to theWashington Post, in this facility approximately 1000 employees pass thousands of case filesfrom cavern to cavern and then type in retirees’ personal data, one line at a time. Basicdocument retrieval involves a forklift and takes days. Given the trends in DNA read and write,consider using DNA as an alternative storage medium for these documents.
 
 Helpful numbers:
+
 Volume of storage facility = 10 million m^3
+
 Letters per cubic meter of typical government document = 10^9 letters/ m^3
+
 Volume of a DNA base pair ~ 10^-27 m^3
-Please round or simplify whenever convenient
+
+Please round or simplify whenever convenient.
 
 3.a. Since DNA has only 4 bases, but English has 26 letters, you will somehow have to mapletters to bases. Briefly specify a simple encoding scheme for doing that. You *do not* have togive a letter to DNA mapping for all letters. 
 The first few will do the trick. (4 pts)
