@@ -1,4 +1,4 @@
-#### Week 3 Preclass
+# Week 3 Preclass
 
 ## Preclass for Monday
 Please read and consider the below before start of class on Monday.
@@ -6,7 +6,7 @@ The questions given are only study questions not homework to be graded.
 Talk about it all with your classmates, friends, or TAs, as you like.
 
 
-### Introduction |Technology, Tools, and Trends (DNA read and write)
+## Introduction |Technology, Tools, and Trends (DNA read and write)
 
 This week we will explore **What changes may arise via trends in DNA read andwrite tools may matter for the rest of our lives?**  We hope you will learn more about the core capacities for accessing and encoding DNA and also consider thequantitative pacing of how these tools are improving.  This pre-class materialfocuses mostly on DNA sequencing...
 
