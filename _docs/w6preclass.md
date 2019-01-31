@@ -35,7 +35,7 @@ or synthesize the designs systems that could then be implemented in living matte
 *Figure 1.  Dynamic bacterial flash mob.* 
 A collection of engineered bacteria (black dots)move randomly in two dimensions.One cell activates randomly, turns red, and secretes a diffusing attractant molecule (green circle).All other cells sense and move towards the source of the attractant.After a period of time all cells return to their original stateuntil the process repeats over and again.
 
-**Q2. Why is Q1 a difficult question to answer?**   
+**Q.2. Why is Q1 a difficult question to answer?**   
 (Hint: Consider the difference between what you do and what must physically occur to use a smartphone to take a photograph and send an image to your best friend via text message.  Are you ever typing 0s and 1s into your phone?  What’s happening instead?)
 
 
@@ -53,7 +53,7 @@ A sensor measures environmentalproperties or inputs  (for example: a keyboard) a
 This same framework can be applied to help manage the engineering of biological systems.Stated differently, the desired behavior of a complicated biological process can be represented at an intermediate level ofabstraction via a simpler-to-understand  “black box” diagram.
 
 
-**Q3. Revisit to the bacterial flash mob and develop a device-level block diagram that would result in the so-shownbehavior.  Label simple sensors, logic blocks, and actuators, as needed.  Connect outputs to inputs (i.e., connectboxes together via ines) where and as required.**  
+**Q.3. Revisit to the bacterial flash mob and develop a device-level block diagram that would result in the so-shownbehavior.  Label simple sensors, logic blocks, and actuators, as needed.  Connect outputs to inputs (i.e., connectboxes together via ines) where and as required.**  
 (Hint: Only give simple device names (e.g., “coin flip,” “turn red,” etc.);do not describe any biology in any molecular detail).
 
 
@@ -67,6 +67,12 @@ From a different perspective, note how George Boole observed ways in which human
 
 But, returning to the Bacterial Flash Mob example.
 
-**Q4. When we go to actually implement any sensor, computer, or actuator, what exactly is inside the boxes?  Are there actually black boxes inside a cell?  What “wires” connect one box to another?**
+**Q.4. When we go to actually implement any sensor, computer, or actuator, what exactly is inside the boxes?  Are there actually black boxes inside a cell?  What “wires” connect one box to another?**
 
 These are challenging questions that we will resolve starting Monday!
+
+*Useful Additional Resource:* 
+Check out this free comic bolok that starts out simple but quickly begins to develop answers to **Question-4**
+[Adventures in Synthetic Biology](https://openwetware.org/wiki/Adventures)
+
+
