@@ -76,13 +76,13 @@ Helpful resources:[link1](https://www.nature.com/news/how-dna-could-store-all-th
 
 In the pre-class material you were introduced to a DNA read method commonly referred to as next-generation sequencing (NGS) or massively parallelsequencing. Let’s examine an alternative approach, namely nanopore sequencing.
 
-**figure. 1:Nanopore sequencing enables real-time read of the DNA.​source​: “DNA sequencing at 40: past, present and future”**
+**figure. 1:Nanopore sequencing enables real-time read of the DNA.source : “DNA sequencing at 40: past, present and future”**
 
-Watch this [video](https://nanoporetech.com/resource-centre/videos/nanopore-dna-sequencing)
+Watch this [video](https://nanoporetech.com/products/minion)
 
 4.a. Describe how Nanopore sequencing works (use bullet points). (8 pts)
 
-MinION is a product that uses Nanopores for sequencing [video](https://nanoporetech.com/products/minion). 
+MinION is a product that uses Nanopores for sequencing.
 While the error rate with Nanopore technology is between 5-10%. [additional Link](https://f1000research.com/articles/6-760/v1). This tool can be used to sequence and assemble a human genome
 [additional link](https://www.nature.com/articles/nbt.4060).  Now brefiely examine the various products sequencing technology from illumina [link](https://www.illumina.com/systems/sequencing-platforms/comparison-tool.html).
 
@@ -98,7 +98,7 @@ Please include quantitative reasoning in your answer.  (4 pts)
 4.d. Where would you use an Illumina sequencing machine instead of a minION sequencingmachine? 
 and vice versa? (4 pts)
 
-## (EXTRA CREDIT) Scavenger hunt: Find some “artificial stone” and take a selfie (2 pts)
+### (EXTRA CREDIT) Scavenger hunt: Find some “artificial stone” and take a selfie (2 pts)
 
 **Figure. 2: Example photo of George Goodman’s Artificial Stone(this photo is taken looking down at a sidewalk)**
 
