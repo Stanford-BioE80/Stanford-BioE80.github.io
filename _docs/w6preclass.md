@@ -106,7 +106,7 @@ Or, in natural language, “We start with a collection of engineered e-coli movi
 **Q.3.** Returning to work with your partner.  Label each of your boxes via the generic systemarchitecture we learned about in class this week.  That is, for each of your black boxes, labeleach with the letter “S,” “C,” or “A” depending on if each box can best be thought of as a“Sensing,” “Computing,” or “Actuating” function, respectively.  **(up to 5 minutes)**
 
 
-Take a break, look here: [iGEM-2006: Polkadorks](lhttps://2006.igem.org/wiki/index.php/IAP2004:Polkadorks)
+Take a break, look here: [iGEM-2006: Polkadorks](https://2006.igem.org/wiki/index.php/IAP2004:Polkadorks)
 
 
 **Q.4.** Pick any “Computing” device that is used in your system.  Describe using simple words thebasic biological functions that could be used to implement such a device.  Note that this is hardwork if you don’t know anything about basic biological functions.  Ask for help as needed.  Thinkabout words like protein, DNA, gene expression, transcription, translation, ON, etc.  **(up to 7.5’)**
