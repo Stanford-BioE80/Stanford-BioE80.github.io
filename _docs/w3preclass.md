@@ -26,13 +26,11 @@ Put yourself in the shoes of a couple who recently discovered they were pregnant
 
 **Scenario-2:** It is 2018 and in leading-edge children’s hospitals amniocentesis has beenreplaced by non-invasive prenatal testing (NIPT), previously known as cell free DNA testing. NIPT is based on a simple blood draw that enables determination of geneticdisorders and even the sex of an unborn fetus. The test works because it turns out thatthere is DNA from the fetus circulating in the pregnant woman’s blood (e.g., if apregnant woman has Y chromosome DNA in her blood then she is carrying a malefetus). Please watch [video](https://www.youtube.com/watch?v=e86_l_UqecU) about cell free fetal DNA analysis if you want moredetail.
 
-
 <figure>
 <href="/assets/images/w3pc_CarlsonCurves.png"><img src="/assets/images/w3pc_CarlsonCurves.png">
-Figure.1. "Reduction of the Price of DNA sequencing (reading) and synthesis(writing) per base per over past 30 years. <a href="https://synbiobeta.com/time-new-dna-synthesis-sequencing-cost-curves-rob-carlson/">Source</a>
+Figure.1. "Reduction of the Price of DNA sequencing (reading) and synthesis(writing) per base per over past 30 years. <a href="https://synbiobeta.com/time-new-dna-synthesis-sequencing-cost-curves-rob-carlson/"> Source</a>
 </figcaption>
 </figure>
-
 
 **Q.2. Do you think NIPT could have been economically feasible in the year 2010?What about 2000, or 1990? Why?**
 
