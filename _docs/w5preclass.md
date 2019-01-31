@@ -75,7 +75,7 @@ Take a look at the following [video](https://www.youtube.com/watch?v=5JuEomRki_M
 **Q.10. Is this diffusion? why or why not? How can you tell?**
 
 *Additional Resource*
-Entropy Explained, With Sheep [link-1](https://aatishb.com/entropy/)
+Entropy Explained [link-1](https://aatishb.com/entropy/)
 
 ____________________________________________________________
 
@@ -83,3 +83,26 @@ ____________________________________________________________
 
 Just a few minutes of your time spent on what following should get you ready for Wednesday's class.
 
+We ended class on Monday with an initial consideration of diffusion, introducing the idea that spontaneous diffusion of systems comprised of more than one molecule can *temporarily* result in non-trivial spatial patterns (e.g., a bullseye).
+
+Next we will build on both ideas.E.g,. how can state (i.e., memory) be used to capture and make permanent fleeting patterns?How can patterns build upon patterns?
+
+We'll start by drawing again upon the preclass from Monday(i.e., the bacterial blinking oscillators) and end by working through a challenge of how to program the growth an arm-like structure.
+
+Please ponder how cells can act... I.e., the various primary functions that cells can "execute" or carry out. 
+By combining spontaneous physical processes starting from diffusion with programmed cellular functions, both natural and engineered biological systems can realize non-trivial behaviors over both space and time. More specifically:
+
+### (1) Cells can grow and divide. 
+I.e., one cell can become two and so on. 
+[Cell Division - Exponential](https://www.youtube.com/watch?v=9x23n4zBOU8&feature=youtu.be)
+
+### (2) Cells can move.
+I.e., cell migration can result in significant changes in shape and form. Don't believe See a brand new movie of an immune cell moving inside the ear of a fish...
+[Immune Cell Migration in the Zebrafish Inner Ear](https://www.youtube.com/watch?v=Hz0VlUVjYfI&feature=youtu.be)
+
+Or, a slime mold swarming on a plate and growing a stalk...
+[name](https://www.youtube.com/watch?v=vjRPla0BONA&feature=youtu.be)
+
+(###3) Cells cancommunicatewith each other.
+I.e., cells can send chemical messages between and among each other.
+E.g., here's a type of "pulse" in gene expression generated across many cells during development of a tail-like structure...
