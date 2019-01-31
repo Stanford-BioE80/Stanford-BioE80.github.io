@@ -47,4 +47,37 @@ bacteria growing on a plate) detect a light-encoded image.  The bacteria are ini
 depending on whether they are exposed to light or not, send or receive small molecule-encoded signals that diffuse 
 across the light/dark boundary.  Only cells positioned at the boundary between light and dark express an enzyme that 
 results in formation of a dark pigment (HINT: see Figure and also the primary 
-[source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775486/)
+[source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775486/))
+
+
+Add figure here. 
+
+2.a. **Develop a device-level block diagram** that would result in the so-shown behavior.Label simple sensors, logic blocks, and actuators, as needed.  Connect outputs to inputsif and as required. (Hint:  Only give simple device names (e.g., “Dark sensor,” “pigmentactuator” etc.); do not describe any biology in any molecular detail).  (30 points)
+
+
+2.b. Take a look at the photo of the system in action. Note the edge detection in the case of asquare or Alfred Hitchcock’s portrait. **What do you observe?** For example, why is there more pigment inside the corners of the square, or inside the bottom left angle of Alfred’s portrait?  (bullet points, 10 points)
+
+
+## (Q3) Ring Oscillator (20 pts)
+
+
+Here is a system level diagram of a 3-inverter Ring oscillator.Think back to the class on Wednesday, imagine that you are a system's level **Bioengineer** designing this oscillator...
+
+Add figure here. 
+
+
+3.a. What is an ideal inverter from a systems level perspective? (bullet points and a simple diagram to describe inputs and outputs for the inverters) (10 points)
+
+
+3.b. Provide an example of a bad design choice, from system's level view, for these inverters? (Ring oscillator should still work) (10 points)
+
+
+**Extra learning** (100% optional):
+
+If you want to explore more re: a different type of DNA logic mentioned briefly in class, pleasecheck out this video from Prof. Endy on how to to engineer Boolean integrase Logic (BIL) gatesbased on DNA flipping... 
+[Transcriptors & Boolean Integrase Logic (BIL) gates, explained](https://www.youtube.com/watch?v=ahYZBeP_r5U)
+
+
+
+
+
