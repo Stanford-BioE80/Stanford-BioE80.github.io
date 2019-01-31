@@ -83,7 +83,8 @@ Watch this [video](https://nanoporetech.com/resource-centre/videos/nanopore-dna-
 4.a. Describe how Nanopore sequencing works (use bullet points). (8 pts)
 
 MinION is a product that uses Nanopores for sequencing [video](https://nanoporetech.com/products/minion). 
-While the error rate with Nanopore technology is between 5-10%. [additional Link](https://f1000research.com/articles/6-760/v1). This tool can be used to sequence and assemble a human genome[additional link] (https://www.nature.com/articles/nbt.4060).  Now brefiely examine the various products sequencing technology from illumina [link](https://www.illumina.com/systems/sequencing-platforms/comparison-tool.html).
+While the error rate with Nanopore technology is between 5-10%. [additional Link](https://f1000research.com/articles/6-760/v1). This tool can be used to sequence and assemble a human genome
+[additional link](https://www.nature.com/articles/nbt.4060).  Now brefiely examine the various products sequencing technology from illumina [link](https://www.illumina.com/systems/sequencing-platforms/comparison-tool.html).
 
 4.b. How are NGS and Nanopore sequencing different? (4 pts)
 
@@ -94,4 +95,17 @@ a sequencer that gives massive simultaneous shortreads with very low error,
 or fast readers that reads long sequences with error rates as high as 15 %. 
 Please include quantitative reasoning in your answer.  (4 pts)
 
-4.d. Where would you use an Illumina sequencing machine instead of a minION sequencingmachine? and vice versa? (4 pts)
+4.d. Where would you use an Illumina sequencing machine instead of a minION sequencingmachine? 
+and vice versa? (4 pts)
+
+## (EXTRA CREDIT) Scavenger hunt: Find some “artificial stone” and take a selfie (2 pts)
+
+**Figure. 2: Example photo of George Goodman’s Artificial Stone(this photo is taken looking down at a sidewalk)**
+
+Here is a sample photo of George Goodman’s artificial stone used to build parts of the campus.
+As discussed This week standardization (process for dividing labor) in civil engineering has enabled us to transform and shape rocks (in this case artificial stones) into building blocks for building structures ranging from Stanford’s campus to Segovia’s aqueduct. 
+You will receive 2 points extra credit if you find and take a selfie with any of Mr. Goodman’s Artificial Stones markers (there are many around the main quad). Please include a figure caption with your image.
+
+**Final Notes:** This week you learned about tools and technologies that enable DNA read and write. As part ofyour core bioengineering skills you should be able to describe how these technologies work.You also learned about the non-trivial speed of development in these technologies and thevarious ramifications of this development. 
+
+Do you have any unanswered questions (from this week, past weeks, or general BIOE) that youwould like to share with us?
