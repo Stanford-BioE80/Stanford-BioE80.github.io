@@ -28,7 +28,7 @@ Put yourself in the shoes of a couple who recently discovered they were pregnant
 
 
 <figure>
-<a href="/assets/images/w3pc_CarlsonCurves.png"><img src="/assets/images/w3pc_CarlsonCurves.png"></a>
+<href="/assets/images/w3pc_CarlsonCurves.png"><img src="/assets/images/w3pc_CarlsonCurves.png">
 **Figure.1.** "Reduction of the Price of DNA sequencing (reading) and synthesis(writing) per base per over past 30 years. <a href="https://synbiobeta.com/time-new-dna-synthesis-sequencing-cost-curves-rob-carlson/">Source</a>
 </figcaption>
 </figure>
