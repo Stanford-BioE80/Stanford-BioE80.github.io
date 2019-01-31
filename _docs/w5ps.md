@@ -82,7 +82,7 @@ Solve the equation above for C(x). You’ll need to use these equations to solve
 2.d. Why do you think a planarian is so flat? (5 points)
 
 
-## (Q3)Dancing Droplets (20 pts) 
+## (Q3) Dancing Droplets (20 pts) 
 
 3.a. Were you able to get droplets chase one another? If you have two different droplets, why dothey chase each other? What other behaviors have you observed? (Include photos with figure captions - if you have)(Max 100 words, 10 pts)
 
@@ -106,13 +106,16 @@ Do you have any unanswered questions (from this week, past weeks, or general BIO
 
 *Additional Resources*    
 
-The following link takes you to a paper titled [Life at Low Reynolds Number](https://www2.gwu.edu/~phy21bio/Reading/Purcell_life_at_low_reynolds_number.pdf) that examines physics at the scale of a bacteria. The following link takes you to a digital copy of a good book titled [The Machinery of life](https://searchworks.stanford.edu/view/11568895) which can help you with the concepts we have covered both this week and in previous weeks.
+The following link takes you to a paper titled [Life at Low Reynolds Number](https://www2.gwu.edu/~phy21bio/Reading/Purcell_life_at_low_reynolds_number.pdf) that examines physics at the scale of a bacteria.  The following link takes you to a digital copy of a great book titled [The Machinery of life](https://searchworks.stanford.edu/view/11568895) which can help you with the concepts we have covered both this week and in previous weeks.
 
-*The following links* 
-are **explorables** that can help you explore and build an intuition aboutpatterns and pattern formation. 
-We hope that you take some time and examine them on your own:
+*The following links* are **explorables** that can help you explore and build an intuition aboutpatterns and pattern formation.  We hope that you take some time and examine them on your own:
+
 
 (1) Fireflies and Patterns: http://ncase.me/fireflies/
+
+
 (2) Diffusion limited aggregation: http://rocs.hu-berlin.de/explorables/explorables/dla/
+
+
 (3) Reaction diffusion system: https://pmneila.github.io/jsexp/grayscott/
 
