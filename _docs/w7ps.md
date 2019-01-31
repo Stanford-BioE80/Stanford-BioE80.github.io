@@ -1,5 +1,5 @@
 ---
-title: "Week 7 Problem setslass"
+title: "Week 7 Problem sets"
 permalink: /docs/w7ps/
 ---
 
