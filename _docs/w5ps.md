@@ -32,7 +32,7 @@ and abiotic systems.
  
  
 1.b. You learn that the diffusion coefficient for a protein (~30 kDa GFP) in water is about 100 µm^2/s.
-The diffusion constant for the same protein is in the cytoplasm of a eukaryotic cell is only 30µm^2/s.
+The diffusion constant for the same protein is in the cytoplasm of a eukaryotic cell is only 30 µm^2/s.
 Intuitively do these numbers make sense? (Yes or No) Why? (Bullet points)
 Using these numbers estimate the viscosity of the cytoplasm relative to the viscosity of water? 
 (10 pts) (HINT: solve for using the equation given above).
@@ -41,3 +41,10 @@ Next, let’s estimate the time it takes for a protein to diffuse spontaneously 
 (diffusion time τ). We’ll use the formula τ = R^2/6D, where R is the traverse distance.
 
 Add Figure-1 here. 
+
+
+1.c. Calculate the times it takes for the same protein (~30 kDa GFP) with a diffusion constant D=30 µm^2/s to diffuse across four different cell types: 
+              (i) *E.coli* with R≈1 μm, 
+              (ii) Yeast cell withsμm2R​≈​10 μm, 
+              (iii)  HeLa cell with R​≈​20 μm, 
+              and (iv) a neuronal cell axon with R≈1 cm
