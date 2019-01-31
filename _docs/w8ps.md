@@ -41,7 +41,7 @@ Hearing of Senate Special Committee on Aging:[resource-2](http://www.diabetes.or
 
 2.c. Examine the following resources: 
 
-First, skim the article titled: “Why is There No Generic Insulin? Historical Origins of a Modern Problem.”[link] (https://www.nejm.org/doi/full/10.1056/NEJMms1411398)
+First, skim the article titled: “Why is There No Generic Insulin? Historical Origins of a Modern Problem.” [link](https://www.nejm.org/doi/full/10.1056/NEJMms1411398)
 
 Next, the link to an open source project for making insulin: [link](http://openinsulin.org/)
 
