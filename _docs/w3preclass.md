@@ -34,7 +34,8 @@ Put yourself in the shoes of a couple who recently discovered they were pregnant
 
 ## Example 2: DNA literacy (DNA read)
 
-DNA is made up of nucleotides. These nucleotideshave four possible bases; adenine (A), thymine (T),guanine (G), and cytosine (C).All DNA is made up of sequences of these four bases.Imagine a four key typewriter that is able to type the DNA codes for all of the biodiversity seen on earth. Being able to both **read DNA** (sequencing) and **writeDNA** (synthesizing) has and will continue to givebioengineers the ability to design and build with livingmatter in ways that were hard to imagine very recently.
+DNA is made up of nucleotides. These nucleotideshave four possible bases; 
+adenine (A), thymine (T),guanine (G), and cytosine (C). All DNA is made up of sequences of these four bases. Imagine a four key typewriter that is able to type the DNA codes for all of the biodiversity seen on earth. Being able to both **read DNA** (sequencing) and **write DNA** (synthesizing) has and will continue to givebioengineers the ability to design and build with livingmatter in ways that were hard to imagine very recently.
 
 Let’s delve into how current sequencing technologies work.
 
@@ -116,7 +117,7 @@ According to Hobbes, each of us find it to be in our own self interest to cede s
 
 ## Case Study:  Pox Virus Synthesis
 
-Very recently, in Jan. 2018 researchers in Alberta Canada published a paper reportingthat they had synthesized from scratch all the DNA encoding the horsepox virus andrecovered infectious virus particles.  You can access their entire paper for free here,[link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188453)
+Very recently, in Jan. 2018 researchers in Alberta Canada published a paper reportingthat they had synthesized from scratch all the DNA encoding the horsepox virus andrecovered infectious virus particles.  You can access their entire paper for free here: [link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188453)
 
 Their work was the first report of humans ever synthesizing any pox virus from scratch.
 
@@ -138,10 +139,10 @@ I could list for you the details provided in this paper that will substantively 
 
 Being mindful of such future possibilities over 10 years ago, bioengineers and policyexperts organized conversations to think ahead about potential problems associatedwith ongoing advances in DNA synthesis technologies.  They announced their findingsvia a report entitled, “Synthetic Genomics: Options for Governance.”  
 
-Skim thedecade-old press release here:[link](https://www.jcvi.org/new-policy-report-outlines-options-governance-synthetic-genomics)
+Skim thedecade-old press release here: [link](https://www.jcvi.org/new-policy-report-outlines-options-governance-synthetic-genomics)
 
 And, only if you want, note the full report online here (WARNING. long read):
-[link](https://dspace.mit.edu/handle/1721.1/39141)
+ [link](https://dspace.mit.edu/handle/1721.1/39141)
 
 This report fed into a US federal government policy making process that resulted in theUS sequence screening guidelines now in place for DNA synthesis companies.  For example:
 [link](https://www.phe.gov/Preparedness/legal/guidance/syndna/Pages/default.aspx)
