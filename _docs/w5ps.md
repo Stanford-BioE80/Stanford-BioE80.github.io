@@ -37,4 +37,7 @@ Intuitively do these numbers make sense? (Yes or No) Why? (Bullet points)
 Using these numbers estimate the viscosity of the cytoplasm relative to the viscosity of water? 
 (10 pts) (HINT: solve for using the equation given above).
 
-Next, let’s estimate the time it takes for a protein to diffuse spontaneously across different typesof cells (diffusion time 
+Next, let’s estimate the time it takes for a protein to diffuse spontaneously across different typesof cells 
+(diffusion time τ). We’ll use the formula τ = R^2/6D, where R is the traverse distance.
+
+Add Figure-1 here. 
