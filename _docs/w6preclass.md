@@ -5,7 +5,7 @@ permalink: /docs/w6preclass/
 
 # Week 6 Preclass
 
-Please read and consider the below before start of class on Monday.
+Please read and consider the below before start of each class.
 The questions given are only study questions not homework to be graded.
 Talk about it all with your classmates, friends, or TAs, as you like.
 
