@@ -1,4 +1,4 @@
-### Week - 3 Preclass Reading
+#### Week 3 Preclass
 
 ## Preclass for Monday
 Please read and consider the below before start of class on Monday.
