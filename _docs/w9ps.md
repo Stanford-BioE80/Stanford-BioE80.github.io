@@ -34,3 +34,26 @@ hat do you estimate the average human lifespan to have been in 1900?  In 2010?  
 
 1.g. Given all of the preceding, provide an example of a challenge that the future of healthcare is facing 
 (one sentence stating the challenge; a second sentence explainingwhy it will be a challenge)?
+
+## Q2. Biodefense (50 points)
+
+Last year the Center for Health Security at Johns Hopkins University ran a simulated exercise exploring and gaining experience with how our current society would respond to a new virus.  They named exercise [CladeX](http://www.centerforhealthsecurity.org/our-work/events/2018_clade_x_exercise/). In such exercises, prior government officials with tremendous real-world expertise role play how the government might behave and respond to anemerging situation. Get a piece of note paper and load the video recording of their exercisehere: https://youtu.be/sJ1x8SlNxj0 
+
+First, watch from 7-11’ to get a sense of what is going on from the simulated news coverage.
+
+Second, watch the person playing the part of the US National Security Council from 11’ to 14’.Take notes regarding the facts and figures related to the infection, its latency, its consequences,how long it will take to develop a vaccine, etc.
+
+Third, watch the person playing the part of the expert from the Centers for Disease Control &Prevention (CDC) from 14’ to 15:30’ to get additional context.
+
+NOTE: You do not need to watch the entire exercise (hours of video) to proceed.  Answer thefollowing based on the facts and figures gleaned from the <10’ of introductory video.
+
+Develop back-of-the-envelope estimates for the following:
+
+2.a. How many people will be infected by the virus?  Make and note whatever simplifyingassumptions you find useful 
+(20 points).
+
+2.b. How many people will die from the virus?  Make and note whatever simplifyingassumptions you find useful 
+(20 points).
+
+2.c. Based on your experience calculating your estimates, what one intervention would youwish for and why?  <100 words.  
+(10 points).
