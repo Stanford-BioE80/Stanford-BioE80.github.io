@@ -83,6 +83,7 @@ If you are short on time just watch the video (i.e., please consider (2) and (3)
 
 ____________________________________________________________
 
+
 ## Preclass for Friday
 Please read and consider the below before start of class on Friday 
 The questions given are only study questions not homework to be graded.
@@ -91,4 +92,35 @@ Talk about it all with your classmates, friends, or TAs, as you like.
 **Hobbes, State of War, Qualitative Change**
 
 This week we are exploring **What changes may arise via trends in DNA read andwrite tools that could matter for the rest of our lives?**  Thus far we’ve discussedquantitative changes and some aspects of qualitative change, all for good. On Friday you will work actively in small teams to further explore and develop your own ideas.  In further preparation for Friday please consider the following possible negative consequences that may arise from advances in core bioengineering capacities...
+
+**Goal-1:** You should be able to explore a potential “dark side” of bioengineeringwithout succumbing to evil (and hopefully just the opposite, become betterprepared to do good).
+
+**Goal-2:** You should further upgrade your capacity to discuss and developexamples of possible quantitative and qualitative changes resulting from ongoingadvances in biology and bioengineering.
+
+Let’s begin!
+
+## Quick Background
+
+We’ll discuss Hobbes et al. in more detail later this quarter.  For now simply note thatHobbes is recognized as one of the founders of modern political theory (i.e., how peopleare organized into societies).  His most famous work “Leviathan” published in 1651develops the “social contract” as a practical theory for uniting people under a commongovernment.  To quote,
+
+*“Hereby it is manifest that during the time men live without a common Power tokeep them all in awe, they are in that condition which is called War; and such a war asis of every man against every man.”
+[...]
+“In such condition there is no place for Industry, because the fruit thereof is uncertain: and consequently no Culture of the Earth; no Navigation, nor use of the commoditiesthat may be imported by Sea; no commodious Building; no Instruments of moving andremoving such things as require much force; no Knowledge of the face of the Earth; noaccount of Time; no Arts; no Letters; no Society; and which is worst of all, continual Fear, and danger of violent death; And the life of man solitary, poor, nasty, brutish, andshort.”*
+
+According to Hobbes, each of us find it to be in our own self interest to cede some ofour individual liberty to a common government and, in turn, we individually and collectively benefit so long as the government keeps others from harming us and eachother, etc. But what if the government cannot keep us from harm?  Then Hobbes’ social contract might collapse ...
+
+**Q1.** Hobbes’ reasoning depends on a model for human behavior.  Do you think Hobbes’ is correct in his assessment of intrinsic human nature? How humans would behave if we were subject to no common authority.  Can you imagine a different model for human behavior?
+
+##Case Study:  Pox Virus Synthesis
+
+Very recently, in Jan. 2018 researchers in Alberta Canada published a paper reportingthat they had synthesized from scratch all the DNA encoding the horsepox virus andrecovered infectious virus particles.  You can access their entire paper for free here,[link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188453)
+
+Their work was the first report of humans ever synthesizing any pox virus from scratch.
+
+**Q2.** According to the authors, why did they synthesize horsepox?
+
+Horsepox is genetically very similar to the human pathogen smallpox.  ~400 millionpeople died from smallpox during the 20th century.  The World Health Organizationlaunched a massive effort to eradicate the disease and they succeeded, with the lastreported natural case occurring in 1977.   So successful was the eradication campaignthat most people are no longer vaccinated against smallpox.  Thus, not everyone wasexcited to read a public report demonstrating how to construct a pox virus from scratch. For example, acclaimed Stanford microbiologist and doctor David Relman posted the following to the article’s comment section,
+
+*"This paper should not have been published.
+To suggest that poxviruses are no different from influenza or polio, and therefore thatthe details provided here "provided no new information" [about the synthesis of smallpox], is at best misleading, and better characterized as simply wrong. I could listfor you the details provided in this paper that will substantively assist those with lesserdegrees of experience to synthesize smallpox. The Committee mentioned compliancewith relevant regulations. Which regulations are these, and how are they relevant andspecific to this work at the University of Alberta? The so-called 'forthcoming' behavior incommunications consisted of a presentation to the WHO Advisory Committee of a'fait-accompli'. To my knowledge, there was no request for guidance before the workwas undertaken. And the alleged benefits from this work simply do not hold water. Thiswork was not needed or particularly helpful towards an improved vaccine.What I find particularly inappropriate and frankly, unethical is that this paper with itsobvious risks to public health was funded by and written by a for-profit, private entity(Tonix) that stands to gain money from this work and this paper. And the authorsco-founded and consult for this entity and stand to make money from it. The conflicts ofinterest are obvious: the public health was put at risk by a private entity and a set ofauthor-business partners who stand to gain financially from this work. This is wrong.”*
 
