@@ -123,7 +123,7 @@ Horsepox is genetically very similar to the human pathogen smallpox.  ~400 milli
 
 *"This paper should not have been published.
 To suggest that poxviruses are no different from influenza or polio, and therefore thatthe details provided here "provided no new information" [about the synthesis of smallpox], is at best misleading, and better characterized as simply wrong. 
-I could list for you the details provided in this paper that will substantively assist those with lesser degrees of experience to synthesize smallpox. The Committee mentioned compliance with relevant regulations. Which regulations are these, and how are they relevant and specific to this work at the University of Alberta? The so-called 'forthcoming' behavior incommunications consisted of a presentation to the WHO Advisory Committee of a'fait-accompli'. To my knowledge, there was no request for guidance before the workwas undertaken. And the alleged benefits from this work simply do not hold water. Thiswork was not needed or particularly helpful towards an improved vaccine. What I find particularly inappropriate and frankly, unethical is that this paper with itsobvious risks to public health was funded by and written by a for-profit, private entity(Tonix) that stands to gain money from this work and this paper. And the authors co-founded and consult for this entity and stand to make money from it. The conflicts ofinterest are obvious: the public health was put at risk by a private entity and a set of author-business partners who stand to gain financially from this work. This is wrong.”*
+I could list for you the details provided in this paper that will substantively assist those with lesser degrees of experience to synthesize smallpox. The Committee mentioned compliance with relevant regulations. Which regulations are these, and how are they relevant and specific to this work at the University of Alberta? The so-called 'forthcoming' behavior incommunications consisted of a presentation to the WHO Advisory Committee of a'fait-accompli'. To my knowledge, there was no request for guidance before the workwas undertaken. And the alleged benefits from this work simply do not hold water. This work was not needed or particularly helpful towards an improved vaccine. What I find particularly inappropriate and frankly, unethical is that this paper with its obvious risks to public health was funded by and written by a for-profit, private entity (Tonix) that stands to gain money from this work and this paper. And the authors co-founded and consult for this entity and stand to make money from it. The conflicts of interest are obvious: the public health was put at risk by a private entity and a set of author-business partners who stand to gain financially from this work. This is wrong.”*
 
 **Q3.** Why is David Relman upset?
 
@@ -135,13 +135,13 @@ I could list for you the details provided in this paper that will substantively 
 
 Being mindful of such future possibilities over 10 years ago, bioengineers and policyexperts organized conversations to think ahead about potential problems associatedwith ongoing advances in DNA synthesis technologies.  They announced their findingsvia a report entitled, “Synthetic Genomics: Options for Governance.”  
 
-Skim thedecade-old press release here:[LINK](https://www.jcvi.org/new-policy-report-outlines-options-governance-synthetic-genomics(
+Skim thedecade-old press release here:[link](https://www.jcvi.org/new-policy-report-outlines-options-governance-synthetic-genomics)
 
 And, only if you want, note the full report online here (WARNING. long read):
-[LINK](https://dspace.mit.edu/handle/1721.1/39141)
+[link](https://dspace.mit.edu/handle/1721.1/39141)
 
 This report fed into a US federal government policy making process that resulted in theUS sequence screening guidelines now in place for DNA synthesis companies.  For example:
-[LINK](https://www.phe.gov/Preparedness/legal/guidance/syndna/Pages/default.aspx)
+[link](https://www.phe.gov/Preparedness/legal/guidance/syndna/Pages/default.aspx)
 
 **Q7.** According to the press release, what types of people (i.e., experts) wereinvolved in developing options for governing DNA synthesis tools?  Do you thinkit was essential to include more than just academic bioengineers?
 
