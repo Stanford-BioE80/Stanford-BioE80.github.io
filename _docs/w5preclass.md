@@ -106,4 +106,9 @@ Or, a slime mold swarming on a plate and growing a stalk...
 ### (3) Cells cancommunicatewith each other.
 I.e., cells can send chemical messages between and among each other.
 E.g., here's a type of "pulse" in gene expression generated across many cells during development of a tail-like structure...
-[https://www.youtube.com/watch?v=T-fa1gYfwJk&feature=youtu.be](https://www.youtube.com/watch?v=T-fa1gYfwJk&feature=youtu.be)
+[Wave of gene expression in an embryo](https://www.youtube.com/watch?v=T-fa1gYfwJk&feature=youtu.be)
+
+
+### (4) Cells canchange state.
+I.e., one type of cell can become another type of cell, in response to signals or even spontaneously.E.g., here are bacterial cells infected with virus realizing different cell-fate outcomes.
+[Bacteriophage lambda lysis and lysogeny](https://www.youtube.com/watch?v=sLkZ9FPHJGM&feature=youtu.be)
