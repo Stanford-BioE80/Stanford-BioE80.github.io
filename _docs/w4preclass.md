@@ -73,7 +73,7 @@ While the plate assays (growing bacteria on defined media) and looking at growth
 
 
 
-**Figure-3: A creative application of a plate assay (2x4 feet) MEGA plate.** Wherethe researchers used the plate combined with a varying concentration of antibiotics to studyand demonstrate the evolution of bacteria,gaining resistance towards the specific antibioticprovided in the plate, in the spatially organized environment. [source](http://science.sciencemag.org/content/353/6304/1147)
+**Figure-3:** A creative application of a plate assay (2x4 feet) MEGA plate. Wherethe researchers used the plate combined with a varying concentration of antibiotics to studyand demonstrate the evolution of bacteria,gaining resistance towards the specific antibioticprovided in the plate, in the spatially organized environment. [source](http://science.sciencemag.org/content/353/6304/1147)
 
 ### What Next
 During the class, you will use the plates that you prepared on Wednesday toexamine and classifying the microbes 
