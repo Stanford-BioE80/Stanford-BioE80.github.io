@@ -107,11 +107,10 @@ and vice versa? (4 pts)
 
 <figure>
 <a href="/assets/images/w3pc_artificialStone.png"><img src="/assets/images/w3pc_artificialStone.png"></a>
-<figcaption><b>Figure.1</b>. Example photo of George Goodman’s Artificial Stone(this photo is taken looking down at a sidewalk
-</figcaption>
 </figure>
 
-Example photo of George Goodman’s Artificial Stone(this photo is taken looking down at a sidewalk)**
+**Figure-1:Example photo of George Goodman’s Artificial Stone(this photo is taken looking down at a sidewalk)**
+
 
 Here is a sample photo of George Goodman’s artificial stone used to build parts of the campus.
 As discussed This week standardization (process for dividing labor) in civil engineering has enabled us to transform and shape rocks (in this case artificial stones) into building blocks for building structures ranging from Stanford’s campus to Segovia’s aqueduct. 
