@@ -71,8 +71,6 @@ Think about your own answer and then visit the following link to begin to answer
 
 While the plate assays (growing bacteria on defined media) and looking at growth andphenotypes, may seem simple. They have and continue to play an incredibly powerfulrole in the discovery and development of biology as well as in the pursuit ofbioengineering. For example, *Figure-3* demonstrates a creative and unique plateassay called MEGA-plate (“mega” since the plate is **2x4 feet!**) to demonstrate andstudy bacterial evolution. MEGA plate was used to study the evolution andemergence of antibiotic resistance over time in bacterial populations. Make sure to watch this [video](https://www.youtube.com/watch?time_continue=7&v=yybsSqcB7mE).
 
-
-
 **Figure-3:** A creative application of a plate assay (2x4 feet) MEGA plate. Wherethe researchers used the plate combined with a varying concentration of antibiotics to studyand demonstrate the evolution of bacteria,gaining resistance towards the specific antibioticprovided in the plate, in the spatially organized environment. [source](http://science.sciencemag.org/content/353/6304/1147)
 
 ### What Next
