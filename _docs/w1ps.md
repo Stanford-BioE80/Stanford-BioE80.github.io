@@ -28,7 +28,7 @@ After the first week of the class, a friend asks you about bioengineering. Your 
 
 3.a. Create your own brief example on the impact of bioengineering today. Keep your answer between 150-200 words and include up to 3 key references in support of your new example; references can be websites or any citable source. (40 pts)
 
-3. Do you have any unanswered questions based on your own example from or from the examples given in class that remain unanswered? Share your most interesting or difficult question; just one question, please. (10 pts)
+3.b. Do you have any unanswered questions based on your own example from or from the examples given in class that remain unanswered? Share your most interesting or difficult question; just one question, please. (10 pts)
 
 ## (Q4) Foldscope Activity (30 pts)
 
