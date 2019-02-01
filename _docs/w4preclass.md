@@ -50,11 +50,12 @@ live in and on you (are you?). And, begin to describe the role that the microbio
 
 **Goal-3:** By observing this diversity of microbial phenotypes you will have theopportunity to appreciate the rich diversity and engineering potential that livingmatter provides.
 
-**Figure-1** biofilm development via a *Pseudomonas aeruginosa* colony with the extracellularmatrix, material released by the cells, stained red and pink.( *Source* [1](https://www.scottchimileskiphotography.com/Creative-Commons/) - Scott Chimileski is licensed under a Creative Commons non-commercial use)
+**Figure-1** biofilm development via a *Pseudomonas aeruginosa* colony with the extracellularmatrix, material released by the cells, stained red and pink. [Source1](https://www.scottchimileskiphotography.com/Creative-Commons/) - Scott Chimileski is licensed under a Creative Commons non-commercial use.
 
 In an earlier activity we used a Foldscope to observe and explore the world around us,either as explorers or makers looking for parts and inspiration. In today’s activity we willexplore the *microbiome* that lives on and within us.
 The microbiome is the vast collection of bacteria, viruses, fungi, and other microbes thatshare our bodies (additional [link](https://www.nature.com/collections/stkpgwjvvk/content/content). Depending on their context they can play a positive
-or a negative role in our health and well being. For example, they can cause orinfluence non-communicable diseases. Engineering the microbiome is considered bysome respected academics to be part of the the future of medicine. For example,researchers at Cornell recently engineered a gut microbe to address aspects ofdiabetes (see [here](https://www.ncbi.nlm.nih.gov/pubmed/25626737)).
+or a negative role in our health and well being. For example, they can cause orinfluence non-communicable diseases. Engineering the microbiome is considered bysome respected academics to be part of the the future of medicine. For example,researchers at Cornell recently engineered a gut microbe to address aspects ofdiabetes 
+(see [here](https://www.ncbi.nlm.nih.gov/pubmed/25626737)).
 
 **Q.1. What do you think are various methods that we can use to study themicrobiome (i.e., all bacteria in and on you)? How can we tell what microbes arepresent in the microbiome?**
 
@@ -70,9 +71,7 @@ Think about your own answer and then visit the following link to begin to answer
 
 While the plate assays (growing bacteria on defined media) and looking at growth andphenotypes, may seem simple. They have and continue to play an incredibly powerfulrole in the discovery and development of biology as well as in the pursuit ofbioengineering. For example, *Figure-3* demonstrates a creative and unique plateassay called MEGA-plate (“mega” since the plate is **2x4 feet!**) to demonstrate andstudy bacterial evolution. MEGA plate was used to study the evolution andemergence of antibiotic resistance over time in bacterial populations. Make sure to watch this [video](https://www.youtube.com/watch?time_continue=7&v=yybsSqcB7mE).
 
-<figure>
-<a href="/assets/images/wp4MegaPlaTe.jpg"> <img src="/assets/images/wp4MegaPlaTe.jpg"></a>
-</figure>
+
 
 **Figure-3: A creative application of a plate assay (2x4 feet) MEGA plate.** Wherethe researchers used the plate combined with a varying concentration of antibiotics to studyand demonstrate the evolution of bacteria,gaining resistance towards the specific antibioticprovided in the plate, in the spatially organized environment. [source](http://science.sciencemag.org/content/353/6304/1147)
 
