@@ -30,7 +30,8 @@ Put yourself in the shoes of a couple who recently discovered they were pregnant
 <href="/assets/images/w3pc_CarlsonCurves.png"><img src="/assets/images/w3pc_CarlsonCurves.png">
 Figure.1. "Reduction of the Price of DNA sequencing (reading) and synthesis(writing) per base per over past 30 years. <a href="https://synbiobeta.com/time-new-dna-synthesis-sequencing-cost-curves-rob-carlson/"> Source</a>
 </figcaption>
-</figure>
+</figure> 
+<br/>
 
 **Q.2. Do you think NIPT could have been economically feasible in the year 2010?What about 2000, or 1990? Why?**
 
@@ -49,9 +50,8 @@ Start with this [video](https://www.youtube.com/watch?v=MvuYATh7Y74) that provid
 <href="/assets/images/w3pc_NGS.png"><img src="/assets/images/w3pc_NGS.png">
 Figure.2. "Breakdown of DNA sequencing steps (specifically next generationsequencing). In this approach instead of reading a long sequence of DNA one baseper at a time, the sequence is divided into many pieces (fragments) which are all readsimultaneously". <a href="https://www.nature.com/articles/nature24286.pdf"> Source</a>
 </figcaption>
-</figure>
-
-
+</figure> 
+<br/>
 During sequencing first, the genomic DNA (the DNA that we want to read) is broken intosmaller pieces (fragmented). Then a synthetic linker sequence is added to the end ofthe fragments (adaptor) which helps the DNA fragments get attached to a surface onwhich the sequencing happens (flow cell). Next, the DNA fragments are separated inspace and read individually. Each fragment is amplified (thousands of copies of eachpiece is made) to make sure the correct sequence is detected. To actually read thefragments, pre-labeled nucleotides (nucleotides with color) and enzymes (thatincorporate nucleotides into the fragments) are added to the flow cell. As each coloredbase pair is added to the fragments a new colorful spot is introduced. By taking imagesfrom the spots we are able to decode the sequence. Finally, the fragments are stitchedtogether to reveal the original sequence of the genomic DNA. Here is an additionalvideo that describes this process in even more detail [optional link](https://www.youtube.com/watch?v=fCd6B5HRaZ8).
 
 **Q.4. According to the “How to sequence the human genome” video when was thefirst human genome sequenced? How long did it take? How much did it cost?**
