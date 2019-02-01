@@ -80,11 +80,11 @@ Helpful resources:[link1](https://www.nature.com/news/how-dna-could-store-all-th
 
 In the pre-class material you were introduced to a DNA read method commonly referred to as next-generation sequencing (NGS) or massively parallelsequencing. Let’s examine an alternative approach, namely nanopore sequencing.
 
-**figure. 1:Nanopore sequencing enables real-time read of the DNA.source : “DNA sequencing at 40: past, present and future”**
 
 Watch this [video](https://nanoporetech.com/products/minion)
 
-4.a. Describe how Nanopore sequencing works (use bullet points). (8 pts)
+4.a. Describe how Nanopore sequencing works (use bullet points, 8 pts)
+
 
 MinION is a product that uses Nanopores for sequencing.
 While the error rate with Nanopore technology is between 5-10%. [additional Link](https://f1000research.com/articles/6-760/v1). This tool can be used to sequence and assemble a human genome
@@ -109,7 +109,7 @@ and vice versa? (4 pts)
 <a href="/assets/images/w3pc_artificialStone.png"><img src="/assets/images/w3pc_artificialStone.png"></a>
 </figure>
 
-**Figure-1:Example photo of George Goodman’s Artificial Stone(this photo is taken looking down at a sidewalk)**
+**Figure-1:Example photo of George Goodman’s Artificial Stone (this photo is taken looking down at a sidewalk)**
 
 
 Here is a sample photo of George Goodman’s artificial stone used to build parts of the campus.
