@@ -67,13 +67,15 @@ Figure-2 (below) is a beautiful photograph of multiplebacteria and fungal coloni
 Think about your own answer and then visit the following link to begin to answer the above question [Scientists Unveil New ‘Tree of Life’](https://www.nytimes.com/2016/04/12/science/scientists-unveil-new-tree-of-life.html)
 
 
-<!-- Figure 2.​ Colonies formed by a variety of bacterial and fungal species. It is possible to identifybacterial or fungal species by the shape, color, and structure of the colonies that they form(image from: Scott Chimileski and Robert Kolter ​source​)  Visit Scott ​Chimileski’​s portfolio ​herefor additional beautiful close up images. --!>
+Figure 2. Colonies formed by a variety of bacterial and fungal species. It is possible to identifybacterial or fungal species by the shape, color, and structure of the colonies that they form(image from: Scott Chimileski and Robert Kolter ​source​)  Visit Scott ​Chimileski’​s portfolio ​herefor additional beautiful close up images. --!>
 
-While the plate assays (growing bacteria on defined media) and looking at growth andphenotypes, may seem simple. They have and continue to play an incredibly powerfulrole in the discovery and development of biology as well as in the pursuit ofbioengineering. For example, *Figure-3* demonstrates a creative and unique plateassay called MEGA-plate (“mega” since the plate is **2x4 feet!**) to demonstrate andstudy bacterial evolution. MEGA plate was used to study the evolution andemergence of antibiotic resistance over time in bacterial populations. Make sure to watch this [video](https://www.youtube.com/watch?time_continue=7&v=yybsSqcB7mE).
+While the plate assays (growing bacteria on defined media) and looking at growth andphenotypes, may seem simple. They have and continue to play an incredibly powerfulrole in the discovery and development of biology as well as in the pursuit of bioengineering. For example, *Figure-3* demonstrates a creative and unique plateassay called MEGA-plate (“mega” since the plate is **2x4 feet!**) to demonstrate andstudy bacterial evolution. MEGA plate was used to study the evolution andemergence of antibiotic resistance over time in bacterial populations. Make sure to watch this 
+[video](https://www.youtube.com/watch?time_continue=7&v=yybsSqcB7mE).
 
-**Figure-3:** A creative application of a plate assay (2x4 feet) MEGA plate. Wherethe researchers used the plate combined with a varying concentration of antibiotics to studyand demonstrate the evolution of bacteria,gaining resistance towards the specific antibioticprovided in the plate, in the spatially organized environment. [source](http://science.sciencemag.org/content/353/6304/1147)
+Figure-3: A creative application of a plate assay (2x4 feet) MEGA plate. Wherethe researchers used the plate combined with a varying concentration of antibiotics to studyand demonstrate the evolution of bacteria,gaining resistance towards the specific antibioticprovided in the plate, in the spatially organized environment. 
+[source](http://science.sciencemag.org/content/353/6304/1147)
 
 ### What Next
 During the class, you will use the plates that you prepared on Wednesday toexamine and classifying the microbes 
 that grew on your plates. To prepare for this make sure to take a look at the first page of this 
-(link)[http://delrio.dcccd.edu/jreynolds/microbiology/2421/lab_manual/colony_morph.pdf]
+[link](http://delrio.dcccd.edu/jreynolds/microbiology/2421/lab_manual/colony_morph.pdf)
