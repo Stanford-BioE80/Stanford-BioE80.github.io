@@ -69,7 +69,7 @@ If the links above do not work and you need to type them out, here are the full 
 
 2. Cell free fetal DNA analysis video: [link](https://www.youtube.com/watch?v=8Kynt75ssmE)
 
-3. Sequencing video 1: [link](https://www.youtube.com/watch?v=MvuYATh7Y74)
+3. Sequencing video: [link](https://www.youtube.com/watch?v=MvuYATh7Y74)
 
 Image Sources:
 1. Carlson Curves [link](https://synbiobeta.com/time-new-dna-synthesis-sequencing-cost-curves-rob-carlson/)
