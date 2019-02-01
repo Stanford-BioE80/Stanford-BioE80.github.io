@@ -20,7 +20,8 @@ As more detailed questions related to a future bio-enabled economy please consid
 1. **Describe daily life scenarios that you would be excited about in this biological production based economy. Emphasize how your new suggestions are different from the current production model.**
 2. **Will such models of manufacturing align well with existing markets? What would an economy look like wherein some physical products are free to make?**
 3. **What challenges would you envision in creating an economy like the one described?**
-4. **Security (how might we hurt each other?)**
+
+### Security (how might we hurt each other?)
 
 WWI and WWII had completely different wartime strategies largely due to differences in weapon and transportation technologies available at the time. In WWI trenches were used to slowly advance the front lines using machine guns, artillery, chemical weapons, and slow armored vehicles. WWII was no longer a war with long static front lines as, for example, tanks and airplanes increased the mobility and maneuverability of the troops.
 
@@ -30,7 +31,8 @@ Now think about how engineering living matter might influence war tactics and ho
 2. **How does one prepare differently for safety concerns versus security concerns?**
 3. **Who should have access to tools for engineering living matter? How (or should) it be controlled?**
 4. **Should we be concerned with bad actors (individuals, groups, or countries) using biology to purposefully cause harm?**
-5. **Humanity (what will it mean to be human?)**
+
+### Humanity (what will it mean to be human?)
 
 Humans as individual biological organisms have historically been defined, literally, by a natural reproductive process in which the genetic material of our parents leads to us as individuals, and so on.  Increasingly it is becoming apparent that we can assert our intention into the human reproductive process.  E.g., about 4% of humans born in the US today arise and arrive via _in-vitro_ fertilization. At the on-campus children's hospital it is now standard practice for the DNA of the fetus to be partially sequenced as 10 weeks post fertilization in order to screen for various genetic conditions, and this information is used to inform health decisions. Others are now beginning to apply advanced genetic engineering tools to edit genes within viable human embryos, although no such embryos have yet been implanted and brought to full term.  
 
