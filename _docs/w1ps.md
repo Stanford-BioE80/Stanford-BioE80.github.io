@@ -112,6 +112,8 @@ The local biohacker club has started playing around with methanotrophs.  Two bio
 
 You quickly look up online that the local utility can supply up to 200 cubic feet of natural gas to each house or apartment per day, which equates to ~3 kg of carbon atoms in the form of methane (CH4) and ~50,000 watt \* hours of energy delivered per day. You also look up that one human operates on 100 watts of energy or 2,400 watt \* hours total per day. Considering these numbers and using basic "back of the envelope" math do you believe Deanna and Samantha's methane-powered methanotroph Personal Maker box might actually be useful? Why or why not?
 
+**Your questions** Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
+
 **(Extra credit)** Submit a photo you have taken with foldscope to the Foldscope community via [Microcosmos Foldscope](http://microcosmos.foldscope.com/) or [NSF Vizzies](https://www.nsf.gov/news/special_reports/scivis/index.jsp). If you provide proof of participation (to be turned in the same day with the pset - e.g. screenshot) [NSF Vizzies](https://www.nsf.gov/news/special_reports/scivis/index.jsp) you will receive 5 extra points. 
 
 
