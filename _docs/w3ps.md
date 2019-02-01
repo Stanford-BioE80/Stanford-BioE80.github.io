@@ -61,7 +61,7 @@ The first few will do the trick. (4 pts)
 
 3.c. What would be the physical volume of this DNA? (2 pts)
 
-3.d. Will the DNA fit into a thimble? (1 pt)        Yes        No
+3.d. Will the DNA fit into a thimble? (1 pt)        Yes / No
 
 3.e. How expensive would it be to print this DNA (with cost ~1 cents/base) (2 pts)
 
@@ -103,6 +103,11 @@ Please include quantitative reasoning in your answer.  (4 pts)
 and vice versa? (4 pts)
 
 ### (EXTRA CREDIT) Scavenger hunt: Find some “artificial stone” and take a selfie (2 pts)
+
+<figure>
+    <a href="/assets/images/w3pc_artificialStone.png"><img src="w3pc_artificialStone"></a>
+    <figcaption> **Figure. 2: Example photo of George Goodman’s Artificial Stone(this photo is taken looking down at a sidewalk)** </figcaption>
+</figure>
 
 **Figure. 2: Example photo of George Goodman’s Artificial Stone(this photo is taken looking down at a sidewalk)**
 
