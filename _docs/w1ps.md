@@ -32,8 +32,9 @@ After the first week of the class, a friend asks you about bioengineering. Your 
 
 ## (Q4) Foldscope Activity (30 pts)
 
-(A) Did you show up on Friday, build your Foldscope, and have a TA check it? (5 pts)
-(B) Complete and submit the foldscope post class question "Explorer or Maker" (Max 150 words). (25 pts)
+4.a. Did you show up on Friday, build your Foldscope, and have a TA check it? (5 pts)
+
+4.b. Complete and submit the foldscope post class question "Explorer or Maker" (Max 150 words). (25 pts)
 
 ### Explorer or Maker - Step 1
 
