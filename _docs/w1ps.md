@@ -7,34 +7,33 @@ toc: true
 
 **DUE:** Next Wednesday, beginning of class.
 
-**NOTE:** All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
-
-**NOTE:** Please turn in your completed problem sets as an electronic copy via Canvas 
+**NOTES:** 
+  - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
+  - Please turn in your completed problem sets as an electronic copy via Canvas. 
+  - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations) 
 
 **GOAL:** To help you reflect on the implications of engineering living matter.  To help you prepare for the quarter by thinking about your goals for the class. Finally, to help get you started on your journey as an explorer or maker in bioengineering.
 
 ## (Q1) Let's hear about you (2 pts)
 
-What is your major and year? Have you taken (or are currently taking) any other bioengineering classes? What were the last books that you read (list up to 3)? 
+What is your major and year? Have you taken (or are currently taking) any other bioengineering classes? What were the last books that you read (list 1 or 2)? 
 
 ## (Q2) What do you hope for out of this class? (8 pts)
 
-Why are you taking BIOE.80? Stated differently, what do you most want to gain by successfully completing BIOE.80 this quarter? (200 words or less) 
+Why are you taking BIOE.80? Stated differently, what do you most want to gain by successfully completing BIOE.80 this quarter? (150 words or less) 
 
 ## (Q3) The impact of Bioengineering
 
-After the first week of the class, a friend asks you about bioengineering. Your friend is specifically interested in the impact of bioengineering on humanity and civilization so far. You think back to the three examples provided in the "Why has bioengineering mattered?" and decide to draw upon those in formulating your response. 
+After the first week of the class, a friend asks you about bioengineering. Your friend is specifically interested in the impact of bioengineering on humanity and civilization so far. You think back to the three examples provided in the class (e.g., polio vaccine) and decide to draw upon those in formulating your own example. 
 
-1. In <150 words explain the impact of engineering living matter using the three provided examples. (10 pts)
+3.a. Create your own brief example on the impact of bioengineering today. Keep your answer between 150-200 words and include up to 3 key references in support of your new example; references can be websites or any citable source. (40 pts)
 
-2. Your friend is now excited to learn more about the role and impact of bioengineering and asks for another example. Create your own brief example on the impact of bioengineering today. Use "why has bioengineering mattered?" Use the **Pre-Class and in-class materials**.  Keep your answer <150 words and include up to 3 key references in support of your new example; references can be websites or any citable source. (30 pts)
-
-3. Do you have any unanswered questions based on your own example from (B) or from the examples given in class that remain unanswered? Share your most interesting or difficult question; just one question, please. (10 pts)
+3. Do you have any unanswered questions based on your own example from or from the examples given in class that remain unanswered? Share your most interesting or difficult question; just one question, please. (10 pts)
 
 ## (Q4) Foldscope Activity (30 pts)
 
 (A) Did you show up on Friday, build your Foldscope, and have a TA check it? (5 pts)
-(B) Complete and submit the foldscope post class question "Explorer or Maker" (<150 words). (25 pts)
+(B) Complete and submit the foldscope post class question "Explorer or Maker" (Max 150 words). (25 pts)
 
 ### Explorer or Maker - Step 1
 
@@ -112,6 +111,6 @@ The local biohacker club has started playing around with methanotrophs.  Two bio
 
 You quickly look up online that the local utility can supply up to 200 cubic feet of natural gas to each house or apartment per day, which equates to ~3 kg of carbon atoms in the form of methane (CH4) and ~50,000 watt \* hours of energy delivered per day. You also look up that one human operates on 100 watts of energy or 2,400 watt \* hours total per day. Considering these numbers and using basic "back of the envelope" math do you believe Deanna and Samantha's methane-powered methanotroph Personal Maker box might actually be useful? Why or why not?
 
-**(Extra credit)** Submit a photo you have taken with foldscope to [NSF Vizzies](https://www.nsf.gov/news/special_reports/scivis/index.jsp). If you provide proof of participation (to be turned in the same day with the pset - e.g. screenshot) [NSF Vizzies](https://www.nsf.gov/news/special_reports/scivis/index.jsp) you will receive 5 extra points. 
+**(Extra credit)** Submit a photo you have taken with foldscope to the Foldscope community via [Microcosmos Foldscope](http://microcosmos.foldscope.com/) or [NSF Vizzies](https://www.nsf.gov/news/special_reports/scivis/index.jsp). If you provide proof of participation (to be turned in the same day with the pset - e.g. screenshot) [NSF Vizzies](https://www.nsf.gov/news/special_reports/scivis/index.jsp) you will receive 5 extra points. 
 
-**(Final Note)** We encourage you to use your Foldscope throughout the quarter (i.e., keep your foldscope and be ready to use it again when needed).  Also, we have setup our own internal foldscope visualization competition. You can enter (via Canvas) up to two of your favorite photos combined with a brief description by Friday of Week 8 (we'll remind you closer to the exact date). A panel of judges from the teaching team will pick and announce the winners, and you’ll get prizes.
+
