@@ -70,6 +70,13 @@ Final Exam (15%); 3 design problems
 We expect you will uphold Stanford's Honor Code. Discussion among peers and with the teaching staff is strongly encouraged. All submitted work must be completed individually unless explicitly noted otherwise.
 
 
+### Students with Documented Disabilities:
+
+Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty. Unless the student has a temporary disability, Accommodation letters are issued for the entire academic year. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. The OAE is located at 563 Salvatierra Walk (phone: 723-1066), URL: https://oae.stanford.edu/ 
+
+_______________________________________________________________________________________
+
+
 **Why are you here? Why engineer biology? Whats unique about living matter?**  
      <!-- Lead Instructor-->
     
