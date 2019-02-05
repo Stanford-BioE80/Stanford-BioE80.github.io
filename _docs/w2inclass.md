@@ -80,3 +80,17 @@ For more information about GFP check out: [PDB Link](http://pdb101.rcsb.org/motm
 7. Select residues 64-66 SYG and color these residues red. This is the *chromophore* of GFP, the portion of the molecule responsible for the fluorescence.
 
 8. Render the SYG portion of the protein as ‘sticks’. You should now be able to see the cyclized ring of the GFP chromophore. This cyclization, as shown below, is part of the *maturation* process of the protein -- after maturation, the protein is able to fluoresce.
+
+9. Take a screenshot of your highlighted protein structure for the problem set 2.
+
+
+### GOOP Experiment
+
+To set up our prototype experiment, we will our GFP device in a GOOP tube, following theinstructions in the kit introduction. We will also set up a *negative control*: a reaction tube withno DNA at all. We do this so that we can observe what GOOP by itself looks like, and compareit to our prototyped device.
+
+In your kit you have:
+
+- 2x GOOP reaction tubes labeled (G)
+- 1x Module 1 DNA parts kit  labeled (D)
+- 1x Pure water  labeled (W)
+- 2x Transfer pipettes
