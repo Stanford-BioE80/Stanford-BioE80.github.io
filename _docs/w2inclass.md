@@ -30,7 +30,7 @@ Q -- New or improved drugs can only be developed by project managers at big phar
 Q -- The wild-type version of KumaMax (Kumamolisin-As) was primarily chosen because it is active at low pH, making it a good match for the conditions in the small intestine.
 
 ## Friday In Class GOOP
-### Module 1: The Expression StatementIn 
+### GOOP 1: The Expression StatementIn 
 
 this module we’ll learn about and execute the biomolecular equivalent of the ‘print’ statementby producing green fluorescent protein, or GFP. GFP and other fluorescent proteins are oftenused as an output to indicate the state of a genetic circuit, report on a sensor, or to identify cellscontaining a specific genetic payload. When it is produced, GFP is a visible yellow color (underambient light). When illuminated with light at 485 nm (blue), GFP produces fluorescent light at 510 nm (green).
 
