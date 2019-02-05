@@ -1,13 +1,17 @@
 ---
 title: "Week 2 Preclass"
 permalink: /docs/w2preclass/
-last_modified_at: 2018-11-25T22:21:33-05:00
+last_modified_at: 
 toc: true
 ---
-
-## Material for Monday 
+# Week-2 Preclass 
+ 
 
 Please read and consider the below before start of class. The questions given are only study questions not homework to be answered. Talk about it all with your classmates, friends, or TAs, as you like.
+______________________________________________________
+
+## Material for Monday
+
 
 ### How do engineers actually engineer with, of, and for biology?
 
@@ -182,10 +186,11 @@ In this pre-class activity you were introduced to the engineering cycle: design,
 [1] We strongly encourage you to check out this additional resource about creativity and design in the context of modernity titled: "Art, Critique, Design and Our World" by Alexandra Daisy Ginsberg [link](https://vimeo.com/225113974)
 
 [2] The Long Now - 10,000 year clock (take a look at the designs considerations for a clock that seeks to keep time for 10,000 years) [link](http://longnow.org/clock/)
+______________________________________________________
 
 ## Material for Wednesday 
 
-Please read and consider the below before start of class. Here, you will continue your examination of the Design-Build-Test process and how it can be used to engineering with, of, and for living matter. For reference, here are the goals for the material this week (provided in the pre-class material for Monday):
+Here, you will continue your examination of the Design-Build-Test process and how it can be used to engineering with, of, and for living matter. For reference, here are the goals for the material this week (provided in the pre-class material for Monday):
 
 **Goal-1:** You will be able to describe the engineering cycle, design-build-test (DBT), and the central role it plays in (bio)engineering, and how DBT can be utilized at different scales (from one person to whole industry sectors).
 
@@ -248,8 +253,9 @@ Not too long ago, people who wanted to make customized DNA had to do so with the
 
 **Q.2.** Compare this to the Mosis workflow outlined above. How is it similar or different? 
 
+______________________________________________________
 
-## Alternative Material for Wednesday (used in 2018)
+## Alternative Material for Wednesday (This was used in 2018)
 
 (two pages of text plus six external links follow; 30’suggested time)
 
@@ -320,6 +326,8 @@ Until recently our ability to rapidly and robustly build prototypes for the engi
 
 Thanks to recent developments in bioengineering, for the first time we have the ability to prototype engineering living matter as part of the class. (We have to emphasize that developing with and creating these prototyping platforms themselves is still an active and exciting area of research in bioengineering.)
 
+______________________________________________________
+## Material for Friday
 
 ### What is GOOP? 
 
