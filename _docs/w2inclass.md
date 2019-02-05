@@ -94,3 +94,31 @@ In your kit you have:
 - 1x Module 1 DNA parts kit  labeled (D)
 - 1x Pure water  labeled (W)
 - 2x Transfer pipettes
+
+1. Set up two tubes following experiments (additional instructions from the Pre-class):
+
+2. Note the time and let the reactions run. Take a photo of your tubes (at time zero). You shouldbegin seeing a color change after about 6 hours; after 12 hours there should be cleardifferences.
+
+3. Take a photo of your GOOP tubes at the end of the experiment for the associated problemset. If you don’t see a difference between the tubes, don’t worry, but still take a photo. Note the time that you take your final photo (the endpoint of the experiment).
+
+
+In today’s activity, you:
+- Learned about the core genetic components necessary to express a gene
+- Expressed your first gene in GOOP, producing green fluorescent protein
+- Visualized the structure of the protein using PyMol.
+
+By switching out the gene of our simple expression device, we can produce any protein from across the tree of life (although complications can arise). For example, by building an expression device with the gene you submitted to the Free Genesproject, you could produce the protein it encodes and test its function. Moreover, by changingother parts of the expression device (such as the promoter) you can control other aspects ofexpression, and by combining these simple devices we can build more complex circuits.
+
+#### Additional Resources:
+
+Fluorescent Proteins:
+1. Fluorescent Proteins and the Story Behind GFP (by Roger Tsien ibiology) [link](https://www.ibiology.org/talks/fluorescent-proteins/)
+
+2.Introduction to Fluorescent Proteins [link](https://www.microscopyu.com/techniques/fluorescence/introduction-to-fluorescent-proteins)
+
+3. Interactive graph describing Fluorescent protein properties [link](http://www.fpvis.org/FP.html)
+
+Basic Parts:
+1.Adventures in Synthetic Biology - comic book
+2.iGEM PartsExpression 
+3.Expression statement DNA sequence designs
