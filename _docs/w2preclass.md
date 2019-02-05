@@ -249,7 +249,7 @@ Not too long ago, people who wanted to make customized DNA had to do so with the
 **Q.2.** Compare this to the Mosis workflow outlined above. How is it similar or different? 
 
 
-## Material for Wednesday
+## Alternative Material for Wednesday (used in 2018)
 
 (two pages of text plus six external links follow; 30’suggested time)
 
@@ -273,3 +273,29 @@ http://ai.eecs.umich.edu/people/conway/Awards/Electronics/ElectAchiev.html
 
 
 **Q.3.** How were their proposedchanges received at the time?  Did everyone like and benefit from them?  Who benefited?  Who, if anyone, was threatened?
+
+Consider one practical legacy of what you’ve learnedso far that still exists and operates in support of research and development in electronicstoday, the Metal Oxide Semiconductor Implementation Service(MOSIS).  
+
+Learn more initially via:
+
+https://en.wikipedia.org/wiki/MOSIS
+
+Next, please consider MOSIS itself directly:
+
+https://www.mosis.com/
+
+https://www.mosis.com/products/fab-schedule
+
+
+Looking at the second linkjust above, note how almost any student or researchercan access manyof the most advanced silicon wafer fabrication platforms on Earth.
+
+**Q4.**  What is a multi-project wafer (MPW)?
+
+**Q5.**  When are designs next due in order to get space on a28nm resolution MPW fabrication run provided viathe Taiwan Semiconductor Manufacturing Company?
+
+**Q6.**  Giventhe above as context, and based on what you know thus far from talking with your friends or from your own direct experience in bioengineering or biology labs either at Stanford or before, how is the workflow in biology and bioengineering research different (if at all) from what is represented via the examples of VLSI design, multi-project wafers, and MOSIS?  
+
+**Q7.**  Are any differences you note or can imagine via Q6 the result of intrinsic physical differences betweensilicon-based systems versus living systems, or more to do with how people choose to organize themselves within and around technology?
+
+
+
