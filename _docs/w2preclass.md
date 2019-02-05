@@ -298,4 +298,34 @@ Looking at the second linkjust above, note how almost any student or researcherc
 **Q7.**  Are any differences you note or can imagine via Q6 the result of intrinsic physical differences betweensilicon-based systems versus living systems, or more to do with how people choose to organize themselves within and around technology?
 
 
+## Material for Friday -
+### What is GOOP? (or an introduction to prototyping living matter)
+
+The teaching team is excited to share with you a unique prototyping platform for engineering living matter:
+
+After this introduction you should be able to: 
+Describe what is GOOP and how it works
+Describe the role of prototyping in the engineering cycle 
+Get ready to to apply and use GOOP (apply and build with the central dogma of biology)  
+Be ready to use PyMol to visualize protein structures
+ 
+Let’s begin:
+
+**Q.0.** In preparation for class on Friday, please download PyMol using the following [link](https://pymol.org/2/). PyMol is a molecule visualization toolkit that is heavily used by protein engineers and designers. 
+
+You are now familiar with the engineering cycle of design, build, and test. 
+Until recently our ability to rapidly and robustly build prototypes for the engineering of living matter was somewhat limited. This is in contrast with other fields, where prototyping is a major component. For example, in electrical engineering circuits and systems are either prototyped (with physical components) or simulated. 3D printing is another example of prototyping that you may be familiar with. 
+
+**Q.1** What are the consequences of limited prototyping? Think about an example in engineering living matter and in another engineering field. 
+
+Thanks to recent developments in bioengineering, for the first time we have the ability to prototype engineering living matter as part of the class. (We have to emphasize that developing with and creating these prototyping platforms themselves is still an active and exciting area of research in bioengineering.)
+
+
+### What is GOOP? 
+
+The tubes in your kit contain GOOP: Genetic Objects Operations and Programming mixture. With GOOP you can test your genetic program (similar to genes you ordered during the build class) on a timescale of hours instead of days (to be explained shortly). Your programs or input instructions (designs) are small pieces of (circular) DNA called plasmids. Each plasmid contains the instructions to encode a protein: a type of complex macromolecule that can perform an incredible diversity of tasks. The GOOP in the tube runs your DNA instructions. GOOP is extracted cellular machinery, in this case from E. coli cells, that makes proteins from the DNA inputs needing living cells. The name of the specific material that you have is 
+TX-TL, for transcription-translation. What are transcription and translation? Read on.
+
+
+
 
