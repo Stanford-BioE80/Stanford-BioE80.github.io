@@ -111,14 +111,17 @@ By switching out the gene of our simple expression device, we can produce any pr
 
 #### Additional Resources:
 
-Fluorescent Proteins:
+**Fluorescent Proteins:**
 1. Fluorescent Proteins and the Story Behind GFP (by Roger Tsien ibiology) [link](https://www.ibiology.org/talks/fluorescent-proteins/)
 
-2.Introduction to Fluorescent Proteins [link](https://www.microscopyu.com/techniques/fluorescence/introduction-to-fluorescent-proteins)
+2. Introduction to Fluorescent Proteins [link](https://www.microscopyu.com/techniques/fluorescence/introduction-to-fluorescent-proteins)
 
 3. Interactive graph describing Fluorescent protein properties [link](http://www.fpvis.org/FP.html)
 
-Basic Parts:
-1.Adventures in Synthetic Biology - comic book
-2.iGEM PartsExpression 
-3.Expression statement DNA sequence designs
+**Basic Parts:**
+
+1. Adventures in Synthetic Biology - [comic book](http://web.mit.edu/endy/www/scraps/comic/AiSB.vol1.pdf)
+
+2. iGEM Parts Expression [parts](http://parts.igem.org/Main_Page)
+
+3. Expression statement DNA sequence designs [sequence](https://benchling.com/acjs/f_/MGZTmIMA-module-1/?sort=name&section=inventory&filter=archivePurposes%3ANOT_ARCHIVED)
