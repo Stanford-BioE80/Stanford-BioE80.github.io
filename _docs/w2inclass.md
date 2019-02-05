@@ -38,6 +38,8 @@ this module we’ll learn about and execute the biomolecular equivalent of the �
 <figure>
 <a href="/assets/images/w2ic_GOOP_fig1.png"><img src="/assets/images/w2ic_GOOP_fig1.png"></a>
 </figure>
+
+
 **Figure-1:** GOOP tubes with and without the addition of expression statement (producing greenfluorescent protein) 
 
 ### Safety
@@ -49,9 +51,17 @@ In the Preclass introduction, we discussed the central dogma of biology. Here, w
 
 First, our gene must be transcribed. For transcription to occur, the gene must be inside atranscription unit. A transcription unit is composed of two special DNA sequences, a **promoterand** a **terminator**.
 
+<figure>
+<a href="/assets/images/w2ic_fig2.png"><img src="/assets/images/w2ic_fig2.png"></a>
+</figure>
+
 During transcription, RNA polymerase recognises the promoter DNA sequence and binds to it,beginning transcription at the transcription start site, just downstream of the promoter sequence.It then transcribes DNA to RNA until it reaches the terminator sequence. At the terminator, theRNA polymerase releases the DNA and the new RNA transcript.
 
 Now the RNA transcript must be translated to a protein. The ribosome binds to a specificsequence on the RNA transcript, the **ribosome binding site**, and then searches along thetranscript until it finds the beginning of the gene sequence. The gene sequence begins with a **start codon**. The ribosome then translates codons into amino acids until it reaches a **stop codon**.
+
+<figure>
+<a href="/assets/images/w2ic_fig3.png"><img src="/assets/images/w2ic_fig3.png"></a>
+</figure>
 
 This combination of promoter, ribosome binding site, gene sequence, and terminator gives usour transcription unit and a complete construct with which to express a gene. We can alsoconsider this transcription unit a simple genetic **device**. There are a number of differentpromoters, ribosome binding sites, and terminators. Each behaves differently: differentpromoters may only be transcribed under certain conditions, or at different levels; ribosomebinding sites may be more or less attractive to the ribosome, changing the level of translation,and terminators can be ‘leaky’, only terminating transcription some of the time. Together withthe enormous diversity of genes available across the tree of life, these components make up thesimplest ‘parts’ we can use to build complex circuits.
 
