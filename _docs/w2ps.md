@@ -109,15 +109,6 @@ _Escherichia coli_ (**Figure 1**) is well-studied bacteria considered to be repr
 
 **Q.2.d.** How would you go about estimating the total number of carbon atoms in an *E.coli* cell? You don't have to calculate this just define variables and describe your approach step by step. 
 
-**Q.2.e.** The _E. coli_ MG1655 genome is 4.6 Mbp (mega base pairs) long, or approximately 4,600,000 base pairs. A good rule of thumb for the length of a single DNA base pair is that it is ⅓ nm long. How long would the _E. coli_ genome be as a linear strand of DNA? Provide your answer in µm.
-
-**Q.2.f.** The _E. coli_ genome is actually circular. What is the radius of the genome, assuming the genome is arranged as a perfect circle and given the linear length that you calculated above?
-
-**Q.2.g.** Consider your answers in relation to the size specifications for _E. coli_ given above. What does this imply about the layout of DNA inside a living cell? (Two sentences). A good rule of thumb for the volume of a DNA base pair is that one base pair has a volume of approximately 1 nm3.
-
-**Q.2.h.** How much DNA could be packed into an _E. coli_ cell, assuming that the whole cell volume only contains DNA?
-
-**Q.2.i.** Why is this number ridiculous? (i.e., the _E. coli_ genome is significantly smaller: why?) As a rule of thumb, let's treat a bacterial cell volume as being approximately 1 µm3. Note that this is a rough, order-of-magnitude estimate. In real life, cell size and volume will vary based upon species, growth rate, and stage of division in addition to many other factors.
 
 ## (Q3) GOOP Tube (30 pts)
 
