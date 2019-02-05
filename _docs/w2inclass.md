@@ -28,3 +28,34 @@ Q -- Kiva is a web platform that allows people to crowdfund presents and other n
 Q -- New or improved drugs can only be developed by project managers at big pharmaceutical companies.
 
 Q -- The wild-type version of KumaMax (Kumamolisin-As) was primarily chosen because it is active at low pH, making it a good match for the conditions in the small intestine.
+
+## Friday In Class GOOP
+### Module 1: The Expression StatementIn 
+
+this module we’ll learn about and execute the biomolecular equivalent of the ‘print’ statementby producing green fluorescent protein, or GFP. GFP and other fluorescent proteins are oftenused as an output to indicate the state of a genetic circuit, report on a sensor, or to identify cellscontaining a specific genetic payload. When it is produced, GFP is a visible yellow color (underambient light). When illuminated with light at 485 nm (blue), GFP produces fluorescent light at 510 nm (green).
+
+**Figure 1.** GOOP tubes with and without the addition of expression statement (producing greenfluorescent protein).
+
+### Safety
+There are no special safety concerns for this module. Recall that GOOP both cannot replicate,and is based on a BSL-1 organism. The green fluorescent protein is not known to be hazardousto health or the environment.
+
+### Unpacking the Central Dogma
+
+In the Preclass introduction, we discussed the central dogma of biology. Here, we explain howa particular gene ends up as a functional protein both inside a cell, or inside tubes. When aspecific gene is transcribed and translated, we say that is is **expressed**.
+
+First, our gene must be transcribed. For transcription to occur, the gene must be inside atranscription unit. A transcription unit is composed of two special DNA sequences, a **promoterand** a **terminator**.
+
+During transcription, RNA polymerase recognises the promoter DNA sequence and binds to it,beginning transcription at the transcription start site, just downstream of the promoter sequence.It then transcribes DNA to RNA until it reaches the terminator sequence. At the terminator, theRNA polymerase releases the DNA and the new RNA transcript.
+
+Now the RNA transcript must be translated to a protein. The ribosome binds to a specificsequence on the RNA transcript, the **ribosome binding site**, and then searches along thetranscript until it finds the beginning of the gene sequence. The gene sequence begins with a **start codon**. The ribosome then translates codons into amino acids until it reaches a **stop codon**.
+
+This combination of promoter, ribosome binding site, gene sequence, and terminator gives usour transcription unit and a complete construct with which to express a gene. We can alsoconsider this transcription unit a simple genetic **device**. There are a number of differentpromoters, ribosome binding sites, and terminators. Each behaves differently: differentpromoters may only be transcribed under certain conditions, or at different levels; ribosomebinding sites may be more or less attractive to the ribosome, changing the level of translation,and terminators can be ‘leaky’, only terminating transcription some of the time. Together withthe enormous diversity of genes available across the tree of life, these components make up thesimplest ‘parts’ we can use to build complex circuits.
+
+### Expression Device (the ‘print’ statement)
+
+For our expression statement, we’ll need the following:
+- **p70a** a promoter that is active by default in GOOP, and initiates transcription at a highlevel.
+- **UTR1** a sequence containing an efficient ribosome binding site.
+- ** deGFP** the coding sequence, or gene, for a green fluorescent protein, optimized for expression in GOOP.
+- **T500** a strong (non-leaky) transcriptional terminator.
+
