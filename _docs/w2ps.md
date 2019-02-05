@@ -170,3 +170,6 @@ By releasing videos of their failed launches, which include detailed annotations
 **Q.5.d.** Give an example of a biological experiment you might conduct where using _both_ GFP and your selected fluorescent protein could be useful. Describe the experiment in no more than a few sentences. Draw upon what you've learned about how fluorescent proteins are expressed using DNA constructs (genes).
 
 **Final Note:** This week you explored the concepts behind Design-Build-Test. You also practiced DBT in the context of design tools for living matter (pyMol), decoupled build from design (ordered a gene to be synthesized), and tested a DNA device (via GOOP). DBT is an essential framework that you will apply to many (bio)engineering challenges. You will explore and practice DBT in many BIOE classes: BIOE 44 (Fundamentals for Engineering Biology Lab), BIOE 123 (Biomedical System Prototyping Lab), and BIOE 141 A and B (Senior Capstone Design). Next week we will learn more about what exactly happens when you order a gene (DNA synthesis) and how we can 'read' DNA sequences (sequencing) and **What arises from DNA read/write trends that will matter for the rest of our lives?**
+
+**Your questions**
+Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
