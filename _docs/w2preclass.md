@@ -186,6 +186,8 @@ In this pre-class activity you were introduced to the engineering cycle: design,
 [1] We strongly encourage you to check out this additional resource about creativity and design in the context of modernity titled: "Art, Critique, Design and Our World" by Alexandra Daisy Ginsberg [link](https://vimeo.com/225113974)
 
 [2] The Long Now - 10,000 year clock (take a look at the designs considerations for a clock that seeks to keep time for 10,000 years) [link](http://longnow.org/clock/)
+
+
 ______________________________________________________
 
 ## Material for Wednesday 
@@ -327,8 +329,8 @@ Until recently our ability to rapidly and robustly build prototypes for the engi
 Thanks to recent developments in bioengineering, for the first time we have the ability to prototype engineering living matter as part of the class. (We have to emphasize that developing with and creating these prototyping platforms themselves is still an active and exciting area of research in bioengineering.)
 
 ______________________________________________________
-## Material for Friday
 
+## Material for Friday
 ### What is GOOP? 
 
 The tubes in your kit contain GOOP: Genetic Objects Operations and Programming mixture. With GOOP you can test your genetic program (similar to genes you ordered during the build class) on a timescale of hours instead of days (to be explained shortly). Your programs or input instructions (designs) are small pieces of (circular) DNA called plasmids. Each plasmid contains the instructions to encode a protein: a type of complex macromolecule that can perform an incredible diversity of tasks. The GOOP in the tube runs your DNA instructions. GOOP is extracted cellular machinery, in this case from E. coli cells, that makes proteins from the DNA inputs needing living cells. The name of the specific material that you have is 
