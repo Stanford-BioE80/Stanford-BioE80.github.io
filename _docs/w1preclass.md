@@ -1,13 +1,15 @@
 ---
 title: "Week 1 Preclass"
 permalink: /docs/w1preclass/
-last_modified_at: 2018-11-25T22:21:33-05:00
+last_modified_at:
 toc: true
 ---
 
-## Preclass for Wednesday
+# Week 1 Preclass
 
-Please read and consider the below before start of class. The questions given are only study questions not homework to be answered. Talk about it all with your classmates, friends, or TAs, as you like.
+Please read and consider the below before start of each class. The questions given are only study questions not homework to be graded. Talk about it all with your classmates, friends, or TAs, as you like.
+
+## Preclass for Wednesday
 
 ### What has been the impact of engineering interacting with biology?
 
@@ -111,6 +113,7 @@ In the Day 2 pre-class material you examined the cases highlighting the impact a
 [5] [Erin Brodwin "This Cornell scientist saved an $11-million industry](http://www.businessinsider.com/gmo-controversy-beginning-fruit-2017-6)
 [6] [Ban in Hawaii on GMO Crops Is Ruled Invalid](https://www.wsj.com/articles/ban-in-hawaii-on-gmo-crops-is-ruled-invalid-1435713546)
 [7] [U.S. GMO food labeling bill passes Senate](https://www.reuters.com/article/us-usa-food-gmo-vote/u-s-gmo-food-labeling-bill-passes-senate-idUSKCN0ZO08N)
+________________________________________________
 
 ## Preclass for Friday
 
