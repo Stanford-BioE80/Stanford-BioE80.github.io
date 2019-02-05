@@ -34,7 +34,12 @@ Q -- The wild-type version of KumaMax (Kumamolisin-As) was primarily chosen beca
 
 this module we’ll learn about and execute the biomolecular equivalent of the ‘print’ statementby producing green fluorescent protein, or GFP. GFP and other fluorescent proteins are oftenused as an output to indicate the state of a genetic circuit, report on a sensor, or to identify cellscontaining a specific genetic payload. When it is produced, GFP is a visible yellow color (underambient light). When illuminated with light at 485 nm (blue), GFP produces fluorescent light at 510 nm (green).
 
-**Figure 1.** GOOP tubes with and without the addition of expression statement (producing greenfluorescent protein).
+
+<figure>
+<a href="/assets/images/w2ic_GOOP_fig1.png"><img src="/assets/images/w2ic_GOOP_fig1.png"></a>
+<figcaption> <b>Figure 1</b>. GOOP tubes with and without the addition of expression statement (producing greenfluorescent protein) </figcaption>
+</figure>
+
 
 ### Safety
 There are no special safety concerns for this module. Recall that GOOP both cannot replicate,and is based on a BSL-1 organism. The green fluorescent protein is not known to be hazardousto health or the environment.
