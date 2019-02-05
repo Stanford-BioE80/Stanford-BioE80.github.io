@@ -341,7 +341,13 @@ TX-TL, for transcription-translation. What are transcription and translation? Re
 
 At the core of biology is a simple idea, known as the central dogma. For our purpose, we can think of central dogma as a process that transcribes the information encoded in DNA to RNA (transcription), and then translates the information encoded in RNA to form a protein (translation). If you aren’t familiar with the central dogma, check out this video explain how it happens inside a cell (in vivo): Central Dogma. We’ve also listed some additional resources at the end of this document. Figure. 1 describes the overall flows of this process, which is typically from DNA to RNA to protein (with some special exceptions). 
 
-**Figure-1 here** 
+<figure>
+<a href="/assets/images/w2pc_centraldogma.png"><img src="/assets/images/w2pc_centraldogma.png"></a>
+</figure>
+
+
+**Figure-1** An overview of central dogma 
+
 How is this related to GOOP? GOOP lets you to operate this process outside of living cells in a tube (in vitro). In fact, you can think of GOOP as the vertical blue arrows in Figure 1. When you add your plasmid instructions to GOOP and let it sit at room temperature, the GOOP will transcribe your DNA into messenger RNA, and translate it into the encoded proteins. This process will take a number of hours (up to overnight), but you will be able to see the real-time production of your protein product. In comparison, running a plasmid in cells requires a multi-step process that takes multiple days, requires more complex plasmid design, and needs more sophisticated lab equipment (although it does have some advantages, can you think of any?). If you’re interested in the in vivo approach, make sure to check out BIOE 44
 
 **Q.2** What designs (devices, circuits or systems) you would like to build and test with GOOP? 
