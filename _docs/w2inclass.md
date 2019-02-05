@@ -95,6 +95,11 @@ For more information about GFP check out: [PDB Link](http://pdb101.rcsb.org/motm
 
 8. Render the SYG portion of the protein as ‘sticks’. You should now be able to see the cyclized ring of the GFP chromophore. This cyclization, as shown below, is part of the *maturation* process of the protein -- after maturation, the protein is able to fluoresce.
 
+<figure>
+<a href="/assets/images/w2ic_gfp_cyclization.png"><img src="/assets/images/w2ic_gfp_cyclization.png"></a>
+</figure>
+[source](http://www.cryst.bbk.ac.uk/PPS2/projects/jonda/chromoph.htm)
+
 9. Take a screenshot of your highlighted protein structure for the problem set 2.
 
 
