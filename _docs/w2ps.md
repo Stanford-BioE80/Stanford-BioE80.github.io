@@ -21,9 +21,9 @@ Before the advent of this shared implementation service, researchers and others 
 
 In doing so, they created the "fabless foundry" industry that has helped shape our society today. Watch this [video](https://www.youtube.com/watch?v=d5SEFE_49Ug) made by Mosis explaining the workflow for using their service. As you do, pay special attention to each step of the workflow, who is involved, and which part of the DBT cycle is shown.
 
-**Q.1.a.** How does Mosis work? What feature(s) makes this service better than others that had previously been used? (<150 words)
+**Q.1.a.** How does Mosis work? What feature(s) makes this service better than others that had previously been used? (bubullet points)
 
-**Q.1.b.** If you were designing a chip, what advantage does Mosis provide? Why would you use it? (<150 words)
+**Q.1.b.** If you were designing a chip, what advantage does Mosis provide? Why would you use it? (~100 words)
 
 **Q.1.c.** How does the Mosis cycle compare (similarities and differences) to the DBT cycle you saw with KumaMax? Fill in the following table to compare and contrast the DBT workflow in each case, highlighting who is responsible for each step, and what tools they use in the completion of this task.
 
