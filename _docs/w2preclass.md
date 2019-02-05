@@ -411,4 +411,10 @@ Plasmid a small, circular piece of double-stranded DNA. The staple of molecular 
 
 **TX-TL** (What is GOOP) transcription/translation mix. A special kind of cell free reaction mix that uses the standard E. coli transcription and translation system.
 
+**Central Dogma**
+Khan Academy: Central Dogma https://www.khanacademy.org/science/biology/gene-expression-central-dogma
+Bruce Alberts Molecular Biology of the Cell (2015) Chapter 6
+https://www.ncbi.nlm.nih.gov/books/NBK21054/ (older edition)
+Science Library QH581.2 .M64
+Green Library QH581.2 .M64 (fifth edition)
 
