@@ -97,6 +97,19 @@ In your kit you have:
 
 1. Set up two tubes following experiments (additional instructions from the Pre-class):
 
+<table>
+  <tr>
+    <td>Tube</td>
+    <td>1</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>What you will add</td>
+    <td>Water (negative control) </td>
+    <td>DNA: p70a-UTR1-deGFP-T</td>
+  </tr>
+</table>
+
 2. Note the time and let the reactions run. Take a photo of your tubes (at time zero). You shouldbegin seeing a color change after about 6 hours; after 12 hours there should be cleardifferences.
 
 3. Take a photo of your GOOP tubes at the end of the experiment for the associated problemset. If you don’t see a difference between the tubes, don’t worry, but still take a photo. Note the time that you take your final photo (the endpoint of the experiment).
