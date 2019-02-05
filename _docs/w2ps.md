@@ -57,7 +57,7 @@ Engineering living matter has not yet undergone the same type of decoupling and 
 
 As we saw in class, the [Free Genes Project](https://biobricks.org/freegenes/) wants to bring ideas of decoupling and the "fabless foundry" to the engineering of DNA.
 
-**Q.1.d.** Go to company websites and determine in which "sector" they are situated (D, B, or T) and what do they do:
+**Q.1.d.** Go to company websites (minimum of 3 for the problem set) and determine in which "sector" they are situated (D, B, or T) and what do they do:
 
 **[Twist Biosciences](https://twistbioscience.com/company/about)**
 
