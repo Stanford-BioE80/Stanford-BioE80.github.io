@@ -37,9 +37,8 @@ this module weâ€™ll learn about and execute the biomolecular equivalent of the â
 
 <figure>
 <a href="/assets/images/w2ic_GOOP_fig1.png"><img src="/assets/images/w2ic_GOOP_fig1.png"></a>
-<figcaption> <b>Figure 1</b>. GOOP tubes with and without the addition of expression statement (producing greenfluorescent protein) </figcaption>
 </figure>
-
+**Figure-1:** GOOP tubes with and without the addition of expression statement (producing greenfluorescent protein) 
 
 ### Safety
 There are no special safety concerns for this module. Recall that GOOP both cannot replicate,and is based on a BSL-1 organism. The green fluorescent protein is not known to be hazardousto health or the environment.
