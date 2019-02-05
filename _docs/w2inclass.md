@@ -56,6 +56,27 @@ This combination of promoter, ribosome binding site, gene sequence, and terminat
 For our expression statement, we’ll need the following:
 - **p70a** a promoter that is active by default in GOOP, and initiates transcription at a highlevel.
 - **UTR1** a sequence containing an efficient ribosome binding site.
-- ** deGFP** the coding sequence, or gene, for a green fluorescent protein, optimized for expression in GOOP.
+- **deGFP** the coding sequence, or gene, for a green fluorescent protein, optimized for expression in GOOP.
 - **T500** a strong (non-leaky) transcriptional terminator.
 
+### Visualizing GFP with PyMol
+
+While your GOOP is running, check out the structure of the GFP protein encoded by the DNA you used. 
+
+For more information about GFP check out: [PDB Link](http://pdb101.rcsb.org/motm/42)
+
+ 1. Open PyMol on your laptop. As part of the pre-class assignment, you should have downloaded PyMol from this [Pymol Link]( https://pymol.org/2/)
+ 
+ 2. Type in the command “fetch 1gfl” in PyMol. This command downloads the structure ofGreen Fluorescent Protein (GFP) from the Protein Data Bank (PDB)
+ 
+3. Check out the website where the GFP structure is housed:https://www.rcsb.org/structure/1gfl
+ 
+4. Go back to PyMol and take a look at the GFP structure.  Click Hide everything and ‘Show cartoon’, under the menus “H” and “S”  listed near the structure name on the toolbar on the right. The GFP structure is a *beta barrel*. This means it is made up of abarrel formed by *beta strands*, a known type of secondary structure proteins adopt.
+
+5. Click on   <Mouse → 1 button viewing> to enable scrolling.
+
+6. Click on   <Display → Sequence On> to see the amino acid sequence for GFP.
+
+7. Select residues 64-66 SYG and color these residues red. This is the *chromophore* of GFP, the portion of the molecule responsible for the fluorescence.
+
+8. Render the SYG portion of the protein as ‘sticks’. You should now be able to see the cyclized ring of the GFP chromophore. This cyclization, as shown below, is part of the *maturation* process of the protein -- after maturation, the protein is able to fluoresce.
