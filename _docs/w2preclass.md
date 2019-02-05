@@ -247,3 +247,29 @@ Not too long ago, people who wanted to make customized DNA had to do so with the
 **Q.1.** Go to the Free Genes Project website, and describe how it works. Who is responsible for which aspect?
 
 **Q.2.** Compare this to the Mosis workflow outlined above. How is it similar or different? 
+
+
+## Material for Wednesday
+
+(two pages of text plus six external links follow; 30’suggested time)
+
+Your primary goal in studying this specific pre-class material is to understand, from historical developments in electronics that emerged over a generation ago, how qualitative structural changes in aDesign, Build, Test workflow can emerge over time –changes that impactwho does what type of workand why.
+
+
+### Mead & Conway revolution
+
+To get started quickly skim the following Wikipediaentry regarding the Mead & Conway revolution in Very Large Scale Integration (VLSI) circuit engineering: [link](https://en.wikipedia.org/wiki/Mead_%26_Conway_revolution)
+
+**Q.1.** Drawing fromthisarticle alone, what were some of the unique aspects orinnovations that contributed to the VLSI revolution?Consider this question specifically from the perspective of a design, build, and test workflow.
+
+Next, please skim the followingtwo articles that describethe 1978 VLSI designcourse Lynn Conway offered at MITas well as the recognition they received in 1981 from Electronics, a trade magazine:
+
+http://ai.eecs.umich.edu/people/conway/VLSI/MIT78/MIT78.html
+
+http://ai.eecs.umich.edu/people/conway/Awards/Electronics/ElectAchiev.html
+
+
+**Q.2.** Building on your answer from Q1 and the two additional articles linked above, what more specific changes or new aspects of the design, build, test workflow did Mead and Conway implement?  
+
+
+**Q.3.** How were their proposedchanges received at the time?  Did everyone like and benefit from them?  Who benefited?  Who, if anyone, was threatened?
