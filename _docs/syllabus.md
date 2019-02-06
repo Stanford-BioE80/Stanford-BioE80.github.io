@@ -99,7 +99,7 @@ ________________________________________________________________________________
  Lead Teaching assistant:
 
 
-### Week 2: How do design, build, and test tools work to support bioengineering?**  
+### Week 2: How do design, build, and test tools work to support bioengineering? 
 <table>
   <tr>
     <td> Mon 8 April</td>
@@ -218,7 +218,7 @@ Lead Instructor:
 Lead Teaching assistant:      
 
 
-### Week 7: Something from "nothing." Why do molecules move? How do patterns grow?**
+### Week 7: Something from "nothing." Why do molecules move? How do patterns grow?
 <table>
   <tr>
     <td> Mon 13 May</td>
@@ -266,7 +266,7 @@ Lead Instructor:
 Lead Teaching assistant:
 
 
-### Week 9: Evolution as an algorithm; Evolution as a service**
+### Week 9: Evolution as an algorithm; Evolution as a service
 <table>
   <tr>
     <td> Mon 27 May</td>
