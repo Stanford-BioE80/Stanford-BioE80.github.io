@@ -3,7 +3,9 @@ title: "Week 4 Preclass"
 permalink: /docs/w4preclass/
 ---
 
-# Week 4 Preclass
+# Week-4 Preclass
+
+Please read and consider the below before start of class. The questions given are only study questions not homework to be answered. Talk about it all with your classmates, friends, or TAs, as you like.
 
 ## Preclass for Monday
 
@@ -50,7 +52,12 @@ live in and on you (are you?). And, begin to describe the role that the microbio
 
 **Goal-3:** By observing this diversity of microbial phenotypes you will have theopportunity to appreciate the rich diversity and engineering potential that livingmatter provides.
 
-**Figure-1** biofilm development via a *Pseudomonas aeruginosa* colony with the extracellularmatrix, material released by the cells, stained red and pink. [Source1](https://www.scottchimileskiphotography.com/Creative-Commons/) - Scott Chimileski is licensed under a Creative Commons non-commercial use.
+<figure>
+<a href="/assets/images/w4pc_S.Chimileski Biofilm_pseudomonas aeruginosa biofilm.gif"><img src="/assets/images/w4pc_S.Chimileski Biofilm_pseudomonas aeruginosa biofilm.gif"></a>
+</figure>
+
+
+**Figure-1** biofilm development via a *Pseudomonas aeruginosa* colony with the extracellularmatrix, material released by the cells, stained red and pink by Scott Chimileski. [Source](https://www.scottchimileskiphotography.com/Creative-Commons/) - licensed under a Creative Commons non-commercial use.
 
 In an earlier activity we used a Foldscope to observe and explore the world around us,either as explorers or makers looking for parts and inspiration. In today’s activity we willexplore the *microbiome* that lives on and within us.
 The microbiome is the vast collection of bacteria, viruses, fungi, and other microbes thatshare our bodies (additional [link](https://www.nature.com/collections/stkpgwjvvk/content/content). Depending on their context they can play a positive
