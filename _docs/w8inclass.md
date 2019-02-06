@@ -41,3 +41,13 @@ Molds are available
 
 #### Build 
 (suggested time: 15 min)
+
+5. Think of something you would like to build, perhaps the idea you came inwith or the object or part you wanted to mold.
+
+6. Shape the material! Here are three ways to do so:
+  a.With your hands!
+  b.Around an object!
+  c.In a baggy or cup!
+  
+7. Seal it! You can either put it in a plastic bag, plastic wrap, or cup.
+*Remember, you want to LOOSELY SEAL your bag to allow for gas exchange so that the material can harden.*
