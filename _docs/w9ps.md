@@ -35,9 +35,9 @@ hat do you estimate the average human lifespan to have been in 1900?  In 2010?  
 1.g. Given all of the preceding, provide an example of a challenge that the future of healthcare is facing 
 (one sentence stating the challenge; a second sentence explainingwhy it will be a challenge)?
 
-## Q2. Biodefense (50 points)
+## (Q2) Biodefense (50 points)
 
-Last year the Center for Health Security at Johns Hopkins University ran a simulated exercise exploring and gaining experience with how our current society would respond to a new virus.  They named exercise [CladeX](http://www.centerforhealthsecurity.org/our-work/events/2018_clade_x_exercise/). In such exercises, prior government officials with tremendous real-world expertise role play how the government might behave and respond to anemerging situation. Get a piece of note paper and load the video recording of their exercisehere: https://youtu.be/sJ1x8SlNxj0 
+Last year the Center for Health Security at Johns Hopkins University ran a simulated exercise exploring and gaining experience with how our current society would respond to a new virus.  They named exercise [CladeX](http://www.centerforhealthsecurity.org/our-work/events/2018_clade_x_exercise/). In such exercises, prior government officials with tremendous real-world expertise role play how the government might behave and respond to anemerging situation. Get a piece of note paper and load the video recording of their exercise here: [source](https://youtu.be/sJ1x8SlNxj0) 
 
 First, watch from 7-11’ to get a sense of what is going on from the simulated news coverage.
 
@@ -54,3 +54,6 @@ Develop back-of-the-envelope estimates for the following:
 2.b. How many people will die from the virus?  Make and note whatever simplifyingassumptions you find useful (20 points).
 
 2.c. Based on your experience calculating your estimates, what one intervention would youwish for and why?  (Max 100 words, 10 points).
+
+
+**Your questions** Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
