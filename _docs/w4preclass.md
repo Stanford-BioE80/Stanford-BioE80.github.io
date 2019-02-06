@@ -61,13 +61,20 @@ live in and on you (are you?). And, begin to describe the role that the microbio
 
 In an earlier activity we used a Foldscope to observe and explore the world around us,either as explorers or makers looking for parts and inspiration. In today’s activity we willexplore the *microbiome* that lives on and within us.
 The microbiome is the vast collection of bacteria, viruses, fungi, and other microbes thatshare our bodies (additional [link](https://www.nature.com/collections/stkpgwjvvk/content/content). Depending on their context they can play a positive
-or a negative role in our health and well being. For example, they can cause orinfluence non-communicable diseases. Engineering the microbiome is considered bysome respected academics to be part of the the future of medicine. For example,researchers at Cornell recently engineered a gut microbe to address aspects ofdiabetes 
+or a negative role in our health and well being. For example, they can cause orinfluence non-communicable diseases. Engineering the microbiome is considered by some respected academics to be part of the the future of medicine. For example,researchers at Cornell recently engineered a gut microbe to address aspects ofdiabetes 
 (see [here](https://www.ncbi.nlm.nih.gov/pubmed/25626737)).
 
 **Q.1. What do you think are various methods that we can use to study themicrobiome (i.e., all bacteria in and on you)? How can we tell what microbes arepresent in the microbiome?**
 
 Thinking back to observing via your Foldscope, looking at microbes is certainly onemethod to study microbes. 
-Figure-2 (below) is a beautiful photograph of multiplebacteria and fungal colonies. You may notice the different colors, shapes, sizes, andstructures of these colonies. Some of the colonies have a smooth morphology whileothers have a more folded surface. You may begin to ask what are the advantages ofhaving a smooth, or folded, or a rough surface. You may also use this diversity of properties as a possible approach to discern various microorganisms from one another.However there is one important caveat to keep in mind, the diversity of microbial worldis incredible but we can only cultivate for study approximately 1% of the microbes thatlive on you. This is in part because many microbes are highly “social” and dwell in andamong communities of other microbes. We still have much to learn about the 1% we can cultivate, with plenty more to learn from the 99% we can’t yet grow.
+Figure-2 (below) are photographs of multiplebacteria and fungal colonies. You may notice the different colors, shapes, sizes, andstructures of these colonies. Some of the colonies have a smooth morphology whileothers have a more folded surface. You may begin to ask what are the advantages of having a smooth, or folded, or a rough surface. You may also use this diversity of properties as a possible approach to discern various microorganisms from one another.  However there is one important caveat to keep in mind, the diversity of microbial worldis incredible but we can only cultivate for study approximately 1% of the microbes thatlive on you. This is in part because many microbes are highly “social” and dwell in andamong communities of other microbes. We still have much to learn about the 1% we can cultivate, with plenty more to learn from the 99% we can’t yet grow.
+
+<figure>
+<a href="/assets/images/w4pc_meetYourMicrobe.png"><img src="/assets/images/w4pc_meetYourMicrobe.png"></a>
+</figure>
+
+**Figure-2**  Photographs of multiplebacteria and fungal colonies.
+
 
 **Q.2. If we cannot cultivate and grow many components of the microbiome inisolation in the lab, how can we tell what is present in each context? Whatcontemporary technologies have enabled the study and engineering of themicrobiome?**
 
