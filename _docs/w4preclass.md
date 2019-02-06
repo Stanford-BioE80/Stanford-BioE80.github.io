@@ -29,7 +29,7 @@ impossible  until very recently? Give two or three examples.**
 
 **Q.4. Give two simple DBT rules the team discovered.**
 
-**Q.5. Thinking ahead, what do you think the authors and J. Craig Venter will do next – what they might be 
+**Q.5. Thinking ahead, what do you think the authors will do next – what they might be 
 working on right now, given that he announced JCVI3.0 to the world back in 2016?**
 ____________________________________________________________
 
