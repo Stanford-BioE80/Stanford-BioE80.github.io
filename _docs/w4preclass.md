@@ -57,11 +57,11 @@ live in and on you (are you?). And, begin to describe the role that the microbio
 </figure>
 
 
-**Figure-1** biofilm development via a *Pseudomonas aeruginosa* colony with the extracellularmatrix, material released by the cells, stained red and pink by Scott Chimileski. [Source](https://www.scottchimileskiphotography.com/Creative-Commons/) - licensed under a Creative Commons non-commercial use.
+**Figure-1** biofilm development via a *Pseudomonas aeruginosa* colony with the extracellularmatrix, material released by the cells, stained red and pink by Scott Chimileski. [Source](https://www.scottchimileskiphotography.com/Creative-Commons/) - licensed under a Creative Commons non-commercial use. Visit this [website](https://www.scottchimileskiphotography.com/Portfolio/) for additional photos.
 
 In an earlier activity we used a Foldscope to observe and explore the world around us,either as explorers or makers looking for parts and inspiration. In today’s activity we willexplore the *microbiome* that lives on and within us.
 The microbiome is the vast collection of bacteria, viruses, fungi, and other microbes thatshare our bodies (additional [link](https://www.nature.com/collections/stkpgwjvvk/content/content). Depending on their context they can play a positive
-or a negative role in our health and well being. For example, they can cause orinfluence non-communicable diseases. Engineering the microbiome is considered by some respected academics to be part of the the future of medicine. For example,researchers at Cornell recently engineered a gut microbe to address aspects ofdiabetes 
+or a negative role in our health and well being. For example, they can cause orinfluence non-communicable diseases. Engineering the microbiome is considered by some respected academics to be part of the the future of medicine. For example,researchers at Cornell recently engineered a gut microbe to address aspects of diabetes 
 (see [here](https://www.ncbi.nlm.nih.gov/pubmed/25626737)).
 
 **Q.1. What do you think are various methods that we can use to study themicrobiome (i.e., all bacteria in and on you)? How can we tell what microbes arepresent in the microbiome?**
