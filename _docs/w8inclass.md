@@ -5,7 +5,7 @@ _________________________________________________________
 **Think it |  Shape it |  Grow it |  Build it**
 
 Recall from the safety training that the UTL space (our undergraduate learning labspace) requires that 
-shoes must cover the entire foot and pants must cover the ankle.Please leave food and drinks on the cart outside.
+shoes must cover the entire foot and pants must cover the ankle. Please leave food and drinks on the cart outside.
 
 <figure>
 <a href="/assets/images/w8inclass_Making_with_Mushrooms.png"><img src="/assets/images/w8inclass_Making_with_Mushrooms.png"></a>
