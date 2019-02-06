@@ -10,6 +10,7 @@ shoes must cover the entire foot and pants must cover the ankle.Please leave foo
 <figure>
 <a href="/assets/images/w8inclass_Making_with_Mushrooms.png"><img src="/assets/images/w8inclass_Making_with_Mushrooms.png"></a>
 </figure>
+**Figure-1:** Mycelium objects made by Bioe.80 students.
 
 ### Introduction:
 Welcome to the Making with Mushrooms activity!
