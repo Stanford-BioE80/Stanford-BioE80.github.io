@@ -50,4 +50,16 @@ Molds are available
   c.In a baggy or cup!
   
 7. Seal it! You can either put it in a plastic bag, plastic wrap, or cup.
+
 *Remember, you want to LOOSELY SEAL your bag to allow for gas exchange so that the material can harden.*
+
+#### Finish 
+(suggested time: 10 min)
+
+8. Label the bag/cup and ask your TA where to place it.
+
+9. As a team, clean up your space completely. leaving the space better than you found it. 
+To do so:
+a. Take all biomaterials and anything that touched biomaterial (e.g. trash bag coverings on the tables in 112) and place them in the trash.
+b. Wipe down your countertops with ethanol.
+c.Please clean your bowls in the sink after dumping the mushroom wastematerial in the trash bins. Please give your bowl to a TA afterwards forstorage.
