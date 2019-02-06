@@ -15,7 +15,7 @@ Students successfully completing BIOE/ENGR.80 should have a working understandin
 
 1 April to 5 June 2019
 
-MWF, 1:30-2:20p , Lectures & Activities
+MWF, 1:30-2:20p, Lectures & Activities
 
 ### Where 
 
@@ -75,30 +75,48 @@ We expect you will uphold Stanford's Honor Code. Discussion among peers and with
 Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty. Unless the student has a temporary disability, Accommodation letters are issued for the entire academic year. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. The OAE is located at 563 Salvatierra Walk (phone: 723-1066), URL: https://oae.stanford.edu/ 
 
 _______________________________________________________________________________________
+### Week 1: Why are you here? Why engineer biology? Whats unique about living matter?
+<table>
+  <tr>
+    <td> Mon 1 April</td>
+    <td> 320-105</td>
+    <td> Hello; course mechanics; initial questions; opening tour</td>
+  <tr>
+  <tr>
+    <td> Wed 3 April</td>
+    <td> 320-105</td>
+    <td> Future impacts of bioengineering</td>
+  <tr>
+   <tr>
+    <td> Fri 5 April</td>
+    <td> SC 112/132 </td>
+    <td> Make your foldscope; embrace nature <b>(PSET-1)<b> </td>
+  <tr>
+</table>
+ Lead Instructor:
+ Lead Teaching assistant:
 
 
-**Why are you here? Why engineer biology? Whats unique about living matter?**  
-     <!-- Lead Instructor-->
-    
-Mon  1  April  320-105  Hello; course mechanics; initial questions; opening tour
-
-Wed  3  April  320-105	Future impacts of bioengineering
-
-Fri  5  April	 SC 112/132	Make your foldscope; embrace nature **(PSET 1)**
-      <!-- Lead Teaching assistant-->
-
-
-### Week 2
-**How do design, build, and test tools work to support bioengineering?**  
-     <!-- Lead Instructor-->
-     <!--  Genetic engineering and basic literacy; solving problems/applications/doing things-->
-    
-Mon     8 April		  320-105	How do engineers engineer with, of, and for biology?
-
-Wed 	  10 April	  320-105	How will engineers engineer biology?
-
-Fri 	  12 April	  SC 112/132	Get your GOOP tube; express DNA **(PSET 2)**
-      <!-- Lead Teaching assistant-->
+### Week 2: How do design, build, and test tools work to support bioengineering?**  
+<table>
+  <tr>
+    <td> Mon 8 April</td>
+    <td> 320-105</td>
+    <td> How do engineers engineer with, of, and for biology</td>
+  <tr>
+  <tr>
+    <td> Wed 10 April</td>
+    <td> 320-105</td>
+    <td> How will engineers engineer biology? </td>
+  <tr>
+   <tr>
+    <td> Fri 12 April</td>
+    <td> SC 112/132 </td>
+    <td> Get your GOOP tube; express DNA <b>(PSET 2)<b> </td>
+  <tr>
+</table>     
+ Lead Instructor:
+ Lead Teaching assistant:
 
 
 ### Week 3		
