@@ -93,6 +93,7 @@ ________________________________________________________________________________
     <td> Make your foldscope; embrace nature <b>(PSET-1)<b> </td>
   <tr>
 </table>
+ 
  Lead Instructor:
       
  Lead Teaching assistant:
@@ -116,6 +117,7 @@ ________________________________________________________________________________
     <td> Get your GOOP tube; express DNA <b>(PSET 2)<b> </td>
   <tr>
 </table>     
+ 
  Lead Instructor:
       
  Lead Teaching assistant:
@@ -139,12 +141,13 @@ ________________________________________________________________________________
     <td> Genetic sensors, logic, actuators activity <b>(PSET 3)<b> </td>
   <tr>
 </table>     
+ 
  Lead Instructor:
       
  Lead Teaching assistant: 
  
  
- ### Week 4:W hat arises from DNA read/write trends that will matter for the rest of our lives?
+ ### Week 4: What arises from DNA read/write trends that will matter for the rest of our lives?
  <table>
   <tr>
     <td> Mon 22 April</td>
@@ -162,73 +165,147 @@ ________________________________________________________________________________
     <td> Brainstoriming activity <b>(PSET 4)<b> </td>
   <tr>
 </table>     
+
 Lead Instructor:
       
 Lead Teaching assistant: 
  
 
+### Week 5: If we can construct a genome then why can't we build an organism?
+<table>
+  <tr>
+    <td> Mon 29 April</td>
+    <td> 320-105</td>
+    <td> How to parse a research paper on the frontiers of bioengineering </td>
+  <tr>
+  <tr>
+    <td> Wed 17 April</td>
+    <td> 320-105</td>
+    <td>	Why is humpty dumpty more than just a nursery rhyme? </td>
+  <tr>
+   <tr>
+    <td> Fri 12 April</td>
+    <td> SC 112/132 </td>
+    <td> Meet your microbes <b>(PSET 5)<b> </td>
+  <tr>
+</table>      
 
-
-       
-       
-### Week 5		
-**If we can construct a genome then why can't we build an organism?**
-      <!-- Lead Instructor-->
+Lead Instructor:
       
-Mon 	29 April	320-105	How to parse a research paper on the frontiers of bioengineering
-
-Wed 	1  May	  320-105	Why is humpty dumpty more than just a nursery rhyme?
-
-Fri 	3  May 	  SC 112/132	Meet your microbes **(PSET 5)**
-      <!-- Lead Teaching assistant-->
+Lead Teaching assistant: 
       
+### Week 6: Human Health
+<table>
+  <tr>
+    <td> Mon 6 May</td>
+    <td> 320-105</td>
+    <td> Tbd (Could be Health in 2030) </td>
+  <tr>
+  <tr>
+    <td> Wed 8 May</td>
+    <td> 320-105</td>
+    <td>	Tbd </td>
+  <tr>
+   <tr>
+    <td> Fri 10 May</td>
+    <td> SC 112/132 </td>
+    <td> Tbd (Gene drive discussion?) <b>PSET 6<b></td>
+  <tr>
+</table>     
+
+Lead Instructor:
       
-### Week 6 
-**Human Health**
-      <!-- Lead Instructor-->
+Lead Teaching assistant:      
+
+
+### Week 7: Something from "nothing." Why do molecules move? How do patterns grow?**
+<table>
+  <tr>
+    <td> Mon 13 May</td>
+    <td> 320-105</td>
+    <td> Molecular diffusion, what is it and why does it matter to bioengr.? </td>
+  <tr>
+  <tr>
+    <td> Wed 8 May</td>
+    <td> 320-105</td>
+    <td>	Patterns via development; e.g., could you grow an arm? </td>
+  <tr>
+   <tr>
+    <td> Fri 10 May</td>
+    <td> SC 112/132 </td>
+    <td> Dancing droplets; "programming" autonomous objects <b>PSET 7<b> </td>
+  <tr>
+</table>     
+
+Lead Instructor:
       
-Mon 	6 May		320-105	Tbd 
+Lead Teaching assistant:
 
-Wed 	8 May		320-105	Tbd (Could be Health in 2030)
+
+### Week 8: Natural Health
+<table>
+  <tr>
+    <td> Mon 20 May</td>
+    <td> 320-105</td>
+    <td> tbd (Could be: Why don't we have modern biological weapons?) </td>
+  <tr>
+  <tr>
+    <td> Wed 22 May</td>
+    <td> 320-105</td>
+    <td>	tbd </td>
+  <tr>
+   <tr>
+    <td> Fri 10 May</td>
+    <td> SC 112/132 </td>
+    <td> Making with mushrooms or gene drive discussion <b>PSET 8<b> </td>
+  <tr>
+</table>     
+
+Lead Instructor:
       
-Fri 	10 May	SC 112/132	Activity tbh **(PSET 6)**
-      <!-- Lead Teaching assistant-->
+Lead Teaching assistant:
 
 
-### Week 7		
-**Something from "nothing." Why do molecules move? How do patterns grow?**
+### Week 9: Evolution as an algorithm; Evolution as a service**
+<table>
+  <tr>
+    <td> Mon 27 May</td>
+    <td> - </td>
+    <td> <b>NO CLASS (Memorial Day)<b> </td>
+  <tr>
+  <tr>
+    <td> Wed 29 May</td>
+    <td> 320-105</td>
+    <td> What is evolution from an engineering perspective? </td>
+  <tr>
+   <tr>
+    <td> Fri 10 May</td>
+    <td> SC 112/132 </td>
+    <td> How to use and change evolution <b>(PSET 9)<b> </td>
+  <tr>
+</table>     
 
-Mon 	13 May	 320-105	Molecular diffusion, what is it and why does it matter to bioengr.?
-
-Wed 	15 May	 320-105	Patterns via development; e.g., could you grow an arm?
-
-Fri 	17  May	 SC 112/132	Dancing droplets; "programming" autonomous objects **(PSET 7)**
-
-
-### Week 8 
-**Natural Health**
-      <!-- Lead Instructor-->
+Lead Instructor:
       
-Mon 	20 May		320-105	Tbd 
+Lead Teaching assistant:
 
-Wed 	22 May		320-105	Tbd (Could be: Why don't we have modern biological weapons?)
+
+
+### Week 10: Summary Sendoff: Cultural health, Citizenship & Humanity -- Flourishing
+<table>
+  <tr>
+    <td> Mon 3 June</td>
+    <td> 320-105 </td>
+    <td> Why do people work to solve problems via bioengineering?</td>
+  <tr>
+  <tr>
+    <td> Wed 5 June</td>
+    <td> 320-105</td>
+    <td> How much can we make with biology? </td>
+  <tr>
+</table>    
+
+Lead Instructor:
       
-Fri 	24 May	SC 112/132	Suggested Activity: Gene drive discussion  **(PSET 8)**
-      <!-- Lead Teaching assistant-->
-
-### Week 9		
-**Evolution as an algorithm; Evolution as a service**
-
-Mon 	27 May		**NO CLASS (Memorial Day)**
-
-Wed 	29 May		320-105	What is evolution from an engineering perspective? 
-
-Fri 	31 May		320-105	How to use and change evolution **(PSET 9)**
-
-### Week 10		
-**Summary Sendoff: Cultural health, Citizenship & Humanity --  Flourishing**
-
-Mon 	3 June		320-105	Why do people work to solve problems via bioengineering? 
-
-Wed 	5 June		320-105	How much can we make with biology? 
+Lead Teaching assistant:
 
