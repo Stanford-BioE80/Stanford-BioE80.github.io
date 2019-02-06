@@ -123,7 +123,7 @@ ________________________________________________________________________________
  Lead Teaching assistant:
 
 
-### Week 3: Abstraction as a tool for managing complexity in bioengineering**  
+### Week 3: Abstraction as a tool for managing complexity in bioengineering 
 <table>
   <tr>
     <td> Mon 15 April</td>
