@@ -60,6 +60,31 @@ Molds are available
 
 9. As a team, clean up your space completely. leaving the space better than you found it. 
 To do so:
+
 a. Take all biomaterials and anything that touched biomaterial (e.g. trash bag coverings on the tables in 112) and place them in the trash.
+
 b. Wipe down your countertops with ethanol.
-c.Please clean your bowls in the sink after dumping the mushroom wastematerial in the trash bins. Please give your bowl to a TA afterwards forstorage.
+
+c. Please clean your bowls in the sink after dumping the mushroom wastematerial in the trash bins. Please give your bowl to a TA afterwards forstorage.
+
+
+####  Guiding questions to think about as you make
+
+These questions will be part of your PSET.
+
+**Q.1** What is actually going on here? Describe in broad terms what processesunique to living matter are making this possible and the potential/limitation ofmaking with mushrooms.
+
+**Q.2** How is this similar or different to other additive manufacturing processes suchas 3D printing? (detail out similarities/differences...feel free to draw)
+
+**Q.3** Looking forward, how do we go from creating matter with an inert function(e.g. a chair) to creating matter with biological function (i.e. growing a finger, aheart, etc)? What new considerations need to be made?
+
+#### Additional Resources:
+1.MycoWorksa https://www.youtube.com/watch?v=VWQznqpy3Ssb 
+https://www.youtube.com/watch?time_continue=1&v=3Dg6IleHm-k2
+
+Bolt Threads: https://boltthreads.com
+[link](https://www.forbes.com/sites/amyfeldman/2018/04/16/synthetic-spider-silk-maker-bolt-threads-debuts-new-bio-material-leather-made-from-mushroom-roots/#4eda3aea1837),[link](https://www.stellamccartney.com/experience/us/the-next-chapter-with-bolt-threads-mylo-material-rooted-in-nature/)
+
+3D Printing Mycelium Materials: [link](https://www.wired.com/2013/12/mushroom-chair/),
+[link](http://www.ericklarenbeek.com)
+
