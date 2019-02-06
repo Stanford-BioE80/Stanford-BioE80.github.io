@@ -1,7 +1,7 @@
 ---
 title: "Syllabus"
 permalink: /docs/syllabus/
-last_modified_at: 2018-11-25T22:21:33-05:00
+last_modified_at:
 toc: true
 ---
 
@@ -94,6 +94,7 @@ ________________________________________________________________________________
   <tr>
 </table>
  Lead Instructor:
+      
  Lead Teaching assistant:
 
 
@@ -102,7 +103,7 @@ ________________________________________________________________________________
   <tr>
     <td> Mon 8 April</td>
     <td> 320-105</td>
-    <td> How do engineers engineer with, of, and for biology</td>
+    <td> How do engineers engineer with, of, and for biology?</td>
   <tr>
   <tr>
     <td> Wed 10 April</td>
@@ -116,33 +117,58 @@ ________________________________________________________________________________
   <tr>
 </table>     
  Lead Instructor:
+      
  Lead Teaching assistant:
 
 
-### Week 3		
-**Abstraction as a tool for managing complexity in bioengineering**  
-     <!-- Lead Instructor-->
-     <!--  Genetic engineering and basic literacy; solving problems/applications/doing things-->
-    
-Mon 	15 April	320-105	How to implement Boolean logic in DNA? 
+### Week 3: Abstraction as a tool for managing complexity in bioengineering**  
+<table>
+  <tr>
+    <td> Mon 15 April</td>
+    <td> 320-105</td>
+    <td> How to implement Boolean logic in DNA? </td>
+  <tr>
+  <tr>
+    <td> Wed 17 April</td>
+    <td> 320-105</td>
+    <td> How to architect arbitrary genetic systems? </td>
+  <tr>
+   <tr>
+    <td> Fri 12 April</td>
+    <td> SC 112/132 </td>
+    <td> Genetic sensors, logic, actuators activity <b>(PSET 3)<b> </td>
+  <tr>
+</table>     
+ Lead Instructor:
+      
+ Lead Teaching assistant: 
+ 
+ 
+ ### Week 4:W hat arises from DNA read/write trends that will matter for the rest of our lives?
+ <table>
+  <tr>
+    <td> Mon 22 April</td>
+    <td> 320-105</td>
+    <td> How much better can DNA synthesis get? So what? </td>
+  <tr>
+  <tr>
+    <td> Wed 17 April</td>
+    <td> 320-105</td>
+    <td> What happens as genetic material becomes equivalent to information? </td>
+  <tr>
+   <tr>
+    <td> Fri 12 April</td>
+    <td> SC 112/132 </td>
+    <td> Brainstoriming activity <b>(PSET 4)<b> </td>
+  <tr>
+</table>     
+Lead Instructor:
+      
+Lead Teaching assistant: 
+ 
 
-Wed 	17 April	320-105	How How to architect arbitrary genetic systems?
-
-Fri 	19 April	SC 112/132	Genetic sensors, logic, actuators **(PSET 3)**
-      <!-- Lead Teaching assistant-->
-      <!-- Last year: genetic architecture activity -->
 
 
-### Week 4		
-**What arises from DNA read/write trends that will matter for the rest of our lives?**
-       <!-- Lead Instructor-->
-       
-Mon 	22 April	320-105	How much better can DNA synthesis get? So what?
-
-Wed 	24 April	SC 112/132	What happens as genetic material becomes equivalent to information?
-
-Fri 	26 April	SC 112/132	What can't be encoded in DNA? **(PSET 4)**
-       <!-- Lead Teaching assistant-->
        
        
 ### Week 5		
