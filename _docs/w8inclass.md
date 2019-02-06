@@ -7,6 +7,9 @@ _________________________________________________________
 Recall from the safety training that the UTL space (our undergraduate learning labspace) requires that 
 shoes must cover the entire foot and pants must cover the ankle.Please leave food and drinks on the cart outside.
 
+<figure>
+<a href="/assets/images/w8inclass_Making_with_Mushrooms.png"><img src="/assets/images/w8inclass_Making_with_Mushrooms.png"></a>
+</figure>
 
 ### Introduction:
 Welcome to the Making with Mushrooms activity!
@@ -83,8 +86,8 @@ These questions will be part of your PSET.
 https://www.youtube.com/watch?time_continue=1&v=3Dg6IleHm-k2
 
 Bolt Threads: https://boltthreads.com
-[link](https://www.forbes.com/sites/amyfeldman/2018/04/16/synthetic-spider-silk-maker-bolt-threads-debuts-new-bio-material-leather-made-from-mushroom-roots/#4eda3aea1837),[link](https://www.stellamccartney.com/experience/us/the-next-chapter-with-bolt-threads-mylo-material-rooted-in-nature/)
+[link](https://www.forbes.com/sites/amyfeldman/2018/04/16/synthetic-spider-silk-maker-bolt-threads-debuts-new-bio-material-leather-made-from-mushroom-roots/#4eda3aea1837), [link](https://www.stellamccartney.com/experience/us/the-next-chapter-with-bolt-threads-mylo-material-rooted-in-nature/)
 
 3D Printing Mycelium Materials: [link](https://www.wired.com/2013/12/mushroom-chair/),
-[link](http://www.ericklarenbeek.com)
+ [link](http://www.ericklarenbeek.com)
 
