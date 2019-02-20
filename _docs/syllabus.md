@@ -173,7 +173,7 @@ Lead Teaching assistant:
 <table>
   <tr>
     <td> Mon 29 April</td>
-    <tb> 320-105</tb>
+    <td> 320-105</td>
     <td> What is evolution from an engineering perspective? </td>
   <tr>
   <tr>
