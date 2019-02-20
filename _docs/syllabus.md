@@ -230,7 +230,7 @@ Lead Teaching assistant:
    <tr>
     <td> Fri  17 May</td>
     <td> SC 112/132 </td>
-    <td>  <b>(PSET 7)<b> </td>
+    <td> Making with mushrooms <b>(PSET 7)<b> </td>
   <tr>
 </table>     
 Lead Instructor: Drew
@@ -270,7 +270,7 @@ Lead Teaching assistant:
   <tr>
     <td> Wed  May</td>
     <td> 320-105</td>
-    <td>Molecular diffusion, what is it and why does it matter to bioengr.? </td>
+    <td> Molecular diffusion, what is it and why does it matter to bioengr.? </td>
   <tr>
    <tr>
     <td> Fri 10 May</td>
@@ -288,101 +288,18 @@ Lead Teaching assistant:
   <tr>
     <td> Mon 3 June</td>
     <td> 320-105 </td>
-    <td> </td>
+    <td> Tbd: Why engineer biology </td>
   <tr>
   <tr>
     <td> Wed 5 June</td>
     <td> 320-105</td>
-    <td>   </td>
+    <td> Tbd: Review and sendoff </td>
   <tr>
 </table>    
 
 Lead Instructor: Jan and Drew
       
 Lead Teaching assistant:
-
-
-
-
-### Week 6: Human Health
-<table>
-  <tr>
-    <td> Mon 6 May</td>
-    <td> 320-105</td>
-    <td> Tbd (Could be Health in 2030) </td>
-  <tr>
-  <tr>
-    <td> Wed 8 May</td>
-    <td> 320-105</td>
-    <td>	Tbd </td>
-  <tr>
-   <tr>
-    <td> Fri 10 May</td>
-    <td> SC 112/132 </td>
-    <td> Tbd (Gene drive discussion?) <b>PSET 6<b></td>
-  <tr>
-</table>     
-
-Lead Instructor:
-      
-Lead Teaching assistant:
-
-
-
-
-
-
-
-
-
-### Week  Natural Health
-<table>
-  <tr>
-    <td> Mon 20 May</td>
-    <td> 320-105</td>
-    <td> tbd (Could be: Why don't we have modern biological weapons?) </td>
-  <tr>
-  <tr>
-    <td> Wed 22 May</td>
-    <td> 320-105</td>
-    <td>	tbd </td>
-  <tr>
-   <tr>
-    <td> Fri 10 May</td>
-    <td> SC 112/132 </td>
-    <td> Making with mushrooms or gene drive discussion <b>PSET 8<b> </td>
-  <tr>
-</table>     
-
-Lead Instructor:
-      
-Lead Teaching assistant:
-
-
-### Week  Evolution as an algorithm; Evolution as a service
-<table>
-  <tr>
-    <td> Mon 27 May</td>
-    <td> - </td>
-    <td> <b>NO CLASS (Memorial Day)<b> </td>
-  <tr>
-  <tr>
-    <td> Wed 29 May</td>
-    <td> 320-105</td>
-    <td> What is evolution from an engineering perspective? </td>
-  <tr>
-   <tr>
-    <td> Fri 10 May</td>
-    <td> SC 112/132 </td>
-    <td> How to use and change evolution <b>(PSET 9)<b> </td>
-  <tr>
-</table>     
-
-Lead Instructor:
-      
-Lead Teaching assistant:
-
-
 
 ### Week  Summary Sendoff: Cultural health, Citizenship & Humanity -- Flourishing
 <table>
