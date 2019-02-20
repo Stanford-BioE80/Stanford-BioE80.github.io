@@ -268,13 +268,13 @@ Lead Teaching assistant:
     <td>  </td>
   <tr>
   <tr>
-    <td> Wed  May</td>
+    <td> Wed  29 May</td>
     <td> 320-105</td>
     <td> Molecular diffusion, what is it and why does it matter to bioengr.? </td>
   <tr>
    <tr>
-    <td> Fri 10 May</td>
-    <td> SC 112/132 </td>
+    <td> Fri 31 May</td>
+    <td> 320-105 </td>
     <td> Patterns via development; e.g., could you grow an arm? <b>PSET 7<b> </td>
   <tr>
 </table>     
