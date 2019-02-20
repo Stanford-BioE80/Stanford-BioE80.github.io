@@ -136,7 +136,7 @@ ________________________________________________________________________________
     <td> How to architect arbitrary genetic systems? </td>
   <tr>
    <tr>
-    <td> Fri 12 April</td>
+    <td> Fri 19 April</td>
     <td> SC 112/132 </td>
     <td> Genetic sensors, logic, actuators activity <b>(PSET 3)<b> </td>
   <tr>
@@ -154,12 +154,12 @@ ________________________________________________________________________________
     <td> Tbd (Could be: What will you die of?) </td>
   <tr>
   <tr>
-    <td> Wed 17 April</td>
+    <td> Wed 24 April</td>
     <td> 320-105</td>
     <td> Tbd(Could be: Health in 2030) </td>
   <tr>
    <tr>
-    <td> Fri 19 April</td>
+    <td> Fri 26 April</td>
     <td> SC 112/132 </td>
     <td> Tbd Meet your microbe <b>(PSET 4)<b> </td>
   <tr>
@@ -172,17 +172,17 @@ Lead Teaching assistant:
 ### Week 5: Evolution as an algorithm; Evolution as a service
 <table>
   <tr>
-    <td> Mon 22 April</td>
+    <td> Mon 29 April</td>
     <tb> 320-105</tb>
     <td> What is evolution from an engineering perspective? </td>
   <tr>
   <tr>
-    <td> Wed 24 April</td>
+    <td> Wed 01 May </td>
     <td> 320-105</td>
     <td> How to use and change evolution? </td>
   <tr>
    <tr>
-    <td> Fri 26 April</td>
+    <td> Fri 03 May</td>
     <td> SC 112/132 </td>
     <td>  Tbd (Gene drive discussion?)<b>(PSET 5)<b>  </td>
   <tr>
@@ -195,67 +195,112 @@ Lead Teaching assistant:
  ### Week 6: What arises from DNA read/write trends that will matter for the rest of our lives?
  <table>
   <tr>
-    <td> Mon 29 April</td>
+    <td> Mon 06 May</td>
     <td> 320-105</td>
     <td> How much better can DNA synthesis get? So what? </td>
   <tr>
   <tr>
-    <td> Wed 01 May</td>
+    <td> Wed 08 May</td>
     <td> 320-105</td>
     <td> What happens as genetic material becomes equivalent to information? </td>
   <tr>
    <tr>
-    <td> Fri 03 May</td>
+    <td> Fri 10 May</td>
     <td> SC 112/132 </td>
     <td> Brainstoriming activity <b>(PSET 6)<b> </td>
   <tr>
 </table>     
 
-Lead Instructor:Drew
+Lead Instructor: Drew
       
 Lead Teaching assistant: 
  
  ### Week 7: Cultural Flourishing (Citizenship & Humanity)
  <table>
   <tr>
-    <td> Mon  May</td>
+    <td> Mon  13 May</td>
     <td> 320-105</td>
     <td> Why do people work to solve problems via bioengineering? </td>
   <tr>
   <tr>
-    <td> Wed  May</td>
+    <td> Wed  15 May</td>
     <td> 320-105</td>
     <td> Citizenship & Humanity - Hobbes & Rousseau </td>
   <tr>
    <tr>
-    <td> Fri  May</td>
+    <td> Fri  17 May</td>
     <td> SC 112/132 </td>
     <td>  <b>(PSET 7)<b> </td>
   <tr>
 </table>     
+Lead Instructor: Drew
+      
+Lead Teaching assistant:
 
  ### Week 8: If we can construct a genome then why can't we build an organism?
  <table>
   <tr>
-    <td> Mon  May</td>
+    <td> Mon  20 May</td>
     <td> 320-105</td>
     <td> How to parse a research paper on the frontiers of bioengineering </td>
   <tr>
   <tr>
-    <td> Wed  May</td>
+    <td> Wed  22 May</td>
     <td> 320-105</td>
     <td> Why is humpty dumpty more than just a nursery rhyme? </td>
   <tr>
    <tr>
-    <td> Fri  May</td>
+    <td> Fri  24 May</td>
     <td> SC 112/132 </td>
-    <td>  <b>(PSET 8)<b> </td>
+    <td>  Dancing droplets; "programming" autonomous objects  <b>(PSET 8)<b> </td>
   <tr>
 </table>     
 
 Lead Instructor: Jan
       
 Lead Teaching assistant:
+
+### Week 9: Something from "nothing." Why do molecules move? How do patterns grow?
+<table>
+  <tr>
+    <td> Mon  27 May</td>
+    <td> Memorial Day</td>
+    <td>  </td>
+  <tr>
+  <tr>
+    <td> Wed  May</td>
+    <td> 320-105</td>
+    <td>Molecular diffusion, what is it and why does it matter to bioengr.? </td>
+  <tr>
+   <tr>
+    <td> Fri 10 May</td>
+    <td> SC 112/132 </td>
+    <td> Patterns via development; e.g., could you grow an arm? <b>PSET 7<b> </td>
+  <tr>
+</table>     
+
+Lead Instructor: Jan
+      
+Lead Teaching assistant:
+
+### Week 10: Summary Sendoff: 
+<table>
+  <tr>
+    <td> Mon 3 June</td>
+    <td> 320-105 </td>
+    <td> </td>
+  <tr>
+  <tr>
+    <td> Wed 5 June</td>
+    <td> 320-105</td>
+    <td>   </td>
+  <tr>
+</table>    
+
+Lead Instructor: Jan and Drew
+      
+Lead Teaching assistant:
+
 
 
 
@@ -280,48 +325,6 @@ Lead Teaching assistant:
 
 Lead Instructor:
       
-Lead Teaching assistant:      
-
-
-### Week 9: Something from "nothing." Why do molecules move? How do patterns grow?
-<table>
-  <tr>
-    <td> Mon  May</td>
-    <td> 320-105</td>
-    <td> Molecular diffusion, what is it and why does it matter to bioengr.? </td>
-  <tr>
-  <tr>
-    <td> Wed  May</td>
-    <td> 320-105</td>
-    <td>	Patterns via development; e.g., could you grow an arm? </td>
-  <tr>
-   <tr>
-    <td> Fri 10 May</td>
-    <td> SC 112/132 </td>
-    <td> Dancing droplets; "programming" autonomous objects <b>PSET 7<b> </td>
-  <tr>
-</table>     
-
-Lead Instructor: Jan
-      
-Lead Teaching assistant:
-
-### Week 10: Summary Sendoff: 
-<table>
-  <tr>
-    <td> Mon 3 June</td>
-    <td> 320-105 </td>
-    <td> Why do people work to solve problems via bioengineering?</td>
-  <tr>
-  <tr>
-    <td> Wed 5 June</td>
-    <td> 320-105</td>
-    <td> How much can we make with biology? </td>
-  <tr>
-</table>    
-
-Lead Instructor: Jan and Drew
-      
 Lead Teaching assistant:
 
 
@@ -330,7 +333,9 @@ Lead Teaching assistant:
 
 
 
-### Week 8: Natural Health
+
+
+### Week  Natural Health
 <table>
   <tr>
     <td> Mon 20 May</td>
@@ -354,7 +359,7 @@ Lead Instructor:
 Lead Teaching assistant:
 
 
-### Week 9: Evolution as an algorithm; Evolution as a service
+### Week  Evolution as an algorithm; Evolution as a service
 <table>
   <tr>
     <td> Mon 27 May</td>
@@ -379,7 +384,7 @@ Lead Teaching assistant:
 
 
 
-### Week 10: Summary Sendoff: Cultural health, Citizenship & Humanity -- Flourishing
+### Week  Summary Sendoff: Cultural health, Citizenship & Humanity -- Flourishing
 <table>
   <tr>
     <td> Mon 3 June</td>
