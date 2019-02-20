@@ -159,39 +159,86 @@ ________________________________________________________________________________
     <td>	Tbd(Could be: Health in 2030) </td>
   <tr>
    <tr>
-    <td> Fri 12 April</td>
+    <td> Fri 19 April</td>
     <td> SC 112/132 </td>
-    <td> Tbd (Gene drive discussion?) <b>PSET 4<b></td>
+    <td> Tbd Meet your microbe (SET 4)</td>
   <tr>
 </table>     
 
 Lead Instructor: Jan
       
 Lead Teaching assistant:   
- 
- ### Week 4: What arises from DNA read/write trends that will matter for the rest of our lives?
- <table>
+
+### Week 5: Evolution as an algorithm; Evolution as a service
+<table>
   <tr>
     <td> Mon 22 April</td>
+    <tb> 320-105</tb>
+    <td> What is evolution from an engineering perspective? </td>
+  <tr>
+  <tr>
+    <td> Wed 24 April</td>
+    <td> 320-105</td>
+    <td> How to use and change evolution? </td>
+  <tr>
+   <tr>
+    <td> Fri 26 April</td>
+    <td> SC 112/132 </td>
+    <td>  Tbd (Gene drive discussion?)(PSET 5)<b> </td>
+  <tr>
+</table>     
+
+Lead Instructor:Jan
+      
+Lead Teaching assistant:
+ 
+ ### Week 6: What arises from DNA read/write trends that will matter for the rest of our lives?
+ <table>
+  <tr>
+    <td> Mon 29 April</td>
     <td> 320-105</td>
     <td> How much better can DNA synthesis get? So what? </td>
   <tr>
   <tr>
-    <td> Wed 17 April</td>
+    <td> Wed 01 May</td>
     <td> 320-105</td>
     <td> What happens as genetic material becomes equivalent to information? </td>
   <tr>
    <tr>
-    <td> Fri 12 April</td>
+    <td> Fri 03 May</td>
     <td> SC 112/132 </td>
-    <td> Brainstoriming activity <b>(PSET 4)<b> </td>
+    <td> Brainstoriming activity <b>(PSET 6)<b> </td>
   <tr>
 </table>     
 
-Lead Instructor:
+Lead Instructor:Drew
       
 Lead Teaching assistant: 
  
+ ### Week 7: Cultural Flourishing (Citizenship & Humanity)
+ <table>
+  <tr>
+    <td> Mon  May</td>
+    <td> 320-105</td>
+    <td> Why do people work to solve problems via bioengineering? </td>
+  <tr>
+  <tr>
+    <td> Wed  May</td>
+    <td> 320-105</td>
+    <td> Citizenship & Humanity - Hobbes & Rousseau </td>
+  <tr>
+   <tr>
+    <td> Fri  May</td>
+    <td> SC 112/132 </td>
+    <td>  </td>
+  <tr>
+</table>     
+
+
+
+
+
+
 
 ### Week 5: If we can construct a genome then why can't we build an organism?
 <table>
