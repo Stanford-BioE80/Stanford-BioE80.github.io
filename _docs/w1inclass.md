@@ -1,9 +1,10 @@
 ---
-title: "Week 1 Inclass"
+title: "Week 1 In class"
 permalink: /docs/w1inclass/
-last_modified_at: 2018-11-25T22:21:33-05:00
+last_modified_at: 
 toc: true
 ---
+# Week-1: Why are you here? Why engineer biology? Whats unique about living matter?
 
 ## Wednesday In Class
 
