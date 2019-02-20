@@ -94,7 +94,7 @@ ________________________________________________________________________________
   <tr>
 </table>
  
- Lead Instructor: Drew & Jan
+ Lead Instructor: Drew and Jan
       
  Lead Teaching assistant:
 
@@ -156,12 +156,12 @@ ________________________________________________________________________________
   <tr>
     <td> Wed 17 April</td>
     <td> 320-105</td>
-    <td>	Tbd(Could be: Health in 2030) </td>
+    <td> Tbd(Could be: Health in 2030) </td>
   <tr>
    <tr>
     <td> Fri 19 April</td>
     <td> SC 112/132 </td>
-    <td> Tbd Meet your microbe (SET 4)</td>
+    <td> Tbd Meet your microbe <b>(PSET 4)<b> </td>
   <tr>
 </table>     
 
@@ -184,7 +184,7 @@ Lead Teaching assistant:
    <tr>
     <td> Fri 26 April</td>
     <td> SC 112/132 </td>
-    <td>  Tbd (Gene drive discussion?)(PSET 5)<b> </td>
+    <td>  Tbd (Gene drive discussion?)<b>(PSET 5)<b>  </td>
   <tr>
 </table>     
 
@@ -230,39 +230,35 @@ Lead Teaching assistant:
    <tr>
     <td> Fri  May</td>
     <td> SC 112/132 </td>
-    <td>  </td>
+    <td>  <b>(PSET 7)<b> </td>
   <tr>
 </table>     
 
-
-
-
-
-
-
-### Week 5: If we can construct a genome then why can't we build an organism?
-<table>
+ ### Week 8: If we can construct a genome then why can't we build an organism?
+ <table>
   <tr>
-    <td> Mon 29 April</td>
+    <td> Mon  May</td>
     <td> 320-105</td>
     <td> How to parse a research paper on the frontiers of bioengineering </td>
   <tr>
   <tr>
-    <td> Wed 17 April</td>
+    <td> Wed  May</td>
     <td> 320-105</td>
-    <td>	Why is humpty dumpty more than just a nursery rhyme? </td>
+    <td> Why is humpty dumpty more than just a nursery rhyme? </td>
   <tr>
    <tr>
-    <td> Fri 12 April</td>
+    <td> Fri  May</td>
     <td> SC 112/132 </td>
-    <td> Meet your microbes <b>(PSET 5)<b> </td>
+    <td>  <b>(PSET 8)<b> </td>
   <tr>
-</table>      
+</table>     
 
-Lead Instructor:
+Lead Instructor: Jan
       
-Lead Teaching assistant: 
-      
+Lead Teaching assistant:
+
+
+
 ### Week 6: Human Health
 <table>
   <tr>
@@ -287,15 +283,15 @@ Lead Instructor:
 Lead Teaching assistant:      
 
 
-### Week 7: Something from "nothing." Why do molecules move? How do patterns grow?
+### Week 9: Something from "nothing." Why do molecules move? How do patterns grow?
 <table>
   <tr>
-    <td> Mon 13 May</td>
+    <td> Mon  May</td>
     <td> 320-105</td>
     <td> Molecular diffusion, what is it and why does it matter to bioengr.? </td>
   <tr>
   <tr>
-    <td> Wed 8 May</td>
+    <td> Wed  May</td>
     <td> 320-105</td>
     <td>	Patterns via development; e.g., could you grow an arm? </td>
   <tr>
@@ -306,9 +302,32 @@ Lead Teaching assistant:
   <tr>
 </table>     
 
-Lead Instructor:
+Lead Instructor: Jan
       
 Lead Teaching assistant:
+
+### Week 10: Summary Sendoff: 
+<table>
+  <tr>
+    <td> Mon 3 June</td>
+    <td> 320-105 </td>
+    <td> Why do people work to solve problems via bioengineering?</td>
+  <tr>
+  <tr>
+    <td> Wed 5 June</td>
+    <td> 320-105</td>
+    <td> How much can we make with biology? </td>
+  <tr>
+</table>    
+
+Lead Instructor: Jan and Drew
+      
+Lead Teaching assistant:
+
+
+
+
+
 
 
 ### Week 8: Natural Health
