@@ -94,7 +94,7 @@ ________________________________________________________________________________
   <tr>
 </table>
  
- Lead Instructor:
+ Lead Instructor: Drew & Jan
       
  Lead Teaching assistant:
 
@@ -118,7 +118,7 @@ ________________________________________________________________________________
   <tr>
 </table>     
  
- Lead Instructor:
+ Lead Instructor: Drew
       
  Lead Teaching assistant:
 
@@ -142,10 +142,32 @@ ________________________________________________________________________________
   <tr>
 </table>     
  
- Lead Instructor:
+ Lead Instructor: Drew
       
  Lead Teaching assistant: 
  
+ ### Week 4: Human Health and Flourishing
+<table>
+  <tr>
+    <td> Mon 22 April</td>
+    <td> 320-105</td>
+    <td> Tbd (Could be: What will you die of?) </td>
+  <tr>
+  <tr>
+    <td> Wed 17 April</td>
+    <td> 320-105</td>
+    <td>	Tbd(Could be: Health in 2030) </td>
+  <tr>
+   <tr>
+    <td> Fri 12 April</td>
+    <td> SC 112/132 </td>
+    <td> Tbd (Gene drive discussion?) <b>PSET 4<b></td>
+  <tr>
+</table>     
+
+Lead Instructor: Jan
+      
+Lead Teaching assistant:   
  
  ### Week 4: What arises from DNA read/write trends that will matter for the rest of our lives?
  <table>
