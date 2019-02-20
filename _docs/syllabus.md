@@ -90,7 +90,7 @@ ________________________________________________________________________________
    <tr>
     <td> Fri 5 April</td>
     <td> SC 112/132 </td>
-    <td> Make your foldscope; embrace nature <b>(PSET-1)<b> </td>
+    <td> Make your foldscope; embrace nature <b>(PSET 1)<b> </td>
   <tr>
 </table>
  
@@ -275,7 +275,7 @@ Lead Teaching assistant:
    <tr>
     <td> Fri 31 May</td>
     <td> 320-105 </td>
-    <td> Patterns via development; e.g., could you grow an arm? <b>PSET 7<b> </td>
+    <td> Patterns via development; e.g., could you grow an arm? <b>(PSET 9)<b> </td>
   <tr>
 </table>     
 
@@ -283,17 +283,17 @@ Lead Instructor: Jan
       
 Lead Teaching assistant:
 
-### Week 10: Summary Sendoff: 
+### Week 10: Natural Flourishing
 <table>
   <tr>
     <td> Mon 3 June</td>
     <td> 320-105 </td>
-    <td> Tbd: Why engineer biology </td>
+    <td> Tbd: Why engineer biology? & How much can we make with biology? </td>
   <tr>
   <tr>
     <td> Wed 5 June</td>
     <td> 320-105</td>
-    <td> Tbd: Review and sendoff </td>
+    <td> Tbd: Summary and sendoff </td>
   <tr>
 </table>    
 
@@ -301,21 +301,4 @@ Lead Instructor: Jan and Drew
       
 Lead Teaching assistant:
 
-### Week  Summary Sendoff: Cultural health, Citizenship & Humanity -- Flourishing
-<table>
-  <tr>
-    <td> Mon 3 June</td>
-    <td> 320-105 </td>
-    <td> Why do people work to solve problems via bioengineering?</td>
-  <tr>
-  <tr>
-    <td> Wed 5 June</td>
-    <td> 320-105</td>
-    <td> How much can we make with biology? </td>
-  <tr>
-</table>    
-
-Lead Instructor:
-      
-Lead Teaching assistant:
 
