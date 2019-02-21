@@ -1,9 +1,10 @@
 ---
-title: "Week 7 Preclass - Evolution "
+title: "Week 5 Preclass - Evolution "
 permalink: /docs/w7preclass/
 ---
 
-# Week 7 Preclass
+# Week 5 Preclass
+## Evolution as an algorithm; Evolution as a service
 
 Please read and consider the below before start of each class.
 The questions given are only study questions not homework to be graded.
