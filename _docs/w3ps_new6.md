@@ -1,4 +1,4 @@
-# Problem Set Week-3
+# Problem Set Week-6
 
 **DUE:** Next Friday start of class via Canvas.
 
