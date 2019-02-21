@@ -1,11 +1,12 @@
 ---
 title: "Week 2 Inclass"
 permalink: /docs/w2inclass/
-last_modified_at: 2018-11-25T22:21:33-05:00
+last_modified_at: Feb.20.2019
 toc: true
 ---
 # Week-2  
-# How do design, build, and test tools work to support bioengineering?
+## How do design, build, and test tools work to support bioengineering?
+___________________________________________________
 ## Monday In Class
 
 How do engineers engineer with, of, and for biology?
