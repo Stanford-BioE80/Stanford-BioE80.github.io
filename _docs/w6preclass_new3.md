@@ -1,9 +1,10 @@
 ---
-title: "Week 6 Preclass- Abstraction"
+title: "Week 3 Preclass- Abstraction"
 permalink: /docs/w6preclass/
 ---
 
-# Week 6 Preclass
+# Week 3 Preclass
+## Abstraction as a tool for managing complexity in bioengineering
 
 Please read and consider the below before start of each class.
 The questions given are only study questions not homework to be graded.
