@@ -1,6 +1,6 @@
 ---
 title: "Week 3 Problem setslass"
-permalink: /docs/w6ps/
+permalink: /docs/w3ps/
 ---
 
 # Problem Set Week-3
@@ -14,7 +14,7 @@ permalink: /docs/w6ps/
 **NOTE:** Please make sure to not go over the word limits.
 
 
-**Goals:** Welcome to PSET-6.
+**Goals:** Welcome to PSET-3.
 
 
  ## (Q1) Buggy Bacterial Flash Mob? (40 pts)
