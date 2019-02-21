@@ -150,7 +150,7 @@ Another example of human intervention in evolution is dog breeding. Take a look 
 
 **Q.1. Think back to the pre-class material for monday. What are the selection pressures (and their sources) in the case of flu and dog/chicken breeding? How is the fitness determined in each case?**
 
-**Q.2 Thinking of evolution as an algorithm, where else can we intervene?** 
+**Q.2. Thinking of evolution as an algorithm, where else can we intervene?** 
 
 
  ## Example-2: Directed evolution of proteins 
@@ -170,7 +170,7 @@ evolution as a series of steps within a three-dimensional fitness landscape. Lib
 
 **Libraries:** Diverse populations of DNA fragments that are subject to downstream screening and selection. 
 
-**Q.3 How can directed evolution be used an approach to evolve desired proteins?**
+**Q.3. How can directed evolution be used an approach to evolve desired proteins?**
 
 **Q.4. What are the challenges associated with this approach?** 
 
