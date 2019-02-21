@@ -1,15 +1,16 @@
 ---
 title: "Week 1 In class"
-permalink: 
+permalink: /docs/w1inclass/
 last_modified_at: Feb.20.2019
 toc: true
 ---
 # Week-1
 ## Why are you here? Why engineer biology? Whats unique about living matter?
+_________________________________________________________________
 
 ## Wednesday In Class
 
-Today we'll ask you to think about emergent activities (i.e., case studies) arising within or associated to bioengineering.  We’d like you to work in small groups (3 people). As you are discussing and brainstorming please ground your answers in the real possibilities. Feel free to use the internet and the TAs to help develop and debate your positions. As a tool for considering each case we outline below three different aspects of how bioengineering can have impacts.  
+Today we'll ask you to think about emergent activities (i.e., case studies) arising within or associated to bioengineering.  We’d like you to work in small groups (3-5 people). As you are discussing and brainstorming please ground your answers in the real possibilities. Feel free to use the internet and the TAs to help develop and debate your positions. As a tool for considering each case we outline below three different aspects of how bioengineering can have impacts.  
 
 ### Economy (how will we make things?)
 
