@@ -1,6 +1,6 @@
 ---
 title: "Week 5 Problem sets"
-permalink: /docs/w7ps/
+permalink: /docs/w5ps/
 ---
 
 # Problem Set Week-5
