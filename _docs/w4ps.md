@@ -1,6 +1,8 @@
 ---
 title: "Week 4 Problem sets"
-permalink: /docs/w9ps/
+permalink: /docs/w4ps/
+last_modified_at: Feb.20.2019
+2018: Week 9
 ---
 
 # Problem Set Week-4
