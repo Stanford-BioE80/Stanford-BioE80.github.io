@@ -1,6 +1,7 @@
 ---
-title: "Week 4 Preclass -  "
-permalink: 
+title: "Week 4 Preclass"
+last_modified_at: Feb.20.2019
+toc: true
 ---
 
 
