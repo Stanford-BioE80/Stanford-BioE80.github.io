@@ -1,9 +1,9 @@
 ---
-title: "Week 8 Problem sets"
+title: "Week 7 Problem sets"
 permalink: /docs/w8ps/
 ---
 
-# Problem Set Week-8
+# Problem Set Week-7
 
 **DUE:** Next Friday start of class via Canvas.
 
