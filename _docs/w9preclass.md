@@ -1,6 +1,6 @@
 ---
 title: "Week 9 Preclass"
-permalink: /docs/w5preclass/
+permalink: /docs/w9preclass/
 ---
 
 # Week 9 Preclass
