@@ -1,9 +1,9 @@
 ---
-title: "Week 9 Problem sets"
+title: "Week 4 Problem sets"
 permalink: /docs/w9ps/
 ---
 
-# Problem Set Week-9
+# Problem Set Week-4
 
 **DUE:** Next Wednesday start of class via Canvas.
 
@@ -35,7 +35,7 @@ hat do you estimate the average human lifespan to have been in 1900?  In 2010?  
 1.g. Given all of the preceding, provide an example of a challenge that the future of healthcare is facing 
 (one sentence stating the challenge; a second sentence explainingwhy it will be a challenge)?
 
-## (Q2) Biodefense (50 points)
+## (Q2) Biodefense (50 points) 
 
 Last year the Center for Health Security at Johns Hopkins University ran a simulated exercise exploring and gaining experience with how our current society would respond to a new virus.  They named exercise [CladeX](http://www.centerforhealthsecurity.org/our-work/events/2018_clade_x_exercise/). In such exercises, prior government officials with tremendous real-world expertise role play how the government might behave and respond to anemerging situation. Get a piece of note paper and load the video recording of their exercise here: [source](https://youtu.be/sJ1x8SlNxj0) 
 
