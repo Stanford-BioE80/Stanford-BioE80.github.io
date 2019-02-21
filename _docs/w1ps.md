@@ -1,11 +1,11 @@
 ---
 title: "Week 1 Problem Set"
 permalink: /docs/w1ps/
-last_modified_at: 2018-11-25T22:21:33-05:00
+last_modified_at: Feb.20.2019
 toc: true
 ---
 
-**DUE:** Next Wednesday, beginning of class.
+**DUE:** Next Friday, beginning of class.
 
 **NOTES:** 
   - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
