@@ -1,6 +1,6 @@
 ---
-title: "Week 5 Problem setslass"
-permalink: /docs/w5ps/
+title: "Week 9 Problem setslass"
+permalink: /docs/w9ps/
 ---
 
 # Problem Set Week-9
