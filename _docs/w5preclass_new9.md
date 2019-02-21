@@ -1,15 +1,16 @@
 ---
-title: "Week 5 Preclass"
+title: "Week 9 Preclass"
 permalink: /docs/w5preclass/
 ---
 
-# Week 5 Preclass
+# Week 9 Preclass
+## Something from "nothing." Why do molecules move? How do patterns grow?
 
 Please read and consider the below before start of class on Monday.
 The questions given are only study questions not homework to be graded.
 Talk about it all with your classmates, friends, or TAs, as you like.
 
-## Preclass for Monday
+## Preclass for Wednesday
 
 ## Introduction - Diffusion Happens
 
@@ -79,9 +80,9 @@ Entropy Explained [link-1](https://aatishb.com/entropy/)
 
 ____________________________________________________________
 
-## Preclass for Wednesday
+## Preclass for Friday
 
-Just a few minutes of your time spent on what following should get you ready for Wednesday's class.
+Just a few minutes of your time spent on what following should get you ready for Friday's class.
 
 We ended class on Monday with an initial consideration of diffusion, introducing the idea that spontaneous diffusion of systems comprised of more than one molecule can *temporarily* result in non-trivial spatial patterns (e.g., a bullseye).
 
