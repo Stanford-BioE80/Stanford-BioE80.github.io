@@ -1,6 +1,7 @@
 ---
 title: "Week 8 Problem setslass"
-permalink: /docs/w4ps/
+permalink: /docs/w8ps/
+2018: Week 4
 ---
 
 # Problem Set Week-8
@@ -13,7 +14,7 @@ permalink: /docs/w4ps/
 
 **NOTE:** Please make sure to not go over the word limits.
 
-**Goals:** Welcome to PSET-4. 
+**Goals:** Welcome to PSET-8. 
 In this PSET you will review the minimal genome paper as practiceto learn how to read research papers. 
 You will also improve your quantitative intuition with anestimation problem, 
 and finally revisit the meet your microbe activity.
