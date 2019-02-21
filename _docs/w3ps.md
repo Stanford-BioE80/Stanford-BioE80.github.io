@@ -1,6 +1,9 @@
 ---
 title: "Week 3 Problem setslass"
 permalink: /docs/w3ps/
+last_modified_at: Feb.20.2019
+2018: Week 6 
+toc: true
 ---
 
 # Problem Set Week-3
