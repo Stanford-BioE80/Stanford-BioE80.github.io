@@ -1,7 +1,7 @@
 ---
 title: "Week 2 Preclass"
 permalink: /docs/w2preclass/
-last_modified_at: 
+last_modified_at: Feb.20.2019
 toc: true
 ---
 # Week-2 Preclass 
