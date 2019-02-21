@@ -3,7 +3,7 @@ title: "Week 5 Problem setslass"
 permalink: /docs/w5ps/
 ---
 
-# Problem Set Week-5
+# Problem Set Week-9
 
 **DUE:** Next Friday start of class via Canvas.
 
@@ -14,7 +14,7 @@ permalink: /docs/w5ps/
 **NOTE:** Please make sure to not go over the word limits. Please show your work. 
 
 
-**Goals:** Welcome to PSET-5. 
+**Goals:** Welcome to PSET-9. 
 After this problem set you will be able to quantitatively estimateand describe what happens in diffusing systems 
 (e.g., how long does it take for a protein tomove inside a cell).  
 You will also be able to describe how simple rules can give rise to complexpatterns both in living matter 
