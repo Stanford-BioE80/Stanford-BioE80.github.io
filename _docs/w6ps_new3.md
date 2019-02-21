@@ -1,9 +1,9 @@
 ---
-title: "Week 6 Problem setslass"
+title: "Week 3 Problem setslass"
 permalink: /docs/w6ps/
 ---
 
-# Problem Set Week-6
+# Problem Set Week-3
 
 **DUE:** Next Friday start of class via Canvas.
 
