@@ -1,5 +1,5 @@
 # Week 6 Preclass
-## Abstraction as a tool for managing complexity in bioengineering
+## What arises from DNA read/write trends that will matter for the rest of our lives?
 
 ## Preclass for Monday
 Please read and consider the below before start of class on Monday.
