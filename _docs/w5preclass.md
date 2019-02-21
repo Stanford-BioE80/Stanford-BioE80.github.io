@@ -1,10 +1,14 @@
 ---
 title: "Week 5 Preclass - Evolution "
-permalink: /docs/w7preclass/
+permalink: /docs/w5preclass/
+last_modified_at: Feb.20.2019
+2018: Week 7
+toc: true
 ---
 
 # Week 5 Preclass
 ## Evolution as an algorithm; Evolution as a service
+_______________________________________________________________________
 
 Please read and consider the below before start of each class.
 The questions given are only study questions not homework to be graded.
