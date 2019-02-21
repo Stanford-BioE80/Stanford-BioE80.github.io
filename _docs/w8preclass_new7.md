@@ -1,10 +1,11 @@
 ---
-title: "Week 8 Preclass -  "
-permalink: /docs/w7preclass/
+title: "Week  7Preclass -  "
+permalink: 
 ---
 
 
-# Week 8 Preclass
+# Week 7 Preclass
+## Cultural Flourishing (Citizenship & Humanity)
 
 Please read and consider the below before start of each class.
 The questions given are only study questions not homework to be graded.
