@@ -1,10 +1,11 @@
 ---
 title: "Week 1 In class"
-permalink: /docs/w1inclass/
-last_modified_at: 
+permalink: 
+last_modified_at: Feb.20.2019
 toc: true
 ---
-# Week-1: Why are you here? Why engineer biology? Whats unique about living matter?
+# Week-1
+## Why are you here? Why engineer biology? Whats unique about living matter?
 
 ## Wednesday In Class
 
