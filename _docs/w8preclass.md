@@ -1,6 +1,7 @@
 ---
 title: "Week 8 Preclass"
-permalink: /docs/w4preclass/
+permalink: /docs/w8preclass/
+2018: Week 4
 ---
 
 # Week-8 Preclass
