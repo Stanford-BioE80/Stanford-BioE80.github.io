@@ -5,7 +5,7 @@ permalink: /docs/w9ps/
 
 # Problem Set Week-4
 
-**DUE:** Next Wednesday start of class via Canvas.
+**DUE:** Next Friday start of class via Canvas.
 
 **NOTE:** All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
 
