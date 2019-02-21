@@ -1,10 +1,10 @@
 ---
-title: "Week 9 Preclass -  "
+title: "Week 4 Preclass -  "
 permalink: /docs/w7preclass/
 ---
 
 
-# Week 9 Preclass
+# Week 4 Preclass
 ## Human Health and Flourishing
 Please read and consider the below before start of each class.
 The questions given are only study questions not homework to be graded.
