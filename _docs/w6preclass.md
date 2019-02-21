@@ -1,3 +1,10 @@
+---
+title: "Week 6 Problem Set"
+permalink: /docs/w6preclass/
+last_modified_at: Feb.20.2019
+toc: true
+---
+
 # Week 6 Preclass
 ## What arises from DNA read/write trends that will matter for the rest of our lives?
 
