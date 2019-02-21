@@ -1,4 +1,4 @@
-# Week 3 Preclass
+# Week 6 Preclass
 ## Abstraction as a tool for managing complexity in bioengineering
 
 ## Preclass for Monday
