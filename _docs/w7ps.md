@@ -1,6 +1,7 @@
 ---
 title: "Week 7 Problem sets"
-permalink: /docs/w8ps/
+permalink: /docs/w7ps/
+2018: Week 8
 ---
 
 # Problem Set Week-7
