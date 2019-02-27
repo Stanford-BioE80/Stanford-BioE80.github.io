@@ -80,36 +80,21 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ----------- | ---------- | -------|
 | Mon 1 April | 320-105    | Hello; course mechanics; initial questions; opening tour; Future impacts of bioengineering |
 | Wed 3 April | 320-105    | What's special about living matter? |
-| Fri 5 April | SC 112/132 | Make your foldscope; embrace nature *(PSET 1)* |
+| Fri 5 April | SC 112/132 | Make your foldscope; embrace nature **(PSET 1)** |
  
- Lead Instructor: Drew and Jan
-      
- Lead Teaching assistant:
+Lead Instructor: Drew and Jan
+Lead Teaching assistant:
 
 ### Week 2: How do design, build, and test tools work to support bioengineering? 
 
-<table>
-  <tr>
-    <td> Mon 8 April</td>
-    <td> 320-105</td>
-    <td> How do engineers engineer with, of, and for biology?</td>
-  <tr>
-  <tr>
-    <td> Wed 10 April</td>
-    <td> 320-105</td>
-    <td> How will engineers engineer biology? </td>
-  <tr>
-   <tr>
-    <td> Fri 12 April</td>
-    <td> SC 112/132 </td>
-    <td> Get your GOOP tube; express DNA <b>(PSET 2)<b> </td>
-  <tr>
-</table>     
+| Day         | Location    | Title  |
+| ----------- | ----------- | -------|
+| Mon 8 April | 320-105     | How do engineers engineer with, of, and for biology? |
+| Wed 10 April | 320-105    | How will engineers engineer biology? |
+| Fri 12 April | SC 112/132 | Get your GOOP tube; express DNA **(PSET 2)** |
  
- Lead Instructor: Drew
-      
- Lead Teaching assistant:
-
+Lead Instructor: Drew and Jan
+Lead Teaching assistant:
 
 ### Week 3: Abstraction as a tool for managing complexity in bioengineering 
 <table>
