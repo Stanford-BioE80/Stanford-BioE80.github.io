@@ -79,11 +79,10 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Day         | Location   | Title  |
 | ----------- | ---------- | -------|
 | Mon 1 April | 320-105    | Hello; course mechanics; initial questions; opening tour; Future impacts of bioengineering |
-| Wed 3 April | 320-105    | What's special about living matter? |
+| Wed 3 April | 320-105    | What's special about living matter? Show me the evidence - papers! |
 | Fri 5 April | SC 112/132 | Make your foldscope; embrace nature **(PSET 1)** |
  
-Lead Instructor: Drew and Jan
-Lead Teaching assistant:
+**Lead Instructor**: Drew and Jan, **Lead Teaching assistant**:
 
 ### Week 2: How do design, build, and test tools work to support bioengineering? 
 
@@ -93,8 +92,7 @@ Lead Teaching assistant:
 | Wed 10 April | 320-105    | How will engineers engineer biology? |
 | Fri 12 April | SC 112/132 | Get your GOOP tube; express DNA **(PSET 2)** |
  
-Lead Instructor: Drew and Jan
-Lead Teaching assistant:
+**Lead Instructor**: Drew and Jan, **Lead Teaching assistant**:
 
 ### Week 3: Abstraction as a tool for managing complexity in bioengineering 
 <table>
