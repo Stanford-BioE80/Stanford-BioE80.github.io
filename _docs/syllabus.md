@@ -72,7 +72,9 @@ We expect you will uphold Stanford's Honor Code. Discussion among peers and with
 
 ### Students with Documented Disabilities:
 
-Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty. Unless the student has a temporary disability, Accommodation letters are issued for the entire academic year. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. The OAE is located at 563 Salvatierra Walk (phone: 723-1066), URL: https://oae.stanford.edu/ 
+Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty. Unless the student has a temporary disability, Accommodation letters are issued for the entire academic year. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. The OAE is located at 563 Salvatierra Walk (phone: 723-1066).
+
+[Office of Accessible Education site](https://oae.stanford.edu/)
 
 ## Week 1: Why are you here? Why engineer biology? What's unique about living matter?
 
@@ -82,7 +84,9 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Wed 3 April | 320-105    | What's special about living matter? Show me the evidence - papers! |
 | Fri 5 April | SC 112/132 | Make your foldscope; embrace nature **(PSET 1)** |
  
-**Lead Instructor**: Drew and Jan, **Lead Teaching assistant**:
+**Lead Instructor**: Drew and Jan
+
+**Lead Teaching assistant**:
 
 ## Week 2: How do design, build, and test tools work to support bioengineering? 
 
@@ -92,7 +96,9 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Wed 10 April | 320-105    | How will engineers engineer biology? |
 | Fri 12 April | SC 112/132 | Get your GOOP tube; express DNA **(PSET 2)** |
  
-**Lead Instructor**: Drew and Jan, **Lead Teaching assistant**:
+**Lead Instructor**: Drew and Jan
+
+**Lead Teaching assistant**:
 
 ## Week 3: Abstraction as a tool for managing complexity in bioengineering 
 <table>
