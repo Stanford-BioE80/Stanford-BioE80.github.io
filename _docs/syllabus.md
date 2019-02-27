@@ -74,7 +74,7 @@ We expect you will uphold Stanford's Honor Code. Discussion among peers and with
 
 Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty. Unless the student has a temporary disability, Accommodation letters are issued for the entire academic year. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. The OAE is located at 563 Salvatierra Walk (phone: 723-1066), URL: https://oae.stanford.edu/ 
 
-### Week 1: Why are you here? Why engineer biology? What's unique about living matter?
+## Week 1: Why are you here? Why engineer biology? What's unique about living matter?
 
 | Day         | Location   | Title  |
 | ----------- | ---------- | -------|
@@ -84,7 +84,7 @@ Students who may need an academic accommodation based on the impact of a disabil
  
 **Lead Instructor**: Drew and Jan, **Lead Teaching assistant**:
 
-### Week 2: How do design, build, and test tools work to support bioengineering? 
+## Week 2: How do design, build, and test tools work to support bioengineering? 
 
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
@@ -94,7 +94,7 @@ Students who may need an academic accommodation based on the impact of a disabil
  
 **Lead Instructor**: Drew and Jan, **Lead Teaching assistant**:
 
-### Week 3: Abstraction as a tool for managing complexity in bioengineering 
+## Week 3: Abstraction as a tool for managing complexity in bioengineering 
 <table>
   <tr>
     <td> Mon 15 April</td>
