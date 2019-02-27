@@ -74,26 +74,13 @@ We expect you will uphold Stanford's Honor Code. Discussion among peers and with
 
 Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty. Unless the student has a temporary disability, Accommodation letters are issued for the entire academic year. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. The OAE is located at 563 Salvatierra Walk (phone: 723-1066), URL: https://oae.stanford.edu/ 
 
-_______________________________________________________________________________________
 ### Week 1: Why are you here? Why engineer biology? What's unique about living matter?
 
-<table>
-  <tr>
-    <td> Mon 1 April</td>
-    <td> 320-105</td>
-    <td> Hello; course mechanics; initial questions; opening tour; Future impacts of bioengineering</td>
-  <tr>
-  <tr>
-    <td> Wed 3 April</td>
-    <td> 320-105</td>
-    <td> What's special about living matter?</td>
-  <tr>
-   <tr>
-    <td> Fri 5 April</td>
-    <td> SC 112/132 </td>
-    <td> Make your foldscope; embrace nature <b>(PSET 1)<b> </td>
-  <tr>
-</table>
+| Day         | Location   | Title  |
+| ----------- | ---------- | -------|
+| Mon 1 April | 320-105    | Hello; course mechanics; initial questions; opening tour; Future impacts of bioengineering |
+| Wed 3 April | 320-105    | What's special about living matter? |
+| Fri 5 April | SC 112/132 | Make your foldscope; embrace nature *(PSET 1)* |
  
  Lead Instructor: Drew and Jan
       
