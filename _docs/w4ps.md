@@ -5,15 +5,12 @@ last_modified_at: Feb.20.2019
 2018: Week 9
 ---
 
-# Problem Set Week-4
+**DUE:** Next Friday, beginning of class.
 
-**DUE:** Next Friday start of class via Canvas.
-
-**NOTE:** All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
-
-**NOTE:** Please turn in your completed problem sets as an electronic copy via Canvas.
-
-**NOTE:** Please make sure to not go over the word limits.
+**NOTES:** 
+  - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
+  - Please turn in your completed problem sets as an electronic copy via Canvas. 
+  - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations).
 
 ## (Q1) Causes of death (50 points) 
 
