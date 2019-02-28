@@ -130,7 +130,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ----------- | ----------- | -------|
 | Mon 29 April| 320-105    | What is evolution from an engineering perspective?|
 | Wed 01 May | 320-105    | How to use and change evolution? |
-| Fri 26 May | SC 112/132 | Gene drive discussion? **(PSET 5)** |
+| Fri 26 May | SC 112/132 | Gene drive discussion **(PSET 5)** |
 
 **Lead Instructor**:  Jan
 
