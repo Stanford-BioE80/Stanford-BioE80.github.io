@@ -12,7 +12,6 @@ Please read and consider the below before start of each class.
 The questions given are only study questions not homework to be graded.
 Talk about it all with your classmates, friends, or TAs, as you like.
 
-
 ## Preclass for Monday
 
 ## Introduction: Abstraction as a tool for managing complexity in bioengineering.
