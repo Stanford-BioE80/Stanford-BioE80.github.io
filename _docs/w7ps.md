@@ -4,15 +4,12 @@ permalink: /docs/w7ps/
 2018: Week 8
 ---
 
-# Problem Set Week-7
-
 **DUE:** Next Friday start of class via Canvas.
 
-**NOTE:** All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
-
-**NOTE:** Please turn in your completed problem sets as an electronic copy via Canvas.
-
-**NOTE:** Please make sure to not go over the word limits.
+**NOTE:** 
+- All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
+- Please turn in your completed problem sets as an electronic copy via Canvas.
+- Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations).
 
 ## (Q1)  Rousseau and Hobbes (15 Points)
 
