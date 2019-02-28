@@ -2,17 +2,12 @@
 title: "Week 5 Problem sets"
 permalink: /docs/w5ps/
 ---
+**DUE:** Next Friday, beginning of class.
 
-# Problem Set Week-5
-
-**DUE:** Next Friday start of class via Canvas.
-
-**NOTE:** All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
-
-**NOTE:** Please turn in your completed problem sets as an electronic copy via Canvas.
-
-**NOTE:** Please make sure to not go over the word limits.
-
+**NOTES:** 
+  - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
+  - Please turn in your completed problem sets as an electronic copy via Canvas. 
+  - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations)
 
 ## (Q1) Evolution as Service (30 points)
 
