@@ -16,7 +16,9 @@ foo:
         url: /child-2-page-url/
       - title: "Child Link 3"
         url: /child-3-page-url/
-
+      - title: "Child Link 4"
+        url: /child-4-page-url/
+        
 # main links
 main:
   - title: "Welcome"
@@ -50,6 +52,8 @@ docs:
         url: /docs/w2ps/  
       - title: "Week 3 Preclass"
         url: /docs/w3preclass/ 
+         - title: "Week 3 PS"
+        url: /docs/w3ps/ 
        - title: "Week 4 Preclass"
         url: /docs/w4preclass/    
        
