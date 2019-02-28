@@ -122,7 +122,7 @@ Here you will learn and think about what makes living matter such a unique mater
 
 **Goal:** After watching the following video you should be able to explain the properties of living matter that make it more effective at solving many engineering challenges compared to inert matter.
 
-Watch [this video](https://youtu.be/NpZ3PXTnxdw) from Prof. Liphardt detailing the unique properties of living matter. Write down any questions you have so you can ask your peers, TA's, and professors in class or office hours.
+You can watch [this video](https://youtu.be/NpZ3PXTnxdw) from Prof. Liphardt detailing the unique properties of living matter (Lecture on wednesday). Write down any questions you have so you can ask your peers, TA's, and professors in class or office hours.
 
 **Q.1. Think of at least two more applications which could benefit from the use of living matter that weren't mentioned in the video.**
 
