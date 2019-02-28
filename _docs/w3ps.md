@@ -64,7 +64,7 @@ Add figure here.
 ## (Q3) Ring Oscillator (20 pts)
 
 
-Here is a system level diagram of a 3-inverter Ring oscillator.Think back to the class on Wednesday, imagine that you are a system's level **Bioengineer** designing this oscillator...
+Here is a system level diagram of a 3-inverter Ring oscillator. Think back to the class on Wednesday, imagine that you are a system's level **Bioengineer** designing this oscillator...
 
 Add figure here. 
 
