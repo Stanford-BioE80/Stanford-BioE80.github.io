@@ -6,7 +6,6 @@ last_modified_at: Feb.20.2019
 toc: true
 ---
 
-# Week 5 Preclass
 ## Evolution as an algorithm; Evolution as a service
 _______________________________________________________________________
 
