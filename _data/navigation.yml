@@ -16,7 +16,7 @@ foo:
         url: /child-2-page-url/
       - title: "Child Link 3"
         url: /child-3-page-url/
-      
+        
 # main links
 main:
   - title: "Welcome"
