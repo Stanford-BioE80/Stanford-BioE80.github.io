@@ -55,9 +55,9 @@ Observations enabled by microscopes were one of the most visceral discoveries th
 
 **Q.3. Identify one example of a modern day necessity that would have been impossible without the invention of the microscope (yes, there are many examples but just identify your favorite!).**
 
-**Q.4. Now, let's think about a contemporary technology that enables us to read DNA.** DNA sequencing technology allows you to take a physical sample of DNA (e.g., the genome of an organism, which is the physical object comprising all the DNA of an organism) and identify the specific sequence of DNA bases (typically represented by the letters A, T, C, and G) that comprise the DNA.  (Don’t worry if you do not know much about the details DNA sequencing, we will cover this later in the course.) What do you think has been the impact of DNA sequencing technology? Stated differently, what do you think has been the impact of being able to read out the "letters" in DNA encoding organisms.  Do you know of any current applications of DNA sequencing? Can you imagine what would be the impact of DNA sequencing  in 10, 50, or 100 years given developments occurring right now?
+**Q.4. Now, let's think about a contemporary technology that enables us to read DNA.** DNA sequencing technology allows you to take a physical sample of DNA (e.g., the genome of an organism, which is the physical object comprising all the DNA of an organism) and identify the specific sequence of DNA bases (typically represented by the letters A, T, C, and G) that comprise the DNA.  (Don’t worry if you do not know much about the details DNA sequencing, we will cover this later in the course. [optional link](https://www.nature.com/articles/nature24286)) What do you think has been the impact of DNA sequencing technology? Stated differently, what do you think has been the impact of being able to read out the "letters" in DNA encoding organisms.  Do you know of any current applications of DNA sequencing? Can you imagine what would be the impact of DNA sequencing  in 10, 50, or 100 years given developments occurring right now?
 
-If you are excited about learning more about microscopy please follow this fantastic [optional link](https://www.youtube.com/watch?v=4c5ILWQmqRY&t=579s). If you want to know more about the discovery of bacteria by Van Leeuwenhoek  please follow this [optional link 2](https://www.vox.com/2016/8/9/12405306/antoni-van-leeuwenhoek).
+If you are excited about learning more about microscopy please follow this fantastic (https://www.youtube.com/watch?v=4c5ILWQmqRY&t=579s). If you want to know more about the discovery of bacteria by Van Leeuwenhoek  please follow this [optional link 2](https://www.vox.com/2016/8/9/12405306/antoni-van-leeuwenhoek).
 
 ### Example 2 - Polio Vaccine
 
@@ -136,7 +136,7 @@ You can watch [this video](https://youtu.be/NpZ3PXTnxdw) from Prof. Liphardt det
 
 Imagine that you spend hours assembling a device (a box) that, once finished, is supposed to power a light bulb when a button is pushed. You place your finished construction on your workshop table and press the button... POOF! Smoke pours from the device but the bulb remains dark. Do you exclaim (choose one):
 
-DARN!!! 	COOL!!!
+          DARN!!! 	COOL!!!
 
 Why did you pick your choice? Remember your answer for the class on Friday.
 
