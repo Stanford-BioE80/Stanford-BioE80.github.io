@@ -4,8 +4,6 @@ permalink: /docs/w8ps/
 2018: Week 4
 ---
 
-# Problem Set Week-8
-
 **DUE:** Next Friday start of class via Canvas.
 
 **NOTES:**
