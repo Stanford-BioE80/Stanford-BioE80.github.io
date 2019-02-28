@@ -50,9 +50,8 @@ docs:
         url: /docs/w2ps/  
       - title: "Week 3 Preclass"
         url: /docs/w3preclass/ 
-        - title: "Week 3 Inclass"
-        url: /docs/w3inclass/ 
        - title: "Week 3 PS"
         url: /docs/w3ps/  
         -title: "Week 4 Preclass"
         url: /docs/w4preclass/
+        
