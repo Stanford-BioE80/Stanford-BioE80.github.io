@@ -84,7 +84,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Wed 3 April | 320-105    | What's special about living matter? Show me the evidence - papers! |
 | Fri 5 April | SC 112/132 | Make your foldscope; embrace nature **(PSET 1)** |
  
-**Lead Instructor**: Drew and Jan
+**Lead Instructors**: Drew and Jan
 
 **Lead Teaching assistant**:
 
@@ -124,136 +124,74 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 **Lead Teaching assistant**:   
 
-### Week 5: Evolution as an algorithm; Evolution as a service
-<table>
-  <tr>
-    <td> Mon 29 April</td>
-    <td> 320-105</td>
-    <td> What is evolution from an engineering perspective? </td>
-  <tr>
-  <tr>
-    <td> Wed 01 May </td>
-    <td> 320-105</td>
-    <td> How to use and change evolution? </td>
-  <tr>
-   <tr>
-    <td> Fri 03 May</td>
-    <td> SC 112/132 </td>
-    <td>  Tbd (Gene drive discussion?)<b>(PSET 5)<b>  </td>
-  <tr>
-</table>     
-
-Lead Instructor:Jan
-      
-Lead Teaching assistant:
+## Week 5: Evolution as an algorithm; Evolution as a service
  
- ### Week 6: What arises from DNA read/write trends that will matter for the rest of our lives?
- <table>
-  <tr>
-    <td> Mon 06 May</td>
-    <td> 320-105</td>
-    <td> How much better can DNA synthesis get? So what? </td>
-  <tr>
-  <tr>
-    <td> Wed 08 May</td>
-    <td> 320-105</td>
-    <td> What happens as genetic material becomes equivalent to information? </td>
-  <tr>
-   <tr>
-    <td> Fri 10 May</td>
-    <td> SC 112/132 </td>
-    <td> Brainstoriming activity <b>(PSET 6)<b> </td>
-  <tr>
-</table>     
+| Day         | Location    | Title  |
+| ----------- | ----------- | -------|
+| Mon 29 April| 320-105    | What is evolution from an engineering perspective?|
+| Wed 01 May | 320-105    | How to use and change evolution? |
+| Fri 26 May | SC 112/132 | Gene drive discussion? **(PSET 5)** |
 
-Lead Instructor: Drew
-      
-Lead Teaching assistant: 
+**Lead Instructor**:  Jan
+
+**Lead Teaching assistant**: 
+
+ ## Week 6: What arises from DNA read/write trends that will matter for the rest of our lives?
+
+| Day         | Location    | Title  |
+| ----------- | ----------- | -------|
+| Mon 06 May| 320-105    |  How much better can DNA synthesis get? So what?|
+| Wed 08 May | 320-105    | What happens as genetic material becomes equivalent to information? |
+| Fri 26 May | SC 112/132 | Brainstoriming activity **(PSET 6)** |
+
+ **Lead Instructor**:  Drew
+
+**Lead Teaching assistant**: 
+
+## Week 7: Cultural Flourishing (Citizenship & Humanity)
+
+| Day         | Location    | Title  |
+| ----------- | ----------- | -------|
+| Mon 13 May| 320-105    | Why do people work to solve problems via bioengineering?|
+| Wed 15 May | 320-105    |Citizenship & Humanity - Hobbes vs Hobbyist |
+| Fri 17 May | SC 112/132 | Making with mushrooms **(PSET 7)** |
+
+**Lead Instructor**:  Drew
+
+**Lead Teaching assistant**: 
+
+## Week 8: Something from "nothing." Why do molecules move? How do patterns grow?
+
+| Day         | Location    | Title  |
+| ----------- | ----------- | -------|
+| Mon 20 May| 320-105    | Molecular diffusion, what is it and why does it matter to bioengr.?|
+| Wed 22 May | 320-105    |Patterns via development; e.g., could you grow an arm? |
+| Fri 24 May | SC 112/132 | Dancing droplets; "programming" autonomous objects **(PSET 8)** |
  
- ### Week 7: Cultural Flourishing (Citizenship & Humanity)
- <table>
-  <tr>
-    <td> Mon  13 May</td>
-    <td> 320-105</td>
-    <td> Why do people work to solve problems via bioengineering? </td>
-  <tr>
-  <tr>
-    <td> Wed  15 May</td>
-    <td> 320-105</td>
-    <td> Citizenship & Humanity - Hobbes & Rousseau </td>
-  <tr>
-   <tr>
-    <td> Fri  17 May</td>
-    <td> SC 112/132 </td>
-    <td> Making with mushrooms <b>(PSET 7)<b> </td>
-  <tr>
-</table>     
-Lead Instructor: Drew
-      
-Lead Teaching assistant:
+ **Lead Instructor**:  Jan
 
- ### Week 8: If we can construct a genome then why can't we build an organism?
- <table>
-  <tr>
-    <td> Mon  20 May</td>
-    <td> 320-105</td>
-    <td> How to parse a research paper on the frontiers of bioengineering </td>
-  <tr>
-  <tr>
-    <td> Wed  22 May</td>
-    <td> 320-105</td>
-    <td> Why is humpty dumpty more than just a nursery rhyme? </td>
-  <tr>
-   <tr>
-    <td> Fri  24 May</td>
-    <td> SC 112/132 </td>
-    <td>  Dancing droplets; "programming" autonomous objects  <b>(PSET 8)<b> </td>
-  <tr>
-</table>     
+**Lead Teaching assistant**: 
+  
+ ## Week 9: If we can construct a genome then why can't we build an organism?
+| Day         | Location    | Title  |
+| ----------- | ----------- | -------|
+| Mon 27 May| No class    | Memorial Day|
+| Wed 29 May | 320-105    |(Change name) How to parse a research paper on the frontiers of bioengineering |
+| Fri 31 May | 320-105 | Why is humpty dumpty more than just a nursery rhyme? **(PSET 9)** |
+ 
+**Lead Instructor**:  Jan
 
-Lead Instructor: Jan
-      
-Lead Teaching assistant:
+**Lead Teaching assistant**: 
+ 
+## Week 10: Natural Flourishing
+| Day         | Location    | Title  |
+| ----------- | ----------- | -------|
+| Mon 3 June| No class    | Why engineer biology? & How much can we make with biology?|
+| Wed 5 June | 320-105    |Summary and sendoff  |
 
-### Week 9: Something from "nothing." Why do molecules move? How do patterns grow?
-<table>
-  <tr>
-    <td> Mon  27 May</td>
-    <td> Memorial Day</td>
-    <td>  </td>
-  <tr>
-  <tr>
-    <td> Wed  29 May</td>
-    <td> 320-105</td>
-    <td> Molecular diffusion, what is it and why does it matter to bioengr.? </td>
-  <tr>
-   <tr>
-    <td> Fri 31 May</td>
-    <td> 320-105 </td>
-    <td> Patterns via development; e.g., could you grow an arm? <b>(PSET 9)<b> </td>
-  <tr>
-</table>     
+**Lead Instructors**: Jan and Drew
 
-Lead Instructor: Jan
-      
-Lead Teaching assistant:
+**Lead Teaching assistant**: 
 
-### Week 10: Natural Flourishing
-<table>
-  <tr>
-    <td> Mon 3 June</td>
-    <td> 320-105 </td>
-    <td> Tbd: Why engineer biology? & How much can we make with biology? </td>
-  <tr>
-  <tr>
-    <td> Wed 5 June</td>
-    <td> 320-105</td>
-    <td> Tbd: Summary and sendoff </td>
-  <tr>
-</table>    
-
-Lead Instructor: Jan and Drew
-      
-Lead Teaching assistant:
 
 
