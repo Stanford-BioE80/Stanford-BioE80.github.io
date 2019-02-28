@@ -3,8 +3,7 @@ title: "Week 9 Preclass"
 permalink: /docs/w9preclass/
 ---
 
-# Week 9 Preclass
-## Something from "nothing." Why do molecules move? How do patterns grow?
+## Something from "Nothing." Why do molecules move? How do patterns grow?
 
 Please read and consider the below before start of class on Monday.
 The questions given are only study questions not homework to be graded.
