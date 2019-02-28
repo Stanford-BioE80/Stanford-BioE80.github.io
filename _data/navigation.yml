@@ -64,5 +64,15 @@ docs:
         url: /docs/w5inclass/
       - title: "Week 5 PS"
         url: /docs/w5ps/
-        
-       
+      - title: "Week 6 Preclass"
+        url: /docs/w6preclass/
+      - title: "Week 6 Inclass"
+        url: /docs/w6inclass/
+      - title: "Week 6 PS"
+        url: /docs/w6ps/
+      - title: "Week 7 Preclass"
+        url: /docs/w7preclass/
+      - title: "Week 7 Inclass"
+        url: /docs/w7inclass/
+      - title: "Week 7 PS"
+        url: /docs/w7ps/
