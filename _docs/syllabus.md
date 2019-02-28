@@ -96,7 +96,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Wed 10 April | 320-105    | How will engineers engineer biology? |
 | Fri 12 April | SC 112/132 | Get your GOOP tube; express DNA **(PSET 2)** |
  
-**Lead Instructor**: Drew and Jan
+**Lead Instructor**: Drew 
 
 **Lead Teaching assistant**:
 
@@ -108,32 +108,21 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Wed 17 April | 320-105    | How to architect arbitrary genetic systems? |
 | Fri 19 April | SC 112/132 | Genetic sensors, logic, actuators activity **(PSET 3)** |
 
-Lead Instructor: Drew
+**Lead Instructor**:  Drew
       
- Lead Teaching assistant: 
- 
- ### Week 4: Human Health and Flourishing
-<table>
-  <tr>
-    <td> Mon 22 April</td>
-    <td> 320-105</td>
-    <td> Tbd (Could be: What will you die of?) </td>
-  <tr>
-  <tr>
-    <td> Wed 24 April</td>
-    <td> 320-105</td>
-    <td> Tbd(Could be: Health in 2030) </td>
-  <tr>
-   <tr>
-    <td> Fri 26 April</td>
-    <td> SC 112/132 </td>
-    <td> Tbd Meet your microbe <b>(PSET 4)<b> </td>
-  <tr>
-</table>     
+**Lead Teaching assistant**:
 
-Lead Instructor: Jan
-      
-Lead Teaching assistant:   
+## Week 4: Human Health and Flourishing
+ 
+| Day         | Location    | Title  |
+| ----------- | ----------- | -------|
+| Mon 22 April| 320-105    | (What will you die of?) or TBD|
+| Wed 24 April | 320-105    | Health in 2030 |
+| Fri 26 April | SC 112/132 | Meet your microbe **(PSET 4)** |
+
+**Lead Instructor**:  Jan
+
+**Lead Teaching assistant**:   
 
 ### Week 5: Evolution as an algorithm; Evolution as a service
 <table>
