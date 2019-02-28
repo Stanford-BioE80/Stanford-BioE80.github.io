@@ -173,6 +173,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 **Lead Teaching assistant**: 
   
  ## Week 9: If we can construct a genome then why can't we build an organism?
+
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
 | Mon 27 May| No class    | Memorial Day|
@@ -184,6 +185,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 **Lead Teaching assistant**: 
  
 ## Week 10: Natural Flourishing
+
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
 | Mon 3 June| No class    | Why engineer biology? & How much can we make with biology?|
