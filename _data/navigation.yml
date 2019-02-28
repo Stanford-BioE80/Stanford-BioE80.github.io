@@ -20,6 +20,8 @@ foo:
         url: /child-4-page-url/
       - title: "Child Link 5"
         url: /child-5-page-url/
+      - title: "Child Link 6"
+        url: /child-6-page-url/
         
 # main links
 main:
@@ -62,5 +64,11 @@ docs:
         url: /docs/w4inclass/
       - title: "Week 4 PS"
         url: /docs/w4ps/
+      - title: "Week 5 Preclass"
+        url: /docs/w5preclass/
+      - title: "Week 5 Inclass"
+        url: /docs/w5inclass/
+      - title: "Week 5 PS"
+        url: /docs/w5ps/
         
        
