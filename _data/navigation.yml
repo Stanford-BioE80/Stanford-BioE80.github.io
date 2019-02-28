@@ -54,8 +54,6 @@ docs:
         url: /docs/w3ps/ 
       - title: "Week 4 Preclass"
         url: /docs/w4preclass/ 
-      - title: "Week 4 Inclass"
-        url: /docs/w4inclass/
       - title: "Week 4 PS"
         url: /docs/w4ps/
       - title: "Week 5 Preclass"
@@ -72,7 +70,13 @@ docs:
         url: /docs/w6ps/
       - title: "Week 7 Preclass"
         url: /docs/w7preclass/
-      - title: "Week 7 Inclass"
-        url: /docs/w7inclass/
       - title: "Week 7 PS"
         url: /docs/w7ps/
+      - title: "Week 8 Preclass"
+        url: /docs/w8preclass/
+      - title: "Week 8 Inclass"
+        url: /docs/w8inclass/
+      - title: "Week 8 PS"
+        url: /docs/w8ps/
+        
+        
