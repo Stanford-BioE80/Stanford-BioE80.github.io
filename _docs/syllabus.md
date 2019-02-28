@@ -176,9 +176,9 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
-| Mon 27 May| No class    | Memorial Day|
-| Wed 29 May | 320-105    |(Change name) How to parse a research paper on the frontiers of bioengineering |
-| Fri 31 May | 320-105 | Why is humpty dumpty more than just a nursery rhyme? **(PSET 9)** |
+| Mon 27 May  | No class    | Memorial Day|
+| Wed 29 May  | 320-105    |(Change name) How to parse a research paper on the frontiers of bioeng.  |
+| Fri 31 May  | 320-105 |Why is humpty dumpty more than just a nursery rhyme? **(PSET 9)** |
  
 **Lead Instructor**:  Jan
 
