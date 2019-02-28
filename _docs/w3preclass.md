@@ -5,14 +5,13 @@ last_modified_at: Feb.20.2019
 2018: "Week 6"
 ---
 
-# Week 3 Preclass
+
 ## Abstraction as a tool for managing complexity in bioengineering
 
 Please read and consider the below before start of each class.
 The questions given are only study questions not homework to be graded.
 Talk about it all with your classmates, friends, or TAs, as you like.
 
-_______________________________________________________________________
 
 ## Preclass for Monday
 
@@ -84,10 +83,6 @@ _______________________________________________________________________
 ## Preclass for Wedensday 
 
 There is no preclass for Wedensday Week-3. 
-
-## Preclass for Friday 
-
-Reader note: The following was shared as the In class instruction for Friday. It might be better to share this as a pre-class. 
 
 ## Inclass / Preclass for Friday 
 
