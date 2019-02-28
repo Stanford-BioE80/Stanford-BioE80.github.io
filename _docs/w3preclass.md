@@ -19,7 +19,7 @@ Talk about it all with your classmates, friends, or TAs, as you like.
 
 Welcome to the pre-class material for Abstraction as a tool for managing complexity in bioengineering. 
 
-**Goal-1:** After Week 3 you will able to describe the role of abstraction as a tool for helping 
+**Goal-1:** After Week-3 you will able to describe the role of abstraction as a tool for helping 
 to managecomplexity in biological systems - with an emphasis on the design step of the engineering cycle.
 
 **Goal-2:** You will also be able to apply abstraction (in the form of black box diagrams) to decompose 
@@ -84,7 +84,7 @@ _______________________________________________________________________
 
 There is no preclass for Wedensday Week-3. 
 
-## Inclass / Preclass for Friday 
+## Pre class & In class for Friday 
 
 
 **Part 1:** Reconsider the hypothetical bacterial *“flash mob”* that you encountered in the pre-classmaterial for Monday of this week.  See the animation or text below:
