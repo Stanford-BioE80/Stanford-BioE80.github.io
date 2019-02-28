@@ -1,5 +1,3 @@
-# Problem Set Week-6
-
 ***DUE:** Next Friday, beginning of class.
 
 **NOTES:** 
