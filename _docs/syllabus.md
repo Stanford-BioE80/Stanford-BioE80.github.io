@@ -19,9 +19,9 @@ MWF, 1:30-2:20p, Lectures & Activities
 
 ### Where 
 
-Classroom (most Mondays and some Wednesdays): Building 320 Room 105
+Classroom (most Mondays and Wednesdays): Building 320 Room 105
 
-Activity Space (many Wednesdays & most Fridays): Shriram Center Rooms 112 & 132
+Activity Space (most Fridays): Shriram Center Rooms 112 & 132
 
 ### Final Exam
 
@@ -78,12 +78,12 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 ## Week 1: Why are you here? Why engineer biology? What's unique about living matter?
 
-| Day         | Location   | Title  |
-| ----------- | ---------- | -------|
-| Mon 1 April | 320-105    | Hello; course mechanics; initial questions; opening tour; Future impacts of bioengineering |
+| Day         | Location    | Title  |
+| ----------- | ----------- | -------|
+| Mon 1 April | 320-105     |Hello; course mechanics; initial questions; opening tour; Future impacts of bioengineering |
 | Wed 3 April | 320-105    | What's special about living matter? Show me the evidence - papers! |
-| Fri 5 April | SC 112/132 | Make your foldscope; embrace nature **(PSET 1)** |
- 
+| Fri 5 April | SC 112/132 |Make your foldscope; embrace nature **(PSET 1)** |
+
 **Lead Instructors**: Drew and Jan
 
 **Lead Teaching assistant**:
