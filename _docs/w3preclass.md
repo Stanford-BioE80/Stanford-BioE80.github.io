@@ -30,9 +30,8 @@ or synthesize the designs systems that could then be implemented in living matte
 **Write down the DNA sequence** encoding a dynamic bacterial flash mob (see animation below in Figure.1 )
 
 <figure>
-<a href="/assets/images/w3_IEcolibratorMovie.gif"><img src="/assets/images/w3_IEcolibratorMovie.gifg"></a>
-<figcaption><b>Figure 1</b>. Bacterial flash mob <a href="https://2006.igem.org/wiki/index.php/IAP2004:Polkadorks">Source</a>.</figcaption>
-</figure>
+<a href="/assets/images/w3_IEcolibratorMovie.gif"><img src=w3_IEcolibratorMovie.gif"></a>
+</figure> [Source](https://2006.igem.org/wiki/index.php/IAP2004:Polkadorks)
 
 
 **Q.1. What is the first base of your DNA program?  A, T, C, or G?  
