@@ -4,32 +4,9 @@ permalink: /docs/w2inclass/
 last_modified_at: Feb.20.2019
 toc: true
 ---
-# Week-2  
+
 ## How do design, build, and test tools work to support bioengineering?
 ___________________________________________________
-## Monday In Class
-
-How do engineers engineer with, of, and for biology?
-
-Puzzle Questions
-
-- Q1 (True / False): The framework of design-build-test - while integral to engineering fields - can be used to engineer solutions to diverse problems, whether engineering a tangible object in a lab or developing a plan to alleviate widespread social need. 
-
-- Q2 (True / False): The DBT process, if done correctly, helps you get to your goal on the first try. Which is good because it doesn't help you improve if you were to fail. 
-
-- Q3 (True / False): Building off an iGem project, the team behind KumaMax used a unique approach to the development of a biologic therapeutic that alleviates diabetes. 
-
-- Q4 (True / False): Mutations to Kumamolisin-As were modeled using the computational protein folding tool FoldIt.
-
-- Q5 (True / False): The wild-type (original, found in nature) version of KumaMax actually didn't have specificity for gliadins. 
-
-- Q6 (True / False): The wild-type version of KumaMax (Kumamolisin-As) was primarily chosen because it is active at low pH, making it a good match for the conditions in the small intestine. 
-
-Q -- Kiva is a web platform that allows people to crowdfund presents and other non-essential purchases using Amazon's online gift registry system.
-
-Q -- New or improved drugs can only be developed by project managers at big pharmaceutical companies.
-
-Q -- The wild-type version of KumaMax (Kumamolisin-As) was primarily chosen because it is active at low pH, making it a good match for the conditions in the small intestine.
 
 ## Friday In Class GOOP
 ### GOOP 1: The Expression StatementIn 
