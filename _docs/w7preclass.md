@@ -4,7 +4,6 @@ permalink:
 ---
 
 
-# Week 7 Preclass
 ## Cultural Flourishing (Citizenship & Humanity)
 
 Please read and consider the below before start of each class.
