@@ -94,7 +94,11 @@ There is no preclass for Wedensday Week-3.
 
 **Part 1:** Reconsider the hypothetical bacterial *“flash mob”* that you encountered in the pre-classmaterial for Monday of this week.  See the animation or text below:
 
-**ADD GIF here**
+<figure>
+<a href="/assets/images/w3_IEcolibratorMovie.gif"><img src="/assets/images/w3_IEcolibratorMovie.gif"></a>
+</figure> 
+
+**Figure-1** bacterial flash mob. [Source](https://2006.igem.org/wiki/index.php/IAP2004:Polkadorks)
 
 Or, in natural language, “We start with a collection of engineered e-coli moving randomly inmedia. The bacteria are represented by black dots in the animation. Under control of astochastic element, a few bacteria begin excreting an attractant. These bacteria we will call thesender cells. In the animation we have one sender cell represented by the red dot; the greencircle represents the attractant diffusing away from the sender cell.  Through chemotaxis, aprocess by which a cell along a chemical gradient swims toward or away from the stimulus (anattractant in this case), nearby bacteria start swimming towards the sender cells. These bacteriawe will call the receiver cells. This way, groups begin forming around the original sender cells onthe plate.  Additionally, all bacteria have been engineered with a quorum sensing mechanismwhich effectively senses local cell density. In the groups that have formed, the local cell density eventually reaches a certain threshold. The quorum sensing mechanism of the cells then stopssecretion of any attractant. The existing attractant then diffuses away. Since there is no moreattractant being secreted, the cells will diffuse away and eventually be spread out across theplate once again. Then by the stochastic element a few cells will begin excreting the attractantand the whole process is repeated.  Basically polkadots will form, diffuse, and form again inrandom areas on the plate. Our system should thus form time-varying patterns based on localrandom time-varying symmetry breaking.”
 
