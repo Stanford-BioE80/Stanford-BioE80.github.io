@@ -3,20 +3,15 @@ title: "Week 9 Problem setslass"
 permalink: /docs/w9ps/
 ---
 
-# Problem Set Week-9
+**DUE:** Next Week, beginning of class.
 
-**DUE:** Next Friday start of class via Canvas.
-
-**NOTE:** All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
-
-**NOTE:** Please turn in your completed problem sets as an electronic copy via Canvas.
-
-**NOTE:** Please make sure to not go over the word limits. Please show your work. 
+**NOTES:** 
+  - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
+  - Please turn in your completed problem sets as an electronic copy via Canvas. 
+  - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations).
 
 
-**Goals:** Welcome to PSET-9. 
-After this problem set you will be able to quantitatively estimateand describe what happens in diffusing systems 
-(e.g., how long does it take for a protein tomove inside a cell).  
+**Goals:** Welcome to PSET-9: After this problem set you will be able to quantitatively estimateand describe what happens in diffusing systems (e.g., how long does it take for a protein tomove inside a cell).  
 You will also be able to describe how simple rules can give rise to complexpatterns both in living matter 
 and abiotic systems.
 
@@ -52,7 +47,7 @@ Add Figure-1 here.
 What doesthe the diffusion time for the axon suggests to you? (5 pts)
 
 
-## (Q2) Physical Limitations on Development (40 points)
+## (Q2) Physical Limitations on Development (40 points) - Remove
 
 Here’s a sketch of a planarian, which is a type of very flat worm. The aquatic species of these worms can grow to be a few centimeters long. Notably, these worms have no circulatory system, so all nutrient and essential transport processes are entirely passive; which means that diffusion dominates. How do these worms handle transport of oxygen? Humans have a circulatory system which ensures that cells all across our many tissues have an adequate oxygen supply. However, planarians have no circulatory system but they do have a gut cavity! Their gut cavity has many branching tubes that supply oxygen to the worm’s tissues by allowing oxygen to passively diffuse out of the water and into the worm. In this question, we’re going to understand, from an engineering perspective, how the planarian is optimized to handle the “logistics” of its oxygen supply. 
 
