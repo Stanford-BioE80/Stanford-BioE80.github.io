@@ -101,25 +101,14 @@ Students who may need an academic accommodation based on the impact of a disabil
 **Lead Teaching assistant**:
 
 ## Week 3: Abstraction as a tool for managing complexity in bioengineering 
-<table>
-  <tr>
-    <td> Mon 15 April</td>
-    <td> 320-105</td>
-    <td> How to implement Boolean logic in DNA? </td>
-  <tr>
-  <tr>
-    <td> Wed 17 April</td>
-    <td> 320-105</td>
-    <td> How to architect arbitrary genetic systems? </td>
-  <tr>
-   <tr>
-    <td> Fri 19 April</td>
-    <td> SC 112/132 </td>
-    <td> Genetic sensors, logic, actuators activity <b>(PSET 3)<b> </td>
-  <tr>
-</table>     
- 
- Lead Instructor: Drew
+
+| Day         | Location    | Title  |
+| ----------- | ----------- | -------|
+| Mon 15 April| 320-105    | How to implement Boolean logic in DNA? |
+| Wed 17 April | 320-105    | How to architect arbitrary genetic systems? |
+| Fri 19 April | SC 112/132 | Genetic sensors, logic, actuators activity **(PSET 3)** |
+
+Lead Instructor: Drew
       
  Lead Teaching assistant: 
  
