@@ -12,8 +12,7 @@ toc: true
   - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
   - Please turn in your completed problem sets as an electronic copy via Canvas. 
   - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations)
-  - Please make sure to not go over the word limits.
-
+ 
  ## (Q1) Buggy Bacterial Flash Mob? (40 pts)
  
  Students at MIT are claiming that they have designed a genetic program to realize 
