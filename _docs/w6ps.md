@@ -1,12 +1,13 @@
 # Problem Set Week-6
 
-**DUE:** Next Friday start of class via Canvas.
+***DUE:** Next Friday, beginning of class.
 
-**NOTE:** All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
+**NOTES:** 
+  - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
+  - Please turn in your completed problem sets as an electronic copy via Canvas. 
+  - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations).
 
-**NOTE:** Please turn in your completed problem sets as an electronic copy via Canvas 
-
-**GOAL:** Welcome to PSET-3. This problem set will help you further develop your ability to
+**GOAL:** Welcome to PSET-6. This problem set will help you further develop your ability to
 describe how DNA read/write work. Coupled with this you will examine the consequences of
 non-trivial *quantitative pacing* in the development of these technologies. 
 Finally, you will examine the consequence of  interconvertability of matter and information as DNA read/write
