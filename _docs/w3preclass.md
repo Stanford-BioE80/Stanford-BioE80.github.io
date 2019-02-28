@@ -31,7 +31,9 @@ or synthesize the designs systems that could then be implemented in living matte
 
 <figure>
 <a href="/assets/images/w3_IEcolibratorMovie.gif"><img src="/assets/images/w3_IEcolibratorMovie.gif"></a>
-</figure> [Source](https://2006.igem.org/wiki/index.php/IAP2004:Polkadorks)
+</figure> 
+
+**Figure-1** bacterial flash mob. [Source](https://2006.igem.org/wiki/index.php/IAP2004:Polkadorks)
 
 **Q.1. What is the first base of your DNA program?  A, T, C, or G?  
 (Note: Do not spend more than 100 seconds pondering and answering this question.  Time’s up!).**  
