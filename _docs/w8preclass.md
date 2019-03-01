@@ -74,7 +74,7 @@ Figure-2 (below) are photographs of multiplebacteria and fungal colonies. You ma
 <a href="/assets/images/w4pc_meetYourMicrobe.png"><img src="/assets/images/w4pc_meetYourMicrobe.png"></a>
 </figure>
 
-**Figure-2**  Photographs of multiple bacteria and fungal colonies.  It is possible to identifybacterial or fungal species by the shape, color, and structure of the colonies that they form. 
+**Figure-2**  Photographs of multiple bacteria and fungal colonies.  It is possible to identify bacterial or fungal species by the shape, color, and structure of the colonies that they form. 
 
 
 **Q.2. If we cannot cultivate and grow many components of the microbiome inisolation in the lab, how can we tell what is present in each context? Whatcontemporary technologies have enabled the study and engineering of themicrobiome?**
