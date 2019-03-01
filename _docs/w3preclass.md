@@ -69,10 +69,11 @@ This same framework can be applied to help manage the engineering of biological 
 **Key Concept:** What we are practicing via this generic system architecture is called **abstraction**. 
 Abstraction is a tool that allows engineers (and others) to modularize and manage the complexity of a system. Abstraction establishes a level of simplicity at which a person interacts with the system, temporarily hiding more complex details for later consideration, only if and as such details must be considered.  
 
+<figure>
+<a href="/assets/images/w6pc_the laws of thought.png"><img src="/assets/images/w6pc_the laws of thought.png"></a>
+</figure>
 
-**ADD Fig-3 here**
 From a different perspective, note how George Boole observed ways in which human language results in a type of abstraction that can be used to organize and link our experiences to actions.  For example: if it is raining AND snowing then bundle up OR if it is warm AND sunny then go the beach.
-
 
 But, returning to the Bacterial Flash Mob example.
 
@@ -83,7 +84,6 @@ These are challenging questions that we will resolve starting Monday!
 *Useful Additional Resource:* 
 Check out this free comic bolok that starts out simple but quickly begins to develop answers to **Question-4**: 
 [Adventures in Synthetic Biology](https://openwetware.org/wiki/Adventures)
-
 
 _______________________________________________________________________
 
