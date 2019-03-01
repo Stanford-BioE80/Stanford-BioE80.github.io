@@ -38,7 +38,6 @@ or synthesize the designs systems that could then be implemented in living matte
 **Q.1. What is the first base of your DNA program?  A, T, C, or G?  
 (Note: Do not spend more than 100 seconds pondering and answering this question.  Time’s up!).**  
 
-**ADD GIF here**
 *Figure 1.  Dynamic bacterial flash mob.* 
 A collection of engineered bacteria (black dots)move randomly in two dimensions.One cell activates randomly, turns red, and secretes a diffusing attractant molecule (green circle).All other cells sense and move towards the source of the attractant.After a period of time all cells return to their original stateuntil the process repeats over and again.
 
@@ -52,8 +51,11 @@ One simple-but-powerful and general-purpose approach for organizing engineered s
 Note that our thinking about such systems can quickly become complicated by the details of any one example, but thateach example follows a similar pattern; inputs are received by one or more sensors; so-received information is computedupon as needed via an intermediate process; and finally some action is taken.  Please also note that in more complicatedsystems the output of a system can itself be an input, creating a “loop” or feedback to realize more sophisticated dynamics(e.g., repeating or other dynamically controlled behaviors, such as in the case of the looping bacterial flash mob).
 
 
-**ADD Fig-2 here**
-*Figure 2.  Generic system architecture.*  
+<figure>
+<a href="/assets/images/generic system arch.png"><img src="/assets/images/generic system arch.png"></a>
+<figcaption><b>Figure 2</b>. Generic system architecture.</figcaption>
+</figure>
+
 A sensor measures environmentalproperties or inputs  (for example: a keyboard) and transfers this information to a computer (logic unit) to be processed. The results are then transferred to an actuator (e.g., a printer or a display) that can output these results.
 
 
@@ -69,7 +71,7 @@ Abstraction is a tool that allows engineers (and others) to modularize and manag
 
 
 **ADD Fig-3 here**
-From a different perspective, note how George Boole observed ways in which human language results in a type of abstraction that can be used to organize and link our experiences to actions.  For example: if it is raining AND snowing then bundle up OR if it is warm ANDsunny then go the beach.
+From a different perspective, note how George Boole observed ways in which human language results in a type of abstraction that can be used to organize and link our experiences to actions.  For example: if it is raining AND snowing then bundle up OR if it is warm AND sunny then go the beach.
 
 
 But, returning to the Bacterial Flash Mob example.
