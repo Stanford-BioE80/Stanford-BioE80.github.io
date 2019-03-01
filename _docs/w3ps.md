@@ -14,8 +14,7 @@ toc: true
   - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations).
  
  
- 
- ## (Q1) Buggy Bacterial Flash Mob? (40 pts)
+ ## (Q1)  Buggy Bacterial Flash Mob? (40 pts)
  
  Students at MIT are claiming that they have designed a genetic program to realize 
  arepeating bacterial flash mob.  See their work yet again via:
