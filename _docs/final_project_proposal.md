@@ -35,4 +35,6 @@ Assessment will be based on the following:
 Total: 100 points
 
 **Scaffolding and Logistics:**
-
+* Group formation and initial brainstorming by the end of week 4.
+* Problem identification by the end of week 6.
+* Project due Wednesday June 5th (Final class session). 
