@@ -34,3 +34,13 @@ Assessment will be based on the following:
 Grades may differ between students within a group.
 
 Total: 100 points
+
+**Scaffolding, Logistics, and milestones:**
+* Group formation and initial brainstorming by the end of week 4
+* A TA can be assigned to each group as a mentor
+* Problem identification by the end of week 6
+* Required TA check-in during week 8 
+* Project due Wednesday, June 5th (Final class session) week 10 
+* Submit link to mateiral to the teaching team
+
+* To simplify other aspacts problem sets can be shortend
