@@ -17,6 +17,7 @@ Assessment will be based on the following:
 * Provide relevant background for learning about the biology and technology utilized in the solution (ie: identify resources for getting more information)
 * Describe advantages, disadvantages, and limitations of this solution
 * Describe what should happen for this solution to occur? (ie: development of technology, policy, etc.)
+* Back-of-the-envelope calculations can be required, ie: estimate of cost, estimate of how many people would be impacted
 
 **Description of Social Ramifications:** 15 points
 * Ethical implications of taking action
