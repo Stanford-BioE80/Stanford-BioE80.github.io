@@ -188,7 +188,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
-| Mon 3 June| No class    | Why engineer biology? & How much can we make with biology?|
+| Mon 3 June| 320-105    | Why engineer biology? & How much can we make with biology?|
 | Wed 5 June | 320-105    |Summary and sendoff  |
 
 **Lead Instructors**: Jan and Drew
