@@ -33,3 +33,6 @@ Assessment will be based on the following:
 * Since this is a group project, each student will evaluate how much other students contributed to the project. Grades may thus differ between students within a group.
 
 Total: 100 points
+
+**Scaffolding and Logistics:**
+
