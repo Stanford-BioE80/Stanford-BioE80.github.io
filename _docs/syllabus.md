@@ -55,7 +55,7 @@ In-Class Puzzles (15%); 1-2 per week; lowest 2 dropped including absences; based
 
 Problem Sets (70%); lowest 1 dropped including absences
 
-Final Exam (15%); 3 design problems
+Final Exam (15%); 
 
 ### Key Dates
 
