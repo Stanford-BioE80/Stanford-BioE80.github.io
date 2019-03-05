@@ -3,7 +3,7 @@
 
 The goal of this project is to help students integrate the different concepts in class and practice designing Bioengineering solutions to current problems. 
 
-In groups of 3-4, students will identify a current need and propose a bioengineering solution. They will create a BIOE 80 Wiki post that will be accessible to future students which will explain how bioengineering can be used to solve the world’s problems.
+In groups of 3-4, students will identify a current need and propose a bioengineering solution. They will create a BIOE 80 Wiki post (about 3 to 4 pages of text) that will be accessible to future students which will explain how bioengineering can be used to solve the world’s problems.
 
 Assessment will be based on the following:
 
@@ -17,6 +17,7 @@ Assessment will be based on the following:
 **Proposal of bioengineering-based solution:** 25 points
 * Describe advantages, disadvantages, and limitations of this solution
 * Back-of-the-envelope calculations can be required, ie: estimate of cost, estimate of how many people would be impacted
+* What other trends and technologies are required for the bioengineering solution 
 
 **Description of Ethical Ramifications:** 15 points
 * Ethical implications of taking action
@@ -34,7 +35,12 @@ Assessment will be based on the following:
 
 Total: 100 points
 
-**Scaffolding and Logistics:**
-* Group formation and initial brainstorming by the end of week 4.
-* Problem identification by the end of week 6.
-* Project due Wednesday June 5th (Final class session). 
+**Scaffolding, Logistics, and milestones:**
+* Group formation and initial brainstorming by the end of week 4
+* A TA can be assigned to each group as a mentor
+* Problem identification by the end of week 6
+* Required TA check-in during week 8 
+* Project due Wednesday, June 5th (Final class session) week 10 
+* Submit link to mateiral to the teaching team
+
+* To simplify other aspacts problem sets can be shortend
