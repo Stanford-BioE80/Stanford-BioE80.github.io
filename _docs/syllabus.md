@@ -136,7 +136,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 **Lead Teaching assistant**: 
 
- ## Week 6: What arises from DNA read/write trends that will matter for the rest of our lives?
+## Week 6: What arises from DNA read/write trends that will matter for the rest of our lives?
 
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
@@ -172,7 +172,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 **Lead Teaching assistant**: 
   
- ## Week 9: If we can construct a genome then why can't we build an organism?
+## Week 9: If we can construct a genome then why can't we build an organism?
 
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
