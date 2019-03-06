@@ -1,7 +1,7 @@
 # BIOE 80 Final Project (15% of Grade)
 ## Why is Bioengineering Important?
 
-The goal of this project is for students to communicate the importance of Bioengineering to next year's BIOE 80 class.
+The goal of this project is for students to communicate the importance and application of Bioengineering to contemporary challenges to the next year's BIOE.80 class.
 
 In groups of 3-4, students will create a "BIOE 80 Wiki Post" identifying a current need and discussing the role that Bioengineering can take in developing solutions.
 Student groups will create a Google Doc, Google Site, or other world-readable webpage with a vignette about Bioengineering.
