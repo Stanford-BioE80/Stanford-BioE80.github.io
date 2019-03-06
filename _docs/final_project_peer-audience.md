@@ -43,5 +43,5 @@ Total: 100 points
 * Required TA check-in during **week 8** 
 * Project due Wednesday, June 5th (Final class session) **week 10** 
 * Submit link to final material to the teaching team
-
+* This takes the place of the Final Exam (15% of grade)
 * To simplify other aspects problem sets can be shortened
