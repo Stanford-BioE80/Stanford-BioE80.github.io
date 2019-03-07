@@ -13,13 +13,12 @@ Assessment will be based on the following:
 * Instructors can offer suggested sources, ie: kiva.org
 * Describe the problem and who is affected by it
 
-**Description or proposal of bioengineering-based solution:** 30 points
+**Description or proposal of bioengineering-based solution:** 20 points
 * Provide relevant background for learning about the biology and technology utilized in the solution (ie: identify resources for getting more information)
 * Describe advantages, disadvantages, and limitations of this solution
 * Describe what should happen for this solution to occur? (ie: development of technology, policy, etc.)
 
-**Qualitative and quantitative feasibility assessment of the project 
-
+**Qualitative and quantitative feasibility assessment of the project** 15 points
 * Back-of-the-envelope calculations can be required, ie: estimate of requirements and cost ost, estimate of impact (how many people would be impacted)
 * Quantitative due diligence
 
@@ -27,8 +26,8 @@ Assessment will be based on the following:
 * Ethical implications of taking action
 * Ethical implications of inaction
 
-**References:** 10 points
-* Students should include citations, as appropriate
+**References:** 5 points
+* Students should include citations, as appropriate (looking for a consistent style)
 
 **Structure:** 10 points
 * Clarity, Spelling, Grammar, etc.
