@@ -37,9 +37,7 @@ docs:
   - title: Materials
     children:
       - title: "Week 1 Preclass"
-        children:
-          - title: "Week 1 Preclass stuff"
-            url: /docs/w1preclass/
+        url: /docs/w1preclass/
       - title: "Week 1 Inclass"
         url: /docs/w1inclass/
       - title: "Week 1 PS"
