@@ -12,6 +12,9 @@ foo:
     children:
       - title: "Child Link 1"
         url: /child-1-page-url/
+          child2:
+          - title: "Child2 Link A"
+            url: /child2-A-page-url/
       - title: "Child Link 2"
         url: /child-2-page-url/
       - title: "Child Link 3"
@@ -38,6 +41,9 @@ docs:
     children:
       - title: "Week 1 Preclass"
         url: /docs/w1preclass/
+          child2:
+          - title: "Breaking the website"
+            url: /docs/w2inclass/
       - title: "Week 1 Inclass"
         url: /docs/w1inclass/
       - title: "Week 1 PS"
