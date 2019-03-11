@@ -38,9 +38,6 @@ docs:
     children:
       - title: "Week 1 Preclass"
         url: /docs/w1preclass/
-          child2:
-          - title: "Breaking the website"
-            url: /docs/w2inclass/
       - title: "Week 1 Inclass"
         url: /docs/w1inclass/
       - title: "Week 1 PS"
