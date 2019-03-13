@@ -1,10 +1,13 @@
 # BIOE 80 Final Project (15% of Grade)
 ## Why is Bioengineering Important?
 
-The goal of this group project is for students to communicate and introduce the application of Bioengineering to contemporary challenges to a nonexprt audience, for examlpe next year's BIOE.80 class.
+The final project is the opportunity for you, as part of a group,  to introduce a non-expert audience to Bioengineering.   One goal of BIOE.80 is to introduce you, the learner, to Bioengineering and enable you to introduce other learners to Bioengineering.  In the course, we discussed capacities of living matter, application of scientific concepts (e.g., evolution and diffusion), contemporary topics (DNA sequencing and synthesis), challenges, and opportunities in Bioengineering.  The final project enables you to practice this task, apply what you have learned, and seek and identify areas that are of interest to you. 
+
+The goal of this group project is for BIOE.80 students to communicate and introduce the application of Bioengineering to contemporary challenges to a non-expert audience, for example, next year's BIOE.80 class.
 
 In groups of 3-4, students will create a "BIOE 80 Wiki Post" identifying a current need and discussing the role that Bioengineering can take in developing solutions.
-Student groups will create a Google Doc, Google Site, or other world-readable webpage with a vignette about Bioengineering.
+
+Student groups will create a Google Doc, Google Site, Github website or any world-readable webpage with a vignette about Bioengineering.
 Each of this quarter's pre-class material can be considered a sample project.
 
 Assessment will be based on the following:
