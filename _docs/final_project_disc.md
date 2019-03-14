@@ -1,16 +1,15 @@
 # BIOE 80 Final Project (15% of Grade)
-## Why is Bioengineering Important?
-
-The final project is the opportunity for you, as part of a group,  to introduce a non-expert audience to Bioengineering.   One goal of BIOE.80 is to introduce you, the learner, to Bioengineering and enable you to introduce other learners to Bioengineering.  In the course, we discussed capacities of living matter, application of scientific concepts (e.g., evolution and diffusion), contemporary topics (DNA sequencing and synthesis), challenges, and opportunities in Bioengineering.  The final project enables you to practice this task, apply what you have learned, and seek and identify areas that are of interest to you. 
+## Introduce someone else to Bioengineering
 
 The goal of this group project is for BIOE.80 students to communicate and introduce the application of Bioengineering to contemporary challenges to a non-expert audience, for example, next year's BIOE.80 class.
 
+One goal of the course is to introduce you, the learner, to Bioengineering and enable you to introduce other learners to Bioengineering.  In the course, we discussed capacities of living matter, application of scientific concepts (e.g., evolution and diffusion), contemporary topics (DNA sequencing and synthesis), challenges, and opportunities in Bioengineering.  The final project provides you with an opportunity to practice this task, apply what you have learned, and seek and identify areas that are of interest to you. 
+
 In groups of 3-4, students will create a "BIOE 80 Wiki Post" identifying a current need and discussing the role that Bioengineering can take in developing solutions.
 
-Student groups will create a Google Doc, Google Site, Github website or any world-readable webpage with a vignette about Bioengineering.
-Each of this quarter's pre-class material can be considered a sample project.
+Student groups will create a Google Doc, Google Site, Github website or any world-readable webpage with a vignette about Bioengineering.  Each of this quarter's pre-class material can be considered a sample project.
 
-Assessment will be based on the following:
+Your grade will be based on the following:
 
 **Identification and Description of Need:** 20 points
 * Instructors can offer suggested sources, ie: kiva.org
@@ -41,6 +40,23 @@ Assessment will be based on the following:
 Grades may differ between students within a group.
 
 Total: 100 points
+
+
+Helpful tool to organize your ideas and the project: 
+
+As you go about thinking and organizing your ideas for the final project you may consider thinking about the following quesions: 
+
+What are you trying to do? Articulate your objectives using absolutely no jargon.
+How is it done today, and what are the limits of current practice?
+What is new in your approach and why do you think it will be successful?
+Who cares? If you are successful, what difference will it make?
+What are the risks?
+How much will it cost?
+How long will it take?
+What are the mid-term and final “exams” to check for success?
+
+(Note: These questions were devpelpoped by a former DARPA director (George H. Heilmeier) to evaluate research projects.)  
+
 
 **Scaffolding, Logistics, and Milestones:**
 * Assign each group a TA as a mentor
