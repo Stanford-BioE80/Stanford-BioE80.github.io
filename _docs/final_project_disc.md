@@ -46,16 +46,24 @@ Helpful tool to organize your ideas and the project:
 
 As you go about thinking and organizing your ideas for the final project you may consider thinking about the following quesions: 
 
-What are you trying to do? Articulate your objectives using absolutely no jargon.
-How is it done today, and what are the limits of current practice?
-What is new in your approach and why do you think it will be successful?
-Who cares? If you are successful, what difference will it make?
-What are the risks?
-How much will it cost?
-How long will it take?
-What are the mid-term and final “exams” to check for success?
+"What are you trying to do? Articulate your objectives using absolutely no jargon.
 
-(Note: These questions were devpelpoped by a former DARPA director (George H. Heilmeier) to evaluate research projects.)  
+How is it done today, and what are the limits of current practice?
+
+What is new in your approach and why do you think it will be successful?
+
+Who cares? If you are successful, what difference will it make?
+
+What are the risks?
+
+How much will it cost?
+
+How long will it take?
+
+What are the mid-term and final “exams” to check for success?"
+
+
+(Note: These questions were devpelpoped by a former DARPA director (George H. Heilmeier) to evaluate their research projects.)  
 
 
 **Scaffolding, Logistics, and Milestones:**
