@@ -115,6 +115,6 @@ You quickly look up online that the local utility can supply up to 200 cubic fee
 
 **Your questions** Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
-**(Extra credit)** Submit a photo you have taken with foldscope to the Foldscope community via [Microcosmos Foldscope](http://microcosmos.foldscope.com/) or [NSF Vizzies](https://www.nsf.gov/news/special_reports/scivis/index.jsp). If you provide proof of participation (to be turned in the same day with the pset - e.g. screenshot) [NSF Vizzies](https://www.nsf.gov/news/special_reports/scivis/index.jsp) you will receive 5 extra points. 
+**(Extra credit)** Submit a photo you have taken to the Foldscope community via [Microcosmos Foldscope](http://microcosmos.foldscope.com/) or [NSF Vizzies](https://www.nsf.gov/news/special_reports/scivis/index.jsp). If you provide proof of participation (to be turned in the same day with the pset - e.g. screenshot) [NSF Vizzies](https://www.nsf.gov/news/special_reports/scivis/index.jsp) you will receive 5 extra points. 
 
 
