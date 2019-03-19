@@ -93,7 +93,7 @@ There is no preclass for Wedensday Week-3.
 
 ______________________________________________________
 
-## Material for Friday
+##  Preclass for Friday
 ### What is GOOP? 
 
 The tubes in your kit contain GOOP: Genetic Objects Operations and Programming mixture. With GOOP you can test your genetic program (similar to genes you ordered during the build class) on a timescale of hours instead of days (to be explained shortly). Your programs or input instructions (designs) are small pieces of (circular) DNA called plasmids. Each plasmid contains the instructions to encode a protein: a type of complex macromolecule that can perform an incredible diversity of tasks. The GOOP in the tube runs your DNA instructions. GOOP is extracted cellular machinery, in this case from E. coli cells, that makes proteins from the DNA inputs needing living cells. The name of the specific material that you have is 
