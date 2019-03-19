@@ -23,10 +23,6 @@ Classroom (most Mondays and Wednesdays): Building 320 Room 105
 
 Activity Space (most Fridays): Shriram Center Rooms 112 & 132
 
-### Final Exam
-
-Self-proctored three hour written exam due by XXX on XXX June 2019
-
 ### Instructors
 
 Prof. Drew Endy; Office Hours Mon 4p & Wed 4p @ Shriram 252; [endy@stanford.edu](mailto:endy@stanford.edu)
