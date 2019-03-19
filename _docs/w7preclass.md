@@ -47,7 +47,7 @@ _______________________________________________________________________
 ## Preclass for Friday
 
 To prepare for the in-class Gene drives discussion please briefly review the following: 
-[Gene Drives](https://wyss.harvard.edu/media-post/crispr-cas9-gene-drives/)
+[Gene Drives](https://wyss.harvard.edu/media-post/crispr-cas9-gene-drives/), and
 [Gene Drives FAQ](https://wyss.harvard.edu/staticfiles/newsroom/pressreleases/Gene%20drives%20FAQ%20FINAL.pdf)
 
 
