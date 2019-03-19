@@ -205,7 +205,7 @@ Here is the abstract from the [paper](http://science.sciencemag.org/content/353/
 Review the key Takeaways from: 
 [Methods for the directed evolution of proteins](https://www.nature.com/articles/nrg3927)
 
-## Preclass Reading for Fridy  (Move?)
+## Preclass Reading for Fridy  
 
 ### Meet Your Microbes!
 
