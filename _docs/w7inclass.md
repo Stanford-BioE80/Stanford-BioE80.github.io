@@ -14,6 +14,7 @@ By the end of class today you should have developed draft answers to the followi
 2. If *you* were responsible for the decision what would you decide?
 
 3a. If you decided NO then why not?
+
 3b. If you decided YES then via what release option? (see “Release Options” primer)
 
 Files  will be shared in class. 
