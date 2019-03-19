@@ -46,13 +46,9 @@ _______________________________________________________________________
 
 ## Preclass for Friday
 
-Following was developed but was not used before the class. (needs work)
-
-## What Organism Are We Working With?
-*Ganoderma lucidum* has a long history of use for promoting health and longevity in China, Japan, and other Asian countries. It is a large, dark mushroom with a glossy exterior and a woody texture. The Latin word Lucidus means “shiny” or “brilliant” and refers to the varnished appearance of the surface of the mushroom. In China, *G. lucidum* is called lingzhi, whereas in Japan the name for the Ganodermataceae family is reishi or mannentake.
-
-## What is Mycelium?
-Mycelium is the rapidly renewable material that binds the earth’s soil in distributed cellular networks. Like a plant's roots, mycelium forms the structural foundation and nutrient delivery system for mushrooms. Its cells transform plant and wood debris into basic building blocks useful for their own growth and for the ecosystem. Mycelium self-assembles into a variety of densities and shapes, with strong self-adhering bonds.
+To prepare for the in-class Gene drives discussion please briefly review the following: 
+[Gene Drives](https://wyss.harvard.edu/media-post/crispr-cas9-gene-drives/)
+[Gene Drives FAQ](https://wyss.harvard.edu/staticfiles/newsroom/pressreleases/Gene%20drives%20FAQ%20FINAL.pdf)
 
 
 
