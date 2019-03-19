@@ -20,6 +20,6 @@ Topic: "What will be the major human health challenges in 2030?"
 
 Visit the following resources to prepare for an effective brainstorming activity
 
-[I like, I wish, what if](https://dschool-old.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
+[I like, I wish, What if](https://dschool-old.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
 
 [Brainstorming-Method](https://dschool-old.stanford.edu/sandbox/groups/dstudio/wiki/2fced/attachments/660d8/Brainstorming-Method.pdf?sessionID=d07c198d92501ebb3eee4ff3da193b387130fcbf)
