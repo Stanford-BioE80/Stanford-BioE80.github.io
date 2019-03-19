@@ -94,7 +94,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ----------- | ----------- | -------|
 | Mon 8 April | 320-105     | How do engineers engineer with, of, and for biology? |
 | Wed 10 April | 320-105    | How will engineers engineer biology? |
-| Fri 12 April | SC 112/132 | Get your GOOP tube; express DNA **(PSET 2)** |
+| Fri 12 April | SC 112/132 | Make with Mushrooms **(PSET 2)** |
  
 **Lead Instructor**: Drew 
 
@@ -106,7 +106,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ----------- | ----------- | -------|
 | Mon 15 April| 320-105    | How to implement Boolean logic in DNA? |
 | Wed 17 April | 320-105    | How to architect arbitrary genetic systems? |
-| Fri 19 April | SC 112/132 | Genetic sensors, logic, actuators activity **(PSET 3)** |
+| Fri 19 April | SC 112/132 | GOOP and Abstraction **(PSET 3)** |
 
 **Lead Instructor**:  Drew
       
@@ -118,7 +118,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ----------- | ----------- | -------|
 | Mon 22 April| 320-105    | (What will you die of?) or TBD|
 | Wed 24 April | 320-105    | Health in 2030 |
-| Fri 26 April | SC 112/132 | Meet your microbe **(PSET 4)** |
+| Fri 26 April | SC 112/132 | Brainstorming Needs (Project Activity) **(PSET 4)** |
 
 **Lead Instructor**:  Jan
 
@@ -130,7 +130,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ----------- | ----------- | -------|
 | Mon 29 April| 320-105    | What is evolution from an engineering perspective?|
 | Wed 01 May | 320-105    | How to use and change evolution? |
-| Fri 26 May | SC 112/132 | Gene drive discussion **(PSET 5)** |
+| Fri 26 May | SC 112/132 | Meet your Microbes **(PSET 5)** |
 
 **Lead Instructor**:  Jan
 
@@ -142,7 +142,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ----------- | ----------- | -------|
 | Mon 06 May| 320-105    |  How much better can DNA synthesis get? So what?|
 | Wed 08 May | 320-105    | What happens as genetic material becomes equivalent to information? |
-| Fri 26 May | SC 112/132 | Brainstoriming activity **(PSET 6)** |
+| Fri 10 May | SC 112/132 | Project Activity **(PSET 6)** |
 
  **Lead Instructor**:  Drew
 
@@ -154,7 +154,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ----------- | ----------- | -------|
 | Mon 13 May| 320-105    | Why do people work to solve problems via bioengineering?|
 | Wed 15 May | 320-105    |Citizenship & Humanity - Hobbes vs Hobbyist |
-| Fri 17 May | SC 112/132 | Making with mushrooms **(PSET 7)** |
+| Fri 17 May | SC 112/132 | Gene Drives **(PSET 7)** |
 
 **Lead Instructor**:  Drew
 
