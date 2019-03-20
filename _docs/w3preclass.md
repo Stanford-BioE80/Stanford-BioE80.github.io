@@ -94,7 +94,6 @@ There is no preclass for Wedensday Week-3.
 ______________________________________________________
 
 ##  Preclass for Friday
-## Material for Friday -
 ### What is GOOP? (or an introduction to prototyping living matter)
 
 The teaching team is excited to share with you a unique prototyping platform for engineering living matter:
@@ -118,7 +117,7 @@ Thanks to recent developments in bioengineering, for the first time we have the 
 
 ### What is GOOP? 
 
-The tubes in your kit contain GOOP: Genetic Objects Operations and Programming mixture. With GOOP you can test your genetic program (similar to genes you ordered during the build class) on a timescale of hours instead of days (to be explained shortly). Your programs or input instructions (designs) are small pieces of (circular) DNA called plasmids. Each plasmid contains the instructions to encode a protein: a type of complex macromolecule that can perform an incredible diversity of tasks. The GOOP in the tube runs your DNA instructions. GOOP is extracted cellular machinery, in this case from E. coli cells, that makes proteins from the DNA inputs needing living cells. The name of the specific material that you have is 
+On friday you will receive the tubes that contain GOOP: Genetic Objects Operations and Programming mixture. With GOOP you can test your genetic program (similar to genes you ordered during the build class) on a timescale of hours instead of days (to be explained shortly). Your programs or input instructions (designs) are small pieces of (circular) DNA called plasmids. Each plasmid contains the instructions to encode a protein: a type of complex macromolecule that can perform an incredible diversity of tasks. The GOOP in the tube runs your DNA instructions. GOOP is extracted cellular machinery, in this case from E. coli cells, that makes proteins from the DNA inputs needing living cells. The name of the specific material that you have is 
 TX-TL, for transcription-translation. What are transcription and translation? Read on.
 
 
