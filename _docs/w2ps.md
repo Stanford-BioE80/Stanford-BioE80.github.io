@@ -110,32 +110,41 @@ _Escherichia coli_ (**Figure 1**) is well-studied bacteria considered to be repr
 
 **Q.2.d.** How would you go about estimating the total number of carbon atoms in an *E.coli* cell? You don't have to calculate this just define variables and describe your approach step by step. 
 
+## (Q3) Making with Mushrooms(15 Points)
 
-## (Q3) GOOP Tube (30 pts)
+3.a. Did you show up on Friday, make your mycelium material object? (Yes / No)
 
-On Friday you were given two GOOP tubes, one tube of DNA (instruction to express GFP), and one tube of water.
+3.b. Describe in broad terms what processes unique to living matter are enabling building withmushrooms possible. 
+What are the potential and limitations of making with mushrooms? (bullet points)
 
-**Q.3.a.** When and where did you add the water and DNA-expression to your GOOP tube. 
+3.c. How is making with mushrooms similar to or different from other manufacturing processessuch as 3D printing? (bullet points)
 
-**Q.3.b.** Did the GOOP with expression instructions turn green (produce GFP)? How long did it take? (Your grade does not depend on the expression of GFP). Include photos of both tubes at the start, about 6 hours and after 12 hours. (Time points don't have to be exact. Simply report when you took the photos) Make sure to provide a figure legend. 
+3.d. Looking forward, how do we go from creating matter with an inert function (e.g., a chair) to creat matter with biological function (i.e., growing a finger or a heart)? What new considerations need to be made? 
 
-**Q.3.c.** Why might certain designs work in GOOP, but not in a cell? Why might certain designs work in a cell, but not in GOOP? (<150 words)
+**Extra Credit (5 points)**
 
-**Q.3.d.** During class on Wednesday you practiced ordering a gene, without having to build it. Imagine that you could have received a DNA sequence that you designed from Free Genes. Pick one task you wish that DNA to perform and describe it in words or a diagram without providing a sequence (example: to detect lead in the water and produce a reporter pigment or fluorescent protein). You can use this website for inspiration [link](http://parts.igem.org/Main_Page)
+There are several great spots on campus to explore and bioprospect in search of newmushrooms that could potentially be used for making materials. 
 
-Do you think you would be able to use GOOP to test your designs? (<150 words)
+For this activity you can explore the variety of fungal diversity outside (even theengineering quad has fungi to discover!).
 
-**_Please give us feedback. Did you run into any problems? Do you have suggestions or comments?_**
+Find a mushroom on campus, take a photo of it, and note your location (GPS coordinates via your phone) and other characteristics such as the surrounding ecology.  Document your finding by including a paragraph description, your photo, and the location of your find in your PSET submission. 
 
-## (Q4) Revisiting Design Tools (PyMol) (20 pts)
+Please don’t disturb or eat any mushrooms you find for this extra credit.
 
-**Q.4.a.** Check out the website where the GFP structure is housed: [https://www.rcsb.org/structure/1gfl](https://www.rcsb.org/structure/1gfl). What is the experimental method used to get the structure of the protein? What is the listed resolution of the structure? (<150 words)
+For more info/inspiration you might check out:
 
-**Q.4.b.** Add a screenshot of your GFP structure in PyMol with the chromophore highlighted in red. Why do you think the barrel structure might be necessary around the chromophore? (Hint: think about how the barrel structure might help the chromophore maturation process) (<150 words)
+- http://www.namyco.org/photography.php
 
-**Q.4.c.** Find a structure on PDB for a fluorescent protein with emission wavelength _redder_ than GFP. Render that structure in PyMol and highlight its chromophore. What are the structural similarities between the structure of the fluorescent protein and GFP, if any? What are the qualitative differences between the chromophore of your selected protein and that of GFP?
+- https://www.mssf.org/
 
-## (Q5) When are we 'done'? (10 pts)
+**Final Note:** This week you explored the concepts behind Design-Build-Test. You also practiced DBT in the context of design tools for living matter (pyMol), decoupled build from design (ordered a gene to be synthesized), and tested a DNA device (via GOOP). DBT is an essential framework that you will apply to many (bio)engineering challenges. You will explore and practice DBT in many BIOE classes: BIOE 44 (Fundamentals for Engineering Biology Lab), BIOE 123 (Biomedical System Prototyping Lab), and BIOE 141 A and B (Senior Capstone Design). Next week we will learn more about what exactly happens when you order a gene (DNA synthesis) and how we can 'read' DNA sequences (sequencing) and **What arises from DNA read/write trends that will matter for the rest of our lives?**
+
+**Your questions**
+Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
+
+**Extra learning** (100% optional):
+
+## (Q5) When are we 'done'? (0 pts)
 
 A crucial skill is determining when we are ready to exit the DBT cycle (if ever). This can be determined by a number of things, such as access to resources, allotted time, and meeting certain metrics of success. It can be challenging to know when you have found the proper balance of all of these. Luckily, our old friend DBT provides a guide to help with these considerations. That is what the Test part is all about: helping you determine when you have succeeded. 
 
@@ -160,8 +169,3 @@ Working from our design specifications and field standards, we can outline an ac
 By releasing videos of their failed launches, which include detailed annotations of which system failed the SpaceX team is reminding us that success can only be achieved after repeated failures. It is part of the process. They show us how to fail properly. 
 
 **Q.5.d.** Give an example of a biological experiment you might conduct where using _both_ GFP and your selected fluorescent protein could be useful. Describe the experiment in no more than a few sentences. Draw upon what you've learned about how fluorescent proteins are expressed using DNA constructs (genes).
-
-**Final Note:** This week you explored the concepts behind Design-Build-Test. You also practiced DBT in the context of design tools for living matter (pyMol), decoupled build from design (ordered a gene to be synthesized), and tested a DNA device (via GOOP). DBT is an essential framework that you will apply to many (bio)engineering challenges. You will explore and practice DBT in many BIOE classes: BIOE 44 (Fundamentals for Engineering Biology Lab), BIOE 123 (Biomedical System Prototyping Lab), and BIOE 141 A and B (Senior Capstone Design). Next week we will learn more about what exactly happens when you order a gene (DNA synthesis) and how we can 'read' DNA sequences (sequencing) and **What arises from DNA read/write trends that will matter for the rest of our lives?**
-
-**Your questions**
-Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
