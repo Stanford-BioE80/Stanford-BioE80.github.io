@@ -78,7 +78,7 @@ As we saw in class, the [Free Genes Project](https://biobricks.org/freegenes/) w
 
 **Q.1.f.** Visit the Free Genes Project website. Briefly describe how it works. Who is responsible for each aspect? (<150 words)
 
-## (Q2) Approximate and rapid numerical estimates (20 pts)
+## (Q2) Approximate and rapid numerical estimates (40 pts)
 
 Approximations based on simple physical principles are known as Fermi problems. These problems will help you build quantitative intuition. This quantitative intuition will help you during the DBT cycle (estimating feasibility). Most of these estimates are rough: they are designed to give you a broad, order of magnitude intuition for the biology, so keep in mind that that the exactly correct number could be different. Give your answers to two significant figures and provide units where appropriate. You should only need simple math and arithmetic; a couple of lines of work at most. 
 
@@ -110,7 +110,7 @@ _Escherichia coli_ (**Figure 1**) is well-studied bacteria considered to be repr
 
 **Q.2.d.** How would you go about estimating the total number of carbon atoms in an *E.coli* cell? You don't have to calculate this just define variables and describe your approach step by step. 
 
-## (Q3) Making with Mushrooms(15 Points)
+## (Q3) Making with Mushrooms(40 Points)
 
 3.a. Did you show up on Friday, make your mycelium material object? (Yes / No)
 
