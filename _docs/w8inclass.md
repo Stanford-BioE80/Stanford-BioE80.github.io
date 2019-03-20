@@ -1,3 +1,5 @@
+## Friday In Class:Dancing Droplets 
+
 Dear ENGR/BIOE.80ers,
 
 Your practical goal for class today (Friday 4 May 2018) is to gain experience programing the behavior of simple 
