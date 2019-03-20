@@ -29,21 +29,26 @@ Prof. Drew Endy; Office Hours Mon 4p & Wed 4p @ Shriram 252; [endy@stanford.edu]
 
 Prof. Jan Liphardt; Office Hours Mon 10a & Fri 3p @ Shriram 005; [jan.liphardt@stanford.edu](mailto:jan.liphardt@stanford.edu)
 
-### Education Fellow
-
-Dr. Siavash Ahrar; Office Hours tbd @ Shriram Tea Room; [sahrar@stanford.edu](mailto:sahrar@stanford.edu)
-
 ### Head Teaching Assistant
 
-NAME; Office Hours Time @ place; email
+NAME-TBD; Office Hours Time @ place; email
 
 ### Teaching Assistants
 
-NAME; Office Hours Time @ place; email
+Jonathan Calles; Office Hours Time @ place; [jecalles@stanford.edu](mailto:jecalles@stanford.edu])
+
+Alex Ferris; Office Hours Time @ place; [acferris@stanford.edu](mailto:acferris@stanford.edu)
 
 NAME; Office Hours Time @ place; email
-
 NAME; Office Hours Time @ place; email
+NAME; Office Hours Time @ place; email
+NAME; Office Hours Time @ place; email
+
+### Education Fellows
+
+Dr. Siavash Ahrar; Office Hours tbd @ Shriram Tea Room; [sahrar@stanford.edu](mailto:sahrar@stanford.edu)
+
+Dr. Veronica Brand; Office Hours tbd @ Shriram Tea Room; [vrangel@stanford.edu](mailto:vrangel@stanford.edu)
 
 ### Grading
 
