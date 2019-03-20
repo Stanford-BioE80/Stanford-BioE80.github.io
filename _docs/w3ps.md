@@ -14,7 +14,7 @@ toc: true
   - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations).
  
  
- ## (Q1)  Buggy Bacterial Flash Mob? (40 pts)
+ ## (Q1)  Buggy Bacterial Flash Mob? (20 pts)
  
  Students at MIT are claiming that they have designed a genetic program to realize 
  arepeating bacterial flash mob.  See their work yet again via:
@@ -26,16 +26,37 @@ are now claiming that the genetic program designed at MIT won’t actually produ
 so-desired behavior.  Looking only at their proposed “device-level system diagram”...
 
 
-1.a. What do you think?  Will their program work or not?   (20 points)
+1.a. What do you think?  Will their program work or not?   (10 points)
 
 
 YES or NO (circle one)
 
 
-1.b. Why or why not? (bullet points) (20 points)
+1.b. Why or why not? (bullet points) (10 points)
 
+## (Q2) GOOP Tube (30 pts)
 
-## (Q2) Bacterial edge detection (40 pts)
+On Friday you were given two GOOP tubes, one tube of DNA (instruction to express GFP), and one tube of water.
+
+**Q.2.a.** When and where did you add the water and DNA-expression to your GOOP tube. 
+
+**Q.2.b.** Did the GOOP with expression instructions turn green (produce GFP)? How long did it take? (Your grade does not depend on the expression of GFP). Include photos of both tubes at the start, about 6 hours and after 12 hours. (Time points don't have to be exact. Simply report when you took the photos) Make sure to provide a figure legend. 
+
+**Q.2.c.** Why might certain designs work in GOOP, but not in a cell? Why might certain designs work in a cell, but not in GOOP? (<150 words)
+
+**Q.2.d.** Do you think you would be able to use GOOP to test your designs? (<150 words)
+
+**_Please give us feedback. Did you run into any problems? Do you have suggestions or comments?_**
+
+## (Q3) Revisiting Design Tools (PyMol) (30 pts)
+
+**Q.4.a.** Check out the website where the GFP structure is housed: [https://www.rcsb.org/structure/1gfl](https://www.rcsb.org/structure/1gfl). What is the experimental method used to get the structure of the protein? What is the listed resolution of the structure? (<150 words)
+
+**Q.4.b.** Add a screenshot of your GFP structure in PyMol with the chromophore highlighted in red. Why do you think the barrel structure might be necessary around the chromophore? (Hint: think about how the barrel structure might help the chromophore maturation process) (<150 words)
+
+**Q.4.c.** Find a structure on PDB for a fluorescent protein with emission wavelength _redder_ than GFP. Render that structure in PyMol and highlight its chromophore. What are the structural similarities between the structure of the fluorescent protein and GFP, if any? What are the qualitative differences between the chromophore of your selected protein and that of GFP?
+
+## (Q4) Bacterial edge detection (20 pts)
 
 
 Building on work first published in 2005, Jeff Tabor and colleagues eventually demonstrated a 
@@ -47,26 +68,10 @@ results in formation of a dark pigment (HINT: see Figure and also the primary
 [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775486/))
 
 
-Add figure here. 
-
-2.a. **Develop a device-level block diagram** that would result in the so-shown behavior.Label simple sensors, logic blocks, and actuators, as needed.  Connect outputs to inputsif and as required. (Hint:  Only give simple device names (e.g., “Dark sensor,” “pigmentactuator” etc.); do not describe any biology in any molecular detail).  (30 points)
+4.a. **Develop a device-level block diagram** that would result in the so-shown behavior. Label simple sensors, logic blocks, and actuators, as needed.  Connect outputs to inputsif and as required. (Hint:  Only give simple device names (e.g., “Dark sensor,” “pigmentactuator” etc.); do not describe any biology in any molecular detail).  (30 points)
 
 
-2.b. Take a look at the photo of the system in action. Note the edge detection in the case of asquare or Alfred Hitchcock’s portrait. **What do you observe?** For example, why is there more pigment inside the corners of the square, or inside the bottom left angle of Alfred’s portrait?  (bullet points, 10 points)
-
-
-## (Q3) Ring Oscillator (20 pts)
-
-
-Here is a system level diagram of a 3-inverter Ring oscillator. Think back to the class on Wednesday, imagine that you are a system's level **Bioengineer** designing this oscillator...
-
-Add figure here. 
-
-
-3.a. What is an ideal inverter from a systems level perspective? (bullet points and a simple diagram to describe inputs and outputs for the inverters) (10 points)
-
-
-3.b. Provide an example of a bad design choice, from system's level view, for these inverters? (Ring oscillator should still work) (10 points)
+4.b. Take a look at the photo of the system in action. Note the edge detection in the case of asquare or Alfred Hitchcock’s portrait. **What do you observe?** For example, why is there more pigment inside the corners of the square, or inside the bottom left angle of Alfred’s portrait?  (bullet points, 10 points)
 
 
 **Extra learning** (100% optional):
@@ -75,6 +80,14 @@ If you want to explore more re: a different type of DNA logic mentioned briefly 
 [Transcriptors & Boolean Integrase Logic (BIL) gates, explained](https://www.youtube.com/watch?v=ahYZBeP_r5U)
 
 
+## (Q5) Ring Oscillator (0 pts)
+
+
+Here is a system level diagram of a 3-inverter Ring oscillator. Think back to the class on Wednesday, imagine that you are a system's level **Bioengineer** designing an oscillator...
+
+5.a. What is an ideal inverter from a systems level perspective? (bullet points and a simple diagram to describe inputs and outputs for the inverters) (5 points)
+
+5.b. Provide an example of a bad design choice, from system's level view, for these inverters? (Ring oscillator should still work) (5 points)
 
 
 
