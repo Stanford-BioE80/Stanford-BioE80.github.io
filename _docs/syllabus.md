@@ -40,8 +40,11 @@ Jonathan Calles; Office Hours Time @ place; [jecalles@stanford.edu](mailto:jecal
 Alex Ferris; Office Hours Time @ place; [acferris@stanford.edu](mailto:acferris@stanford.edu)
 
 NAME; Office Hours Time @ place; email
+
 NAME; Office Hours Time @ place; email
+
 NAME; Office Hours Time @ place; email
+
 NAME; Office Hours Time @ place; email
 
 ### Education Fellows
