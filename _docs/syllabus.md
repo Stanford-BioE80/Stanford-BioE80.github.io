@@ -35,17 +35,17 @@ NAME-TBD; Office Hours Time @ place; email
 
 ### Teaching Assistants
 
+Kaisha Benjamin; Office Hours Time @ place; [kaisha@stanford.edu](mailto::kaisha@stanford.edu)
+
 Jonathan Calles; Office Hours Time @ place; [jecalles@stanford.edu](mailto:jecalles@stanford.edu])
 
 Alex Ferris; Office Hours Time @ place; [acferris@stanford.edu](mailto:acferris@stanford.edu)
 
-NAME; Office Hours Time @ place; email
+Alexis Seymour; Office Hours Time @ place; [aseymour@stanford.edu](mailto:aseymour@stanford.edu)
 
-NAME; Office Hours Time @ place; email
+Brandon Walker; Office Hours Time @ place; email
 
-NAME; Office Hours Time @ place; email
-
-NAME; Office Hours Time @ place; email
+Marcos Torres; Office Hours Time @ place; email
 
 ### Education Fellows
 
