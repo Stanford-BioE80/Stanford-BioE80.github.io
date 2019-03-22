@@ -40,65 +40,55 @@ On Friday you participated in the Dancing Droplets activity.  Use pictures, diag
 <figcaption><b>Figure 1</b>. Spatial GOOP .</figcaption>
 </figure>
 
+## (Q3) Diffusion, Diffusion constant, and Diffusion time (20 pts)
+
+ In the class material you were introduced to diffusion both qualitatively and quantitatively.
+ In this question you will use these concepts for simple estimations. First let's warm up:
+ 
+ 1.a. A diffusion coefficient is quantitatively described by the following equation.   
+ Where D=kTB/6πνa is Boltzmann's constant (1.3807 x 10 ^-23 J/K), T is the temperature (K) of the   
+ surrounding medium ,ν is viscosity of surrounding medium (NxS/m^2), “a” is a measure of length 
+ (radius of a sphere approximating the molecule).  What are the units for a diffusion coefficient? (5 pts)
+ 
+ 
+1.b. You learn that the diffusion coefficient for a protein (~30 kDa GFP) in water is about 100 µm^2/s.
+The diffusion constant for the same protein is in the cytoplasm of a eukaryotic cell is only 30 µm^2/s.
+Intuitively do these numbers make sense? (Yes or No) Why? (Bullet points)
+Using these numbers estimate the viscosity of the cytoplasm relative to the viscosity of water? 
+(10 pts) (HINT: solve for using the equation given above).
+
+Next, let’s estimate the time it takes for a protein to diffuse spontaneously across different typesof cells 
+(diffusion time τ). We’ll use the formula τ = R^2/6D, where R is the traverse distance.
+
+1.c. Calculate the times it takes for the same protein (~30 kDa GFP) with a diffusion constant D=30 µm^2/s to diffuse across four different cell types: 
+
+(i) *E.coli* with R≈1 μm, 
+(ii)  Yeast cell with R≈10 μm, 
+(iii) HeLa cell with R≈20 μm, and
+(iv) A neuronal cell axon with R≈1 cm.
+What does the the diffusion time for the axon suggests to you? (5 pts)
+
+This question is from the [Cell Biology by the Numbers](http://book.bionumbers.org/what-are-the-time-scales-for-diffusion-in-cells/)
+
+**Final Notes:**  you explored the intersection of physics and living matter. You explore ddiffusion, and how to use diffusion to engineer  both *temporary* and *permanent* pattern viacell states and functions. You further explored biased random walks and how cells move and find resources.
+
+**Your questions**
+Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
+
+*Additional Resources*    
+
+The following link takes you to a paper titled [Life at Low Reynolds Number](https://www2.gwu.edu/~phy21bio/Reading/Purcell_life_at_low_reynolds_number.pdf) that examines physics at the scale of a bacteria.  The following link takes you to a digital copy of a great book titled [The Machinery of life](https://searchworks.stanford.edu/view/11568895) which can help you with the concepts we have covered both this week and in previous weeks.
+
+*The following links* are **explorables** that can help you explore and build an intuition aboutpatterns and pattern formation.  We hope that you take some time and examine them on your own:
 
 
-## (Q1) Design and Synthesis of a Minimal Bacterial Genome (40 pts)
-
-A key skill that you will need as bioengineers is to read, understand, and extract informationfrom research papers that are shaping and defining the frontiers of bioengineering. This is inpart due to the fast changing pace of bioengineering. We would like you to practice this skill as early as possible, to help you become better at it.
+(1) Fireflies and Patterns: http://ncase.me/fireflies/
 
 
-In class we started to discuss the paper *“Design and synthesis of a minimal bacterial genome"*. In this problem you will review the the paper to level up your ability to read and extractinformation from a research paper.
+(2) Diffusion limited aggregation: http://rocs.hu-berlin.de/explorables/explorables/dla/
 
-1.a. Re-read the abstract from the paper, in your own words describe what was the paper’s goal(s), 
-what did the authors discover by working on these goal(s). (bullet points)
 
-1.b. Take a look at Figure-1 from the paper titled: “The JCVI DBT cycle for bacterial genomes”. 
-Think back to what you have learned during the DBT Week. Based on the figure and your prior knowledge, 
-what tools and technologies were used to design, build, and test Syn3.0.?  (bullet points)
-
-1.c. Take a look at Figure-2 titled: “Strategy for whole-genome synthesis”. What do the red, blue, and green arrows represent? What does the orange arrow represent? 
-Using the figure briefly explain how they went from Oligos to a whole genome? (bullet points)
-
-1.d. Assuming $0.04 per base pair what is the minimum cost ofsynthesizing the Syn3.0 genome?
-
-1.e. Take a look at Figure-7. Let’s compare the phenotype of Syn1.0 and Syn3.0.
-Describe what you see when comparing panel A and B and panel C?(bullet points) 
-Which cellsgrow faster? ( Syn1.0 or Syn3.0.)
-
-## (Q2) Approximation and estimation - Genome Size (40 pts)
-
-Now thatyou have examined a minimal genome have you wondered how big is a typical genome?
-
-The *E. coli* MG1655 genome is 4.6 Mbp (megabasepairs) long, or approximately 4,600,000base pairs. 
-A good rule of thumb for the length of a single DNA base pair is that it is ⅓ nm long.
-As another rule of thumb, let’s treat the volume of an *E. coli* cell as being approximately 1 μm^3 [see](http://book.bionumbers.org/how-big-is-an-e-coli-cell-and-what-is-its-mass/). This is a rough, order-of-magnitude estimate. 
-
-In real life, cell size and volume willv ary based upon species, growth rate, and stage of division 
-in addition to many other factors.
-
-2.a. How long would the *E. coli* genome be as a linear strand of DNA?  Provide your answerin μm. How long would the Syn3.0 genome be as as a linear strand of DNA?
-
-2.b. The *E. coli* genome is actually circular. What is the radius of the genome, assuming thegenome is arranged as a perfect circle and given the linear length that you calculated above?
-
-2.c. Consider your answers in relation to the size specifications for *E. coli* given above. Whatdoes this imply about the layout of DNA inside a living cell? (Two sentences).
-
-Note: A good rule of thumb for the volume of a DNA base pair is that one base pair has avolume of approximately 1 nm^3.
-
-2.d. How much DNA could be packed into an *E. coli* cell, assuming that the whole cellvolume only contains DNA? Why is this number ridiculous? (i.e., the *E. coli* genome issignificantly smaller: why?)
-
-Additional resources: If you like to learn more about various genome sizes please visit this [link](http://book.bionumbers.org/how-big-are-genomes/)
-
-## Dancing Droplets ( pts)
-
-On Friday you participated in the Dancing Droplets activity.  Use pictures, diagrams, or drawings as appropriate. 
-
-3.a. If you have two different droplets why do they chase each other? What other behaviors have you observed?
-
-3.b. Why does the sharpie marker create a physical barrier?
-
-3.c. To what extent were you able to realize increasingly autonomous behavior?
-
-3.d. How good do we have to become at implementing these different frames of reference in order to engineer living matter?
+(3) Reaction diffusion system: https://pmneila.github.io/jsexp/grayscott/
 
 **Your questions**
 Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
