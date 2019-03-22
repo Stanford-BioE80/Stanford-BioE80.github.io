@@ -1,3 +1,9 @@
+---
+title: "Week 8 class"
+permalink: /docs/w8inclass/
+2018: Week 4
+---
+
 ## Friday In Class:Dancing Droplets 
 
 Dear ENGR/BIOE.80ers,
