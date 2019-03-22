@@ -4,88 +4,138 @@ permalink: /docs/w8preclass/
 2018: Week 4
 ---
 
-## If we can construct a genome then why can't we build an organism?
+## Something from "Nothing." Why do molecules move? How do patterns grow?
 
-Please read and consider the below before start of class. The questions given are only study questions not homework to be answered. Talk about it all with your classmates, friends, or TAs, as you like.
+Please read and consider the below before start of class on Monday.
+The questions given are only study questions not homework to be graded.
+Talk about it all with your classmates, friends, or TAs, as you like.
 
-## Preclass for Monday
+## Preclass for Monday 
 
-Your task is the read *"Design and synthesis of a minimalbacterial genome"* 
- [link](http://science.sciencemag.org/content/351/6280/aad6253) and answer the following five questions. 
+## Introduction - Diffusion Happens
 
-There is no magic here and with a little bit of thought and Googling, you will be to make sense of the advance.  
-Note that the pdf file contains two papers; one of them is a high-level summary and the longer paper is 
-the actual research paper.  
-You do not need to understand everything– feel free to skim over many details – our goal here is high-level synthesis.  
-That said –if you are curious to understand how things were actually done, go for it – everything in the paper 
-should be accessible to you with some time and Googling. 
-No-one is going to look at your answers below – they are for you – but they will be useful for the in-class session on Monday. 
+Welcome to the first pre-class material for Diffusion and Patterning.
+The examples here will prepare you (and provide you with a mindset and a feeling) before the the class towards 
+the following goals:
 
-**Q.1. Using your own words, describe what the authors did?**
+**Goal-1:** You will be able to recognize that diffusion is everywhere in biology and beyond.
 
-**Q.2. What was the most surprising thing that the scientists discovered or learned?**
+**Goal-2:** You will be able to describe the mechanism behind diffusion (microscopically and macroscopically). 
+Stated differently, you will be able to describe what does it mean that diffusion happens.
 
-**Q.3. What  were  the  major  technology and engineering  barriers,  that  made  this  sort  of  thing  
-impossible  until very recently? Give two or three examples.**
+**Goal-3:** You will be able to describe the role and application of diffusion in engineering living matter.
 
-**Q.4. Give two simple DBT rules the team discovered.**
+Let's briefly learn about application of diffusion in engineering living matter with an interesting example of
+**Blinking Squares** ...
 
-**Q.5. Thinking ahead, what do you think the authors will do next – what they might be 
-working on right now, given that he announced JCVI3.0 to the world back in 2016?**
+## Case-1: Blinking Squares 
+
+Here is a videos of 500 blinking squares. 
+Each square is about 100μmx100μm and there are 25 μm gaps between each square. 
+Each square contains about 5,000 bacterial cells. 
+
+Take a look at this follwing paper and watch the video titled ():
+[source](https://www.nature.com/articles/nature10722)
+
+**Q.1. What do you observe?**
+
+**Q.2. How long does it take for all the squares to synchronize (i.e., blink ON/OFF all together)?**
+
+**Q.3. What is the simplest mechanism you can imagine that would cause all the squares to synchronize their blinking?**
+
+**Q.4. Can the squares synchronize their blinking together without an external signal? If yes how would that signal synchronize the squares together?**
+
+**Q.5. Can autonomous agents synchronize their behavior, and if so how?**
+
+
+## Case-2: Blinking Square
+
+Take a look at this follwing paper and watch the video titled ():
+[source-2](https://www.nature.com/articles/nature08753)
+Here is a videos of a single blinking square (100μmx100μm) containing about approximately 5,000 cells.
+
+**Q.6. What do you observe?**
+
+**Q.7. What is the simplest mechanism you canimagine that would cause the square to synchronize its blinking?**
+
+**Q.8. Watching  cells inside the square do you see a different brightness levels within each cell- how uniformed is the distribution of fluorescentproteins inside each individual cell in the square?**  
+
+## What Is Diffusion
+
+Diffusion is everywhere in living matter and beyond. We encounter diffusion routinely in our daily lives.
+
+**Diffusion** is a spontaneous net movement of matter (e.g., molecules, atoms) from regions of high concentration to a region of low concentration. Stated differently, diffusion is a transfer of mass that causes the distribution of molecules, or atoms to be more uniform in space as time evolves. 
+
+**Q.9.Can you think about everyday examples of diffusion in your life?**
+
+
+## Is this Diffusion? 
+
+Take a look at the following [video](https://www.youtube.com/watch?v=5JuEomRki_M)
+
+**Q.10. Is this diffusion? why or why not? How can you tell?**
+
+*Additional Resource*
+Entropy Explained [link-1](https://aatishb.com/entropy/)
+
 ____________________________________________________________
 
-## No Preclass Reading for Wednesday
+## Preclass for Wedensday
+
+Just a few minutes of your time spent on what following should get you ready for Friday's class.
+
+We ended class on Monday with an initial consideration of diffusion, introducing the idea that spontaneous diffusion of systems comprised of more than one molecule can *temporarily* result in non-trivial spatial patterns (e.g., a bullseye).
+
+Next we will build on both ideas.E.g,. how can state (i.e., memory) be used to capture and make permanent fleeting patterns?How can patterns build upon patterns?
+
+We'll start by drawing again upon the preclass from Monday(i.e., the bacterial blinking oscillators) and end by working through a challenge of how to program the growth an arm-like structure.
+
+Please ponder how cells can act... I.e., the various primary functions that cells can "execute" or carry out. 
+By combining spontaneous physical processes starting from diffusion with programmed cellular functions, both natural and engineered biological systems can realize non-trivial behaviors over both space and time. More specifically:
+
+### (1) Cells can grow and divide. 
+I.e., one cell can become two and so on. 
+[Cell Division - Exponential](https://www.youtube.com/watch?v=9x23n4zBOU8&feature=youtu.be)
+
+### (2) Cells can move.
+I.e., cell migration can result in significant changes in shape and form. Don't believe See a brand new movie of an immune cell moving inside the ear of a fish...
+[Immune Cell Migration in the Zebrafish Inner Ear](https://www.youtube.com/watch?v=Hz0VlUVjYfI&feature=youtu.be)
+
+Or, a slime mold swarming on a plate and growing a stalk...
+[Swarming](https://www.youtube.com/watch?v=vjRPla0BONA&feature=youtu.be)
+
+### (3) Cells cancommunicate with each other.
+I.e., cells can send chemical messages between and among each other.
+E.g., here's a type of "pulse" in gene expression generated across many cells during development of a tail-like structure...
+[Wave of gene expression in an embryo](https://www.youtube.com/watch?v=T-fa1gYfwJk&feature=youtu.be)
+
+
+### (4) Cells canchange state.
+I.e., one type of cell can become another type of cell, in response to signals or even spontaneously.E.g., here are bacterial cells infected with virus realizing different cell-fate outcomes.
+[Bacteriophage lambda lysis and lysogeny](https://www.youtube.com/watch?v=sLkZ9FPHJGM&feature=youtu.be)
+
+### (5) Cells can undergo programmed cell death 
+I.e., cells can die. 
+[Apoptosis](https://www.youtube.com/watch?v=WkATnXv9rsQ)
+
+Taken together these functions can be used to realize incredible outcomes.E.g., watch this old-time movie of a frog egg becoming a frog.
+
+[The Development of a Frog](https://www.youtube.com/watch?v=dXpAbezdOho&feature=youtu.be)
+
+**Question:How many of the five mechanisms introduced above can you observe or infer in the formation of a frog?**
 
 ____________________________________________________________
 
-## Preclass Reading for Fridy  (Move?)
+## Friday In Class: Dancing Droplets 
 
-### Meet Your Microbes!
+As part of a group you and your team will explore and experience programing the behavior of simple 
+systems in space and time. 
 
-After finishing this activity:
+To get started please spend ~5 minutes watching these two videos:
 
-**Goal-1:** You will have been introduced to basic methods for cultivating andcategorizing 
-microbial life in the lab; it turns out we can only cultivate ~1% of microbes found in nature in the lab 
-(i.e., we can’t grow most microbes underlaboratory conditions, at least not yet).
+https://youtu.be/ZMsaH6SY4CY
 
-**Goal-2:** You have been introduced to the diversity of the life (microbiome) that
-live in and on you (are you?). And, begin to describe the role that the microbiome plays in your health and well being.
-
-**Goal-3:** By observing this diversity of microbial phenotypes you will have theopportunity to appreciate the rich diversity and engineering potential that livingmatter provides.
-
-<figure>
-<a href="/assets/images/w4pc_S.Chimileski Biofilm_pseudomonas aeruginosa biofilm.gif"><img src="/assets/images/w4pc_S.Chimileski Biofilm_pseudomonas aeruginosa biofilm.gif"></a>
-</figure>
+http://www.nytimes.com/video/science/100000003584880/dancing
 
 
-**Figure-1** biofilm development via a *Pseudomonas aeruginosa* colony with the extracellularmatrix, material released by the cells, stained red and pink by Scott Chimileski. [Source](https://www.scottchimileskiphotography.com/Creative-Commons/) - licensed under a Creative Commons non-commercial use. Make sure to visit his [website](https://www.scottchimileskiphotography.com/Portfolio/) for additional photos.
-
-In an earlier activity we used a Foldscope to observe and explore the world around us,either as explorers or makers looking for parts and inspiration. In today’s activity we willexplore the *microbiome* that lives on and within us.
-The microbiome is the vast collection of bacteria, viruses, fungi, and other microbes thatshare our bodies (additional [link](https://www.nature.com/collections/stkpgwjvvk/content/content). Depending on their context they can play a positive
-or a negative role in our health and well being. For example, they can cause orinfluence non-communicable diseases. Engineering the microbiome is considered by some respected academics to be part of the the future of medicine. For example,researchers at Cornell recently engineered a gut microbe to address aspects of diabetes 
-(see [here](https://www.ncbi.nlm.nih.gov/pubmed/25626737)).
-
-**Q.1. What do you think are various methods that we can use to study themicrobiome (i.e., all bacteria in and on you)? How can we tell what microbes arepresent in the microbiome?**
-
-Thinking back to observing via your Foldscope, looking at microbes is certainly onemethod to study microbes. 
-Figure-2 (below) are photographs of multiplebacteria and fungal colonies. You may notice the different colors, shapes, sizes, andstructures of these colonies. Some of the colonies have a smooth morphology whileothers have a more folded surface. You may begin to ask what are the advantages of having a smooth, or folded, or a rough surface. You may also use this diversity of properties as a possible approach to discern various microorganisms from one another.  However there is one important caveat to keep in mind, the diversity of microbial worldis incredible but we can only cultivate for study approximately 1% of the microbes thatlive on you. This is in part because many microbes are highly “social” and dwell in andamong communities of other microbes. We still have much to learn about the 1% we can cultivate, with plenty more to learn from the 99% we can’t yet grow.
-
-<figure>
-<a href="/assets/images/w4pc_meetYourMicrobe.png"><img src="/assets/images/w4pc_meetYourMicrobe.png"></a>
-</figure>
-
-**Figure-2**  Photographs of multiple bacteria and fungal colonies.  It is possible to identify bacterial or fungal species by the shape, color, and structure of the colonies that they form. 
-
-
-**Q.2. If we cannot cultivate and grow many components of the microbiome inisolation in the lab, how can we tell what is present in each context? Whatcontemporary technologies have enabled the study and engineering of themicrobiome?**
-
-Think about your own answer and then visit the following link to begin to answer the above question [Scientists Unveil New ‘Tree of Life’](https://www.nytimes.com/2016/04/12/science/scientists-unveil-new-tree-of-life.html)
-
-
-While the plate assays (growing bacteria on defined media) and looking at growth andphenotypes, may seem simple. They have and continue to play an incredibly powerfulrole in the discovery and development of biology as well as in the pursuit of bioengineering.[source](http://science.sciencemag.org/content/353/6304/1147) demonstrates a creative and unique plateassay called MEGA-plate (“mega” since the plate is **2x4 feet!**) to demonstrate and study bacterial evolution. MEGA plate was used to study the evolution andemergence of antibiotic resistance over time in bacterial populations. Make sure to watch this [video](https://www.youtube.com/watch?time_continue=7&v=yybsSqcB7mE).
-
-
-### What Next
-During the class, you will use the plates that you prepared on Wednesday toexamine and classifying the microbes 
-that grew on your plates. To prepare for this make sure to take a look at the first page of this 
-[link](http://delrio.dcccd.edu/jreynolds/microbiology/2421/lab_manual/colony_morph.pdf)
+And optional reading [Vapour-mediated sensing and motility in two-component droplets](https://www.nature.com/articles/nature14272)
