@@ -60,4 +60,14 @@ Think back to the in class case study on the production of the key ingredient fo
 
 3.b. Why was the project not successful?(bullet points)
 
-3.c. If you were in charge of this project what would you have done differently?(2-3 sentences)
+3.c. If you were in charge of this project what would you have done differently? (2-3 sentences)
+
+## (Q4) Gene Drive (30 points)
+
+As we discussed on Friday because gene drives could impact natural ecosystems they arecurrently developed under strict biosafety controls (e.g., physical containment). Publicdiscussions on whether, how, and when it might be appropriate to release a gene drive into thewild are still ongoing. Here, you will consider examples that can be used to examine thepotential impact of releasing a gene drive into wild ecosystems.
+
+4.a. In the real world, gene drives might not always work correctly.  For example, in a recentexperiment, penetrance of a gene drive in a laboratory population of Drosophila (aka, fruit flies) was only 94.5%. Why might a gene drive might not always work perfectly well? (bullet points)
+
+4.b. Would there be any practical difference between the impact of a gene drive on a populationof wild rabbits versus a population of long-lived tortoises? Why or why not?
+
+4.c. Please consider the “Pink Chicken Project” via https://pinkchickenproject.com/. Did you order an egg? (Y/N).  If you wished to stop this project what would you do? (50 words)
