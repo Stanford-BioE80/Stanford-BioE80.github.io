@@ -59,6 +59,19 @@ Note: A good rule of thumb for the volume of a DNA base pair is that one base pa
 
 Additional resources: If you like to learn more about various genome sizes please visit this [link](http://book.bionumbers.org/how-big-are-genomes/)
 
+## Dancing Droplets ( pts)
+
+On Friday you participated in the Dancing Droplets activity.  Use pictures, diagrams, or drawings as appropriate. 
+
+.a. If you have two different droplets why do they chase each other? What other behaviors have you observed?
+
+.b. Why does the sharpie marker create a physical barrier?
+
+.c. To what extent were you able to realize increasingly autonomous behavior?
+
+.d. How good do we have to become at implementing these different frames of reference in order to engineer living matter?
+
+
 
 ## (Q3) Meet your Microbe (20 pts)
 
