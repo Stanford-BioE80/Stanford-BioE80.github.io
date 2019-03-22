@@ -1,3 +1,8 @@
+---
+title: "Week 6 PSET"
+permalink: /docs/w6ps/
+2018: 
+---
 ***DUE:** Next Friday, beginning of class.
 
 **NOTES:** 
