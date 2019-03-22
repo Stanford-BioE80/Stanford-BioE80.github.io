@@ -53,12 +53,14 @@ Cystic fibrosis (CF) is an inherited disorder that causes severe damage to the l
 4.b. Imagine that you could forever remove the gene that causes *90% of cases* of CF byengineering the human genome. Would you permanently delete the gene from the genepool? Why or why not? (50-100 words) (In this open-ended question we are looking foryour reasoning and not an exact solution)
 
 
-## (Q5) Gene Drive (30 points)
+## (Q5) Meet your Microbe (30 pts)
 
-As we discussed on Friday because gene drives could impact natural ecosystems they arecurrently developed under strict biosafety controls (e.g., physical containment). Publicdiscussions on whether, how, and when it might be appropriate to release a gene drive into thewild are still ongoing. Here, you will consider examples that can be used to examine thepotential impact of releasing a gene drive into wild ecosystems.
+On Wednesday and Friday of this week you cultivated, grew, and examined the microbes from your skin.
 
-5.a. In the real world, gene drives might not always work correctly.  For example, in a recentexperiment, penetrance of a gene drive in a laboratory population of Drosophila (aka, fruit flies) was only 94.5%. Why might a gene drive might not always work perfectly well? (bullet points)
+3.a. Describe in your own words what is the microbiome, and provide a current example ofstudy of the microbiome (include references if needed) (Max 100 words)
 
-5.b. Would there be any practical difference between the impact of a gene drive on a populationof wild rabbits versus a population of long-lived tortoises? Why or why not?
+3.b. What are key methods used to study the microbiome? (Bullet points)
 
-5.c. Please consider the “Pink Chicken Project” via https://pinkchickenproject.com/. Did you order an egg? (Y/N).  If you wished to stop this project what would you do? (50 words)
+3.c. What are the current and future roles of DNA sequencing and synthesis in thestudy and engineering of microbiome? (1 or 2 Bullet points for each)
+
+3.d. **Colony Morphology** Examine the morphology of the colonies on your plates. Describe as comprehensively as possible the ONE most interesting colony at your table (you decide what’s interesting!). What is the size, shape, and shape of the colony? What is thenarrowest classification you can make of this colony? Make sure to include a picture. (Max 100 words)
