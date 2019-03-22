@@ -13,6 +13,35 @@ permalink: /docs/w8ps/
 **Goals:** Welcome to PSET-8. In this PSET you will review the minimal genome paper as practiceto learn how to read research papers. You will also improve your quantitative intuition with anestimation problem, 
 and finally revisit the meet your microbe activity.
 
+## (Q1)  Dancing Droplets (40 pts)
+
+On Friday you participated in the Dancing Droplets activity.  Use pictures, diagrams, or drawings as appropriate. 
+
+1.a. If you have two different droplets why do they chase each other? What other behaviors have you observed?
+
+1.b. Why does the sharpie marker create a physical barrier?
+
+1.c. To what extent were you able to realize increasingly autonomous behavior?
+
+1.d. How good do we have to become at implementing these different frames of reference in order to engineer living matter?
+
+## (Q2) Spatial GOOP (40 pts)
+
+2.a. Two DNA devices have been engineered for use in GOOP (Figure, below).  Device A expresses protein A in the absence of protein B.  Device B expresses protein B in the presence of protein A.  Device A can also make GFP.  Each device is placed in a distinct reservoir within a micro-scale fluidic channel. Fresh GOOP (i.e., cell-free extract) is supplied from one end of the channel.   Using various channel lengths experimenters are testing a genetic system made from the two devices.  By studying the diagram in Figure 1.B, describe the expected relationships and behavior of the system.  
+(2-3 sentences max)
+
+2.b. Fig. 1.C shows two spatial arrangements of the genetic system. In the top arrangement device A is 50 µm away from device B. In the lower arrangement device A is 150 µm away from device B. The time responses for each arrangement is measured by GFP production from device A as presented below.  Does “trace-1” come from the 50 µm or 150 µm arrangement? 
+(2 points)
+
+2.c. Explain your choice, use appropriate equation(s). 
+
+<figure>
+<a href="/assets/images/Spatial GOOP.png"><img src="/assets/images/Spatial GOOP.png"></a>
+<figcaption><b>Figure 1</b>. Spatial GOOP .</figcaption>
+</figure>
+
+
+
 ## (Q1) Design and Synthesis of a Minimal Bacterial Genome (40 pts)
 
 A key skill that you will need as bioengineers is to read, understand, and extract informationfrom research papers that are shaping and defining the frontiers of bioengineering. This is inpart due to the fast changing pace of bioengineering. We would like you to practice this skill as early as possible, to help you become better at it.
