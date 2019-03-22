@@ -12,7 +12,7 @@ Talk about it all with your classmates, friends, or TAs, as you like.
 
 ## Preclass for Monday 
 
-## Introduction - Diffusion Happens
+### Introduction - Diffusion Happens
 
 Welcome to the first pre-class material for Diffusion and Patterning.
 The examples here will prepare you (and provide you with a mindset and a feeling) before the the class towards 
@@ -28,7 +28,7 @@ Stated differently, you will be able to describe what does it mean that diffusio
 Let's briefly learn about application of diffusion in engineering living matter with an interesting example of
 **Blinking Squares** ...
 
-## Case-1: Blinking Squares 
+### Case-1: Blinking Squares 
 
 Here is a videos of 500 blinking squares. 
 Each square is about 100μmx100μm and there are 25 μm gaps between each square. 
@@ -48,7 +48,7 @@ Take a look at this follwing paper and watch the video titled ():
 **Q.5. Can autonomous agents synchronize their behavior, and if so how?**
 
 
-## Case-2: Blinking Square
+### Case-2: Blinking Square
 
 Take a look at this follwing paper and watch the video titled ():
 [source-2](https://www.nature.com/articles/nature08753)
@@ -60,7 +60,7 @@ Here is a videos of a single blinking square (100μmx100μm) containing about ap
 
 **Q.8. Watching  cells inside the square do you see a different brightness levels within each cell- how uniformed is the distribution of fluorescentproteins inside each individual cell in the square?**  
 
-## What Is Diffusion
+### What Is Diffusion
 
 Diffusion is everywhere in living matter and beyond. We encounter diffusion routinely in our daily lives.
 
@@ -69,7 +69,7 @@ Diffusion is everywhere in living matter and beyond. We encounter diffusion rout
 **Q.9.Can you think about everyday examples of diffusion in your life?**
 
 
-## Is this Diffusion? 
+### Is this Diffusion? 
 
 Take a look at the following [video](https://www.youtube.com/watch?v=5JuEomRki_M)
 
@@ -126,16 +126,17 @@ Taken together these functions can be used to realize incredible outcomes.E.g., 
 
 ____________________________________________________________
 
-## Friday In Class: Dancing Droplets 
+## Preclass for Friday: Dancing Droplets 
 
 As part of a group you and your team will explore and experience programing the behavior of simple 
 systems in space and time. 
 
 To get started please spend ~5 minutes watching these two videos:
 
-https://youtu.be/ZMsaH6SY4CY
+[Dancing Droplets](https://youtu.be/ZMsaH6SY4CY)
 
-http://www.nytimes.com/video/science/100000003584880/dancing
+
+[NYtimes video: the physics of droplets](http://www.nytimes.com/video/science/100000003584880/dancing)
 
 
 And optional reading [Vapour-mediated sensing and motility in two-component droplets](https://www.nature.com/articles/nature14272)
