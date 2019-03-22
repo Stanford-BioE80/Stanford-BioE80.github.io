@@ -66,7 +66,7 @@ Diffusion is everywhere in living matter and beyond. We encounter diffusion rout
 
 **Diffusion** is a spontaneous net movement of matter (e.g., molecules, atoms) from regions of high concentration to a region of low concentration. Stated differently, diffusion is a transfer of mass that causes the distribution of molecules, or atoms to be more uniform in space as time evolves. 
 
-**Q.9.Can you think about everyday examples of diffusion in your life?**
+**Q.9. Can you think about everyday examples of diffusion in your life?**
 
 
 ### Is this Diffusion? 
