@@ -10,107 +10,48 @@ permalink: /docs/w9ps/
   - Please turn in your completed problem sets as an electronic copy via Canvas. 
   - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations).
 
+## (Q1) Design and Synthesis of a Minimal Bacterial Genome (40 pts)
 
-**Goals:** Welcome to PSET-9: After this problem set you will be able to quantitatively estimateand describe what happens in diffusing systems (e.g., how long does it take for a protein tomove inside a cell).  
-You will also be able to describe how simple rules can give rise to complexpatterns both in living matter 
-and abiotic systems.
-
-## (Q1) Diffusion, Diffusion constant, and Diffusion time (20 pts)
-
- In the class material you were introduced to diffusion both qualitatively and quantitatively.
- In this PSET you will use these concepts for simple estimations. First let's warm up:
- 
- 1.a. A diffusion coefficient is quantitatively described by the following equation.   
- Where D=kTB/6πνa is Boltzmann's constant (1.3807 x 10 ^-23 J/K), T is the temperature (K) of the   
- surrounding medium ,ν is viscosity of surrounding medium (NxS/m^2), “a” is a measure of length 
- (radius of a sphere approximating the molecule).  What are the units for a diffusion coefficient? (5 pts)
- 
- 
-1.b. You learn that the diffusion coefficient for a protein (~30 kDa GFP) in water is about 100 µm^2/s.
-The diffusion constant for the same protein is in the cytoplasm of a eukaryotic cell is only 30 µm^2/s.
-Intuitively do these numbers make sense? (Yes or No) Why? (Bullet points)
-Using these numbers estimate the viscosity of the cytoplasm relative to the viscosity of water? 
-(10 pts) (HINT: solve for using the equation given above).
-
-Next, let’s estimate the time it takes for a protein to diffuse spontaneously across different typesof cells 
-(diffusion time τ). We’ll use the formula τ = R^2/6D, where R is the traverse distance.
+A key skill that you will need as bioengineers is to read, understand, and extract informationfrom research papers that are shaping and defining the frontiers of bioengineering. This is inpart due to the fast changing pace of bioengineering. We would like you to practice this skill as early as possible, to help you become better at it.
 
 
-Add Figure-1 here. 
+In class we started to discuss the paper *“Design and synthesis of a minimal bacterial genome"*. In this problem you will review the the paper to level up your ability to read and extractinformation from a research paper.
 
-1.c. Calculate the times it takes for the same protein (~30 kDa GFP) with a diffusion constant D=30 µm^2/s to diffuse across four different cell types: 
+1.a. Re-read the abstract from the paper, in your own words describe what was the paper’s goal(s), 
+what did the authors discover by working on these goal(s). (bullet points)
 
-(i) *E.coli* with R≈1 μm, 
-(ii)  Yeast cell with R≈10 μm, 
-(iii) HeLa cell with R≈20 μm, and
-(iv) A neuronal cell axon with R≈1 cm.
-What doesthe the diffusion time for the axon suggests to you? (5 pts)
+1.b. Take a look at Figure-1 from the paper titled: “The JCVI DBT cycle for bacterial genomes”. 
+Think back to what you have learned during the DBT Week. Based on the figure and your prior knowledge, 
+what tools and technologies were used to design, build, and test Syn3.0.?  (bullet points)
 
+1.c. Take a look at Figure-2 titled: “Strategy for whole-genome synthesis”. What do the red, blue, and green arrows represent? What does the orange arrow represent? 
+Using the figure briefly explain how they went from Oligos to a whole genome? (bullet points)
 
-## (Q2) Physical Limitations on Development (40 points) - Remove
+1.d. Assuming $0.04 per base pair what is the minimum cost ofsynthesizing the Syn3.0 genome?
 
-Here’s a sketch of a planarian, which is a type of very flat worm. The aquatic species of these worms can grow to be a few centimeters long. Notably, these worms have no circulatory system, so all nutrient and essential transport processes are entirely passive; which means that diffusion dominates. How do these worms handle transport of oxygen? Humans have a circulatory system which ensures that cells all across our many tissues have an adequate oxygen supply. However, planarians have no circulatory system but they do have a gut cavity! Their gut cavity has many branching tubes that supply oxygen to the worm’s tissues by allowing oxygen to passively diffuse out of the water and into the worm. In this question, we’re going to understand, from an engineering perspective, how the planarian is optimized to handle the “logistics” of its oxygen supply. 
+1.e. Take a look at Figure-7. Let’s compare the phenotype of Syn1.0 and Syn3.0.
+Describe what you see when comparing panel A and B and panel C?(bullet points) 
+Which cellsgrow faster? ( Syn1.0 or Syn3.0.)
 
+## (Q2) Approximation and estimation - Genome Size (40 pts)
 
-Add Figure-2 here. 
+Now thatyou have examined a minimal genome have you wondered how big is a typical genome?
 
+The *E. coli* MG1655 genome is 4.6 Mbp (megabasepairs) long, or approximately 4,600,000base pairs. 
+A good rule of thumb for the length of a single DNA base pair is that it is ⅓ nm long.
+As another rule of thumb, let’s treat the volume of an *E. coli* cell as being approximately 1 μm^3 [see](http://book.bionumbers.org/how-big-is-an-e-coli-cell-and-what-is-its-mass/). This is a rough, order-of-magnitude estimate. 
 
-2.a. Consider a model cross-section of a planarian on the left. Oxygen rich water flows within the gut and around the worm in the surrounding fluid. Assume that the concentration of oxygen is C0 both inside the gut and outside the worm (anywhere there is blue). Assume that the tissue consumes oxygen at some rate k. Use the graph on the right to draw your best guess for what the concentration of oxygen looks like across the planarian tissue. Plot some additional curves showing the concentration of oxygen as the rate of oxygen consumption k increases and decreases. Make sure you label your curves so we know whether k is increasing or decreasing. (15 points)
+In real life, cell size and volume willv ary based upon species, growth rate, and stage of division 
+in addition to many other factors.
 
+2.a. How long would the *E. coli* genome be as a linear strand of DNA?  Provide your answerin μm. How long would the Syn3.0 genome be as as a linear strand of DNA?
 
-2.b. Now that we’ve thought about things in the abstract, let’s get quantitative. Consider the reaction-diffusion equation (15 points):
+2.b. The *E. coli* genome is actually circular. What is the radius of the genome, assuming thegenome is arranged as a perfect circle and given the linear length that you calculated above?
 
-Equation-1 goes here 
+2.c. Consider your answers in relation to the size specifications for *E. coli* given above. Whatdoes this imply about the layout of DNA inside a living cell? (Two sentences).
 
-At this point, we don’t expect you to solve partial differential equations from scratch, but we can use this equation to get to a point where you can come up with a closed-form solution. First, we make a steady state assumption, which means that anything as a function of time is constant because things aren’t changing at a dynamic steady-state. Therefore, we can set:
+Note: A good rule of thumb for the volume of a DNA base pair is that one base pair has avolume of approximately 1 nm^3.
 
-Equation-2 goes here 
+2.d. How much DNA could be packed into an *E. coli* cell, assuming that the whole cellvolume only contains DNA? Why is this number ridiculous? (i.e., the *E. coli* genome issignificantly smaller: why?)
 
-Now the equation is a simple differential equation that can be solved with integration.
-
-Equation-3 goes here 
-
-Solve the equation above for C(x). You’ll need to use these equations to solve for the constants of integration: C(0) = C0  and C(L) = C0 ... These are called boundary conditions, and they signify that we know that the concentration of oxygen inside the worm’s gut and outside in the surrounding water are both fixed at C0. Finally, assume that the length of the worm’s tissue from gut to outside is L. (**Note:** If you are not familiar with calculus, please seek help during office hours)
-
-2.c. Assume that planarian tissue requires at least 13C0 concentration of oxygen to survive. What’s the maximum tissue thickness L that can be attained? (5 points)
-
-2.d. Why do you think a planarian is so flat? (5 points)
-
-
-## (Q3) Dancing Droplets (20 pts) 
-
-3.a. Were you able to get droplets chase one another? If you have two different droplets, why dothey chase each other? What other behaviors have you observed? (Include photos with figure captions - if you have)(Max 100 words, 10 pts)
-
-
-3.b. Why does the sharpie marker create a physical barrier and how do the droplets respond to it?(Max 75 words, 10 pts)
-
-
-3.c. To what extent were you able to enable increasingly autonomous droplet behavior?(Max 75 words,  5 pts)
-
-
-3.d. How good do we have to become at implementing these different frames of reference inorder to engineer living matter? 
-(Max 50 words,  5 pts)
-
-
-**Final Notes:**  In week 5 you explored the intersection of physics and living matter. You explore ddiffusion, and how to use diffusion to engineer  both *temporary* and *permanent* pattern viacell states and functions. You further explored biased random walks and how cells move andfind resources.
-
-
-**Your questions**
-Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
-
-
-*Additional Resources*    
-
-The following link takes you to a paper titled [Life at Low Reynolds Number](https://www2.gwu.edu/~phy21bio/Reading/Purcell_life_at_low_reynolds_number.pdf) that examines physics at the scale of a bacteria.  The following link takes you to a digital copy of a great book titled [The Machinery of life](https://searchworks.stanford.edu/view/11568895) which can help you with the concepts we have covered both this week and in previous weeks.
-
-*The following links* are **explorables** that can help you explore and build an intuition aboutpatterns and pattern formation.  We hope that you take some time and examine them on your own:
-
-
-(1) Fireflies and Patterns: http://ncase.me/fireflies/
-
-
-(2) Diffusion limited aggregation: http://rocs.hu-berlin.de/explorables/explorables/dla/
-
-
-(3) Reaction diffusion system: https://pmneila.github.io/jsexp/grayscott/
-
+Additional resources: If you like to learn more about various genome sizes please visit this [link](http://book.bionumbers.org/how-big-are-genomes/)
