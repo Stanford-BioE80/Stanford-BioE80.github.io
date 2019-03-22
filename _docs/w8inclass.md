@@ -81,7 +81,7 @@ Can you get one droplet to chase another along a curved path between two points?
 ### Challenge 2. (~10 minutes)
 Can you get one droplet to follow a defined pathwithoutusing the black sharpie, only by placing other droplets in the field of play? How few “control” droplets can you use?
 
-### Challenge3. (All remaining time)
+### Challenge 3. (All remaining time)
 By only placing droplets in a confined initial region (i.e., like the stump of a hapless newt), can you get a droplet to eject and follow a defined path (again, all without placing any droplets elsewhere in the field)?
 
 Note: You may choose to take pictures to help you answer the problem set questions. 
