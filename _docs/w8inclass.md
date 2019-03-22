@@ -32,11 +32,11 @@ Second, a pattern that you control somewhat indirectly, by using spontaneous phy
 Third, a pattern that you initiate but that otherwise entirely controls itself via its own autogeneration of a coordinate 
 system.
 
-To get started please spend ~5 minutes watching these two videos:
+To get started (if you havent already) please spend ~5 minutes watching these two videos:
 
-https://youtu.be/ZMsaH6SY4CY
-
-http://www.nytimes.com/video/science/100000003584880/dancing
+[Dancing Droplets](https://youtu.be/ZMsaH6SY4CY)
+[NYtimes video: the physics of droplets]
+(http://www.nytimes.com/video/science/100000003584880/dancing)
 
 **MATERIALS & METHODS**
 
