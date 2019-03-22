@@ -63,29 +63,13 @@ Additional resources: If you like to learn more about various genome sizes pleas
 
 On Friday you participated in the Dancing Droplets activity.  Use pictures, diagrams, or drawings as appropriate. 
 
-.a. If you have two different droplets why do they chase each other? What other behaviors have you observed?
+3.a. If you have two different droplets why do they chase each other? What other behaviors have you observed?
 
-.b. Why does the sharpie marker create a physical barrier?
+3.b. Why does the sharpie marker create a physical barrier?
 
-.c. To what extent were you able to realize increasingly autonomous behavior?
+3.c. To what extent were you able to realize increasingly autonomous behavior?
 
-.d. How good do we have to become at implementing these different frames of reference in order to engineer living matter?
-
-
-
-## (Q3) Meet your Microbe (20 pts)
-
-On Wednesday and Friday of this week you cultivated, grew, and examined the microbes from your skin.
-
-3.a. Describe in your own words what is the microbiome, and provide a current example ofstudy of the microbiome (include references if needed) (Max 100 words)
-
-3.b. What are key methods used to study the microbiome? (Bullet points)
-
-3.c. What are the current and future roles of DNA sequencing and synthesis in thestudy and engineering of microbiome? (1 or 2 Bullet points for each)
-
-3.d. **Colony Morphology** Examine the morphology of the colonies on your plates. Describe as comprehensively as possible the ONE most interesting colony at your table (you decide what’s interesting!). What is the size, shape, and shape of the colony? What is thenarrowest classification you can make of this colony? Make sure to include a picture. (Max 100 words)
-
-**Final Notes:** The Ability to read (and try to understand) primary sources (research papers) is a core skill that you will need both as a student and beyond college. This week you learned about Syn3.0 and how through building a minimal genome researchers discovered 149 essential genes that were previously unidentified. The paper highlighted our improved ability to synthesize genes, and combine them together to create a minimal genome. At the same time it highlighted our critical gaps in knowing what genes might be essential ahead of time.
+3.d. How good do we have to become at implementing these different frames of reference in order to engineer living matter?
 
 **Your questions**
 Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
