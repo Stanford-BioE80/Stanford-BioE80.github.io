@@ -1,21 +1,27 @@
 # BIOE 80 Final Project (15% of Grade)
 ## Introduce someone else to Bioengineering
 
-The goal of this group project is for BIOE.80 students to communicate and introduce the application of Bioengineering to contemporary challenges to a non-expert audience, for example, next year's BIOE.80 class.
+The goal of the group project is for you BIOE.80 and ENGR.80 students to communicate and introduce bioengineering to a non-expert audience of your choice, an example audience could be the next year's BIOE.80 class. Additionally, the project seeks to enable you to think about and reflect on bioengineering as a 21st-century discipline grounded in engineering of living matter
 
-One goal of the course is to introduce you, the learner, to Bioengineering and enable you to introduce other learners to Bioengineering.  In the course, we discussed capacities of living matter, application of scientific concepts (e.g., evolution and diffusion), contemporary topics (DNA sequencing and synthesis), challenges, and opportunities in Bioengineering.  The final project provides you with an opportunity to practice this task, apply what you have learned, and seek and identify areas that are of interest to you. 
+You can pick any aspect of the course or bioengineering specifically *engineering of living matter* as your topic.  
+This could include the application of bioengineering to contemporary challenges,  new ways of thinking as various bioengineering technologies emerge (DNA sequencing, synthesis, and Crispr gene editing tools), or application and description of sciences e.g., evolution and diffusion) at the intersection of engineering living matter. 
 
-In groups of 3-4, students will create a "BIOE 80 Wiki Post" identifying a current need and discussing the role that Bioengineering can take in developing solutions.
+In groups of 3-4, you will create a world-readable webpage "BIOE 80 Wiki Post" addressing yout topic of choice.  The final report should be between 3-4 pages (excluding the refrences).  
+Teams will be formed and shared with the course staff (by students) by week 4. 
 
-Student groups will create a Google Doc, Google Site, Github website or any world-readable webpage with a vignette about Bioengineering.  Each of this quarter's pre-class material can be considered a sample project.
+Final project is due on final class session of week 10 (i.e., Wednesday, June 5th). 
+
+Support: Your team will be assigned a primary mentor (one of the teaching assistants),  that will check in with you throughout the quarter. You will be asked to submit parts of your progress throughout the quarter as part of the problem sets. 
+
+Hume Center for Writing is another  on-campus resource [link](https://undergrad.stanford.edu/tutoring-support/hume-center)
 
 Your grade will be based on the following:
 
-**Identification and Description of Need:** 20 points
+**Identification and Description of Topic or Need:** 20 points
+* Describe the problem or topic and who or what is affected by it
 * Instructors can offer suggested sources, ie: kiva.org
-* Describe the problem and who is affected by it
 
-**Description or proposal of bioengineering-based solution:** 20 points
+**Topic Description or proposal of bioengineering-based solution:** 20 points
 * Provide relevant background for learning about the biology and technology utilized in the solution (ie: identify resources for getting more information)
 * Describe advantages, disadvantages, and limitations of this solution
 * Describe what should happen for this solution to occur? (ie: development of technology, policy, etc.)
@@ -39,39 +45,12 @@ Your grade will be based on the following:
 * Since this is a group project, each student will evaluate how much other students contributed to the project. 
 Grades may differ between students within a group.
 
-Total: 100 points
-
-
-Helpful tool to organize your ideas and the project: 
-
-As you go about thinking and organizing your ideas for the final project you may consider thinking about the following quesions: 
-
-"What are you trying to do? Articulate your objectives using absolutely no jargon.
-
-How is it done today, and what are the limits of current practice?
-
-What is new in your approach and why do you think it will be successful?
-
-Who cares? If you are successful, what difference will it make?
-
-What are the risks?
-
-How much will it cost?
-
-How long will it take?
-
-What are the mid-term and final “exams” to check for success?"
-
-
-(Note: These questions were devpelpoped by a former DARPA director (George H. Heilmeier) to evaluate their research projects.)  
-
+Total: 100 points  
 
 **Scaffolding, Logistics, and Milestones:**
 * Assign each group a TA as a mentor
 * Group formation and initial brainstorming by the end of **week 4**
-* Problem identification by the end of **week 6**
-* Required TA check-in during **week 8** 
+* Topic identification by the end of **week 5**
+* Required TA check-in during **weeks 7, 8, and 9**
 * Project due Wednesday, June 5th (Final class session) **week 10** 
-* Submit link to final material to the teaching team
-* This takes the place of the Final Exam (15% of grade)
-* To simplify other aspects problem sets can be shortened
+
