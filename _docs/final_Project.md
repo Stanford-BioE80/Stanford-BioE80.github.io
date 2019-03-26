@@ -1,19 +1,19 @@
 # BIOE 80 Final Project (15% of Grade)
-## Introduce someone else to Bioengineering
+## Introduce the world to Bioengineering
 
-The goal of the group project is for you BIOE.80 and ENGR.80 students to communicate and introduce bioengineering to a non-expert audience of your choice, an example audience could be the next year's BIOE.80 class. Additionally, the project seeks to enable you to think about and reflect on bioengineering as a 21st-century discipline grounded in engineering of living matter
+The goal of the group project is for you, as BIOE.80 and ENGR.80 students, to communicate and introduce Bioengineering to a non-expert audience of your choice. (For example, you may choose your audience to be next year's incoming BIOE.80 class.) The goal of this project is to enable you to think about and reflect on Bioengineering as a 21st-century discipline grounded in engineering living matter.
 
-You can pick any aspect of the course or bioengineering specifically *engineering of living matter* as your topic.  
-This could include the application of bioengineering to contemporary challenges,  new ways of thinking as various bioengineering technologies emerge (DNA sequencing, synthesis, and Crispr gene editing tools), or application and description of sciences e.g., evolution and diffusion) at the intersection of engineering living matter. 
+In this project, you will answer the questions, "What is bioengineering?" and "Why is it important?"  
+This may include a description of the application of Bioengineering to contemporary challenges, explaining new ways of thinking as various bioengineering technologies emerge (e.g.: DNA sequencing, synthesis, and CRISPR gene editing tools), or the application and description of sciences (e.g.: evolution and diffusion) at the intersection of engineering living matter. 
 
-In groups of 3-4, you will create a world-readable webpage "BIOE 80 Wiki Post" addressing yout topic of choice.  The final report should be between 3-4 pages (excluding the refrences).  
-Teams will be formed and shared with the course staff (by students) by week 4. 
+In groups of 3-4, you will create a world-readable webpage "BIOE 80 Wiki Post" addressing yout topic of choice.  The final report should be between 3-4 pages (excluding references).  
+Please form and share your teams with the course staff by week 4. 
 
-Final project is due on final class session of week 10 (i.e., Wednesday, June 5th). 
+The Final project is due on our last class session of week 10 (i.e., Wednesday, June 5th). 
 
 Support: Your team will be assigned a primary mentor (one of the teaching assistants),  that will check in with you throughout the quarter. You will be asked to submit parts of your progress throughout the quarter as part of the problem sets. 
 
-Hume Center for Writing is another  on-campus resource [link](https://undergrad.stanford.edu/tutoring-support/hume-center)
+Hume Center for Writing is another on-campus resource [link](https://undergrad.stanford.edu/tutoring-support/hume-center)
 
 Your grade will be based on the following:
 
@@ -48,7 +48,7 @@ Grades may differ between students within a group.
 Total: 100 points  
 
 **Scaffolding, Logistics, and Milestones:**
-* Assign each group a TA as a mentor
+* Each group will be assigned a TA as a mentor
 * Group formation and initial brainstorming by the end of **week 4**
 * Topic identification by the end of **week 5**
 * Required TA check-in during **weeks 7, 8, and 9**
