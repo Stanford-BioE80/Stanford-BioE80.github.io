@@ -3,11 +3,11 @@
 
 The goal of the group project is for you, as BIOE.80 and ENGR.80 students, to communicate and introduce Bioengineering to a non-expert audience of your choice. (For example, you may choose your audience to be next year's incoming BIOE.80 class.) The goal of this project is to enable you to think about and reflect on Bioengineering as a 21st-century discipline grounded in engineering living matter.
 
-In this project, you will answer the questions, "What is bioengineering?" and "Why is it important?"  
+In this project, you will answer the questions, "What is bioengineering?" and "Why is it important to know about it?"  
 This may include a description of the application of Bioengineering to contemporary challenges, explaining new ways of thinking as various bioengineering technologies emerge (e.g.: DNA sequencing, synthesis, and CRISPR gene editing tools), or the application and description of sciences (e.g.: evolution and diffusion) at the intersection of engineering living matter. 
 
-In groups of 3-4, you will create a world-readable webpage "BIOE 80 Wiki Post" addressing yout topic of choice.  The final report should be between 3-4 pages (excluding references).  
-Please form and share your teams with the course staff by week 4. 
+In groups of 3-4, you will create a world-readable webpage "BIOE 80 Wiki Post" addressing your topic of choice.  The final report should be between 3-4 pages (excluding references).  
+Please form teams and share your group member list with the course staff by week 4. 
 
 The Final project is due on our last class session of week 10 (i.e., Wednesday, June 5th). 
 
@@ -17,17 +17,16 @@ Hume Center for Writing is another on-campus resource [link](https://undergrad.s
 
 Your grade will be based on the following:
 
-**Identification and Description of Topic or Need:** 20 points
-* Describe the problem or topic and who or what is affected by it
-* Instructors can offer suggested sources, ie: kiva.org
+**Identification and Description of Topic:** 20 points
+* Define Bioengineering and identify a particular context (i.e., need or topic that Bioengineering addresses)
 
 **Topic Description or proposal of bioengineering-based solution:** 20 points
 * Provide relevant background for learning about the biology and technology utilized in the solution (ie: identify resources for getting more information)
 * Describe advantages, disadvantages, and limitations of this solution
-* Describe what should happen for this solution to occur? (ie: development of technology, policy, etc.)
+* Describe what should happen for this solution to occur? (i.e.: development of technology, policy, etc.)
 
 **Qualitative and quantitative feasibility assessment of the project** 15 points
-* Back-of-the-envelope calculations can be required, ie: estimate of requirements and cost ost, estimate of impact (how many people would be impacted)
+* Back-of-the-envelope calculations can be required, ie: estimate of requirements and cost est, estimate of impact (how many people would be impacted)
 * Quantitative due diligence
 
 **Description of Social Ramifications:** 15 points
