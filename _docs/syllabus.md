@@ -84,7 +84,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
-| Mon 8 April | 320-105     |Hello; course mechanics; initial questions; opening tour; Future impacts of bioengineering |
+| Mon 1 April | 320-105     |Hello; course mechanics; initial questions; opening tour; Future impacts of bioengineering |
 | Wed 3 April  | 320-105    | What's special about living matter? Show me the evidence - papers! |
 | Fri 5 April  | SC 112/132 |Make your foldscope; embrace nature **(PSET 1)** |
 
