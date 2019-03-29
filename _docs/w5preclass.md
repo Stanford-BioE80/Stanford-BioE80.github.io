@@ -124,7 +124,7 @@ Through these examples, you have started to synthesize the workings of evolution
 
 _______________________________________________________________________
 
-## Preclass for Wedensday 
+## Preclass for Wednesday
 
 
 ## Introduction:From Natural Algorithm to Engineering Service - part 2
