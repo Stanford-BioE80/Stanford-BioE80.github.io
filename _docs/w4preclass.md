@@ -11,9 +11,9 @@ Talk about it all with your classmates, friends, or TAs, as you like.
 ## Human Health and Flourishing
 
 
-## Preclass for Wedensday 
+## Preclass for Wednesday
 
-There was no preclass for Wedensday Week-4. 
+There was no preclass for Wednesday Week-4. 
 Topic: "What will be the major human health challenges in 2030?"
 
 ## Preclass for Friday 
