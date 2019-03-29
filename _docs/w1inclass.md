@@ -5,28 +5,28 @@ last_modified_at: Feb.20.2019
 toc: true
 ---
 
-## Why are you here? Why engineer biology? Whats unique about living matter?
+## Why are you here? Why engineer biology? What's unique about living matter?
 _________________________________________________________________
 
 ## Monday In Class
 
-Today we'll ask you to think about emergent activities (i.e., case studies) arising within or associated to bioengineering.  We’d like you to work in small groups (3-5 people). As you are discussing and brainstorming please ground your answers in the real possibilities. Feel free to use the internet and the TAs to help develop and debate your positions. As a tool for considering each case we outline below three different aspects of how bioengineering can have impacts.  
+Today we'll ask you to think about emergent activities (i.e., case studies) arising within or associated to bioengineering.  We’d like you to work in small groups (3-5 people). As you are discussing and brainstorming please ground your answers in real possibilities. Feel free to use the internet and the TAs to help develop and debate your positions. As a tool for considering each case we outline below three different aspects of how bioengineering can have impacts.  
 
 ### Economy (how will we make things?)
 
 The industrial revolution dramatically shaped how products were made in the US and around the world and therefore had a large impact on the global economy. When you think about the current material flow in most industries, there is a centralization of industrial capacity centered around factories' ability to produce products at the scale that we need.
 
-Imagine how biology may create a more distributed economy wherein centralized production may not always be the most economical or practical. For example, what if the local pharmacy can produce drugs on demand, or individuals could make the things they need in their own homes?
+Imagine how biology may create a more distributed economy wherein centralized production may not always be the most economical or practical. For example, what if the local pharmacy can produce drugs on demand, or individuals could make things they need in their own homes?
 
-As more detailed questions related to a future bio-enabled economy please consider:
+For more detailed questions related to a future bio-enabled economy please consider:
 
-1. **Describe daily life scenarios that you would be excited about in this biological production based economy. Emphasize how your new suggestions are different from the current production model.**
+1. **Describe daily life scenarios that you would be excited about in this biological production-based economy. Emphasize how your new suggestions are different from the current production model.**
 2. **Will such models of manufacturing align well with existing markets? What would an economy look like wherein some physical products are free to make?**
 3. **What challenges would you envision in creating an economy like the one described?**
 
 ### Security (how might we hurt each other?)
 
-WWI and WWII had completely different wartime strategies largely due to differences in weapon and transportation technologies available at the time. In WWI trenches were used to slowly advance the front lines using machine guns, artillery, chemical weapons, and slow armored vehicles. WWII was no longer a war with long static front lines as, for example, tanks and airplanes increased the mobility and maneuverability of the troops.
+World War I (WWI) and WWII had completely different wartime strategies largely due to differences in weapon and transportation technologies available at the time. In WWI trenches were used to slowly advance the front lines using machine guns, artillery, chemical weapons, and slow armored vehicles. WWII was no longer a war with long static front lines as, for example, tanks and airplanes increased the mobility and maneuverability of the troops.
 
 Now think about how engineering living matter might influence war tactics and how our physical security might be changed. For example click this link to see the full genome of the 1918 flu that infected up to one third of the world population a century ago: [Flu genome sequenced](https://www.the-scientist.com/?articles.view/articleNo/23462/title/Flu-genome-sequenced/).
 
@@ -37,7 +37,7 @@ Now think about how engineering living matter might influence war tactics and ho
 
 ### Humanity (what will it mean to be human?)
 
-Humans as individual biological organisms have historically been defined, literally, by a natural reproductive process in which the genetic material of our parents leads to us as individuals, and so on.  Increasingly it is becoming apparent that we can assert our intention into the human reproductive process.  E.g., about 4% of humans born in the US today arise and arrive via _in-vitro_ fertilization. At the on-campus children's hospital it is now standard practice for the DNA of the fetus to be partially sequenced as 10 weeks post fertilization in order to screen for various genetic conditions, and this information is used to inform health decisions. Others are now beginning to apply advanced genetic engineering tools to edit genes within viable human embryos, although no such embryos have yet been implanted and brought to full term.  
+Humans as individual biological organisms have historically been defined, literally, by a natural reproductive process in which the genetic material of our parents leads to us as individuals, and so on.  Increasingly it is becoming apparent that we can assert our intention into the human reproductive process.  E.g., about 4% of humans born in the US today arise and arrive via _in-vitro_ fertilization. At the on-campus children's hospital it is now standard practice for the DNA of the fetus to be partially sequenced at 10 weeks post-fertilization in order to screen for various genetic conditions, and this information is used to inform health decisions. Others are now beginning to apply advanced genetic engineering tools to edit genes within viable human embryos, although no such embryos have yet been implanted and brought to full term.  
 
 With all this in mind, please consider the following questions:
 
@@ -53,13 +53,13 @@ Recall from the safety training that the UTL space (our undergraduate learning l
 
 ### A. Introduction
 
-Welcome to Foldscope activity! We hope that you are as excited as we are! Our goal is to help you discover and get you inspired by the living matter and world around you. 
+Welcome to the Foldscope activity! We hope that you are as excited as we are! Our goal is to help you discover and get inspired by the living matter and world around you. 
 
 ### In class goal: Build your own foldscope.
 
 To complete this activity you will first build your own simple microscope, similar to Anton van Leeuwenhoek, and use it to explore and discover the world around you. Your microscope is called a **Foldscope**. If you would like to learn about the story behind Foldscope go [here](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437).
 
-Using your own Foldscope, you will discover the world around you by going outside and taking microscopic pictures of stuff that fascinates you (living matter and otherwise). It does not matter what you take a picture of and the teaching team purposefully won't give you a direction. We want you to explore for yourself and interact with what you find interesting.  
+Using your own Foldscope, you will discover the world around you by going outside and taking pictures of microscopic stuff that fascinates you (living matter and otherwise). It does not matter what you take a picture of and the teaching team purposefully won't give you a direction. We want you to explore for yourself and interact with what you find interesting.  
 
 Finally, you are asked to document and share your images. This will be part of your PSET-1. This can be completed today or anytime in the next week.
 
@@ -94,7 +94,7 @@ For more info/inspiration you might check out:
 
 1. Based on what you've seen and taken a picture of, what type of invention or pattern have you observed?
 2. What was the most surprising/unexpected moment during your adventure?
-3. From your exploration, what ideas or thoughts come up in your mind (either as a bioengineer or a citizen of a bioengineered world)?
+3. From your exploration, what ideas or thoughts come up in your mind (either as a bioengineer or as a citizen of a bioengineered world)?
 
 ### E. Grading
 
