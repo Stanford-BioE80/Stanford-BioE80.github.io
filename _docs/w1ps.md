@@ -5,7 +5,7 @@ last_modified_at: Feb.20.2019
 toc: true
 ---
 
-**DUE:** Next Friday, beginning of class.
+**DUE:** Next Friday (April.12th), beginning of class (1:30 pm).
 
 **NOTES:** 
   - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
@@ -25,7 +25,7 @@ Why are you taking BIOE.80? Stated differently, what do you most want to gain by
 
 ## (Q3) The impact of Bioengineering (40 pts)
 
-After the first week of the class, a friend asks you about bioengineering. Your friend is specifically interested in the impact of bioengineering on humanity and civilization so far. You think back to the three examples provided in the class (e.g., polio vaccine) and decide to draw upon those in formulating your own example. 
+After the first week of the class, a friend asks you about bioengineering. Your friend is specifically interested in the impact of bioengineering on humanity and civilization so far. You think back to the three examples provided in the pre-class reading (e.g., polio vaccine) and decide to draw upon those in formulating your own example. 
 
 3.a. Create your own brief example on the impact of bioengineering today. Keep your answer between 150-200 words and include up to 3 key references in support of your new example; references can be websites or any citable source. (30 pts)
 
@@ -115,6 +115,6 @@ You quickly look up online that the local utility can supply up to 200 cubic fee
 
 **Your questions** Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
-**(Extra credit)** Submit a photo you have taken to the Foldscope community via [Microcosmos Foldscope](http://microcosmos.foldscope.com/) or [NSF Vizzies](https://www.nsf.gov/news/special_reports/scivis/index.jsp). If you provide proof of participation (to be turned in the same day with the pset - e.g. screenshot) [NSF Vizzies](https://www.nsf.gov/news/special_reports/scivis/index.jsp) you will receive 5 extra points. 
+**(Extra credit - 5 points)** Submit a photo you have taken to the Foldscope community via [Microcosmos Foldscope](http://microcosmos.foldscope.com/). If you provide proof of participation (to be turned in the same day with the pset - e.g. screenshot) you will receive 5 extra points. 
 
 
