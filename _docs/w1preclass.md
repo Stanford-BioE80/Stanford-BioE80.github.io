@@ -113,11 +113,7 @@ In the pre-class material you examined the cases highlighting the impact and rol
 [6] [Ban in Hawaii on GMO Crops Is Ruled Invalid](https://www.wsj.com/articles/ban-in-hawaii-on-gmo-crops-is-ruled-invalid-1435713546)
 [7] [U.S. GMO food labeling bill passes Senate](https://www.reuters.com/article/us-usa-food-gmo-vote/u-s-gmo-food-labeling-bill-passes-senate-idUSKCN0ZO08N)
 ________________________________________________
-## Preclass for Wedensday
-
-There is no preclass for Wedensday Week-1.
-
-## Preclass for Friday
+## Preclass for Wednesday
 
 **What's Unique About Living Matter?**
 
@@ -134,6 +130,9 @@ You can watch [this video](https://youtu.be/NpZ3PXTnxdw) from Prof. Liphardt det
 **Q.3. Describe what it means that living matter functions and is organized on many orders of magnitude (multiple scales). Think about an additional example (video discusses the brain) to explain organization from nanometers to meters to scale.**
 
 **Q.4. What did you find most surprising?**
+
+________________________________________________
+## Preclass for Friday
 
 ### Self-Assessment - Maker or Explorer
 
