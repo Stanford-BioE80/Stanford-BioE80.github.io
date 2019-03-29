@@ -150,9 +150,8 @@ I could list for you the details provided in this paper that will substantively 
 
 **Q4. Do you think this work should have been published?** 
 
-## Case Study-2: ther Pathogens 
 
-## Case Study-3: Responsible Bioengineering
+## Case Study-2: Responsible Bioengineering
 
 Being mindful of such future possibilities over 10 years ago, bioengineers and policyexperts organized conversations to think ahead about potential problems associatedwith ongoing advances in DNA synthesis technologies.  They announced their findingsvia a report entitled, “Synthetic Genomics: Options for Governance.”  
 
@@ -164,10 +163,10 @@ And, only if you want, note the full report online here (WARNING. long read):
 This report fed into a US federal government policy making process that resulted in theUS sequence screening guidelines now in place for DNA synthesis companies.  For example:
 [link](https://www.phe.gov/Preparedness/legal/guidance/syndna/Pages/default.aspx)
 
-**Q7. According to the press release, what types of people (i.e., experts) wereinvolved in developing options for governing DNA synthesis tools?  Do you thinkit was essential to include more than just academic bioengineers?**
+**Q5. According to the press release, what types of people (i.e., experts) wereinvolved in developing options for governing DNA synthesis tools?  Do you thinkit was essential to include more than just academic bioengineers?**
 
-**Q8. What do you think would happen if you requested the DNA encoding ahuman pathogen via the Free Genes project?**
+**Q6. What do you think would happen if you requested the DNA encoding ahuman pathogen via the Free Genes project?**
 
-**Q9. Do you imagine that the DNA sequence screening guidelines developed forcommercial DNA synthesis ~10 years ago will be sufficient to guard againstmal-intentioned actors 10 years from now?**
+**Q7. Do you imagine that the DNA sequence screening guidelines developed forcommercial DNA synthesis ~10 years ago will be sufficient to guard againstmal-intentioned actors 10 years from now?**
 
-**Q10. Is it easier to imagine a negative change or a positive change?  E.g., is it easier to imagine a new way to destroy the world or a positive improvement tomodern society?** 
+**Q8. Is it easier to imagine a negative change or a positive change?  E.g., is it easier to imagine a new way to destroy the world or a positive improvement tomodern society?** 
