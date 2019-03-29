@@ -87,9 +87,9 @@ Check out this free comic bolok that starts out simple but quickly begins to dev
 
 _______________________________________________________________________
 
-## Preclass for Wedensday 
+## Preclass for Wednesday
 
-There is no preclass for Wedensday Week-3. 
+There is no preclass for Wednesday Week-3. 
 
 ______________________________________________________
 
