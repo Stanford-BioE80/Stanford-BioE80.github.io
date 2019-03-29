@@ -80,7 +80,7 @@ Entropy Explained [link-1](https://aatishb.com/entropy/)
 
 ____________________________________________________________
 
-## Preclass for Wedensday
+## Preclass for Wednesday
 
 Just a few minutes of your time spent on what following should get you ready for Friday's class.
 
