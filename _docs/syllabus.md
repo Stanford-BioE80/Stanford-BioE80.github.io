@@ -88,7 +88,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 **Lead Instructors**: Drew and Jan
 
-**Lead Teaching assistant**:
+**Lead Teaching assistants**: Alexis and Brandon
 
 ## Week 2: How do design, build, and test tools work to support bioengineering? 
 
@@ -100,7 +100,7 @@ Students who may need an academic accommodation based on the impact of a disabil
  
 **Lead Instructor**: Drew 
 
-**Lead Teaching assistant**:
+**Lead Teaching assistants**: Marcos and Brandon
 
 ## Week 3: Abstraction as a tool for managing complexity in bioengineering 
 
@@ -112,7 +112,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 **Lead Instructor**:  Drew
       
-**Lead Teaching assistant**:
+**Lead Teaching assistant**: Jonathan and Kaisha
 
 ## Week 4: Human Health and Flourishing
  
@@ -124,7 +124,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 **Lead Instructor**:  Jan
 
-**Lead Teaching assistant**:   
+**Lead Teaching assistants**: Alex and Alexis
 
 ## Week 5: Evolution as an algorithm; Evolution as a service
  
@@ -136,7 +136,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 **Lead Instructor**:  Jan
 
-**Lead Teaching assistant**: 
+**Lead Teaching assistants**: Kaisha and Jonathan
 
 ## Week 6: What arises from DNA read/write trends that will matter for the rest of our lives?
 
@@ -148,7 +148,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 
  **Lead Instructor**:  Drew
 
-**Lead Teaching assistant**: 
+**Lead Teaching assistants**: Alex and Alexis
 
 ## Week 7: Cultural Flourishing (Citizenship & Humanity)
 
@@ -160,7 +160,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 **Lead Instructor**:  Drew
 
-**Lead Teaching assistant**: 
+**Lead Teaching assistants**: Alex and Marcos
 
 ## Week 8: Something from "nothing." Why do molecules move? How do patterns grow?
 
@@ -172,7 +172,7 @@ Students who may need an academic accommodation based on the impact of a disabil
  
  **Lead Instructor**:  Jan
 
-**Lead Teaching assistant**: 
+**Lead Teaching assistants**: Jonathan and Marcos
 
 ## Week 9: If we can construct a genome then why can't we build an organism?   
 
@@ -184,7 +184,6 @@ Students who may need an academic accommodation based on the impact of a disabil
  
 **Lead Instructor**:  Jan
 
-**Lead Teaching assistant**: 
  
 ## Week 10: Natural Flourishing
 
@@ -195,7 +194,6 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 **Lead Instructors**: Jan and Drew
 
-**Lead Teaching assistant**: 
 
 
 
