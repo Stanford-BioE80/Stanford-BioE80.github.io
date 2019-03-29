@@ -10,6 +10,9 @@ Please read and consider the below before start of each class. The questions giv
 
 ## Preclass for Monday
 
+Before you begin please take the following survey 
+[Survey link](https://docs.google.com/forms/d/e/1FAIpQLSd44EFOfp4YVpeXG0l5wwAQxEWWvRkQ-xzoMbrZ9EbaAL2WrA/viewform?usp=sf_link)
+
 ### What has been the impact of engineering interacting with biology?
 
 Here you will examine the role that bioengineering, with a core emphasis on living matter, has had on the world. Stated differently, we ask: Why has bioengineering mattered?
