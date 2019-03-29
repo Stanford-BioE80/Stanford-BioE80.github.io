@@ -91,6 +91,14 @@ And you'll get something that looks like this:
 	<figcaption>Two images.</figcaption>
 </figure>
 
+<figure class="half">
+<a href="/assets/images/Roadmap key.png"><img src="/assets/images/Roadmap key.png"></a>
+<a href="/assets/images/Bioe80-2019- Roadmap Map .002.png"><img src="/assets/images/Bioe80-2019- Roadmap Map .002.png"></a>
+<a href="/assets/images/Bioe80-2019- Roadmap Map .003.png"><img src="/assets/images/Bioe80-2019- Roadmap Map .003.png"></a>
+	<figcaption>Roadmap.</figcaption>
+</figure>
+
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
