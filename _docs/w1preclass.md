@@ -101,7 +101,7 @@ If you are excited about the ringspot resistant papaya and want to learn more, f
 
 ### Summary
 
-In the Day 2 pre-class material you examined the cases highlighting the impact and role of bioengineering, broadly defined, in society. First, you examined the role and development of a transformative technology, the microscope, that opened opportunities and vistas previously inconceivable. From this you examined, what **tools and technologies** do we want coupled with biology? Next, you examined development of a life saving vaccine for polio (an example for engineering with biology). Here you examined what **cultures** do we want coupled with bioengineering? Finally, you learned more about the Rainbow Papaya as a case for engineering of biology. Here you began to examine what **futures** we wish to realize via bioengineering? And who gets to decide?
+In the pre-class material you examined the cases highlighting the impact and role of bioengineering, broadly defined, in society. First, you examined the role and development of a transformative technology, the microscope, that opened opportunities and vistas previously inconceivable. From this you examined, what **tools and technologies** do we want coupled with biology? Next, you examined development of a life saving vaccine for polio (an example for engineering with biology). Here you examined what **cultures** do we want coupled with bioengineering? Finally, you learned more about the Rainbow Papaya as a case for engineering of biology. Here you began to examine what **futures** we wish to realize via bioengineering? And who gets to decide?
 
 ### Additional References: 
 
@@ -113,6 +113,9 @@ In the Day 2 pre-class material you examined the cases highlighting the impact a
 [6] [Ban in Hawaii on GMO Crops Is Ruled Invalid](https://www.wsj.com/articles/ban-in-hawaii-on-gmo-crops-is-ruled-invalid-1435713546)
 [7] [U.S. GMO food labeling bill passes Senate](https://www.reuters.com/article/us-usa-food-gmo-vote/u-s-gmo-food-labeling-bill-passes-senate-idUSKCN0ZO08N)
 ________________________________________________
+## Preclass for Wedensday
+
+There is no preclass for Wedensday Week-1.
 
 ## Preclass for Friday
 
@@ -122,7 +125,7 @@ Here you will learn and think about what makes living matter such a unique mater
 
 **Goal:** After watching the following video you should be able to explain the properties of living matter that make it more effective at solving many engineering challenges compared to inert matter.
 
-You can watch [this video](https://youtu.be/NpZ3PXTnxdw) from Prof. Liphardt detailing the unique properties of living matter (Lecture on wednesday). Write down any questions you have so you can ask your peers, TA's, and professors in class or office hours.
+You can watch [this video](https://youtu.be/NpZ3PXTnxdw) from Prof. Liphardt detailing the unique properties of living matter (Lecture on Wednesday). Write down any questions you have so you can ask your peers, TA's, and professors in class or office hours.
 
 **Q.1. Think of at least two more applications which could benefit from the use of living matter that weren't mentioned in the video.**
 
