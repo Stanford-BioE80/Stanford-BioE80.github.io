@@ -37,9 +37,9 @@ doctrine of the foundation ofstatesand legitimate governments..." [link-3](https
 
 _______________________________________________________________________
 
-## Preclass for Wedensday 
+## Preclass for Wednesday
 
-There was no preclass for Wedensday Week-8. 
+There was no preclass for Wednesday Week-8. 
 
 
 _______________________________________________________________________
