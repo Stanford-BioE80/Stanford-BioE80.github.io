@@ -195,5 +195,12 @@ Students who may need an academic accommodation based on the impact of a disabil
 **Lead Instructors**: Jan and Drew
 
 
+## BIOE/ENGR.80 Roadmap - 2019
 
+<figure class="half">
+<a href="/assets/images/Roadmap key.png"><img src="/assets/images/Roadmap key.png"></a>
+<a href="/assets/images/Bioe80-2019- Roadmap Map .002.png"><img src="/assets/images/Bioe80-2019- Roadmap Map .002.png"></a>
+<a href="/assets/images/Bioe80-2019- Roadmap Map .003.png"><img src="/assets/images/Bioe80-2019- Roadmap Map .003.png"></a>
+<a href="/assets/images/Bioe80-2019- Roadmap Map .004.png"><img src="/assets/images/Bioe80-2019- Roadmap Map .004.png"></a>
+</figure>
 
