@@ -95,7 +95,8 @@ And you'll get something that looks like this:
 <a href="/assets/images/Roadmap key.png"><img src="/assets/images/Roadmap key.png"></a>
 <a href="/assets/images/Bioe80-2019- Roadmap Map .002.png"><img src="/assets/images/Bioe80-2019- Roadmap Map .002.png"></a>
 <a href="/assets/images/Bioe80-2019- Roadmap Map .003.png"><img src="/assets/images/Bioe80-2019- Roadmap Map .003.png"></a>
-	<figcaption>Roadmap.</figcaption>
+<a href="/assets/images/Bioe80-2019- Roadmap Map .004.png"><img src="/assets/images/Bioe80-2019- Roadmap Map .004.png"></a>
+  <figcaption>BIOE/ENGR.80 roadmap to the course topics, skills, and activities.</figcaption>
 </figure>
 
 
