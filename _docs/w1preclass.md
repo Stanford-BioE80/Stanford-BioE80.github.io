@@ -11,7 +11,7 @@ Please read and consider the below before start of each class. The questions giv
 ## Preclass for Monday
 
 Before you begin please take the following survey 
-[Survey link](https://docs.google.com/forms/d/e/1FAIpQLSd44EFOfp4YVpeXG0l5wwAQxEWWvRkQ-xzoMbrZ9EbaAL2WrA/viewform?usp=sf_link)
+[link](https://docs.google.com/forms/d/e/1FAIpQLSd44EFOfp4YVpeXG0l5wwAQxEWWvRkQ-xzoMbrZ9EbaAL2WrA/viewform?usp=sf_link)
 
 ### What has been the impact of engineering interacting with biology?
 
