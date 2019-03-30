@@ -39,7 +39,7 @@ Kaisha Benjamin; Office Hours Time tbd @ place tbd; [kaisha@stanford.edu](mailto
 
 Jon Calles; Office Hours 11a Wed @ Shriram 252; [jecalles@stanford.edu](mailto:jecalles@stanford.edu])
 
-Alex Ferris; Office Hours 3p Mon @ place tbd; [acferris@stanford.edu](mailto:acferris@stanford.edu)
+Alex Ferris; Office Hours 2:30p Mon @ Shriram Tea Room; [acferris@stanford.edu](mailto:acferris@stanford.edu)
 
 Alexis Seymour; Office Hours 10a Tue @ place tbd; [aseymour@stanford.edu](mailto:aseymour@stanford.edu)
 
