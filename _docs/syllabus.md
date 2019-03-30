@@ -11,13 +11,13 @@ toc: true
 
 Students successfully completing BIOE/ENGR.80 should have a working understanding for how to approach the systematic engineering of living systems to benefit all people and the planet. More specifically, our three main goals for the quarter are (1) to help you learn ways of thinking about engineering living matter, (2) to empower you to explore and do bioengineering starting from DNA, and (3) for you to become more capable of learning and explaining bioengineering to yourself and others, including discussing the broader ramifications of engineering the living world.  
 
-### When 
+### When
 
 1 April to 5 June 2019
 
 MWF, 1:30-2:20p, Lectures & Activities
 
-### Where 
+### Where
 
 Classroom (most Mondays and Wednesdays): Building 320 Room 105
 
@@ -31,19 +31,19 @@ Prof. Jan Liphardt; Office Hours Mon 10a & Fri 3p @ Shriram 005; [jan.liphardt@s
 
 ### Head Teaching Assistant
 
-Brandon Walker; Office Hours Time tbd @ place; [bmwalk@stanford.edu](mailto:bmwalk@stanford.edu)
+Brandon Walker; Office Hours Thu 4:30p @ place tbd; [bmwalk@stanford.edu](mailto:bmwalk@stanford.edu)
 
 ### Teaching Assistants
 
-Kaisha Benjamin; Office Hours Time tbd @ place; [kaisha@stanford.edu](mailto:kaisha@stanford.edu)
+Kaisha Benjamin; Office Hours Time tbd @ place tbd; [kaisha@stanford.edu](mailto:kaisha@stanford.edu)
 
-Jonathan Calles; Office Hours Time tbd @ place; [jecalles@stanford.edu](mailto:jecalles@stanford.edu])
+Jon Calles; Office Hours 11a Wed @ Shriram 252; [jecalles@stanford.edu](mailto:jecalles@stanford.edu])
 
-Alex Ferris; Office Hours Time tbd @ place; [acferris@stanford.edu](mailto:acferris@stanford.edu)
+Alex Ferris; Office Hours 3p Mon @ place tbd; [acferris@stanford.edu](mailto:acferris@stanford.edu)
 
-Alexis Seymour; Office Hours Time tbd @ place; [aseymour@stanford.edu](mailto:aseymour@stanford.edu)
+Alexis Seymour; Office Hours 10a Tue @ place tbd; [aseymour@stanford.edu](mailto:aseymour@stanford.edu)
 
-Marcos Torres; Office Hours Time tbd @ place; [marcostorres@stanford.edu](mailto:marcostorres@stanford.edu)
+Marcos Torres; Office Hours 3:30p Tue @ place tbd; [marcostorres@stanford.edu](mailto:marcostorres@stanford.edu)
 
 ### Education Fellows
 
@@ -51,13 +51,17 @@ Dr. Siavash Ahrar; Office Hours tbd @ Shriram Tea Room; [sahrar@stanford.edu](ma
 
 Dr. Veronica Brand; Office Hours tbd @ Shriram Tea Room; [vrangel@stanford.edu](mailto:vrangel@stanford.edu)
 
+### Teaching Staff
+
+Michael Specter; Office Hours tbd @ place tbd;
+
 ### Grading
 
 In-Class Puzzles (15%); 1-2 per week; lowest 2 dropped including absences; based on pre-class materials
 
 Problem Sets (70%); lowest 1 dropped including absences
 
-Final Project (15%); group activity 
+Final Project (15%); group activity
 
 ### Key Dates
 
@@ -90,19 +94,19 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 **Lead Teaching assistants**: Alexis and Brandon
 
-## Week 2: How do design, build, and test tools work to support bioengineering? 
+## Week 2: How do design, build, and test tools work to support bioengineering?
 
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
 | Mon 8 April | 320-105     | How do engineers engineer with, of, and for biology? |
 | Wed 10 April | 320-105    | How will engineers engineer biology? |
 | Fri 12 April | SC 112/132 | Make with Mushrooms **(PSET 2)** |
- 
-**Lead Instructor**: Drew 
+
+**Lead Instructor**: Drew
 
 **Lead Teaching assistants**: Marcos and Brandon
 
-## Week 3: Abstraction as a tool for managing complexity in bioengineering 
+## Week 3: Abstraction as a tool for managing complexity in bioengineering
 
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
@@ -111,11 +115,11 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Fri 19 April | SC 112/132 | GOOP and Abstraction **(PSET 3)** |
 
 **Lead Instructor**:  Drew
-      
-**Lead Teaching assistant**: Jonathan and Kaisha
+
+**Lead Teaching assistant**: Jon and Kaisha
 
 ## Week 4: Human Health and Flourishing
- 
+
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
 | Mon 22 April| 320-105    | What will you die of?|
@@ -127,7 +131,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 **Lead Teaching assistants**: Alex and Alexis
 
 ## Week 5: Evolution as an algorithm; Evolution as a service
- 
+
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
 | Mon 29 April| 320-105    | What is evolution from an engineering perspective?|
@@ -136,7 +140,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 **Lead Instructor**:  Jan
 
-**Lead Teaching assistants**: Kaisha and Jonathan
+**Lead Teaching assistants**: Kaisha and Jon
 
 ## Week 6: What arises from DNA read/write trends that will matter for the rest of our lives?
 
@@ -169,10 +173,10 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Mon 20 May| 320-105    | Molecular diffusion, what is it and why does it matter to bioengr.?|
 | Wed 22 May | 320-105    |Patterns via development; e.g., could you grow an arm? |
 | Fri 24 May | SC 112/132 | Dancing droplets; "programming" autonomous objects **(PSET 8)** |
- 
+
  **Lead Instructor**:  Jan
 
-**Lead Teaching assistants**: Jonathan and Marcos
+**Lead Teaching assistants**: Jon and Marcos
 
 ## Week 9: If we can construct a genome then why can't we build an organism?   
 
@@ -181,10 +185,10 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Mon 27 May  | No class    | Memorial Day|
 | Wed 29 May  | 320-105    | How to parse a research paper on the frontiers of bioeng.  |
 | Fri 31 May  | 320-105 |Why is humpty dumpty more than just a nursery rhyme? **(PSET 9)** |
- 
+
 **Lead Instructor**:  Jan
 
- 
+
 ## Week 10: Natural Flourishing
 
 | Day         | Location    | Title  |
@@ -203,4 +207,3 @@ Students who may need an academic accommodation based on the impact of a disabil
 <a href="/assets/images/Bioe80-2019- Roadmap Map .003.png"><img src="/assets/images/Bioe80-2019- Roadmap Map .003.png"></a>
 <a href="/assets/images/Bioe80-2019- Roadmap Map .004.png"><img src="/assets/images/Bioe80-2019- Roadmap Map .004.png"></a>
 </figure>
-
