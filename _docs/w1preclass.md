@@ -4,9 +4,9 @@ permalink: /docs/w1preclass/
 last_modified_at: Feb.28.19
 toc: true
 ---
-## Why are you here? Why engineer biology? Whats unique about living matter?
+## Why are you here? Why engineer biology? What's unique about living matter?
 
-Please read and consider the below before start of each class. The questions given are only study questions not homework to be graded. Talk about it all with your classmates, friends, or TAs, as you like.
+Please read and consider the below before the start of each class. The questions given are only study questions not homework to be graded. Talk about it with your classmates, friends, or TAs, as you like.
 
 ## Preclass for Monday
 
