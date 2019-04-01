@@ -55,7 +55,7 @@ Dr. Veronica Brand; Office Hours tbd @ Shriram Tea Room; [vrangel@stanford.edu](
 
 ### Teaching Staff
 
-Michael Specter; Office Hours tbd @ place tbd;
+Michael Specter; Office Hours tbd @ place tbd; [specterm@stanford.edu](mailto:specterm@stanford.edu])
 
 ### Grading
 
