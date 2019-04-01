@@ -31,7 +31,7 @@ After the first week of the class, a friend asks you about bioengineering. Your 
 
 3.b. Do you have any unanswered questions based on your own example from or from the examples given in class that remain unanswered? Share your most interesting or difficult question; just one question, please. (10 pts)
 
-## (Q4) Foldscope Activity (40 pts)
+## (Q4) Foldscope Activity (50 pts)
 
 4.a. Did you show up on Friday, build your Foldscope, and have a TA check it? (5 pts)
 
