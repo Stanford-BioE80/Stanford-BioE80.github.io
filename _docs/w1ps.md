@@ -15,9 +15,9 @@ toc: true
 
 **GOAL:** To help you reflect on the implications of engineering living matter.  To help you prepare for the quarter by thinking about your goals for the class. Finally, to help get you started on your journey as an explorer or maker in bioengineering.
 
-## (Q1) Let's hear about you (5 pts)
+## (Q1) Three words to describe a Bioengineer (5 pts)
 
-What is your major and year? Have you taken (or are currently taking) any other bioengineering classes? What were the last books that you read (list 1 or 2)? 
+In class on Monday, 4/1, we asked you to imagine a Bioengineer, sketch that person, and describe them with three words. What three words did you use to describe a bioengineer? Please don't censor yourself and use the original words from the activity (unless you missed it--then come up with three words!). At the end of the course, you'll have a chance to pick three new words.  
 
 ## (Q2) The impact of Bioengineering (45 pts)
 
