@@ -304,3 +304,18 @@ Looking at the second linkjust above, note how almost any student or researcherc
 **Q6.**  Giventhe above as context, and based on what you know thus far from talking with your friends or from your own direct experience in bioengineering or biology labs either at Stanford or before, how is the workflow in biology and bioengineering research different (if at all) from what is represented via the examples of VLSI design, multi-project wafers, and MOSIS?  
 
 **Q7.**  Are any differences you note or can imagine via Q6 the result of intrinsic physical differences betweensilicon-based systems versus living systems, or more to do with how people choose to organize themselves within and around technology?
+
+
+______________________________________________________
+
+## Material for Friday
+
+In class goal: You will make your own mycelium material object. 
+
+Our goal is to help you discover and get you inspired by the potential of living matter as a material. 
+
+If you would like a video tutorial please visit the MycoWorks Website [MycoWorks](https://www.youtube.com/watch?reload=9&v=c6nurN-Hii8). 
+
+TAs will be available during the activity (Shriram 112 and 132) session to help you with making your mycelium material object. 
+
+You can also explore these Instructables on making mycelium objects [making mycelial forms](https://www.instructables.com/id/Mycelial-Forms/), [making mycelium](https://www.instructables.com/id/Making-Mycelium/), and making mycelium molds [making mycelium molds](https://www.instructables.com/id/Mycelium-Molds/).
