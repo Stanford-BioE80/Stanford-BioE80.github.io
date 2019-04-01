@@ -7,6 +7,8 @@ toc: true
 
 ## BIOE/ENGR.80 - Spring 2019
 
+Piazza: piazza.com/stanford/spring2019/bioe80engr80/home
+
 **_Introduction to Bioengineering (Engineering Living Matter)_**
 
 Students successfully completing BIOE/ENGR.80 should have a working understanding for how to approach the systematic engineering of living systems to benefit all people and the planet. More specifically, our three main goals for the quarter are (1) to help you learn ways of thinking about engineering living matter, (2) to empower you to explore and do bioengineering starting from DNA, and (3) for you to become more capable of learning and explaining bioengineering to yourself and others, including discussing the broader ramifications of engineering the living world.  
@@ -35,15 +37,15 @@ Brandon Walker; Office Hours Thu 4:30p @ place tbd; [bmwalk@stanford.edu](mailto
 
 ### Teaching Assistants
 
-Kaisha Benjamin; Office Hours Time tbd @ place tbd; [kaisha@stanford.edu](mailto:kaisha@stanford.edu)
+Kaisha Benjamin; Office Hours 10a Wed @ Shriram Tea Room; [kaisha@stanford.edu](mailto:kaisha@stanford.edu)
 
-Jon Calles; Office Hours 11a Wed @ Shriram 252; [jecalles@stanford.edu](mailto:jecalles@stanford.edu])
+Jon Calles; Office Hours 3p Wed @ Shriram 252; [jecalles@stanford.edu](mailto:jecalles@stanford.edu])
 
 Alex Ferris; Office Hours 2:30p Mon @ Shriram Tea Room; [acferris@stanford.edu](mailto:acferris@stanford.edu)
 
 Alexis Seymour; Office Hours 10a Tue @ McCullough 211; [aseymour@stanford.edu](mailto:aseymour@stanford.edu)
 
-Marcos Torres; Office Hours 3:30p Tue @ place tbd; [marcostorres@stanford.edu](mailto:marcostorres@stanford.edu)
+Marcos Torres; Office Hours 3:30p Tue @ Shriram Tea Room; [marcostorres@stanford.edu](mailto:marcostorres@stanford.edu)
 
 ### Education Fellows
 
