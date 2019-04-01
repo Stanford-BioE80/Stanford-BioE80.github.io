@@ -15,27 +15,23 @@ toc: true
 
 **GOAL:** To help you reflect on the implications of engineering living matter.  To help you prepare for the quarter by thinking about your goals for the class. Finally, to help get you started on your journey as an explorer or maker in bioengineering.
 
-## (Q1) Let's hear about you (2 pts)
+## (Q1) Let's hear about you (5 pts)
 
 What is your major and year? Have you taken (or are currently taking) any other bioengineering classes? What were the last books that you read (list 1 or 2)? 
 
-## (Q2) What do you hope for out of this class? (8 pts)
-
-Why are you taking BIOE.80? Stated differently, what do you most want to gain by successfully completing BIOE.80 this quarter? (150 words or less) 
-
-## (Q3) The impact of Bioengineering (40 pts)
+## (Q2) The impact of Bioengineering (45 pts)
 
 After the first week of the class, a friend asks you about bioengineering. Your friend is specifically interested in the impact of bioengineering on humanity and civilization so far. You think back to the three examples provided in the pre-class reading (e.g., polio vaccine) and decide to draw upon those in formulating your own example. 
 
-3.a. Create your own brief example on the impact of bioengineering today. Keep your answer between 150-200 words and include up to 3 key references in support of your new example; references can be websites or any citable source. (30 pts)
+2.a. Create your own brief example on the impact of bioengineering today. Keep your answer between 150-200 words and include up to 3 key references in support of your new example; references can be websites or any citable source. (30 pts)
 
-3.b. Do you have any unanswered questions based on your own example from or from the examples given in class that remain unanswered? Share your most interesting or difficult question; just one question, please. (10 pts)
+2.b. Do you have any unanswered questions based on your own example from or from the examples given in class that remain unanswered? Share your most interesting or difficult question; just one question, please. (10 pts)
 
-## (Q4) Foldscope Activity (50 pts)
+## (Q3) Foldscope Activity (50 pts)
 
-4.a. Did you show up on Friday, build your Foldscope, and have a TA check it? (5 pts)
+3.a. Did you show up on Friday, build your Foldscope, and have a TA check it? (5 pts)
 
-4.b. Complete and submit the foldscope post class question "Explorer or Maker" (Max 150 words). (35 pts)
+3.b. Complete and submit the foldscope post class question "Explorer or Maker" (Max 150 words). (35 pts)
 
 ### Explorer or Maker - Step 1
 
