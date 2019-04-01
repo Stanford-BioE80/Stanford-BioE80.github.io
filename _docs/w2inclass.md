@@ -26,7 +26,7 @@ Finally, you are asked to document and share your images as part of your PSET-8.
 
 ### Make your own mycelium material object:
 If you would like a video tutorial please visit the MycoWorks Website [MycoWorks](https://www.youtube.com/watch?reload=9&v=c6nurN-Hii8). 
-TAs will be available during the activity (Shriram 112 and 132) session to help you with making your mycelium material object. You can also explore theseInstructables on making mycelium objects [making mycelial forms](https://www.instructables.com/id/Mycelial-Forms/), [making mycelium](https://www.instructables.com/id/Making-Mycelium/), and making mycelium molds [making mycelium molds](https://www.instructables.com/id/Mycelium-Molds/).
+TAs will be available during the activity (Shriram 112 and 132) session to help you with making your mycelium material object. You can also explore these Instructables on making mycelium objects [making mycelial forms](https://www.instructables.com/id/Mycelial-Forms/), [making mycelium](https://www.instructables.com/id/Making-Mycelium/), and making mycelium molds [making mycelium molds](https://www.instructables.com/id/Mycelium-Molds/).
 
 
 ### Materials
@@ -87,7 +87,7 @@ These questions will be part of your PSET.
 **Q.3** Looking forward, how do we go from creating matter with an inert function(e.g. a chair) to creating matter with biological function (i.e. growing a finger, aheart, etc)? What new considerations need to be made?
 
 #### Additional Resources:
-1.MycoWorksa https://www.youtube.com/watch?v=VWQznqpy3Ssb 
+1.MycoWorks https://www.youtube.com/watch?v=VWQznqpy3Ssb 
 https://www.youtube.com/watch?time_continue=1&v=3Dg6IleHm-k2
 
 Bolt Threads: https://boltthreads.com
