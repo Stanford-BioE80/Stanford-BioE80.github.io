@@ -18,7 +18,7 @@ shoes must cover the entire foot and pants must cover the ankle. Please leave fo
 
 ### Introduction:
 Welcome to the Making with Mushrooms activity!
-Our goal is to help you discover and get you inspired by the potential of living matter asa material.
+Our goal is to help you discover and get you inspired by the potential of living matter as a material.
 In class goal: Make your own mycelium material object.
 To complete this activity you will first make your own mycelium material.
 Finally, you are asked to document and share your images as part of your PSET-8.
