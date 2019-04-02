@@ -34,7 +34,7 @@ Stated differently, where and how you would use such an organism if you wanted t
 ## (Q3) Microbial Resistance (10 points)
 
 According to recent news reports, a patient with a multi-drug resistant bacterial infection was cured by injecting 
-phage (i.e., bacterial viruses) directly into the bacterial cyst inside thepatient’s abdomen. 
+phage (i.e., bacterial viruses [The Bacteriophage Video](https://www.youtube.com/watch?v=YI3tsmFsrOg)) directly into the bacterial cyst inside thepatient’s abdomen. 
 The patient was ultimately cured. The treatment, however, was not easy...
 
 “The learning curve was steep and unmarked. There were bouts of sepsis — a life-threateningcomplication caused by massive infection. Despite improvement, (the) patient’s conditionremained precarious. Doctors discovered that the bacterium eventually developed resistance tothe phage, what Schooley would characterize as “the recurring Darwinian dance,” but the teamcompensated by continually tweaking treatment with new phage strains — some that hadderived from sewage — and antibiotics.” [source](https://health.ucsd.edu/news/releases/Pages/2017-04-25-novel-phage-therapy-saves-patient-with-multidrug-resistant-bacterial-infection.aspx)
@@ -57,10 +57,10 @@ Cystic fibrosis (CF) is an inherited disorder that causes severe damage to the l
 
 On Wednesday and Friday of this week you cultivated, grew, and examined the microbes from your skin.
 
-3.a. Describe in your own words what is the microbiome, and provide a current example ofstudy of the microbiome (include references if needed) (Max 100 words)
+5.a. Describe in your own words what is the microbiome, and provide a current example ofstudy of the microbiome (include references if needed) (Max 100 words)
 
-3.b. What are key methods used to study the microbiome? (Bullet points)
+5.b. What are key methods used to study the microbiome? (Bullet points)
 
-3.c. What are the current and future roles of DNA sequencing and synthesis in thestudy and engineering of microbiome? (1 or 2 Bullet points for each)
+5.c. What are the current and future roles of DNA sequencing and synthesis in thestudy and engineering of microbiome? (1 or 2 Bullet points for each)
 
-3.d. **Colony Morphology** Examine the morphology of the colonies on your plates. Describe as comprehensively as possible the ONE most interesting colony at your table (you decide what’s interesting!). What is the size, shape, and shape of the colony? What is thenarrowest classification you can make of this colony? Make sure to include a picture. (Max 100 words)
+5.d. **Colony Morphology** Examine the morphology of the colonies on your plates. Describe as comprehensively as possible the ONE most interesting colony at your table (you decide what’s interesting!). What is the size, shape, and shape of the colony? What is thenarrowest classification you can make of this colony? Make sure to include a picture. (Max 100 words)
