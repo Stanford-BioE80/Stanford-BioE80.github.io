@@ -10,28 +10,28 @@ Please read and consider the below before the start of each class. The questions
 
 ## Preclass for Monday
 
-Before you begin please take the following survey 
+Before you begin please take the following survey
 [link](https://docs.google.com/forms/d/e/1FAIpQLSd44EFOfp4YVpeXG0l5wwAQxEWWvRkQ-xzoMbrZ9EbaAL2WrA/viewform?usp=sf_link)
 
 ### What has been the impact of engineering interacting with biology?
 
 Here you will examine the role that bioengineering, with a core emphasis on living matter, has had on the world. Stated differently, we ask: Why has bioengineering mattered?
 
-**Goal 1:** After considering the following examples you should be able to describe example impacts of bioengineering on humanity and civilization to this day. 
+**Goal 1:** After considering the following examples you should be able to describe example impacts of bioengineering on humanity and civilization to this day.
 
-**Goal 2:** Prepare yourself for a constructive class discussion about the future impact and ramifications of engineering living matter for realizing a future to benefit, and not to harm, all people and the planet. 
+**Goal 2:** Prepare yourself for a constructive class discussion about the future impact and ramifications of engineering living matter for realizing a future to benefit, and not to harm, all people and the planet.
 
-First let's examine in more detail an interesting topic, some of the ancient origins of bioengineering: 
+First let's examine in more detail an interesting topic, some of the ancient origins of bioengineering:
 
 Is bioengineering a new field? What events mark the "start point" of bioengineering? For example, as far as we know fermentation of beer or use of lactic acid bacteria to make cheese or yogurt dates back to 7000 - 6000 BC. Is that the start of bioengineering? Or is the starting point the work of Leonardo da Vinci in 1450 in analyzing muscles and joint functions? Perhaps it is the work of Anton van Leeuwenhock and his amazing microscopes in the 1600s that enabled him to see bacteria everywhere. Or is the origin more recent, beginning with the discovery of penicillin? Is it the discovery of the double helical structure of DNA? And what of the various strategies and types of application that humanity has developed in partnering with living matter and nature in order to solve problems? Perhaps partnership between humanity and biology is as old as humanity, by definition.
 
 Here, we organize these partnerships into three general categories:
 
-First, is the application of the new tools and technologies to engineer **for** living matter. I.e., using other modes of engineering to do something for biology as a science or biology as a type of stuff.  Examples of this category include prosthetic limbs, surgical tools, microscopes, technologies for controlled drug delivery, and machines to read and write DNA. 
+First, is the application of the new tools and technologies to engineer **for** living matter. I.e., using other modes of engineering to do something for biology as a science or biology as a type of stuff.  Examples of this category include prosthetic limbs, surgical tools, microscopes, technologies for controlled drug delivery, and machines to read and write DNA.
 
 Second, is the use or adaptation of living matter as a type of material (cells, enzymes, plants, animals) towards various goals. We call this engineering **with** living matter. This approach has brought us, for example, vaccines such as for polio, leather made with mushrooms in place of vertebrates, and initial progress in growing human some types of human tissues.
 
-The third and final category is the engineering **of** living matter. This involves the manipulation of biological organisms directly, typically starting from their DNA. This approach has brought us innovations like large scale manufacturing of human therapeutics via microbes (e.g., insulin), genetically modified plants (e.g., virus-resistant papaya), therapeutic immune cells for fighting some types of cancer, (e.g,. CAR-T cells), animal-free meat, and so on. 
+The third and final category is the engineering **of** living matter. This involves the manipulation of biological organisms directly, typically starting from their DNA. This approach has brought us innovations like large scale manufacturing of human therapeutics via microbes (e.g., insulin), genetically modified plants (e.g., virus-resistant papaya), therapeutic immune cells for fighting some types of cancer, (e.g,. CAR-T cells), animal-free meat, and so on.
 
 Let's examine one example from each category.  Please note, there are a few questions after each example (10 total).  Please think of these as study questions, not questions on an assignment.  I.e., you do not have to turn in anything from the reading and study questions in the pre-class material.  We estimate you will spend about 10 minutes on each example, or more but only if you wish to follow-up re: details via the curated links provided.
 
@@ -45,9 +45,9 @@ Observations enabled by microscopes were one of the most visceral discoveries th
 
 <figure>
 <a href="/assets/images/w1pc_microscope.png"><img src="/assets/images/w1pc_microscope.png"></a>
-<figcaption><b>Figure 1</b>. 
+<figcaption><b>Figure 1</b>.
 <b>Left</b>. Van Leeuwenhoek's simple yet powerful microscope 1670s (arrow points at the lens,  
-<a href="http://www.physics.umd.edu/courses/Phys106/rolston/Lectures/Lec28.pdf">History of the microscope</a>). 
+<a href="http://www.physics.umd.edu/courses/Phys106/rolston/Lectures/Lec28.pdf">History of the microscope</a>).
 <b>Right</b>. An artist etching of a person’s reaction to a magnified drop of Thames water (monster soup), revealing the impurity of London drinking water 1828. <a href="https://wellcomecollection.org/works/qqcx38hr">Source</a>
 </figcaption>
 </figure>
@@ -80,7 +80,7 @@ Watch [this video](https://www.youtube.com/watch?v=2LlDn_MQDkc) which will bring
 
 ### Example 3 - Ringspot Resistant Papaya
 
-In the early 90s, hundreds of Hawaiian papaya farmers were in the state of panic. Papaya Ring Spot Virus (PRSV), named since it leaves discolored spots resembling tiny rings, were spreading across their fields. For the next several years, the farmers would lose most of their fields after and crop to PRSV. 
+In the early 90s, hundreds of Hawaiian papaya farmers were in the state of panic. Papaya Ring Spot Virus (PRSV), named since it leaves discolored spots resembling tiny rings, were spreading across their fields. For the next several years, the farmers would lose most of their fields after and crop to PRSV.
 
 In 1992, a plant pathologist at Cornell University, Dennis Gonsalves, who grew up in the region most affected by the virus, suggested a vaccination approach to stop the spread of this devastating virus. After a decade of work Gonsalves and his team carefully genetically modified the papaya planet by inserting a gene from the PRSV. They were able to create (i.e., cultivate) a papaya plant -- which they named the Rainbow papaya - that was genetically resistant to the ringspot virus, effectively saving the papaya industry in Hawaii. Their work is an example of engineering of living matter. Here is a fascinating interview with Dennis Gonslaves about the Rainbow Papaya and the social impact titled [Why public sector biotechnology research matters?](https://www.youtube.com/watch?v=CX7AqBOJS84). However, this story did not end there… (read on)
 
@@ -97,16 +97,16 @@ In 2013 anti-Genetically Modified Organism (GMO) groups strongly and successfull
 
 **Q.10. Who are the  stakeholders in the debate between the pro Rainbow Papaya and the anti-GMO campaign? Who (or what process) should decide the outcome of this debate?**
 
-If you are excited about the ringspot resistant papaya and want to learn more, follow these optional links: 
-[link 1](https://www.youtube.com/watch?v=2G-yUuiqIZ0), 
-[link 2](https://www.youtube.com/watch?v=3rgUEUDkj2U), and 
+If you are excited about the ringspot resistant papaya and want to learn more, follow these optional links:
+[link 1](https://www.youtube.com/watch?v=2G-yUuiqIZ0),
+[link 2](https://www.youtube.com/watch?v=3rgUEUDkj2U), and
 [link 3](https://www.rottentomatoes.com/m/food_evolution/).
 
 ### Summary
 
 In the pre-class material you examined the cases highlighting the impact and role of bioengineering, broadly defined, in society. First, you examined the role and development of a transformative technology, the microscope, that opened opportunities and vistas previously inconceivable. From this you examined, what **tools and technologies** do we want coupled with biology? Next, you examined development of a life saving vaccine for polio (an example for engineering with biology). Here you examined what **cultures** do we want coupled with bioengineering? Finally, you learned more about the Rainbow Papaya as a case for engineering of biology. Here you began to examine what **futures** we wish to realize via bioengineering? And who gets to decide?
 
-### Additional References: 
+### Additional References:
 
 [1] [History of the microscope](http://www.physics.umd.edu/courses/Phys106/rolston/Lectures/Lec28.pdf)
 [2] Ed Young, [I Contain Multitude](https://edyong.me/i-contain-multitudes/)
@@ -148,6 +148,12 @@ Imagine that you spend hours assembling a device (a box) that, once finished, is
 
 Why did you pick your choice? Remember your answer for the class on Friday.
 
+### Uyutengsu Teaching Lab Safety Video
+
+Friday's class will be held in the Uyutengsu Teaching Lab in Shriram. Before you enter the lab space, the Uyutengsu Lab team requires you to watch [this brief safety video](https://youtu.be/COLocny5G7g).
+
+Additional information regarding the lab space can be found on the [Uyutengsu Teaching Lab website](https://uytengsuteachinglab.stanford.edu/)
+
 ### Foldscope
 
 In the activity on Friday you will be making your own Foldscope (engineering for living matter similar to Anton van Leeuwenhoek)  and use it to explore and discover the world around you. You will be going outside during class so wear appropriate shoes and jacket.
@@ -157,17 +163,17 @@ Watch the following videos to prepare for the foldscope activity.
 * Dr. Manu Prakash's vision for the [paper microscope back in 2012](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437).
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
-* Instructions for how to [build the foldscope](https://www.youtube.com/watch?v=RvZRO36IRYY). You will be doing this in class. 
+* Instructions for how to [build the foldscope](https://www.youtube.com/watch?v=RvZRO36IRYY). You will be doing this in class.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RvZRO36IRYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Instructions for how to [insert a microscope slide](https://youtu.be/IQzdc_UB6T8).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IQzdc_UB6T8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IQzdc_UB6T8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Instructions for how to use the [foldscope with a smartphone](https://www.youtube.com/watch?v=LpeJUbs32VU).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LpeJUbs32VU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LpeJUbs32VU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Resources
 
@@ -175,10 +181,14 @@ Full URL of links from above:
 
 [1] [https://www.youtube.com/watch?v=NpZ3PXTnxdw](https://www.youtube.com/watch?v=NpZ3PXTnxdw)
 
-[2] [https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437)
+[2] [https://youtu.be/COLocny5G7g](https://youtu.be/COLocny5G7g)
 
-[3] [https://www.youtube.com/watch?v=LpeJUbs32VU](https://www.youtube.com/watch?v=LpeJUbs32VU)
+[3] [https://uytengsuteachinglab.stanford.edu/](https://uytengsuteachinglab.stanford.edu/)
 
-[4] [https://youtu.be/IQzdc_UB6T8](https://youtu.be/IQzdc_UB6T8)
+[4] [https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437)
 
-[5] [https://www.youtube.com/watch?v=RvZRO36IRYY](https://www.youtube.com/watch?v=RvZRO36IRYY)
+[5] [https://www.youtube.com/watch?v=LpeJUbs32VU](https://www.youtube.com/watch?v=LpeJUbs32VU)
+
+[6] [https://youtu.be/IQzdc_UB6T8](https://youtu.be/IQzdc_UB6T8)
+
+[7] [https://www.youtube.com/watch?v=RvZRO36IRYY](https://www.youtube.com/watch?v=RvZRO36IRYY)
