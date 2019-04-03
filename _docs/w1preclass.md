@@ -152,6 +152,8 @@ Why did you pick your choice? Remember your answer for the class on Friday.
 
 * Friday's class will be held in the Uyutengsu Teaching Lab in Shriram. Before you enter the lab space, the Uyutengsu Lab team requires you to watch [this brief safety video](https://youtu.be/COLocny5G7g).
 
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://youtu.be/COLocny5G7g" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
 Additionally, you will be required to take the following [STARS](https://axess.sahr.stanford.edu/group/guest/stars-training) training courses:
 - EHS-4200: General Safety and Emergency Preparedness
 - EHS-PROG-4875: Life Sciences Research; includes the following 3 trainings
@@ -162,7 +164,6 @@ Additionally, you will be required to take the following [STARS](https://axess.s
 Once you've completed these online courses, take screenshots verifying that you have completed these courses. You will need to include them in the [Uyutengsu Lab Safety Form](https://uytengsuteachinglab.stanford.edu/safety-information/safety-form).
 
 Additional information regarding the lab space can be found on the [Uyutengsu Teaching Lab website](https://uytengsuteachinglab.stanford.edu/).
-
 ### Foldscope
 
 In the activity on Friday you will be making your own Foldscope (engineering for living matter similar to Anton van Leeuwenhoek)  and use it to explore and discover the world around you. You will be going outside during class so wear appropriate shoes and jacket.
@@ -171,7 +172,7 @@ Watch the following videos to prepare for the foldscope activity.
 
 * Dr. Manu Prakash's vision for the [paper microscope back in 2012](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437).
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+<iframe src="https://embed.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 * Instructions for how to [build the foldscope](https://www.youtube.com/watch?v=RvZRO36IRYY). You will be doing this in class.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RvZRO36IRYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
