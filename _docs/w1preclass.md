@@ -160,7 +160,7 @@ Friday's class will be held in the Uyutengsu Teaching Lab in Shriram. Before you
 
 Once you've completed these online courses, take screenshots verifying that you have completed these courses. You will need to include them in the [Uyutengsu Lab Safety Form](https://uytengsuteachinglab.stanford.edu/safety-information/safety-form).
 
-Additional information regarding the lab space can be found on the [Uyutengsu Teaching Lab website](https://uytengsuteachinglab.stanford.edu/)
+Additional information regarding the lab space can be found on the [Uyutengsu Teaching Lab website](https://uytengsuteachinglab.stanford.edu/).
 
 ### Foldscope
 
@@ -193,14 +193,14 @@ Full URL of links from above:
 
 [3] [https://axess.sahr.stanford.edu/group/guest/stars-training](https://axess.sahr.stanford.edu/group/guest/stars-training)
 
-[4] [https://axess.sahr.stanford.edu/group/guest/stars-training](https://axess.sahr.stanford.edu/group/guest/stars-training)
+[4] [https://uytengsuteachinglab.stanford.edu/safety-information/safety-form](https://uytengsuteachinglab.stanford.edu/safety-information/safety-form)
 
-[3] [https://uytengsuteachinglab.stanford.edu/](https://uytengsuteachinglab.stanford.edu/)
+[5] [https://uytengsuteachinglab.stanford.edu/](https://uytengsuteachinglab.stanford.edu/)
 
-[4] [https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437)
+[6] [https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437)
 
-[5] [https://www.youtube.com/watch?v=LpeJUbs32VU](https://www.youtube.com/watch?v=LpeJUbs32VU)
+[7] [https://www.youtube.com/watch?v=LpeJUbs32VU](https://www.youtube.com/watch?v=LpeJUbs32VU)
 
-[6] [https://youtu.be/IQzdc_UB6T8](https://youtu.be/IQzdc_UB6T8)
+[8] [https://youtu.be/IQzdc_UB6T8](https://youtu.be/IQzdc_UB6T8)
 
-[7] [https://www.youtube.com/watch?v=RvZRO36IRYY](https://www.youtube.com/watch?v=RvZRO36IRYY)
+[9] [https://www.youtube.com/watch?v=RvZRO36IRYY](https://www.youtube.com/watch?v=RvZRO36IRYY)
