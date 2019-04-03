@@ -150,7 +150,15 @@ Why did you pick your choice? Remember your answer for the class on Friday.
 
 ### Uyutengsu Teaching Lab Safety Video
 
-Friday's class will be held in the Uyutengsu Teaching Lab in Shriram. Before you enter the lab space, the Uyutengsu Lab team requires you to watch [this brief safety video](https://youtu.be/COLocny5G7g).
+Friday's class will be held in the Uyutengsu Teaching Lab in Shriram. Before you enter the lab space, the Uyutengsu Lab team requires you to watch [this brief safety video](https://youtu.be/COLocny5G7g). Additionally, you will be required to take the following [STARS](https://axess.sahr.stanford.edu/group/guest/stars-training) training courses:
+
+- EHS-4200: General Safety and Emergency Preparedness
+- EHS-PROG-4875: Life Sciences Research; includes the following 3 trainings
+  - EHS-1500: Biosafety
+  - EHS-1900: Chemical Safety
+  - EHS-2200: Compressed Gas Safety
+
+Once you've completed these online courses, take screenshots verifying that you have completed these courses. You will need to include them in the [Uyutengsu Lab Safety Form](https://uytengsuteachinglab.stanford.edu/safety-information/safety-form).
 
 Additional information regarding the lab space can be found on the [Uyutengsu Teaching Lab website](https://uytengsuteachinglab.stanford.edu/)
 
@@ -182,6 +190,10 @@ Full URL of links from above:
 [1] [https://www.youtube.com/watch?v=NpZ3PXTnxdw](https://www.youtube.com/watch?v=NpZ3PXTnxdw)
 
 [2] [https://youtu.be/COLocny5G7g](https://youtu.be/COLocny5G7g)
+
+[3] [https://axess.sahr.stanford.edu/group/guest/stars-training](https://axess.sahr.stanford.edu/group/guest/stars-training)
+
+[4] [https://axess.sahr.stanford.edu/group/guest/stars-training](https://axess.sahr.stanford.edu/group/guest/stars-training)
 
 [3] [https://uytengsuteachinglab.stanford.edu/](https://uytengsuteachinglab.stanford.edu/)
 
