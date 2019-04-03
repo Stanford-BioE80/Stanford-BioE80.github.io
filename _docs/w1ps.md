@@ -19,7 +19,7 @@ toc: true
 
 In class on Monday, 4/1, we asked you to imagine a Bioengineer, sketch that person, and describe them with three words. What three words did you use to describe a bioengineer? Please don't censor yourself and use the original words from the activity (unless you missed it--then come up with three words!). At the end of the course, you'll have a chance to pick three new words.  
 
-## (Q2) The impact of Bioengineering (45 pts)
+## (Q2) The impact of Bioengineering (35 pts)
 
 After the first week of the class, a friend asks you about bioengineering. Your friend is specifically interested in the impact of bioengineering on humanity and civilization so far. You think back to the three examples provided in the pre-class reading (e.g., polio vaccine) and decide to draw upon those in formulating your own example. 
 
@@ -100,6 +100,14 @@ an entry following the detailed instructions provided on Friday.  Consider inclu
 4. Your concluding thoughts or open questions.
 
 Your entry should be in a form where an 8-10 year old anywhere in the world could study your findings & actually replicate your work.
+
+## (Q4) What's Unique About Living Matter?
+
+Revisit the [video](https://youtu.be/NpZ3PXTnxdw) describing the unique properties of living matter.  
+
+4.a. According to the video, what makes living matter unique? (list 2 and explain each in 2-3 sentences) 
+
+4.b. After watching the video, what did you find most surprising? (2-3 sentences) 
 
 **Your questions** Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
