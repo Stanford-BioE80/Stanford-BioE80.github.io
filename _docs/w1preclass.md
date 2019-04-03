@@ -126,6 +126,8 @@ Here you will learn and think about what makes living matter such a unique mater
 
 You can watch [this video](https://youtu.be/NpZ3PXTnxdw) from Prof. Liphardt detailing the unique properties of living matter (Lecture on Wednesday). Write down any questions you have so you can ask your peers, TA's, and professors in class or office hours.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NpZ3PXTnxdw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Q.1. Think of at least two more applications which could benefit from the use of living matter that weren't mentioned in the video.**
 
 **Q.2. According to the video, what is the universal code that makes engineering and tinkering with living matter feasible?**
@@ -154,8 +156,10 @@ Watch the following three videos to prepare for the foldscope activity.
 1. Dr. Manu Prakash's vision for the [paper microscope back in 2012](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437).
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
+
 2. Instructions for how to [build the foldscope](https://www.youtube.com/watch?v=RvZRO36IRYY). You will be doing this in class. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RvZRO36IRYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 3. Instructions for how to use the [foldscope with a smartphone](https://www.youtube.com/watch?v=LpeJUbs32VU).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LpeJUbs32VU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
@@ -165,6 +169,9 @@ Watch the following three videos to prepare for the foldscope activity.
 Full URL of links from above:
 
 [1] [https://www.youtube.com/watch?v=NpZ3PXTnxdw](https://www.youtube.com/watch?v=NpZ3PXTnxdw)
+
 [2] [https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437)
+
 [3] [https://www.youtube.com/watch?v=LpeJUbs32VU](https://www.youtube.com/watch?v=LpeJUbs32VU)
+
 [4] [https://www.youtube.com/watch?v=RvZRO36IRYY](https://www.youtube.com/watch?v=RvZRO36IRYY)
