@@ -310,11 +310,21 @@ ______________________________________________________
 
 ## Material for Friday
 
-In class goal: You will make your own mycelium material object. 
+In-class goal: You will make your own mycelium material object. 
 
-Our goal is to help you discover and get you inspired by the potential of living matter as a material. 
+Our goal is to help you discover and get inspired by the potential of living matter as a material.
 
-If you would like a video tutorial please visit the MycoWorks Website [MycoWorks](https://www.youtube.com/watch?reload=9&v=c6nurN-Hii8). 
+Please watch the following two videos:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c6nurN-Hii8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+YouTube: [MycoWorks: How to make a myco-brick](https://www.youtube.com/watch?reload=9&v=c6nurN-Hii8)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnMXH5TqqG8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+YouTube: [Fungus: The Plastic of the Future](https://www.youtube.com/watch?v=jnMXH5TqqG8)
+
+In preparation for Friday, please brainstorm some small objects that you might create with mycelium. You'll pick one object to make with your lab group. We'll have access to some silicone baking molds and an assortment of plastic containers for you to work with, but you may want to bring in your own objects to sculpt material around.  
 
 TAs will be available during the activity (Shriram 112 and 132) session to help you with making your mycelium material object. 
 
