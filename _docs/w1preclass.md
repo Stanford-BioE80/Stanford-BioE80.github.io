@@ -150,8 +150,9 @@ Why did you pick your choice? Remember your answer for the class on Friday.
 
 ### Uyutengsu Teaching Lab Safety Video
 
-Friday's class will be held in the Uyutengsu Teaching Lab in Shriram. Before you enter the lab space, the Uyutengsu Lab team requires you to watch [this brief safety video](https://youtu.be/COLocny5G7g). Additionally, you will be required to take the following [STARS](https://axess.sahr.stanford.edu/group/guest/stars-training) training courses:
+* Friday's class will be held in the Uyutengsu Teaching Lab in Shriram. Before you enter the lab space, the Uyutengsu Lab team requires you to watch [this brief safety video](https://youtu.be/COLocny5G7g).
 
+Additionally, you will be required to take the following [STARS](https://axess.sahr.stanford.edu/group/guest/stars-training) training courses:
 - EHS-4200: General Safety and Emergency Preparedness
 - EHS-PROG-4875: Life Sciences Research; includes the following 3 trainings
   - EHS-1500: Biosafety
