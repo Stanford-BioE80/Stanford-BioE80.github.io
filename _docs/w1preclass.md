@@ -177,13 +177,10 @@ Watch the following videos to prepare for the foldscope activity.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RvZRO36IRYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Recommended Additional Videos:
 * Instructions for how to [insert a microscope slide](https://youtu.be/IQzdc_UB6T8).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IQzdc_UB6T8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 * Instructions for how to use the [foldscope with a smartphone](https://www.youtube.com/watch?v=LpeJUbs32VU).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LpeJUbs32VU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Resources
 
