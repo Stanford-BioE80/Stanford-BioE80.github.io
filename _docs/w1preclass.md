@@ -152,15 +152,20 @@ Why did you pick your choice? Remember your answer for the class on Friday.
 
 In the activity on Friday you will be making your own Foldscope (engineering for living matter similar to Anton van Leeuwenhoek)  and use it to explore and discover the world around you. You will be going outside during class so wear appropriate shoes and jacket.
 
-Watch the following three videos to prepare for the foldscope activity.
+Watch the following videos to prepare for the foldscope activity.
 
-1. Dr. Manu Prakash's vision for the [paper microscope back in 2012](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437).
+* Dr. Manu Prakash's vision for the [paper microscope back in 2012](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437).
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
-2. Instructions for how to [build the foldscope](https://www.youtube.com/watch?v=RvZRO36IRYY). You will be doing this in class. 
+* Instructions for how to [build the foldscope](https://www.youtube.com/watch?v=RvZRO36IRYY). You will be doing this in class. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RvZRO36IRYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-3. Instructions for how to use the [foldscope with a smartphone](https://www.youtube.com/watch?v=LpeJUbs32VU).
+
+* Instructions for how to [insert a microscope slide](https://youtu.be/IQzdc_UB6T8).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IQzdc_UB6T8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+* Instructions for how to use the [foldscope with a smartphone](https://www.youtube.com/watch?v=LpeJUbs32VU).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LpeJUbs32VU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
@@ -174,4 +179,6 @@ Full URL of links from above:
 
 [3] [https://www.youtube.com/watch?v=LpeJUbs32VU](https://www.youtube.com/watch?v=LpeJUbs32VU)
 
-[4] [https://www.youtube.com/watch?v=RvZRO36IRYY](https://www.youtube.com/watch?v=RvZRO36IRYY)
+[4] [https://youtu.be/IQzdc_UB6T8](https://youtu.be/IQzdc_UB6T8)
+
+[5] [https://www.youtube.com/watch?v=RvZRO36IRYY](https://www.youtube.com/watch?v=RvZRO36IRYY)
