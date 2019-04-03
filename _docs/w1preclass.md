@@ -150,9 +150,9 @@ Why did you pick your choice? Remember your answer for the class on Friday.
 
 ### Uyutengsu Teaching Lab Safety Video
 
-* Friday's class will be held in the Uyutengsu Teaching Lab in Shriram. Before you enter the lab space, the Uyutengsu Lab team requires you to watch [this brief safety video](https://youtu.be/COLocny5G7g).
+Friday's class will be held in the Uyutengsu Teaching Lab in Shriram. Before you enter the lab space, the Uyutengsu Lab team requires you to watch [this brief safety video](https://youtu.be/COLocny5G7g).
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://youtu.be/COLocny5G7g" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+<iframe src="https://youtu.be/COLocny5G7g" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 Additionally, you will be required to take the following [STARS](https://axess.sahr.stanford.edu/group/guest/stars-training) training courses:
 - EHS-4200: General Safety and Emergency Preparedness
@@ -172,7 +172,7 @@ Watch the following videos to prepare for the foldscope activity.
 
 * Dr. Manu Prakash's vision for the [paper microscope back in 2012](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437).
 
-<iframe src="https://embed.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 * Instructions for how to [build the foldscope](https://www.youtube.com/watch?v=RvZRO36IRYY). You will be doing this in class.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RvZRO36IRYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
