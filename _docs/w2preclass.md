@@ -324,7 +324,7 @@ YouTube: [MycoWorks: How to make a myco-brick](https://www.youtube.com/watch?rel
 
 YouTube: [Fungus: The Plastic of the Future](https://www.youtube.com/watch?v=jnMXH5TqqG8)
 
-In preparation for Friday, please brainstorm some small objects that you might create with mycelium. You'll pick one object to make with your lab table. We'll have access to some silicone baking molds and an assortment of plastic containers for you to work with, but you may want to bring in your own objects to sculpt material around.  
+In preparation for Friday, please brainstorm some small objects that you might create with mycelium. You'll pick one object to make with your lab group. We'll have access to some silicone baking molds and an assortment of plastic containers for you to work with, but you may want to bring in your own objects to sculpt material around.  
 
 TAs will be available during the activity (Shriram 112 and 132) session to help you with making your mycelium material object. 
 
