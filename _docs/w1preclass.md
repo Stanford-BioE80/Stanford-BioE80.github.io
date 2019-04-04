@@ -154,7 +154,7 @@ Friday's class will be held in the Uyutengsu Teaching Lab in Shriram. Before you
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://youtu.be/COLocny5G7g" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
-Additionally, you will be required to take the following [STARS](https://axess.sahr.stanford.edu/group/guest/stars-training) training courses:
+Additionally, you will be required to take the following STARS training courses on [Axess](https://axess.sahr.stanford.edu/):
 - EHS-4200: General Safety and Emergency Preparedness
 - EHS-PROG-4875: Life Sciences Research; includes the following 3 trainings
   - EHS-1500: Biosafety
@@ -189,7 +189,7 @@ Full URL of links from above:
 
 [2] [https://youtu.be/COLocny5G7g](https://youtu.be/COLocny5G7g)
 
-[3] [https://axess.sahr.stanford.edu/group/guest/stars-training](https://axess.sahr.stanford.edu/group/guest/stars-training)
+[3] [https://axess.sahr.stanford.edu/](https://axess.sahr.stanford.edu/)
 
 [4] [https://uytengsuteachinglab.stanford.edu/safety-information/safety-form](https://uytengsuteachinglab.stanford.edu/safety-information/safety-form)
 
