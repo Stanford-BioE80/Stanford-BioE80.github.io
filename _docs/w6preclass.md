@@ -31,7 +31,7 @@ Put yourself in the shoes of a couple who recently discovered they were pregnant
 
 **Q.1. What do you think about the test, would you take it? Why?**
 
-**Scenario-2:** It is 2018 and in leading-edge children’s hospitals amniocentesis has beenreplaced by non-invasive prenatal testing (NIPT), previously known as cell free DNA testing. NIPT is based on a simple blood draw that enables determination of geneticdisorders and even the sex of an unborn fetus. The test works because it turns out thatthere is DNA from the fetus circulating in the pregnant woman’s blood (e.g., if apregnant woman has Y chromosome DNA in her blood then she is carrying a malefetus). Please watch [video](https://www.youtube.com/watch?v=e86_l_UqecU) about cell free fetal DNA analysis if you want moredetail.
+**Scenario-2:** It is 2018 and in leading-edge children’s hospitals amniocentesis has beenreplaced by non-invasive prenatal testing (NIPT), previously known as cell free DNA testing. NIPT is based on a simple blood draw that enables determination of geneticdisorders and even the sex of an unborn fetus. The test works because it turns out that there is DNA from the fetus circulating in the pregnant woman’s blood (e.g., if apregnant woman has Y chromosome DNA in her blood then she is carrying a malefetus). Please watch [video](https://www.youtube.com/watch?v=e86_l_UqecU) about cell free fetal DNA analysis if you want moredetail.
 
 <figure>
 <href="/assets/images/w3pc_CarlsonCurves.png"><img src="/assets/images/w3pc_CarlsonCurves.png">
@@ -55,12 +55,11 @@ Start with this [video](https://www.youtube.com/watch?v=MvuYATh7Y74) that provid
 
 <figure>
 <href="/assets/images/w3pc_NGS.png"><img src="/assets/images/w3pc_NGS.png">
-Figure.2. "Breakdown of DNA sequencing steps (specifically next generationsequencing). In this approach instead of reading a long sequence of DNA one baseper at a time, the sequence is divided into many pieces (fragments) which are all readsimultaneously". <a href="https://www.nature.com/articles/nature24286.pdf"> Source</a>
-</figcaption>
+Figure.2. "Breakdown of DNA sequencing steps (specifically next generationsequencing). In this approach instead of reading a long sequence of DNA one baseper at a time, the sequence is divided into many pieces (fragments) which are all read simultaneously". <a href="https://www.nature.com/articles/nature24286.pdf"> Source</a>
 </figure> 
 
 
-During sequencing first, the genomic DNA (the DNA that we want to read) is broken intosmaller pieces (fragmented). Then a synthetic linker sequence is added to the end ofthe fragments (adaptor) which helps the DNA fragments get attached to a surface onwhich the sequencing happens (flow cell). Next, the DNA fragments are separated inspace and read individually. Each fragment is amplified (thousands of copies of eachpiece is made) to make sure the correct sequence is detected. To actually read thefragments, pre-labeled nucleotides (nucleotides with color) and enzymes (thatincorporate nucleotides into the fragments) are added to the flow cell. As each coloredbase pair is added to the fragments a new colorful spot is introduced. By taking imagesfrom the spots we are able to decode the sequence. Finally, the fragments are stitchedtogether to reveal the original sequence of the genomic DNA. Here is an additionalvideo that describes this process in even more detail [optional link](https://www.youtube.com/watch?v=fCd6B5HRaZ8).
+During sequencing first, the genomic DNA (the DNA that we want to read) is broken into smaller pieces (fragmented). Then a synthetic linker sequence is added to the end ofthe fragments (adaptor) which helps the DNA fragments get attached to a surface on which the sequencing happens (flow cell). Next, the DNA fragments are separated inspace and read individually. Each fragment is amplified (thousands of copies of eachpiece is made) to make sure the correct sequence is detected. To actually read the fragments, pre-labeled nucleotides (nucleotides with color) and enzymes (that incorporate nucleotides into the fragments) are added to the flow cell. As each colored base pair is added to the fragments a new colorful spot is introduced. By taking images from the spots we are able to decode the sequence. Finally, the fragments are stitched together to reveal the original sequence of the genomic DNA. Here is an additional video that describes this process in even more detail [optional link](https://www.youtube.com/watch?v=fCd6B5HRaZ8).
 
 **Q.4. According to the “How to sequence the human genome” video when was thefirst human genome sequenced? How long did it take? How much did it cost?**
 
