@@ -42,8 +42,6 @@ docs:
         url: /docs/w1preclass/
       - title: "Week 1 Inclass"
         url: /docs/w1inclass/
-      - title: "Week 1 PS"
-        url: /docs/w1ps/
       - title: "Week 2 Preclass"
         url: /docs/w2preclass/
       - title: "Week 2 Inclass"
@@ -73,22 +71,22 @@ docs:
     children:
       - title: "Week 1 PS"
         url: /docs/w1ps/
-      - title: "Week 2 PS"
-        url: /docs/w2ps/
-      - title: "Week 3 PS"
-        url: /docs/w3ps/
-      - title: "Week 4 PS"
-        url: /docs/w4ps/
-      - title: "Week 5 PS"
-        url: /docs/w5ps/
-      - title: "Week 6 PS"
-        url: /docs/w6ps/
-      - title: "Week 7 PS"
-        url: /docs/w7ps/
-      - title: "Week 8 PS"
-        url: /docs/w8ps/
-      - title: "Week 9 PS"
-        url: /docs/w9ps/
+      #- title: "Week 2 PS"
+      #  url: /docs/w2ps/
+      #- title: "Week 3 PS"
+      #  url: /docs/w3ps/
+      #- title: "Week 4 PS"
+      #  url: /docs/w4ps/
+      #- title: "Week 5 PS"
+      #  url: /docs/w5ps/
+      #- title: "Week 6 PS"
+      #  url: /docs/w6ps/
+      #- title: "Week 7 PS"
+      #  url: /docs/w7ps/
+      #- title: "Week 8 PS"
+      #  url: /docs/w8ps/
+      #- title: "Week 9 PS"
+      #  url: /docs/w9ps/
         
         
         
