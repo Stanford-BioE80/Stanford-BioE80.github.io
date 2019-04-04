@@ -21,8 +21,10 @@ foo:
 main:
   - title: "Welcome"
     url: /docs/introduction/
-  - title: "Materials"
+  - title: "Class Materials"
     url: /docs/w1preclass/
+  - title: "Problem Sets"
+    url: /docs/w1ps/
 
 # documentation links
 docs:
@@ -34,7 +36,7 @@ docs:
         url: /docs/syllabus/
       - title: "Site HowTo"
         url: /docs/site_howto/
-  - title: Materials
+  - title: Class Materials
     children:
       - title: "Week 1 Preclass"
         url: /docs/w1preclass/
@@ -45,42 +47,48 @@ docs:
       - title: "Week 2 Preclass"
         url: /docs/w2preclass/
       - title: "Week 2 Inclass"
-        url: /docs/w2inclass/
-      - title: "Week 2 PS"
-        url: /docs/w2ps/  
+        url: /docs/w2inclass/        
       - title: "Week 3 Preclass"
-        url: /docs/w3preclass/ 
-      - title: "Week 3 PS"
-        url: /docs/w3ps/ 
+        url: /docs/w3preclass/        
       - title: "Week 4 Preclass"
-        url: /docs/w4preclass/ 
-      - title: "Week 4 PS"
-        url: /docs/w4ps/
+        url: /docs/w4preclass/      
       - title: "Week 5 Preclass"
         url: /docs/w5preclass/
       - title: "Week 5 Inclass"
-        url: /docs/w5inclass/
-      - title: "Week 5 PS"
-        url: /docs/w5ps/
+        url: /docs/w5inclass/    
       - title: "Week 6 Preclass"
-        url: /docs/w6preclass/
-      - title: "Week 6 PS"
-        url: /docs/w6ps/
+        url: /docs/w6preclass/     
       - title: "Week 7 Preclass"
         url: /docs/w7preclass/
-      - title: "Week 7 PS"
-        url: /docs/w7ps/
       - title: "Week 8 Preclass"
         url: /docs/w8preclass/
       - title: "Week 8 Inclass"
         url: /docs/w8inclass/
-      - title: "Week 8 PS"
-        url: /docs/w8ps/
       - title: "Week 9 Preclass"
         url: /docs/w9preclass/
       - title: "Week 9 Inclass"
         url: /docs/w9inclass/
+      
+  - title: Problem Sets
+    children:
+      - title: "Week 1 PS"
+        url: /docs/w1ps/
+      - title: "Week 2 PS"
+        url: /docs/w2ps/
+      - title: "Week 3 PS"
+        url: /docs/w3ps/
+      - title: "Week 4 PS"
+        url: /docs/w4ps/
+      - title: "Week 5 PS"
+        url: /docs/w5ps/
+      - title: "Week 6 PS"
+        url: /docs/w6ps/
+      - title: "Week 7 PS"
+        url: /docs/w7ps/
+      - title: "Week 8 PS"
+        url: /docs/w8ps/
       - title: "Week 9 PS"
         url: /docs/w9ps/
+        
         
         
