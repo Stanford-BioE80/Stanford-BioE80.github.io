@@ -4,12 +4,16 @@ last_modified_at: Feb.20.2019
 toc: true
 ---
 
+## Human Health and Flourishing
 Please read and consider the below before start of each class.
 The questions given are only study questions not homework to be graded.
 Talk about it all with your classmates, friends, or TAs, as you like.
 
-## Human Health and Flourishing
+## Material for Monday
 
+Briefly examine the article, The Burden of Disease and the Changing Task of Medicine, available from [link-1](https://www.nejm.org/doi/full/10.1056/NEJMp1113569) and also a summary of the same article from [link-2](https://www.businessinsider.com/leading-causes-of-death-from-1900-2010-2012-6?op=1).  
+
+**Q.1. How has the burden of disease changed over time?**
 
 ## Preclass for Wednesday
 
