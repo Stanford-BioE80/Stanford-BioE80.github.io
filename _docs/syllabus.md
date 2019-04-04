@@ -47,9 +47,9 @@ Marcos Torres; Office Hours 3:30p Tue @ Shriram Tea Room; [marcostorres@stanford
 
 ### Education Fellows
 
-Dr. Siavash Ahrar; Office Hours 1:30p @ Shriram Tea Room; [sahrar@stanford.edu](mailto:sahrar@stanford.edu)
+Dr. Siavash Ahrar; Office Hours 1:30p Thu @ Shriram Tea Room; [sahrar@stanford.edu](mailto:sahrar@stanford.edu)
 
-Dr. Veronica Brand; Office Hours 1:30p @ Shriram Tea Room; [vrangel@stanford.edu](mailto:vrangel@stanford.edu)
+Dr. Veronica Brand; Office Hours 1:30p Thu @ Shriram Tea Room; [vrangel@stanford.edu](mailto:vrangel@stanford.edu)
 
 ### Teaching Staff
 
