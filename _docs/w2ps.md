@@ -56,9 +56,13 @@ In doing so, they created the "fabless foundry" industry that has helped shape o
 
 Engineering living matter has not yet undergone the same type of decoupling and standardization of different aspects of the DBT cycle that ushered in massive change in other fields (standardization of screws, outsourcing chip fabrication with Mosis). People who want to make customized DNA often have to do so own their own, spending months to construct and validate a single piece of a DNA sequence. Recently, with the commercialization of DNA synthesis technologies, it has become possible to order customized genes, but this process is expensive. 
 
+**Q.1.d.** Thinking to the future, if more and more Design, Build, and Test companies blossom in industry, what would be the role of the researcher? Could you outsource a research project and would it be cheaper / faster? Is that good? (bullet points)
+
 [Free Genes Project](https://biobricks.org/freegenes/) wants to bring ideas of decoupling and the "fabless foundry" to the engineering of DNA.
 
-**Q.1.d.** Go to company websites (minimum of 3 for the problem set) and determine in which "sector" they are situated (D, B, or T) and what do they do:
+**Q.1.e.** Visit the Free Genes Project website. Briefly describe how it works. Who is responsible for each aspect? (bullet points)
+
+**Q.1.f.** Go to company websites (3 for the problem set) and determine in which "sector" they are situated (D, B, or T) and what do they do:
 
 **[Twist Biosciences](https://twistbioscience.com/company/about)**
 
@@ -73,10 +77,6 @@ Engineering living matter has not yet undergone the same type of decoupling and 
 **[Nektar](http://www.nektar.com/)**
 
 **[MycoWorks](http://www.mycoworks.com/)**
-
-**Q.1.e.** Thinking to the future, if more and more Design, Build, and Test companies blossom in industry, what would be the role of the researcher? Could you outsource a research project and would it be cheaper / faster? Is that good? (bullet points)
-
-**Q.1.f.** Visit the Free Genes Project website. Briefly describe how it works. Who is responsible for each aspect? (bullet points)
 
 ## (Q2) Approximate and rapid numerical estimates (40 pts)
 
@@ -125,11 +125,11 @@ What are the potential and limitations of making with mushrooms? (bullet points)
 
 There are several great spots on campus to explore and bioprospect in search of newmushrooms that could potentially be used for making materials. 
 
-For this activity you can explore the variety of fungal diversity outside (even theengineering quad has fungi to discover!).
+For this activity you can explore the variety of fungal diversity outside (even the engineering quad has fungi to discover!).
+
+**Please don’t disturb or eat any mushrooms you find for this extra credit.**
 
 Find a mushroom on campus, take a photo of it, and note your location (GPS coordinates via your phone) and other characteristics such as the surrounding ecology.  Document your finding by including a paragraph description, your photo, and the location of your find in your PSET submission. 
-
-Please don’t disturb or eat any mushrooms you find for this extra credit.
 
 For more info/inspiration you might check out:
 
