@@ -124,7 +124,7 @@ For more info/inspiration you might check out:
 **Your questions**
 Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
-**Extra learning** (100% optional):
+## Extra learning (100% optional):
 
 ## (Q5) When are we 'done'? (0 pts)
 
@@ -151,6 +151,8 @@ Working from our design specifications and field standards, we can outline an ac
 By releasing videos of their failed launches, which include detailed annotations of which system failed the SpaceX team is reminding us that success can only be achieved after repeated failures. It is part of the process. They show us how to fail properly. 
 
 **Q.5.d.** Give an example of a biological experiment you might conduct where using _both_ GFP and your selected fluorescent protein could be useful. Describe the experiment in no more than a few sentences. Draw upon what you've learned about how fluorescent proteins are expressed using DNA constructs (genes).
+
+## (Q6) Which Sector? (0 pts)
 
 **Q.6.** Go to company websites (3 for the problem set) and determine in which "sector" they are situated (D, B, or T) and what do they do:
 
