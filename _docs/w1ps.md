@@ -47,6 +47,10 @@ Why did you pick your choice?
 
 Relax again. Close your eyes and look inside yourself. Relax some more. Might you want to be an Explorer of the Unknown?  Or, a Maker of New Things? Choose one path to follow for now. Note: You must only focus on one path for now so that you can really push yourself in the context of this activity. Use your answer to Step 1 to think about your choice. 
 
+  If you picked DARN!!!  please go to the Maker step.
+  
+  If you picked  COOL!!! please go to the Explorer step.
+
 ### Explorer or Maker - Step 3
 
 If you are an Explorer then please go to the Explorer Step
