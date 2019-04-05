@@ -119,7 +119,7 @@ For more info/inspiration you might check out:
 
 - https://www.mssf.org/
 
-**Final Note:** This week you explored the concepts behind Design-Build-Test. You also practiced DBT in the context of design tools for living matter (pyMol), decoupled build from design (ordered a gene to be synthesized), and tested a DNA device (via GOOP). DBT is an essential framework that you will apply to many (bio)engineering challenges. You will explore and practice DBT in many BIOE classes: BIOE 44 (Fundamentals for Engineering Biology Lab), BIOE 123 (Biomedical System Prototyping Lab), and BIOE 141 A and B (Senior Capstone Design).
+**Final Note:** This week you explored the concepts behind Design-Build-Test. You also practiced DBT in the context of *Making with Mushrooms* and the decoupled build from design: *The Free Genes Project*. You will explore and practice DBT in many BIOE classes: BIOE 44 (Fundamentals for Engineering Biology Lab), BIOE 123 (Biomedical System Prototyping Lab), and BIOE 141 A and B (Senior Capstone Design).
 
 **Your questions**
 Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
