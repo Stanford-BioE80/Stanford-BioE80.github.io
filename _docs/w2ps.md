@@ -24,9 +24,7 @@ In doing so, they created the "fabless foundry" industry that has helped shape o
 
 **Q.1.a.** How does Mosis work? What feature(s) makes this service better than others that had previously been used? (bullet points)
 
-**Q.1.b.** If you were designing a chip, what advantage does Mosis provide? Why would you use it? (bullet points)
-
-**Q.1.c.** How does the Mosis cycle compare (similarities and differences) to the DBT cycle you saw with KumaMax? Fill in the following table to compare and contrast the DBT workflow in each case, highlighting who is responsible for each step, and what tools they use in the completion of this task.
+**Q.1.b.** How does the Mosis cycle compare (similarities and differences) to the DBT cycle you saw with KumaMax? Fill in the following table to compare and contrast the DBT workflow in each case, highlighting who is responsible for each step, and what tools they use in the completion of this task.
 
 <table>
   <tr>
@@ -56,27 +54,11 @@ In doing so, they created the "fabless foundry" industry that has helped shape o
 
 Engineering living matter has not yet undergone the same type of decoupling and standardization of different aspects of the DBT cycle that ushered in massive change in other fields (standardization of screws, outsourcing chip fabrication with Mosis). People who want to make customized DNA often have to do so own their own, spending months to construct and validate a single piece of a DNA sequence. Recently, with the commercialization of DNA synthesis technologies, it has become possible to order customized genes, but this process is expensive. 
 
-**Q.1.d.** Thinking to the future, if more and more Design, Build, and Test companies blossom in industry, what would be the role of the researcher? Could you outsource a research project and would it be cheaper / faster? Is that good? (bullet points)
+**Q.1.c.** Thinking to the future, if more and more Design, Build, and Test companies blossom in industry, what would be the role of the researcher? Could you outsource a research project and would it be cheaper / faster? Is that good? (bullet points)
 
 [Free Genes Project](https://biobricks.org/freegenes/) wants to bring ideas of decoupling and the "fabless foundry" to the engineering of DNA.
 
-**Q.1.e.** Visit the Free Genes Project website. Briefly describe how it works. Who is responsible for each aspect? (bullet points)
-
-**Q.1.f.** Go to company websites (3 for the problem set) and determine in which "sector" they are situated (D, B, or T) and what do they do:
-
-**[Twist Biosciences](https://twistbioscience.com/company/about)**
-
-**[Ginkgo Bioworks](https://www.ginkgobioworks.com/)**
-
-**[Amyris](https://amyris.com/)**
-
-**[EnEvolv](http://enevolv.com/platform/)**
-
-**[Bolt Threads](https://boltthreads.com/)**
-
-**[Nektar](http://www.nektar.com/)**
-
-**[MycoWorks](http://www.mycoworks.com/)**
+**Q.1.d.** Visit the Free Genes Project website. Briefly describe how it works. Who is responsible for each aspect? (bullet points)
 
 ## (Q2) Approximate and rapid numerical estimates (40 pts)
 
@@ -169,3 +151,19 @@ Working from our design specifications and field standards, we can outline an ac
 By releasing videos of their failed launches, which include detailed annotations of which system failed the SpaceX team is reminding us that success can only be achieved after repeated failures. It is part of the process. They show us how to fail properly. 
 
 **Q.5.d.** Give an example of a biological experiment you might conduct where using _both_ GFP and your selected fluorescent protein could be useful. Describe the experiment in no more than a few sentences. Draw upon what you've learned about how fluorescent proteins are expressed using DNA constructs (genes).
+
+**Q.6.** Go to company websites (3 for the problem set) and determine in which "sector" they are situated (D, B, or T) and what do they do:
+
+**[Twist Biosciences](https://twistbioscience.com/company/about)**
+
+**[Ginkgo Bioworks](https://www.ginkgobioworks.com/)**
+
+**[Amyris](https://amyris.com/)**
+
+**[EnEvolv](http://enevolv.com/platform/)**
+
+**[Bolt Threads](https://boltthreads.com/)**
+
+**[Nektar](http://www.nektar.com/)**
+
+**[MycoWorks](http://www.mycoworks.com/)**
