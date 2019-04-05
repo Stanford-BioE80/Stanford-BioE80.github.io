@@ -22,9 +22,9 @@ Before the advent of this shared implementation service, researchers and others 
 
 In doing so, they created the "fabless foundry" industry that has helped shape our society today. Watch this [video](https://www.youtube.com/watch?v=d5SEFE_49Ug) made by Mosis explaining the workflow for using their service. As you do, pay special attention to each step of the workflow, who is involved, and which part of the DBT cycle is shown.
 
-**Q.1.a.** How does Mosis work? What feature(s) makes this service better than others that had previously been used? (bubullet points)
+**Q.1.a.** How does Mosis work? What feature(s) makes this service better than others that had previously been used? (bullet points)
 
-**Q.1.b.** If you were designing a chip, what advantage does Mosis provide? Why would you use it? (~100 words)
+**Q.1.b.** If you were designing a chip, what advantage does Mosis provide? Why would you use it? (bullet points)
 
 **Q.1.c.** How does the Mosis cycle compare (similarities and differences) to the DBT cycle you saw with KumaMax? Fill in the following table to compare and contrast the DBT workflow in each case, highlighting who is responsible for each step, and what tools they use in the completion of this task.
 
@@ -56,7 +56,7 @@ In doing so, they created the "fabless foundry" industry that has helped shape o
 
 Engineering living matter has not yet undergone the same type of decoupling and standardization of different aspects of the DBT cycle that ushered in massive change in other fields (standardization of screws, outsourcing chip fabrication with Mosis). People who want to make customized DNA often have to do so own their own, spending months to construct and validate a single piece of a DNA sequence. Recently, with the commercialization of DNA synthesis technologies, it has become possible to order customized genes, but this process is expensive. 
 
-As we saw in class, the [Free Genes Project](https://biobricks.org/freegenes/) wants to bring ideas of decoupling and the "fabless foundry" to the engineering of DNA.
+[Free Genes Project](https://biobricks.org/freegenes/) wants to bring ideas of decoupling and the "fabless foundry" to the engineering of DNA.
 
 **Q.1.d.** Go to company websites (minimum of 3 for the problem set) and determine in which "sector" they are situated (D, B, or T) and what do they do:
 
@@ -74,9 +74,9 @@ As we saw in class, the [Free Genes Project](https://biobricks.org/freegenes/) w
 
 **[MycoWorks](http://www.mycoworks.com/)**
 
-**Q.1.e.** Thinking to the future, if more and more Design, Build, and Test companies blossom in industry, what would be the role of the researcher? Could you outsource a research project and would it be cheaper / faster? Is that good? (<200 words)
+**Q.1.e.** Thinking to the future, if more and more Design, Build, and Test companies blossom in industry, what would be the role of the researcher? Could you outsource a research project and would it be cheaper / faster? Is that good? (bullet points)
 
-**Q.1.f.** Visit the Free Genes Project website. Briefly describe how it works. Who is responsible for each aspect? (<150 words)
+**Q.1.f.** Visit the Free Genes Project website. Briefly describe how it works. Who is responsible for each aspect? (bullet points)
 
 ## (Q2) Approximate and rapid numerical estimates (40 pts)
 
