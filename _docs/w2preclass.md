@@ -257,57 +257,6 @@ Not too long ago, people who wanted to make customized DNA had to do so with the
 
 ______________________________________________________
 
-## Alternative Material for Wednesday (This was used in 2018)
-
-(two pages of text plus six external links follow; 30’suggested time)
-
-Your primary goal in studying this specific pre-class material is to understand, from historical developments in electronics that emerged over a generation ago, how qualitative structural changes in aDesign, Build, Test workflow can emerge over time –changes that impactwho does what type of workand why.
-
-
-### Mead & Conway revolution
-
-To get started quickly skim the following Wikipediaentry regarding the Mead & Conway revolution in Very Large Scale Integration (VLSI) circuit engineering: [link](https://en.wikipedia.org/wiki/Mead_%26_Conway_revolution)
-
-**Q.1.** Drawing fromthisarticle alone, what were some of the unique aspects orinnovations that contributed to the VLSI revolution?Consider this question specifically from the perspective of a design, build, and test workflow.
-
-Next, please skim the followingtwo articles that describethe 1978 VLSI designcourse Lynn Conway offered at MITas well as the recognition they received in 1981 from Electronics, a trade magazine:
-
-http://ai.eecs.umich.edu/people/conway/VLSI/MIT78/MIT78.html
-
-http://ai.eecs.umich.edu/people/conway/Awards/Electronics/ElectAchiev.html
-
-
-**Q.2.** Building on your answer from Q1 and the two additional articles linked above, what more specific changes or new aspects of the design, build, test workflow did Mead and Conway implement?  
-
-
-**Q.3.** How were their proposedchanges received at the time?  Did everyone like and benefit from them?  Who benefited?  Who, if anyone, was threatened?
-
-Consider one practical legacy of what you’ve learnedso far that still exists and operates in support of research and development in electronicstoday, the Metal Oxide Semiconductor Implementation Service(MOSIS).  
-
-Learn more initially via:
-
-https://en.wikipedia.org/wiki/MOSIS
-
-Next, please consider MOSIS itself directly:
-
-https://www.mosis.com/
-
-https://www.mosis.com/products/fab-schedule
-
-
-Looking at the second linkjust above, note how almost any student or researchercan access manyof the most advanced silicon wafer fabrication platforms on Earth.
-
-**Q4.**  What is a multi-project wafer (MPW)?
-
-**Q5.**  When are designs next due in order to get space on a28nm resolution MPW fabrication run provided viathe Taiwan Semiconductor Manufacturing Company?
-
-**Q6.**  Giventhe above as context, and based on what you know thus far from talking with your friends or from your own direct experience in bioengineering or biology labs either at Stanford or before, how is the workflow in biology and bioengineering research different (if at all) from what is represented via the examples of VLSI design, multi-project wafers, and MOSIS?  
-
-**Q7.**  Are any differences you note or can imagine via Q6 the result of intrinsic physical differences betweensilicon-based systems versus living systems, or more to do with how people choose to organize themselves within and around technology?
-
-
-______________________________________________________
-
 ## Material for Friday
 
 In-class goal: You will make your own mycelium material object. 
