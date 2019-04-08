@@ -87,8 +87,8 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
 | Mon 1 April | 320-105     |Hello; course mechanics; initial questions; opening tour; Future impacts of bioengineering |
-| Wed 3 April  | 320-105    | What's special about living matter? Show me the evidence - papers! |
-| Fri 5 April  | SC 112/132 |Make your foldscope; embrace nature **(PSET 1)** |
+| Wed 3 April | 320-105     | What's special about living matter? Show me the evidence - papers! |
+| Fri 5 April | SC 112/132  |Make your foldscope; embrace nature **(PSET 1)** |
 
 **Lead Instructors**: Drew and Jan
 
@@ -96,11 +96,11 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 ## Week 2: How do design, build, and test tools work to support bioengineering?
 
-| Day         | Location    | Title  |
-| ----------- | ----------- | -------|
-| Mon 8 April | 320-105     | How do engineers engineer with, of, and for biology? |
-| Wed 10 April | 320-105    | How will engineers engineer biology? |
-| Fri 12 April | SC 112/132 | Make with Mushrooms **(PSET 2)** |
+| Day          | Location    | Title  |
+| -----------  | ----------- | -------|
+| Mon 8 April  | 320-105     | How do engineers engineer with, of, and for biology? |
+| Wed 10 April | 320-105     | How will engineers engineer biology? |
+| Fri 12 April | SC 112/132  | Make with Mushrooms **(PSET 2)** |
 
 **Lead Instructor**: Drew
 
@@ -108,9 +108,9 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 ## Week 3: Abstraction as a tool for managing complexity in bioengineering
 
-| Day         | Location    | Title  |
-| ----------- | ----------- | -------|
-| Mon 15 April| 320-105    | How to implement Boolean logic in DNA? |
+| Day          | Location   | Title  |
+| ------------ | ---------- | -------|
+| Mon 15 April | 320-105    | How to implement Boolean logic in DNA? |
 | Wed 17 April | 320-105    | How to architect arbitrary genetic systems? |
 | Fri 19 April | SC 112/132 | GOOP and Abstraction **(PSET 3)** |
 
@@ -120,9 +120,9 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 ## Week 4: Human Health and Flourishing
 
-| Day         | Location    | Title  |
-| ----------- | ----------- | -------|
-| Mon 22 April| 320-105    | What will you die of?|
+| Day          | Location    | Title  |
+| ------------ | ----------- | -------|
+| Mon 22 April | 320-105     | What will you die of?|
 | Wed 24 April | 320-105    | Health in 2030 |
 | Fri 26 April | SC 112/132 | Brainstorming Needs (Project Activity) **(PSET 4)** |
 
@@ -134,9 +134,9 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
-| Mon 29 April| 320-105    | What is evolution from an engineering perspective?|
-| Wed 01 May | 320-105    | How to use and change evolution? |
-| Fri 26 May | SC 112/132 | Meet your Microbes **(PSET 5)** |
+| Mon 29 April| 320-105     | What is evolution from an engineering perspective?|
+| Wed 01 May  | 320-105     | How to use and change evolution? |
+| Fri 03 May  | SC 112/132  | Meet your Microbes **(PSET 5)** |
 
 **Lead Instructor**:  Jan
 
@@ -146,9 +146,9 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
-| Mon 06 May| 320-105    |  How much better can DNA synthesis get? So what?|
-| Wed 08 May | 320-105    | What happens as genetic material becomes equivalent to information? |
-| Fri 10 May | SC 112/132 | Project Activity **(PSET 6)** |
+| Mon 06 May  | 320-105     | How much better can DNA synthesis get? So what? |
+| Wed 08 May  | 320-105     | What happens as genetic material becomes equivalent to information? |
+| Fri 10 May  | SC 112/132  | Project Activity **(PSET 6)** |
 
  **Lead Instructor**:  Drew
 
@@ -158,9 +158,9 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
-| Mon 13 May| 320-105    | Why do people work to solve problems via bioengineering?|
-| Wed 15 May | 320-105    |Citizenship & Humanity - Hobbes vs Hobbyist |
-| Fri 17 May | SC 112/132 | Gene Drives **(PSET 7)** |
+| Mon 13 May  | 320-105     | Why do people work to solve problems via bioengineering? |
+| Wed 15 May  | 320-105     | Citizenship & Humanity - Hobbes vs Hobbyist |
+| Fri 17 May  | SC 112/132  | Gene Drives **(PSET 7)** |
 
 **Lead Instructor**:  Drew
 
@@ -170,9 +170,9 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
-| Mon 20 May| 320-105    | Molecular diffusion, what is it and why does it matter to bioengr.?|
-| Wed 22 May | 320-105    |Patterns via development; e.g., could you grow an arm? |
-| Fri 24 May | SC 112/132 | Dancing droplets; "programming" autonomous objects **(PSET 8)** |
+| Mon 20 May  | 320-105     | Molecular diffusion, what is it and why does it matter to bioengineering?|
+| Wed 22 May  | 320-105     | Patterns via development; e.g., could you grow an arm? |
+| Fri 24 May  | SC 112/132  | Dancing droplets; "programming" autonomous objects **(PSET 8)** |
 
  **Lead Instructor**:  Jan
 
@@ -182,9 +182,9 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
-| Mon 27 May  | No class    | Memorial Day|
-| Wed 29 May  | 320-105    | How to parse a research paper on the frontiers of bioeng.  |
-| Fri 31 May  | 320-105 |Why is humpty dumpty more than just a nursery rhyme? **(PSET 9)** |
+| Mon 27 May  | No class    | Memorial Day |
+| Wed 29 May  | 320-105     | How to parse a research paper on the frontiers of bioengineering. |
+| Fri 31 May  | 320-105     | Why is humpty dumpty more than just a nursery rhyme? **(PSET 9)** |
 
 **Lead Instructor**:  Jan
 
@@ -193,8 +193,8 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
-| Mon 3 June| 320-105    | Why engineer biology? & How much can we make with biology?|
-| Wed 5 June | 320-105    |Summary and sendoff  |
+| Mon 3 June  | 320-105     | Why engineer biology? & How much can we make with biology? |
+| Wed 5 June  | 320-105     | Summary and sendoff |
 
 **Lead Instructors**: Jan and Drew
 
