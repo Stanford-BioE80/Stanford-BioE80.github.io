@@ -25,7 +25,7 @@ Activity Space (most Fridays): Shriram Center Rooms 112 & 132
 
 ### Instructors
 
-Prof. Drew Endy; Office Hours Mon 4p & Wed 4p @ Shriram 252; [endy@stanford.edu](mailto:endy@stanford.edu)
+Prof. Drew Endy; Office Hours Mon 10a and by appointment @ Shriram 252; [endy@stanford.edu](mailto:endy@stanford.edu)
 
 Prof. Jan Liphardt; Office Hours Mon 10a & Fri 3p @ Shriram 005; [jan.liphardt@stanford.edu](mailto:jan.liphardt@stanford.edu)
 
