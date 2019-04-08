@@ -207,3 +207,6 @@ Students who may need an academic accommodation based on the impact of a disabil
 <a href="/assets/images/Bioe80-2019- Roadmap Map .003.png"><img src="/assets/images/Bioe80-2019- Roadmap Map .003.png"></a>
 <a href="/assets/images/Bioe80-2019- Roadmap Map .004.png"><img src="/assets/images/Bioe80-2019- Roadmap Map .004.png"></a>
 </figure>
+
+## Extra Resources
+[David Goodsell (2009): The Machinery of Life](https://link.springer.com/book/10.1007%2F978-0-387-84925-6)
