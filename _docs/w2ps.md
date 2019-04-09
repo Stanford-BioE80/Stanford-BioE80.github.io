@@ -12,7 +12,7 @@ toc: true
   - Please turn in your completed problem sets as an electronic copy via Canvas. 
   - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations) 
 
-**GOALS:** Reflect on the engineering design cycle: Design, Build, and Test (DBT) and its role in Bioengineering. Prepare for quantitative estimations in living matter (both related to what makes living matter unique and DBT cycles).
+**GOALS:** Reflect on the engineering design cycle: Design, Build, and Test (DBT) and its role in Bioengineering. 
 
 ## (Q1) MOSIS (20 pts)
 
@@ -95,7 +95,6 @@ To do so:
 
 
 9. Take a screenshot of your highlighted protein structure for the problem set 2.
-
 
 **Q.2.c.**  Why do you think the barrel structure might be necessary around the chromophore? (Hint: think about how the barrel structure might help the chromophore maturation process) (bullet points)
 
