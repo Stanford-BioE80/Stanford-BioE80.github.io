@@ -54,11 +54,9 @@ In doing so, they created the "fabless foundry" industry that has helped shape o
 
 Engineering living matter has not yet undergone the same type of decoupling and standardization of different aspects of the DBT cycle that ushered in massive change in other fields (standardization of screws, outsourcing chip fabrication with Mosis). People who want to make customized DNA often have to do so own their own, spending months to construct and validate a single piece of a DNA sequence. Recently, with the commercialization of DNA synthesis technologies, it has become possible to order customized genes, but this process is expensive. 
 
-**Q.1.c.** Thinking to the future, if more and more Design, Build, and Test companies blossom in industry, what would be the role of the researcher? Could you outsource a research project and would it be cheaper / faster? Is that good? (bullet points)
-
 [Free Genes Project](https://biobricks.org/freegenes/) wants to bring ideas of decoupling and the "fabless foundry" to the engineering of DNA.
 
-**Q.1.d.** Visit the Free Genes Project website. Briefly describe how it works. Who is responsible for each aspect? (bullet points)
+**Q.1.c.** Visit the Free Genes Project website. Briefly describe how it works. Who is responsible for each aspect? (bullet points)
 
 ## (Q2) Revisiting Design Tools (PyMol) (30 pts)
 
@@ -116,7 +114,7 @@ What are the potential and limitations of making with mushrooms? (bullet points)
 
 **Q.3.d.**  Looking forward, how do we go from creating matter with an inert function (e.g., a chair) to creat matter with biological function (i.e., growing a finger or a heart)? What new considerations need to be made? 
 
-## (Q4) Prepare for the Group Project
+## (Q4) Prepare for the Group Project (20 pts)
 This question seeks to enable you to prepare for the group formation for the final project.  Specifically, you will prepare an introduction card that you will exchange with your classmates during the group formations to self organize into your group.
 
 First, revisit [Kiva](https://www.kiva.org/about) from the pre-class reading. Note that you can select various sectors (health, food, agriculture, arts, education,  ... ) or locations across the world. [Kiva link-2]( https://www.kiva.org/lend)
@@ -127,20 +125,18 @@ First, revisit [Kiva](https://www.kiva.org/about) from the pre-class reading. No
 
 **Q.4.c.**   Pick a location (ideally a region that you are not familiar with).  What are 3 to 4 specific requests that people from this location have? 
 
-**Q.4.cd**  What role, imagined or as yet unimagined, can bioengineering play in addressing these requests? (2 to 3 sentences).
+**Q.4.d.**  What role, imagined or as yet unimagined, can bioengineering play in addressing these requests? (2 to 3 sentences).
 
 Provide the answers as part of problem set-2.  
 Additionally, you will need to bring your answers as part of the in-class  activity: Brainstorming Needs on Week-4 (Fri 26 April)
 
 **Extra Credit (5 points)**
 
-There are several great spots on campus to explore and bioprospect in search of newmushrooms that could potentially be used for making materials. 
-
-For this activity you can explore the variety of fungal diversity outside (even the engineering quad has fungi to discover!).
+There are several great spots on campus to explore and bioprospect in search of new mushrooms. For this activity you can explore the variety of fungal diversity outside (even the engineering quad has fungi to discover!).
 
 **Please don’t disturb or eat any mushrooms you find for this extra credit.**
 
-Find a mushroom on campus, take a photo of it, and note your location (GPS coordinates via your phone) and other characteristics such as the surrounding ecology.  Document your finding by including a paragraph description, your photo, and the location of your find in your PSET submission. 
+Find a mushroom on campus, take a photo of it, and note your location and other characteristics such as the surrounding ecology.  Document your finding by including a paragraph description, your photo, and the location of your find in your PSET submission. 
 
 For more info/inspiration you might check out:
 
@@ -155,7 +151,7 @@ Do you have any unanswered questions (from this week, past weeks, or general BIO
 
 ## Extra learning (100% optional):
 
-## (Q.6) When are we 'done'? (0 pts)
+### (Q.6) When are we 'done'? (0 pts)
 
 A crucial skill is determining when we are ready to exit the DBT cycle (if ever). This can be determined by a number of things, such as access to resources, allotted time, and meeting certain metrics of success. It can be challenging to know when you have found the proper balance of all of these. Luckily, our old friend DBT provides a guide to help with these considerations. That is what the Test part is all about: helping you determine when you have succeeded. 
 
@@ -179,7 +175,7 @@ Working from our design specifications and field standards, we can outline an ac
 
 By releasing videos of their failed launches, which include detailed annotations of which system failed the SpaceX team is reminding us that success can only be achieved after repeated failures. It is part of the process. They show us how to fail properly. 
 
-## (Q7) Which Sector? (0 pts)
+### (Q7) Which Sector? (0 pts)
 
 **Q.7.** Go to company websites (3 for the problem set) and determine in which "sector" they are situated (D, B, or T) and what do they do:
 
