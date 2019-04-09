@@ -94,14 +94,14 @@ _Escherichia coli_ (**Figure 1**) is well-studied bacteria considered to be repr
 
 ## (Q3) Making with Mushrooms(40 Points)
 
-3.a. Did you show up on Friday, make your mycelium material object? (Yes / No)
+**Q.3.a.** Did you show up on Friday, make your mycelium material object? (Yes / No)
 
-3.b. Describe in broad terms what processes unique to living matter are enabling building withmushrooms possible. 
+**Q.3.b.** Describe in broad terms what processes unique to living matter are enabling building withmushrooms possible. 
 What are the potential and limitations of making with mushrooms? (bullet points)
 
-3.c. How is making with mushrooms similar to or different from other manufacturing processessuch as 3D printing? (bullet points)
+**Q.3.c.**  How is making with mushrooms similar to or different from other manufacturing processessuch as 3D printing? (bullet points)
 
-3.d. Looking forward, how do we go from creating matter with an inert function (e.g., a chair) to creat matter with biological function (i.e., growing a finger or a heart)? What new considerations need to be made? 
+**Q.3.d.**  Looking forward, how do we go from creating matter with an inert function (e.g., a chair) to creat matter with biological function (i.e., growing a finger or a heart)? What new considerations need to be made? 
 
 **Extra Credit (5 points)**
 
