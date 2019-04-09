@@ -60,37 +60,44 @@ Engineering living matter has not yet undergone the same type of decoupling and 
 
 **Q.1.d.** Visit the Free Genes Project website. Briefly describe how it works. Who is responsible for each aspect? (bullet points)
 
-## (Q2) Approximate and rapid numerical estimates (40 pts)
+## (Q2) Revisiting Design Tools (PyMol) (30 pts)
 
-Approximations based on simple physical principles are known as Fermi problems. These problems will help you build quantitative intuition. This quantitative intuition will help you during the DBT cycle (estimating feasibility). Most of these estimates are rough: they are designed to give you a broad, order of magnitude intuition for the biology, so keep in mind that that the exactly correct number could be different. Give your answers to two significant figures and provide units where appropriate. You should only need simple math and arithmetic; a couple of lines of work at most. 
+In this problem, you will use PyMol to visualize green fluorescent protein (GFP).
+Check out the website where the GFP structure is housed: [https://www.rcsb.org/structure/1gfl](https://www.rcsb.org/structure/1gfl). 
 
-Additional resources: bionumbers is an excellent source for biological numbers [link](http://bionumbers.hms.harvard.edu/) . "_Cell Biology by the Numbers_" is a great book on estimation problems in biology. You can get a free copy of the draft version [here](http://book.bionumbers.org/).
+**Q.2.a.** What is the experimental method used to get the structure of the protein? What is the listed resolution of the structure? (bullet points)
 
-_Escherichia coli_ (**Figure 1**) is well-studied bacteria considered to be representative of how bacterial systems work generally (i.e., a 'model' organism). _E. coli_ is also easy to grow in the lab and divides rapidly (about 20 mins). As a result, _E. coli_ is frequently used in bioengineering either as a model organism (to be studied or engineered directly) or as a host to generate large copies of user defined DNA. You will see (and setup your own in BIOE44) cultures tubes of _E. coli_ (with medium - food for bacteria) often growing overnight on shaking incubators (set to 37C) (**Figure 2**).
+**Q.2.b.** Add a screenshot of your GFP structure in PyMol with the chromophore highlighted in red. 
+
+To do so:
+
+1. Downloaded PyMol from this [Pymol Link]( https://pymol.org/2/) and Open PyMol on your laptop or computer. 
+
+2. Type in the command “fetch 1gfl” in PyMol. This command downloads the structure ofGreen Fluorescent Protein (GFP) from the Protein Data Bank (PDB)
+ 
+3. Check out the website where the GFP structure is housed:  https://www.rcsb.org/structure/1gfl
+
+4. Go back to PyMol and take a look at the GFP structure.  Click Hide everything and ‘Show cartoon’, under the menus “H” and “S”  listed near the structure name on the toolbar on the right. The GFP structure is a *beta barrel*. This means it is made up of a  barrel formed by *beta strands*, a known type of secondary structure proteins adopt.
+
+5. Click on   <Mouse → 1 button viewing> to enable scrolling.
+
+6. Click on   <Display → Sequence On> to see the amino acid sequence for GFP.
+
+7. Select residues 64-66 SYG and color these residues red. This is the *chromophore* of GFP, the portion of the molecule responsible for the fluorescence.
+
+8. Render the SYG portion of the protein as ‘sticks’. You should now be able to see the cyclized ring of the GFP chromophore. This cyclization, as shown below, is part of the *maturation* process of the protein -- after maturation, the protein is able to fluoresce.
 
 <figure>
-<a href="/assets/images/w2pc_ecoli.png"><img src="/assets/images/w2pc_ecoli.png"></a>
-<figcaption><b>Figure 1</b>.
-<i>E. coli</i> is shaped like a rod, which we can approximate as a spherocylinder: a cylinder with hemispherical caps. Of note, MG1655 is a strain derived from a lineage of <i>E. coli</i> variants that was originally isolated from a diphtheria patient at the Palo Alto hospital in 1922.
-<a href="https://??????????">Source TBD</a>
-</figcaption>
+<a href="/assets/images/w2ic_gfp_cyclization.png"><img src="/assets/images/w2ic_gfp_cyclization.png"></a>
 </figure>
 
-<figure>
-<a href="/assets/images/w2pc_ecoligrowth.png"><img src="/assets/images/w2pc_ecoligrowth.png"></a>
-<figcaption><b>Figure 2</b>.
-<i>E. coli</i> grown to saturation (after 8-12 hours). <i>E. coli</i> divides about every 20 mins. 
-<a href="http://book.bionumbers.org/">Source: Cell Biology by the Numbers</a>
-</figcaption>
-</figure>
+[source](http://www.cryst.bbk.ac.uk/PPS2/projects/jonda/chromoph.htm)
 
-**Q.2.a.** Based on a spherocylinder model, calculate the volume of an _E. coli_ cell. 
 
-**Q.2.b.** If an _E. coli_ cell were the size of a building, how big would a water molecule be?
+9. Take a screenshot of your highlighted protein structure for the problem set 2.
 
-**Q.2.c.** The mean diameter of a protein is roughly 4 nm. What is the upper bound on how many proteins could fit inside an *E. coli* cell?
 
-**Q.2.d.** How would you go about estimating the total number of carbon atoms in an *E.coli* cell? You don't have to calculate this just define variables and describe your approach step by step. 
+**Q.2.c.**  Why do you think the barrel structure might be necessary around the chromophore? (Hint: think about how the barrel structure might help the chromophore maturation process) (bullet points)
 
 ## (Q3) Making with Mushrooms(40 Points)
 
