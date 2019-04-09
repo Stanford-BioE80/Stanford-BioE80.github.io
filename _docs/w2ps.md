@@ -5,7 +5,7 @@ last_modified_at: 2018-11-25T22:21:33-05:00
 toc: true
 ---
 
-**DUE:** Next Friday, beginning of class.
+**DUE:** Next Friday(April.19), beginning of class.
 
 **NOTES:** 
   - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
@@ -67,7 +67,7 @@ Check out the website where the GFP structure is housed: [https://www.rcsb.org/s
 
 **Q.2.a.** What is the experimental method used to get the structure of the protein? What is the listed resolution of the structure? (bullet points)
 
-**Q.2.b.** Add a screenshot of your GFP structure in PyMol with the chromophore highlighted in red. 
+**Q.2.b.** Add a screenshot of your GFP structure in PyMol with the chromophore (part of a molecule responsible for its color) highlighted in red. 
 
 To do so:
 
@@ -75,7 +75,7 @@ To do so:
 
 2. Type in the command “fetch 1gfl” in PyMol. This command downloads the structure ofGreen Fluorescent Protein (GFP) from the Protein Data Bank (PDB)
  
-3. Check out the website where the GFP structure is housed:  https://www.rcsb.org/structure/1gfl
+3. Check out the website where the GFP structure is housed: [GFP](https://www.rcsb.org/structure/1gfl)
 
 4. Go back to PyMol and take a look at the GFP structure.  Click Hide everything and ‘Show cartoon’, under the menus “H” and “S”  listed near the structure name on the toolbar on the right. The GFP structure is a *beta barrel*. This means it is made up of a  barrel formed by *beta strands*, a known type of secondary structure proteins adopt.
 
@@ -93,10 +93,17 @@ To do so:
 
 [source](http://www.cryst.bbk.ac.uk/PPS2/projects/jonda/chromoph.htm)
 
-
-9. Take a screenshot of your highlighted protein structure for the problem set 2.
+9. Take a screenshot of your highlighted protein structure for the problem set.
 
 **Q.2.c.**  Why do you think the barrel structure might be necessary around the chromophore? (Hint: think about how the barrel structure might help the chromophore maturation process) (bullet points)
+
+#### Additional Resources (Fluorescent Proteins):
+
+1. Fluorescent Proteins and the Story Behind GFP (by Roger Tsien ibiology) [link](https://www.ibiology.org/talks/fluorescent-proteins/)
+
+2. Introduction to Fluorescent Proteins [link](https://www.microscopyu.com/techniques/fluorescence/introduction-to-fluorescent-proteins)
+
+3. Interactive graph describing Fluorescent protein properties [link](http://www.fpvis.org/FP.html)
 
 ## (Q3) Making with Mushrooms(40 Points)
 
@@ -108,6 +115,22 @@ What are the potential and limitations of making with mushrooms? (bullet points)
 **Q.3.c.**  How is making with mushrooms similar to or different from other manufacturing processessuch as 3D printing? (bullet points)
 
 **Q.3.d.**  Looking forward, how do we go from creating matter with an inert function (e.g., a chair) to creat matter with biological function (i.e., growing a finger or a heart)? What new considerations need to be made? 
+
+## (Q4) Prepare for the Group Project
+This question seeks to enable you to prepare for the group formation for the final project.  Specifically, you will prepare an introduction card that you will exchange with your classmates during the group formations to self organize into your group.
+
+First, revisit [Kiva](https://www.kiva.org/about) from the pre-class reading. Note that you can select various sectors (health, food, agriculture, arts, education,  ... ) or locations across the world. [Kiva link-2]( https://www.kiva.org/lend)
+
+**Q.4.a.** Name 3 sectors that are of interest to you?
+
+**Q.4.b.**  What role, imagined or as yet unimagined, can bioengineering play in addressing the needs in these sectors? (2 to 3 sentences)
+
+**Q.4.c.**   Pick a location (ideally a region that you are not familiar with).  What are 3 to 4 specific requests that people from this location have? 
+
+**Q.4.cd**  What role, imagined or as yet unimagined, can bioengineering play in addressing these requests? (2 to 3 sentences).
+
+Provide the answers as part of problem set-2.  
+Additionally, you will need to bring your answers as part of the in-class  activity: Brainstorming Needs on Week-4 (Fri 26 April)
 
 **Extra Credit (5 points)**
 
@@ -132,19 +155,19 @@ Do you have any unanswered questions (from this week, past weeks, or general BIO
 
 ## Extra learning (100% optional):
 
-## (Q5) When are we 'done'? (0 pts)
+## (Q.6) When are we 'done'? (0 pts)
 
 A crucial skill is determining when we are ready to exit the DBT cycle (if ever). This can be determined by a number of things, such as access to resources, allotted time, and meeting certain metrics of success. It can be challenging to know when you have found the proper balance of all of these. Luckily, our old friend DBT provides a guide to help with these considerations. That is what the Test part is all about: helping you determine when you have succeeded. 
 
 Let's look at a real example of Test in action. Watch this [video](https://www.youtube.com/watch?v=bvim4rsNHkQ&feature=youtu.be), and answer the following questions.
 
-**Q.5.a.** Are you surprised by the video? Why do you think the company behind this video wanted to share their testing process with the world? (<150 words)
+**Q.6.a.** Are you surprised by the video? Why do you think the company behind this video wanted to share their testing process with the world? (<150 words)
 
-**Q.5.b.** Can you guess what some of the design specifications and testing benchmarks were from the video? (<150 words)
+**Q.6.b.** Can you guess what some of the design specifications and testing benchmarks were from the video? (<150 words)
 
 Working from our design specifications and field standards, we can outline an acceptable margin of error. Once we get to a product that is within this range, we can say that we have succeeded and exit the cycle. But this is context, specific.
 
-**Q.5.c.** How would you determine acceptable margins of error in the cases we have seen. Think about the stakeholders (who would be affected by a failure of the product), and how they would be impacted. Which do you think would have a larger margin of error? Why? (<150 words)
+**Q.6.c.** How would you determine acceptable margins of error in the cases we have seen. Think about the stakeholders (who would be affected by a failure of the product), and how they would be impacted. Which do you think would have a larger margin of error? Why? (<150 words)
 
 1. KumaMax: Creating an oral enzyme therapeutic to treat Celiac Disease
 
@@ -156,9 +179,9 @@ Working from our design specifications and field standards, we can outline an ac
 
 By releasing videos of their failed launches, which include detailed annotations of which system failed the SpaceX team is reminding us that success can only be achieved after repeated failures. It is part of the process. They show us how to fail properly. 
 
-## (Q6) Which Sector? (0 pts)
+## (Q7) Which Sector? (0 pts)
 
-**Q.6.** Go to company websites (3 for the problem set) and determine in which "sector" they are situated (D, B, or T) and what do they do:
+**Q.7.** Go to company websites (3 for the problem set) and determine in which "sector" they are situated (D, B, or T) and what do they do:
 
 **[Twist Biosciences](https://twistbioscience.com/company/about)**
 
