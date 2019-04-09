@@ -107,14 +107,15 @@ To do so:
 
 **Q.3.a.** Did you show up on Friday, make your mycelium material object? (Yes / No)
 
-**Q.3.b.** Describe in broad terms what processes unique to living matter are enabling building withmushrooms possible. 
+**Q.3.b.** Describe in broad terms what processes unique to living matter are enabling building with mushrooms possible. 
 What are the potential and limitations of making with mushrooms? (bullet points)
 
-**Q.3.c.**  How is making with mushrooms similar to or different from other manufacturing processessuch as 3D printing? (bullet points)
+**Q.3.c.**  How is making with mushrooms similar to or different from other manufacturing processes such as 3D printing? (bullet points)
 
-**Q.3.d.**  Looking forward, how do we go from creating matter with an inert function (e.g., a chair) to creat matter with biological function (i.e., growing a finger or a heart)? What new considerations need to be made? 
+**Q.3.d.**  Looking forward, how do we go from creating matter with an inert function (e.g., a chair) to creat matter with biological function (i.e., growing a finger or a heart)? What new considerations need to be made? (3-4 sentences, provide drawings or diagrams if helpful)
 
 ## (Q4) Prepare for the Group Project (20 pts)
+
 This question seeks to enable you to prepare for the group formation for the final project.  Specifically, you will prepare an introduction card that you will exchange with your classmates during the group formations to self organize into your group.
 
 First, revisit [Kiva](https://www.kiva.org/about) from the pre-class reading. Note that you can select various sectors (health, food, agriculture, arts, education,  ... ) or locations across the world. [Kiva link-2]( https://www.kiva.org/lend)
@@ -128,7 +129,7 @@ First, revisit [Kiva](https://www.kiva.org/about) from the pre-class reading. No
 **Q.4.d.**  What role, imagined or as yet unimagined, can bioengineering play in addressing these requests? (2 to 3 sentences).
 
 Provide the answers as part of problem set-2.  
-Additionally, you will need to bring your answers as part of the in-class  activity: Brainstorming Needs on Week-4 (Fri 26 April)
+Additionally, you will need to bring your answers as introduction cards (for example written on index cards) as part of the in-class activity: Brainstorming Needs on Week-4 (Fri 26 April).  
 
 **Extra Credit (5 points)**
 
