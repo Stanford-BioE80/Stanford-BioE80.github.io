@@ -48,15 +48,7 @@ On Friday you were given two GOOP tubes, one tube of DNA (instruction to express
 
 **_Please give us feedback. Did you run into any problems? Do you have suggestions or comments?_**
 
-## (Q3) Revisiting Design Tools (PyMol) (30 pts)
-
-**Q.4.a.** Check out the website where the GFP structure is housed: [https://www.rcsb.org/structure/1gfl](https://www.rcsb.org/structure/1gfl). What is the experimental method used to get the structure of the protein? What is the listed resolution of the structure? (<150 words)
-
-**Q.4.b.** Add a screenshot of your GFP structure in PyMol with the chromophore highlighted in red. Why do you think the barrel structure might be necessary around the chromophore? (Hint: think about how the barrel structure might help the chromophore maturation process) (<150 words)
-
-**Q.4.c.** Find a structure on PDB for a fluorescent protein with emission wavelength _redder_ than GFP. Render that structure in PyMol and highlight its chromophore. What are the structural similarities between the structure of the fluorescent protein and GFP, if any? What are the qualitative differences between the chromophore of your selected protein and that of GFP?
-
-## (Q4) Bacterial edge detection (20 pts)
+## (Q3) Bacterial edge detection (20 pts)
 
 
 Building on work first published in 2005, Jeff Tabor and colleagues eventually demonstrated a 
@@ -68,10 +60,10 @@ results in formation of a dark pigment (HINT: see Figure and also the primary
 [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775486/))
 
 
-4.a. **Develop a device-level block diagram** that would result in the so-shown behavior. Label simple sensors, logic blocks, and actuators, as needed.  Connect outputs to inputsif and as required. (Hint:  Only give simple device names (e.g., “Dark sensor,” “pigmentactuator” etc.); do not describe any biology in any molecular detail).  (30 points)
+3.a. **Develop a device-level block diagram** that would result in the so-shown behavior. Label simple sensors, logic blocks, and actuators, as needed.  Connect outputs to inputsif and as required. (Hint:  Only give simple device names (e.g., “Dark sensor,” “pigmentactuator” etc.); do not describe any biology in any molecular detail).  (30 points)
 
 
-4.b. Take a look at the photo of the system in action. Note the edge detection in the case of asquare or Alfred Hitchcock’s portrait. **What do you observe?** For example, why is there more pigment inside the corners of the square, or inside the bottom left angle of Alfred’s portrait?  (bullet points, 10 points)
+3.b. Take a look at the photo of the system in action. Note the edge detection in the case of asquare or Alfred Hitchcock’s portrait. **What do you observe?** For example, why is there more pigment inside the corners of the square, or inside the bottom left angle of Alfred’s portrait?  (bullet points, 10 points)
 
 
 **Extra learning** (100% optional):
