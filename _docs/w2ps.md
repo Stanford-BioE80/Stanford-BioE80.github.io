@@ -102,7 +102,7 @@ What are the potential and limitations of making with mushrooms? (bullet points)
 
 **Q.4.c.**  How is making with mushrooms similar to or different from other manufacturing processes such as 3D printing? (bullet points)
 
-**Q.4.d.**  Looking forward, how do we go from creating matter with an inert function (e.g., a chair) to creat matter with biological function (i.e., growing a finger or a heart)? What new considerations need to be made? (3-4 sentences, provide drawings or diagrams if helpful)
+**Q.4.d.**  Looking forward, how do we go from creating matter with an inert function (e.g., a chair) to create matter with biological function (i.e., growing a finger or a heart)? What new considerations need to be made? (3-4 sentences, provide drawings or diagrams if helpful)
 
 ## (Q5) Prepare for the Group Project (20 pts)
 
