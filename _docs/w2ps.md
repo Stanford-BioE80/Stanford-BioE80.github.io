@@ -71,7 +71,7 @@ RAT
 
 **Q.2.c.** Now let's take a look at the first mutation we made: C1R. Below, you can see the chemical structures for each of these amino acids. List 2 differences and give a brief explanation of why those differences might be biologically meaningful. 
 
-<a title="C" href="https://commons.wikimedia.org/wiki/File:L-cysteine-2D-skeletal.png"><img width="128" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/L-cysteine-2D-skeletal.png/512px-L-cysteine-2D-skeletal.png"></a> <a title="R" href="https://commons.wikimedia.org/wiki/File:L-arginine.png"><img width="256" alt="L-arginine" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/L-arginine.png/512px-L-arginine.png"></a>
+<a title="C" href="https://commons.wikimedia.org/wiki/File:L-cysteine-2D-skeletal.png"><img width="128" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/L-cysteine-2D-skeletal.png/512px-L-cysteine-2D-skeletal.png"></a> <a title="R" href="https://commons.wikimedia.org/wiki/File:L-arginine.png"><img width="256" alt="R" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/L-arginine.png/512px-L-arginine.png"></a>
 
 **Amino Acid Structures.** Left: the C amino acid. Right: the R amino acid.
 
