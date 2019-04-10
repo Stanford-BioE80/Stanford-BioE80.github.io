@@ -20,9 +20,7 @@ toc: true
 
 In doing so, they created the "fabless foundry" industry that has helped shape our society today. Watch this [video](https://www.youtube.com/watch?v=d5SEFE_49Ug) made by MOSIS explaining the workflow for using their service. As you do, pay special attention to each step of the workflow, who is involved, and which part of the DBT cycle is shown.
 
-**Q.1.a.** How does MOSIS work? (bullet points)
-
-**Q.1.b.** How does the MOSIS cycle compare (similarities and differences) to the DBT cycle you saw with KumaMax? Fill in the following table to compare and contrast the DBT workflow in each case, highlighting who is responsible for each step, and what tools they use in the completion of this task.
+**Q.1.a.** How does the MOSIS cycle compare (similarities and differences) to the DBT cycle you saw with KumaMax? Fill in the following table to compare and contrast the DBT workflow in each case, highlighting who is responsible for each step, and what tools they use in the completion of this task.
 
 <table>
   <tr>
@@ -54,7 +52,7 @@ Engineering living matter has not yet undergone the same type of decoupling and 
 
 [Free Genes Project](https://biobricks.org/freegenes/) wants to bring ideas of decoupling and the "fabless foundry" to the engineering of DNA.
 
-**Q.1.c.** Visit the Free Genes Project website. Briefly describe how it works? Who is responsible for each aspect? (bullet points)
+**Q.1.b.** Visit the Free Genes Project website. Briefly describe how it works? Who is responsible for each aspect? (bullet points)
 
 ## (Q2) Revisiting Design Tools (PyMol) (30 pts)
 
