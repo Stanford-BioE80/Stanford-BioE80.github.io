@@ -31,7 +31,7 @@ Prof. Jan Liphardt; Office Hours Mon 10a & Fri 3p @ Shriram 005; [jan.liphardt@s
 
 ### Head Teaching Assistant
 
-Brandon Walker; Office Hours Thu 4:30p @ place tbd; [bmwalk@stanford.edu](mailto:bmwalk@stanford.edu)
+Brandon Walker; Office Hours Thu 4:30p @ Shriram Tea Room; [bmwalk@stanford.edu](mailto:bmwalk@stanford.edu)
 
 ### Teaching Assistants
 
