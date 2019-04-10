@@ -74,14 +74,12 @@ RAT
 ![R Structure](https://commons.wikimedia.org/wiki/File:L-arginine.png "R")
 
 <figure>
-<a href="https://commons.wikimedia.org/wiki/File:L-arginine.png"><img width="512" alt="L-arginine" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/L-arginine.png/512px-L-arginine.png"></a>
+<a title="C" href="https://commons.wikimedia.org/wiki/File:Cysteine.png"><img width="256" alt="L-cysteine" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Cysteine.png"></a> <a title="R" href="https://commons.wikimedia.org/wiki/File:L-arginine.png"><img width="512" alt="L-arginine" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/L-arginine.png/512px-L-arginine.png"></a>
 <figcaption><b>Amino Acid Structures</b>. 
 <b>Left</b>. C. 
 <b>Right</b>. R
 </figcaption>
 </figure>
-
-<a title="C" href="https://commons.wikimedia.org/wiki/File:Cysteine.png"><img width="512" alt="L-cysteine" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Cysteine.png"></a> <a title="R" href="https://commons.wikimedia.org/wiki/File:L-arginine.png"><img width="512" alt="L-arginine" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/L-arginine.png/512px-L-arginine.png"></a>
 
 
 
