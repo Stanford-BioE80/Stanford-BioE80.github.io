@@ -52,11 +52,11 @@ Engineering living matter has not yet undergone the same type of decoupling and 
 
 [Free Genes Project](https://biobricks.org/freegenes/) wants to bring ideas of decoupling and the "fabless foundry" to the engineering of DNA.
 
-**Q.1.b.** Visit the Free Genes Project website. Briefly describe how it works? Who is responsible for each aspect? (bullet points)
+**Q.1.b.** Visit the Free Genes Project website. Briefly describe how it works. (bullet points)
 
 ## (Q2) Playing with the Amino Acid Alphabet (10 pts)
 
-Proteins are composed of long chains of amino acids. As building blocks, amino acids contain the same backbone and connect in a particular direction: from the N-terminus to the C-terminus. ***INSERT FIGURE***  Because of this, we can number each amino acid in a protein starting with the amino acid at the N-terminus as position 1. When we engineer proteins, it is useful to identify the changes that we made in the amino acid sequence, ie: V298T. This means that at position 298 (ie: the 298th amino acid in the chain), we originally had a Valine (V). We have mutated it so that instead of a Valine, we have swapped in a Threonine (T). These changes do not change the backbone of the amino acid chain. Instead, they change the "R" group, which often has structural and functional consequences.
+Proteins are composed of long chains of amino acids. As building blocks, amino acids contain the same backbone and connect in a particular direction: from the N-terminus (amino group) to the C-terminus (carboxyl group). See Figure 1 in this short [post](https://www.nature.com/scitable/topicpage/protein-structure-14122136).  Because of this, we can number each amino acid in a protein starting with the amino acid at the N-terminus as position 1. When we engineer proteins, it is useful to identify the changes that we made in the amino acid sequence, ie: V298T. This means that at position 298 (ie: the 298th amino acid in the chain), we originally had a Valine (V). We have mutated it so that instead of a Valine, we have swapped in a Threonine (T). These changes do not change the backbone of the amino acid chain. Instead, they change the "R" group, which often has structural and functional consequences.
 
 Let's say we had a 3 amino acid protein with the sequence `CAT`. If we made a C1R mutation, we would now have the sequence `RAT`.
 
@@ -70,6 +70,10 @@ RAT
 **Q.2.b.** Let's go back to our original protein. Write out the full amino acid names for `CAT`.
 
 **Q.2.c.** Now let's take a look at the first mutation we made: C1R. Below, you can see the chemical structures for each of these amino acids. List 2 differences and give a brief explanation of why those differences might be biologically meaningful. ***INSERT FIGURES FOR CYSTEINE AND ARGININE***
+![C Structure](https://commons.wikimedia.org/wiki/File:Cysteine.png "C")
+![R Structure](https://commons.wikimedia.org/wiki/File:L-arginine.png "R")
+
+
 
 ## (Q3) Revisiting Design Tools (PyMol) (15 pts)
 
