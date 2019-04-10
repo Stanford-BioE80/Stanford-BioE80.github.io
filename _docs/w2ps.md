@@ -73,6 +73,14 @@ RAT
 ![C Structure](https://commons.wikimedia.org/wiki/File:Cysteine.png "C")
 ![R Structure](https://commons.wikimedia.org/wiki/File:L-arginine.png "R")
 
+<figure>
+<a href="https://commons.wikimedia.org/wiki/File:L-arginine.png"><img width="512" alt="L-arginine" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/L-arginine.png/512px-L-arginine.png"></a>
+<figcaption><b>Amino Acid Structures</b>. 
+<b>Left</b>. C. 
+<b>Right</b>. R
+</figcaption>
+</figure>
+
 <a title="No machine-readable author provided. Benjah-bmm27 assumed (based on copyright claims). [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:L-arginine.png"><img width="512" alt="L-arginine" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/L-arginine.png/512px-L-arginine.png"></a>
 
 
