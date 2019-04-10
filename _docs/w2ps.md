@@ -65,50 +65,35 @@ Let's say we had a 3 amino acid protein with the sequence `CAT`. If we made a C1
 CAT
 RAT
 ```
-**Q.2.a.** Using the 20 amino acid alphabet, make 5 other English words from our original protein `CAT`. Write out the shorthand changes for each, starting from the original protein. (Hint: get creative. Make as many changes as you'd like. You can even insert amino acids. To add an extra amino acid at the end, designate this as `+4X`, where `+` indicates an addition to the original sequence, `4` indicates the new position, and `X` is your amino acid.) 
+**Q.2.a.** Using the 20 natural amino acid alphabet, make 5 other English words from our original protein `CAT`. Write out the shorthand changes for each, starting from the original protein. (Hint: get creative. Make as many changes as you'd like. You can even insert amino acids. To add an extra amino acid at the end, designate this as `+4X`, where `+` indicates an addition to the original sequence, `4` indicates the new position, and `X` is your amino acid.) 
 
 **Q.2.b.** Let's go back to our original protein. Write out the full amino acid names for `CAT`.
 
 **Q.2.c.** Now let's take a look at the first mutation we made: C1R. Below, you can see the chemical structures for each of these amino acids. List 2 differences and give a brief explanation of why those differences might be biologically meaningful. ***INSERT FIGURES FOR CYSTEINE AND ARGININE***
 
-## (Q3) Revisiting Design Tools (PyMol) (20 pts)
+## (Q3) Revisiting Design Tools (PyMol) (15 pts)
 
-In this problem, you will use PyMol to visualize green fluorescent protein (GFP).
-Check out the website where the GFP structure is housed: [https://www.rcsb.org/structure/1gfl](https://www.rcsb.org/structure/1gfl). 
+In this problem, you will use PyMol to visualize green fluorescent protein (GFP). Unlike our 3 amino acid protein in Question 2, GFP is a 238 amino acid protein. For more information about GFP, check out the [Wikipedia page](https://en.wikipedia.org/wiki/Green_fluorescent_protein), or see the resources below.
+
+Check out the website where the GFP structure is housed: [https://www.rcsb.org/structure/1gfl](https://www.rcsb.org/structure/1gfl). Notice that we are looking at a homo-dimer, meaning that 2 identical 238 amino acid chains are in the structure. 
 
 **Q.3.a.** What is the experimental method used to get the structure of the protein? What is the listed resolution of the structure? (bullet points)
 
-**Q.3.b.** Add a screenshot of your GFP structure in PyMol with the chromophore (part of a molecule responsible for its color) highlighted in red. 
+**Q.3.b.** Add a screenshot of your GFP structure in PyMol showing the "beta barrel" structure of fluorescent proteins. 
 
 To do so:
 
-1. Downloaded PyMol from this [Pymol Link]( https://pymol.org/2/) and Open PyMol on your laptop or computer. 
+1. Download PyMol from this [Pymol Link]( https://pymol.org/2/) and Open PyMol on your laptop or computer. 
 
 2. Type in the command “fetch 1gfl” in PyMol. This command downloads the structure ofGreen Fluorescent Protein (GFP) from the Protein Data Bank (PDB)
- 
-3. Check out the website where the GFP structure is housed: [GFP](https://www.rcsb.org/structure/1gfl)
 
-4. Go back to PyMol and take a look at the GFP structure.  Click Hide everything and ‘Show cartoon’, under the menus “H” and “S”  listed near the structure name on the toolbar on the right. The GFP structure is a *beta barrel*. This means it is made up of a  barrel formed by *beta strands*, a known type of secondary structure proteins adopt.
+3. In PyMol and take a look at the GFP structure.  Under the menus “H” and “S”  listed near the structure name on the toolbar on the right, click `Hide everything` and `Show cartoon`. 
 
-5. Click on   <Mouse → 1 button viewing> to enable scrolling.
+4. Take a screenshot of the protein structure to share as part of the problem set.
 
-6. Click on   <Display → Sequence On> to see the amino acid sequence for GFP.
+**Q.3.c.**  Go back to the Protein Data Bank website and find a `.pdb` file for another fluorescent protein. Use PyMol to visualize this second protein. Provide a screenshot and tell us what color the protein fluoresces.
 
-7. Select residues 64-66 SYG and color these residues red. This is the *chromophore* of GFP, the portion of the molecule responsible for the fluorescence.
-
-8. Render the SYG portion of the protein as ‘sticks’. You should now be able to see the cyclized ring of the GFP chromophore. This cyclization, as shown below, is part of the *maturation* process of the protein -- after maturation, the protein is able to fluoresce.
-
-<figure>
-<a href="/assets/images/w2ic_gfp_cyclization.png"><img src="/assets/images/w2ic_gfp_cyclization.png"></a>
-</figure>
-
-[source](http://www.cryst.bbk.ac.uk/PPS2/projects/jonda/chromoph.htm)
-
-9. Take a screenshot of your highlighted protein structure and share as part of the problem set.
-
-**Q.2.c.**  Why do you think the barrel structure might be necessary around the chromophore? (Hint: think about how the barrel structure might help the chromophore maturation process) (bullet points)
-
-## (Q4) Making with Mushrooms(40 Points)
+## (Q4) Making with Mushrooms(35 Points)
 
 **Q.4.a.** Did you show up on Friday, make your mycelium material object? (Yes / No)
 
@@ -155,8 +140,6 @@ For more info/inspiration you might check out:
 **Your questions**
 Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
-## Extra learning (100% optional):
-
 ### Additional Resources (Fluorescent Proteins):
 
 1. Fluorescent Proteins and the Story Behind GFP (by Roger Tsien ibiology) [link](https://www.ibiology.org/talks/fluorescent-proteins/)
@@ -164,6 +147,8 @@ Do you have any unanswered questions (from this week, past weeks, or general BIO
 2. Introduction to Fluorescent Proteins [link](https://www.microscopyu.com/techniques/fluorescence/introduction-to-fluorescent-proteins)
 
 3. Interactive graph describing Fluorescent protein properties [link](http://www.fpvis.org/FP.html)
+
+## Extra learning (100% optional):
 
 ### (Q.6) When are we 'done'? (0 pts)
 
