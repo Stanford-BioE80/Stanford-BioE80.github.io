@@ -48,16 +48,7 @@ On Friday you were given two GOOP tubes, one tube of DNA (instruction to express
 
 **_Please give us feedback. Did you run into any problems? Do you have suggestions or comments?_**
 
-## (Q3) Revisiting Design Tools (PyMol) (30 pts)
-
-**Q.4.a.** Check out the website where the GFP structure is housed: [https://www.rcsb.org/structure/1gfl](https://www.rcsb.org/structure/1gfl). What is the experimental method used to get the structure of the protein? What is the listed resolution of the structure? (<150 words)
-
-**Q.4.b.** Add a screenshot of your GFP structure in PyMol with the chromophore highlighted in red. Why do you think the barrel structure might be necessary around the chromophore? (Hint: think about how the barrel structure might help the chromophore maturation process) (<150 words)
-
-**Q.4.c.** Find a structure on PDB for a fluorescent protein with emission wavelength _redder_ than GFP. Render that structure in PyMol and highlight its chromophore. What are the structural similarities between the structure of the fluorescent protein and GFP, if any? What are the qualitative differences between the chromophore of your selected protein and that of GFP?
-
-## (Q4) Bacterial edge detection (20 pts)
-
+## (Q3) Bacterial edge detection (20 pts)
 
 Building on work first published in 2005, Jeff Tabor and colleagues eventually demonstrated a 
 bacterial edge detection system.  In their system a bacterial lawn (i.e., a uniform layer of identically engineered 
@@ -68,10 +59,43 @@ results in formation of a dark pigment (HINT: see Figure and also the primary
 [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775486/))
 
 
-4.a. **Develop a device-level block diagram** that would result in the so-shown behavior. Label simple sensors, logic blocks, and actuators, as needed.  Connect outputs to inputsif and as required. (Hint:  Only give simple device names (e.g., “Dark sensor,” “pigmentactuator” etc.); do not describe any biology in any molecular detail).  (30 points)
+3.a. **Develop a device-level block diagram** that would result in the so-shown behavior. Label simple sensors, logic blocks, and actuators, as needed.  Connect outputs to inputsif and as required. (Hint:  Only give simple device names (e.g., “Dark sensor,” “pigmentactuator” etc.); do not describe any biology in any molecular detail).  (30 points)
 
 
-4.b. Take a look at the photo of the system in action. Note the edge detection in the case of asquare or Alfred Hitchcock’s portrait. **What do you observe?** For example, why is there more pigment inside the corners of the square, or inside the bottom left angle of Alfred’s portrait?  (bullet points, 10 points)
+3.b. Take a look at the photo of the system in action. Note the edge detection in the case of asquare or Alfred Hitchcock’s portrait. **What do you observe?** For example, why is there more pigment inside the corners of the square, or inside the bottom left angle of Alfred’s portrait?  (bullet points, 10 points)
+
+## (Q4) Approximate and rapid numerical estimates (40 pts)
+
+Approximations based on simple physical principles are known as Fermi problems. These problems will help you build quantitative intuition for working with biology. Most of these estimates are rough: they are designed to give you a broad, order of magnitude intuition for the biology, so keep in mind that that the exactly correct number could be different. Give your answers to two significant figures and provide units where appropriate. You should only need simple math and arithmetic; a couple of lines of work at most. 
+
+Additional resources: bionumbers is an excellent source for biological numbers [link](http://bionumbers.hms.harvard.edu/) . "_Cell Biology by the Numbers_" is a great book on estimation problems in biology. You can get a free copy of the draft version [here](http://book.bionumbers.org/).
+
+_Escherichia coli_ (**Figure 1**) is well-studied bacteria considered to be representative of how bacterial systems work generally (i.e., a 'model' organism). _E. coli_ is also easy to grow in the lab and divides rapidly (about 20 mins). As a result, _E. coli_ is frequently used in bioengineering either as a model organism (to be studied or engineered directly) or as a host to generate large copies of user defined DNA. You will see (and setup your own in BIOE44) cultures tubes of _E. coli_ (with medium - food for bacteria) often growing overnight on shaking incubators (set to 37C) (**Figure 2**).
+
+<figure>
+<a href="/assets/images/w2pc_ecoli.png"><img src="/assets/images/w2pc_ecoli.png"></a>
+<figcaption><b>Figure 1</b>.
+<i>E. coli</i> is shaped like a rod, which we can approximate as a spherocylinder: a cylinder with hemispherical caps. Of note, MG1655 is a strain derived from a lineage of <i>E. coli</i> variants that was originally isolated from a diphtheria patient at the Palo Alto hospital in 1922.
+<a href="https://??????????">Source TBD</a>
+</figcaption>
+</figure>
+
+<figure>
+<a href="/assets/images/w2pc_ecoligrowth.png"><img src="/assets/images/w2pc_ecoligrowth.png"></a>
+<figcaption><b>Figure 2</b>.
+<i>E. coli</i> grown to saturation (after 8-12 hours). <i>E. coli</i> divides about every 20 mins. 
+<a href="http://book.bionumbers.org/">Source: Cell Biology by the Numbers</a>
+</figcaption>
+</figure>
+
+**Q.4.a.** Based on a spherocylinder model, calculate the volume of an _E. coli_ cell. 
+
+**Q.4.b.** If an _E. coli_ cell were the size of a building, how big would a water molecule be?
+
+**Q.4.c.** The mean diameter of a protein is roughly 4 nm. What is the upper bound on how many proteins could fit inside an *E. coli* cell?
+
+**Q.4.d.** How would you go about estimating the total number of carbon atoms in an *E.coli* cell? You don't have to calculate this just define variables and describe your approach step by step. 
+
 
 
 **Extra learning** (100% optional):

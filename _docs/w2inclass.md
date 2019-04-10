@@ -84,7 +84,7 @@ These questions will be part of your PSET.
 
 **Q.2** How is this similar or different to other additive manufacturing processes suchas 3D printing? (detail out similarities/differences...feel free to draw)
 
-**Q.3** Looking forward, how do we go from creating matter with an inert function(e.g. a chair) to creating matter with biological function (i.e. growing a finger, aheart, etc)? What new considerations need to be made?
+**Q.3** Looking forward, how do we go from creating matter with an inert function(e.g. a chair) to creating matter with biological function (i.e. growing a finger, a heart, etc)? What new considerations need to be made?
 
 #### Additional Resources:
 1.MycoWorks https://www.youtube.com/watch?v=VWQznqpy3Ssb 
