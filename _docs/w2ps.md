@@ -73,7 +73,7 @@ RAT
 
 <a title="C" href="https://commons.wikimedia.org/wiki/File:L-cysteine-2D-skeletal.png"><img width="256" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/L-cysteine-2D-skeletal.png/512px-L-cysteine-2D-skeletal.png"></a> <a title="R" href="https://commons.wikimedia.org/wiki/File:L-arginine.png"><img width="512" alt="L-arginine" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/L-arginine.png/512px-L-arginine.png"></a>
 
-**Amino Acid Structures.** Left: C. Right: R.
+**Amino Acid Structures.** Left: the C amino acid. Right: the R amino acid.
 
 
 
@@ -106,9 +106,9 @@ To do so:
 **Q.4.b.** Describe in broad terms what processes unique to living matter are enabling building with mushrooms possible. 
 What are the potential and limitations of making with mushrooms? (bullet points)
 
-**Q.4.c.**  How is making with mushrooms similar to or different from other manufacturing processes such as 3D printing? (bullet points)
+**Q.4.c.**  How is making with mushrooms different from other manufacturing processes such as 3D printing? (bullet points)
 
-**Q.4.d.**  Looking forward, how do we go from creating matter with an inert function (e.g., a chair) to create matter with biological function (i.e., growing a finger or a heart)? What new considerations need to be made? (3-4 sentences, provide drawings or diagrams if helpful)
+**Q.4.d.**  Looking forward, we would want to go from creating matter with an inert function (e.g., a chair) to creating matter with biological function (i.e., growing a finger or a heart). What new considerations need to be made? (3-4 sentences, provide drawings or diagrams if helpful)
 
 ## (Q5) Prepare for the Group Project (20 pts)
 
