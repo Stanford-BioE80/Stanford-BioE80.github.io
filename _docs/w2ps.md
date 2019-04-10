@@ -69,12 +69,9 @@ RAT
 
 **Q.2.b.** Let's go back to our original protein. Write out the full amino acid names for `CAT`.
 
-**Q.2.c.** Now let's take a look at the first mutation we made: C1R. Below, you can see the chemical structures for each of these amino acids. List 2 differences and give a brief explanation of why those differences might be biologically meaningful. ***INSERT FIGURES FOR CYSTEINE AND ARGININE***
-![C Structure](https://commons.wikimedia.org/wiki/File:Cysteine.png "C")
-![R Structure](https://commons.wikimedia.org/wiki/File:L-arginine.png "R")
-
+**Q.2.c.** Now let's take a look at the first mutation we made: C1R. Below, you can see the chemical structures for each of these amino acids. List 2 differences and give a brief explanation of why those differences might be biologically meaningful. 
 <figure>
-<a title="C" href="https://commons.wikimedia.org/wiki/File:Cysteine.png"><img width="256" alt="L-cysteine" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Cysteine.png"></a> <a title="R" href="https://commons.wikimedia.org/wiki/File:L-arginine.png"><img width="512" alt="L-arginine" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/L-arginine.png/512px-L-arginine.png"></a>
+<a title="C" href="https://commons.wikimedia.org/wiki/File:L-cysteine-2D-skeletal.png"><img width="512" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/L-cysteine-2D-skeletal.png/512px-L-cysteine-2D-skeletal.png"></a> <a title="R" href="https://commons.wikimedia.org/wiki/File:L-arginine.png"><img width="512" alt="L-arginine" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/L-arginine.png/512px-L-arginine.png"></a>
 <figcaption><b>Amino Acid Structures</b>. 
 <b>Left</b>. C. 
 <b>Right</b>. R
