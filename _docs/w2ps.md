@@ -16,11 +16,11 @@ toc: true
 
 ## (Q1) MOSIS (20 pts)
 
-[Mosis](https://www.mosis.com/) (Metal Oxide Semiconductor Implementation Service) is a product of the VLSI revolution that changed the way we make the chips that power all of our electronics today. Before the advent of this shared implementation service, researchers and others looking to prototype and/or fabricate a chip had to be much more personally involved in the process of fabrication. Making masks was unreliable, which produced poor wafers. The best results came when you knew someone in the fab facility, and could tailor your design to their skills. In other words, there was a lack of standardization and a centralization of designing and building that increased latency and cost. Recognizing a need, the clever minds behind Mosis sought to help lower these barriers to entry (cost, specialized knowledge, access to a foundry, etc). 
+[MOSIS](https://www.mosis.com/) (Metal Oxide Semiconductor Implementation Service) is a product of the VLSI revolution that changed the way we make the chips that power all of our electronics today. Before the advent of this shared implementation service, researchers and others looking to prototype and/or fabricate a chip had to be much more personally involved in the process of fabrication. Making masks was unreliable, which produced poor wafers. The best results came when you knew someone in the fab facility, and could tailor your design to their skills. In other words, there was a lack of standardization and a centralization of designing and building that increased latency and cost. Recognizing a need, the clever minds behind MOSIS sought to help lower these barriers to entry (cost, specialized knowledge, access to a foundry, etc). 
 
 In doing so, they created the "fabless foundry" industry that has helped shape our society today. Watch this [video](https://www.youtube.com/watch?v=d5SEFE_49Ug) made by Mosis explaining the workflow for using their service. As you do, pay special attention to each step of the workflow, who is involved, and which part of the DBT cycle is shown.
 
-**Q.1.a.** How does Mosis work? What feature(s) makes this service better than others that had previously been used? (bullet points)
+**Q.1.a.** How does Mosis work? (bullet points)
 
 **Q.1.b.** How does the Mosis cycle compare (similarities and differences) to the DBT cycle you saw with KumaMax? Fill in the following table to compare and contrast the DBT workflow in each case, highlighting who is responsible for each step, and what tools they use in the completion of this task.
 
@@ -54,7 +54,7 @@ Engineering living matter has not yet undergone the same type of decoupling and 
 
 [Free Genes Project](https://biobricks.org/freegenes/) wants to bring ideas of decoupling and the "fabless foundry" to the engineering of DNA.
 
-**Q.1.c.** Visit the Free Genes Project website. Briefly describe how it works. Who is responsible for each aspect? (bullet points)
+**Q.1.c.** Visit the Free Genes Project website. Briefly describe how it works? Who is responsible for each aspect? (bullet points)
 
 ## (Q2) Revisiting Design Tools (PyMol) (30 pts)
 
@@ -89,17 +89,9 @@ To do so:
 
 [source](http://www.cryst.bbk.ac.uk/PPS2/projects/jonda/chromoph.htm)
 
-9. Take a screenshot of your highlighted protein structure for the problem set.
+9. Take a screenshot of your highlighted protein structure and share as part of the problem set.
 
 **Q.2.c.**  Why do you think the barrel structure might be necessary around the chromophore? (Hint: think about how the barrel structure might help the chromophore maturation process) (bullet points)
-
-#### Additional Resources (Fluorescent Proteins):
-
-1. Fluorescent Proteins and the Story Behind GFP (by Roger Tsien ibiology) [link](https://www.ibiology.org/talks/fluorescent-proteins/)
-
-2. Introduction to Fluorescent Proteins [link](https://www.microscopyu.com/techniques/fluorescence/introduction-to-fluorescent-proteins)
-
-3. Interactive graph describing Fluorescent protein properties [link](http://www.fpvis.org/FP.html)
 
 ## (Q3) Making with Mushrooms(40 Points)
 
@@ -149,6 +141,14 @@ For more info/inspiration you might check out:
 Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
 ## Extra learning (100% optional):
+
+#### Additional Resources (Fluorescent Proteins):
+
+1. Fluorescent Proteins and the Story Behind GFP (by Roger Tsien ibiology) [link](https://www.ibiology.org/talks/fluorescent-proteins/)
+
+2. Introduction to Fluorescent Proteins [link](https://www.microscopyu.com/techniques/fluorescence/introduction-to-fluorescent-proteins)
+
+3. Interactive graph describing Fluorescent protein properties [link](http://www.fpvis.org/FP.html)
 
 ### (Q.6) When are we 'done'? (0 pts)
 
