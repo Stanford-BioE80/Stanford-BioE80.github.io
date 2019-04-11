@@ -217,37 +217,3 @@ Bruce Alberts Molecular Biology of the Cell (2015) Chapter 6
 https://www.ncbi.nlm.nih.gov/books/NBK21054/ (older edition)
 Science Library QH581.2 .M64
 Green Library QH581.2 .M64 (fifth edition)
-
-
-## Pre class & In class for Friday for 2018
-
-
-**Part 1:** Reconsider the hypothetical bacterial *“flash mob”* that you encountered in the pre-classmaterial for Monday of this week.  See the animation or text below:
-
-<figure>
-<a href="/assets/images/w3_IEcolibratorMovie.gif"><img src="/assets/images/w3_IEcolibratorMovie.gif"></a>
-</figure> 
-
-**Figure-1** bacterial flash mob. [Source](https://2006.igem.org/wiki/index.php/IAP2004:Polkadorks)
-
-Or, in natural language, “We start with a collection of engineered e-coli moving randomly inmedia. The bacteria are represented by black dots in the animation. Under control of astochastic element, a few bacteria begin excreting an attractant. These bacteria we will call thesender cells. In the animation we have one sender cell represented by the red dot; the greencircle represents the attractant diffusing away from the sender cell.  Through chemotaxis, aprocess by which a cell along a chemical gradient swims toward or away from the stimulus (anattractant in this case), nearby bacteria start swimming towards the sender cells. These bacteriawe will call the receiver cells. This way, groups begin forming around the original sender cells onthe plate.  Additionally, all bacteria have been engineered with a quorum sensing mechanismwhich effectively senses local cell density. In the groups that have formed, the local cell density eventually reaches a certain threshold. The quorum sensing mechanism of the cells then stopssecretion of any attractant. The existing attractant then diffuses away. Since there is no moreattractant being secreted, the cells will diffuse away and eventually be spread out across theplate once again. Then by the stochastic element a few cells will begin excreting the attractantand the whole process is repeated.  Basically polkadots will form, diffuse, and form again inrandom areas on the plate. Our system should thus form time-varying patterns based on localrandom time-varying symmetry breaking.”
-
-
-**Q.1.** Working with one partner, on a separate sheet of paper, quickly sketch a black box“device-level” systems diagram that would implement what is shown and described above.  Yourboxes should have very simple names, such as “change color,” “swim,” “secrete attractor,” “AND,” or whatever human-defined functions are needed and appropriate.  I.e., recall thatDEVICES are human-defined functions.  What human-defined functions do you need toimplement a bacterial flash mob?  Make sure to also connect each black box device to theothers as needed. **(up to 10 minutes)**
-
-
-**Q.2.** Find another pair and talk thru how each other’s systems are expected to work.  Did youfind any problems with your device-level implementations?  If so, revise your design as needed.This is a type of “debugging” to quickly identify problems at a high-level of abstraction, beforeworrying about how to actually implement the details of any device. **(up to 10 minutes)**
-
-
-**Q.3.** Returning to work with your partner.  Label each of your boxes via the generic systemarchitecture we learned about in class this week.  That is, for each of your black boxes, labeleach with the letter “S,” “C,” or “A” depending on if each box can best be thought of as a“Sensing,” “Computing,” or “Actuating” function, respectively.  **(up to 5 minutes)**
-
-
-Take a break, look here: [iGEM-2006: Polkadorks](https://2006.igem.org/wiki/index.php/IAP2004:Polkadorks)
-
-
-**Q.4.** Pick any “Computing” device that is used in your system.  Describe using simple words thebasic biological functions that could be used to implement such a device.  Note that this is hardwork if you don’t know anything about basic biological functions.  Ask for help as needed.  Thinkabout words like protein, DNA, gene expression, transcription, translation, ON, etc.  **(up to 7.5’)**
-
-**Q.5.** Next, going down the abstraction hierarchy, you need parts.  Where to get parts?  Howabout a student-produced collection of thousands of DNA parts.  Sure! Go to the iGEM PartsRegistry (http://parts.igem.org/Catalog).  Find parts that could be used to implement yourdevice. If you can’t find what you want make a note and move on. **(up to 10 minutes)**
-
-
-**Q.6.** Finally, sketch how your parts should be organized as DNA elements in relation to oneanother so that they would actually implement the Computing function as you desire.  Draw ablack box around your parts.  Add inputs and output arrows to the box as appropriate.  Sketch asimple transfer function (i.e., the expected relationship between the inputs and outputs).  Areyour input and output signals generic or specific to your device?  **(up to 7.5 minutes)**
