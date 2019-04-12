@@ -25,6 +25,15 @@ to managecomplexity in biological systems - with an emphasis on the design step 
 or synthesize the designs systems that could then be implemented in living matter for example viaengineered 
 (i.e., designer) DNA.
 
+Read the two parts of this free comic book (**Programming DNA** and **Engineered Genetic Devices**)
+[Adventures in Synthetic Biology](https://openwetware.org/wiki/Adventures) before the class. 
+
+_______________________________________________________________________
+
+## Preclass for Wednesday
+
+First read the (**Common Signal Carriers**) parts of this free comic book (**Programming DNA** and **Engineered Genetic Devices**)[Adventures in Synthetic Biology](https://openwetware.org/wiki/Adventures) before the class. 
+
 ## Example-1:  Bacterial Flash Mob
 
 **Write down the DNA sequence** encoding a dynamic bacterial flash mob (see animation below in Figure.1 )
@@ -33,7 +42,7 @@ or synthesize the designs systems that could then be implemented in living matte
 <a href="/assets/images/w3_IEcolibratorMovie.gif"><img src="/assets/images/w3_IEcolibratorMovie.gif"></a>
 </figure> 
 
-**Figure-1** Bacterial flash mob. [Source](https://2006.igem.org/wiki/index.php/IAP2004:Polkadorks)
+**Figure-1** Bacterial flash mob. Credit to MIT students 2004: Polkadorks. 
 
 **Q.1. What is the first base of your DNA program?  A, T, C, or G?  
 (Note: Do not spend more than 100 seconds pondering and answering this question.  Time’s up!).**  
@@ -44,12 +53,9 @@ A collection of engineered bacteria (black dots)move randomly in two dimensions.
 **Q.2. Why is Q1 a difficult question to answer?**   
 (Hint: Consider the difference between what you do and what must physically occur to use a smartphone to take a photograph and send an image to your best friend via text message.  Are you ever typing 0s and 1s into your phone?  What’s happening instead?)
 
-
 One simple-but-powerful and general-purpose approach for organizing engineered systems is shown on the next slide.  Forexample, a computer has a keyboard that receives input via keys (sensors), performs logical operations (computation), andcan output via a display, printer or other device (actuation).  As a second example, a pilot can control a Boeing 787 airplaneby moving the yoke, whose inputs are combined with other inputs collected by additional sensors (e.g., air pressure), andthen a flight computer determines what the actuated flight surfaces on the wings and tail physically do, as controlled by a“fly-by-wire” system.
 
-
 Note that our thinking about such systems can quickly become complicated by the details of any one example, but thateach example follows a similar pattern; inputs are received by one or more sensors; so-received information is computedupon as needed via an intermediate process; and finally some action is taken.  Please also note that in more complicatedsystems the output of a system can itself be an input, creating a “loop” or feedback to realize more sophisticated dynamics(e.g., repeating or other dynamically controlled behaviors, such as in the case of the looping bacterial flash mob).
-
 
 <figure>
 <a href="/assets/images/generic system arch.png"><img src="/assets/images/generic system arch.png"></a>
@@ -58,9 +64,7 @@ Note that our thinking about such systems can quickly become complicated by the 
 
 A sensor measures environmentalproperties or inputs  (for example: a keyboard) and transfers this information to a computer (logic unit) to be processed. The results are then transferred to an actuator (e.g., a printer or a display) that can output these results.
 
-
 This same framework can be applied to help manage the engineering of biological systems.Stated differently, the desired behavior of a complicated biological process can be represented at an intermediate level ofabstraction via a simpler-to-understand  “black box” diagram.
-
 
 **Q.3. Revisit to the bacterial flash mob and develop a device-level block diagram that would result in the so-shownbehavior.  Label simple sensors, logic blocks, and actuators, as needed.  Connect outputs to inputs (i.e., connectboxes together via ines) where and as required.**  
 (Hint: Only give simple device names (e.g., “coin flip,” “turn red,” etc.);do not describe any biology in any molecular detail).
@@ -69,27 +73,19 @@ This same framework can be applied to help manage the engineering of biological 
 **Key Concept:** What we are practicing via this generic system architecture is called **abstraction**. 
 Abstraction is a tool that allows engineers (and others) to modularize and manage the complexity of a system. Abstraction establishes a level of simplicity at which a person interacts with the system, temporarily hiding more complex details for later consideration, only if and as such details must be considered.  
 
+But, returning to the Bacterial Flash Mob example.
+
+Now that you have thought about the above questions check out from [Here](https://2006.igem.org/wiki/index.php/IAP2004:Polkadorks)  MIT students solution. 
+
 <figure>
 <a href="/assets/images/w6pc_the laws of thought.png"><img src="/assets/images/w6pc_the laws of thought.png"></a>
 </figure>
 
 From a different perspective, note how George Boole observed ways in which human language results in a type of abstraction that can be used to organize and link our experiences to actions.  For example: if it is raining AND snowing then bundle up OR if it is warm AND sunny then go the beach.
 
-But, returning to the Bacterial Flash Mob example.
-
 **Q.4. When we go to actually implement any sensor, computer, or actuator, what exactly is inside the boxes?  Are there actually black boxes inside a cell?  What “wires” connect one box to another?**
 
-These are challenging questions that we will resolve starting Monday!
-
-*Useful Additional Resource:* 
-Check out this free comic bolok that starts out simple but quickly begins to develop answers to **Question-4**: 
-[Adventures in Synthetic Biology](https://openwetware.org/wiki/Adventures)
-
-_______________________________________________________________________
-
-## Preclass for Wednesday
-
-There is no preclass for Wednesday Week-3. 
+These are challenging questions that we will resolve!
 
 ______________________________________________________
 
