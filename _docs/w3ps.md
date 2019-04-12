@@ -55,7 +55,7 @@ On Friday you were given two GOOP tubes, one tube of DNA (instruction to express
 
 **Q.2.c.** Why might certain designs work in GOOP, but not in a cell? Why might certain designs work in a cell, but not in GOOP? (2-3 sentences) 
 
-**_Please give us feedback. Did you run into any problems? Do you have suggestions or comments?_**
+**_Please give us feedback. Did you run into any problems?_**
 
 ## (Q3) Bacterial edge detection (20 pts)
 
