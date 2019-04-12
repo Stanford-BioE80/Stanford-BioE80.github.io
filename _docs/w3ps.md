@@ -53,9 +53,7 @@ On Friday you were given two GOOP tubes, one tube of DNA (instruction to express
 
 **Q.2.b.** Did the GOOP with expression instructions turn green (produce GFP)? How long did it take? (Your grade does not depend on the expression of GFP). Include photos of both tubes at the start, about 6 hours and after 12 hours. (Time points don't have to be exact. Simply report when you took the photos) Make sure to provide a figure legend. 
 
-**Q.2.c.** Why might certain designs work in GOOP, but not in a cell? Why might certain designs work in a cell, but not in GOOP? (<150 words)
-
-**Q.2.d.** Do you think you would be able to use GOOP to test your designs? (<150 words)
+**Q.2.c.** Why might certain designs work in GOOP, but not in a cell? Why might certain designs work in a cell, but not in GOOP? (2-3 sentences) 
 
 **_Please give us feedback. Did you run into any problems? Do you have suggestions or comments?_**
 
