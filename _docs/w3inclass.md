@@ -1,3 +1,9 @@
+---
+title: "Week 3 in class"
+permalink: /docs/w3inclass/
+last_modified_at: Feb.28.19
+toc: true
+---
 ## How do design, build, and test tools work to support bioengineering?
 ___________________________________________________
 
