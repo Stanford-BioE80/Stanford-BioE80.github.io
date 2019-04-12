@@ -22,14 +22,24 @@ engineered tissues develop (pink) sits between the two channels. Proteins from e
 can slowly move (diffuse) throughout the developing tissue. When the protein ligands are sensed by cells
 within the tissue the cells respond according to whatever genetic logic is operating in each cell.
 
-**Q.1.a.**  The concentration gradient of each protein ligand A and B is given in Figure-1.B. 
-Note that values of A or B above the dotted line can be considered ‘1’ or ‘ON’, and values below can be considered ‘0’ or ‘OFF’. 
+The concentration gradient of each protein ligand A and B is given in Figure-1. Note that values of A or B above the dotted line can be considered ‘1’ or ‘ON’, and values below can be considered ‘0’ or ‘OFF’. 
+
+<figure>
+<href="/assets/images/PSET-3.fig1.png"><img src="/assets/images/PSET-3.fig1.png">
+<figure >
+	
 
 Consider two different genetic logic devices (AND, XOR) that are responsive to proteins A and B as inputs (“truth tables” or input/output relationship are given for each gate). Sketch the expected output (C) for each device as a function of the A and B inputs (draw on the figure below if useful). 
 
 **Hint-1** For each logic gate use the corresponding truth table.
 
 **Hint-2** Each logic gate takes in two inputs, ligands A and B, then computes some output C to realize a spatially defined pattern across the population of cells (pink). 
+
+
+<figure>
+<href="/assets/images/PSET3.fig2.png"><img src="/assets/images/PSET3.fig2.png">
+  <figcaption>Cells with genetic logic devices AND.</figcaption>
+<figure >
 
 
 ## (Q2) GOOP Tube (30 pts)
