@@ -26,7 +26,7 @@ or synthesize the designs systems that could then be implemented in living matte
 (i.e., designer) DNA.
 
 Read the two parts of this free comic book (**Programming DNA** and **Engineered Genetic Devices**)
-[Adventures in Synthetic Biology](https://openwetware.org/wiki/Adventures) before the class. 
+ [Adventures in Synthetic Biology](https://openwetware.org/wiki/Adventures)  before the class. 
 
 _______________________________________________________________________
 
@@ -68,7 +68,6 @@ This same framework can be applied to help manage the engineering of biological 
 
 **Q.3. Revisit to the bacterial flash mob and develop a device-level block diagram that would result in the so-shownbehavior.  Label simple sensors, logic blocks, and actuators, as needed.  Connect outputs to inputs (i.e., connectboxes together via ines) where and as required.**  
 (Hint: Only give simple device names (e.g., “coin flip,” “turn red,” etc.);do not describe any biology in any molecular detail).
-
 
 **Key Concept:** What we are practicing via this generic system architecture is called **abstraction**. 
 Abstraction is a tool that allows engineers (and others) to modularize and manage the complexity of a system. Abstraction establishes a level of simplicity at which a person interacts with the system, temporarily hiding more complex details for later consideration, only if and as such details must be considered.  
