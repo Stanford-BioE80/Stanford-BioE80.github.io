@@ -190,12 +190,8 @@ By releasing videos of their failed launches, which include detailed annotations
 
 **[Ginkgo Bioworks](https://www.ginkgobioworks.com/)**
 
-**[Amyris](https://amyris.com/)**
-
-**[EnEvolv](http://enevolv.com/platform/)**
+**[Antheia](https://antheia.bio/)**
 
 **[Bolt Threads](https://boltthreads.com/)**
 
-**[Nektar](http://www.nektar.com/)**
 
-**[MycoWorks](http://www.mycoworks.com/)**
