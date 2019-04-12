@@ -24,24 +24,27 @@ within the tissue the cells respond according to whatever genetic logic is opera
 
 The concentration gradient of each protein ligand A and B is given in Figure-1. Note that values of A or B above the dotted line can be considered ‘1’ or ‘ON’, and values below can be considered ‘0’ or ‘OFF’. 
 
+**Figure-1** 
 <figure>
 <href="/assets/images/PSET-3.fig1.png"><img src="/assets/images/PSET-3.fig1.png">
 <figure >
 	
-
 Consider two different genetic logic devices (AND, XOR) that are responsive to proteins A and B as inputs (“truth tables” or input/output relationship are given for each gate). Sketch the expected output (C) for each device as a function of the A and B inputs (draw on the figure below if useful). 
 
 **Hint-1** For each logic gate use the corresponding truth table.
 
 **Hint-2** Each logic gate takes in two inputs, ligands A and B, then computes some output C to realize a spatially defined pattern across the population of cells (pink). 
 
-
+**Figure-2** Cells with genetic logic devices-1: AND Gate.
 <figure>
 <href="/assets/images/PSET3.fig2.png"><img src="/assets/images/PSET3.fig2.png">
-  <figcaption>Cells with genetic logic devices AND.</figcaption>
 <figure >
 
-
+**Figure-3** Cells with genetic logic devices-1: XOR Gate.
+<figure>
+<href="/assets/images/PSET3.fig3.png"><img src="/assets/images/PSET3.fig3.png">
+<figure >
+  
 ## (Q2) GOOP Tube (30 pts)
 
 On Friday you were given two GOOP tubes, one tube of DNA (instruction to express GFP), and one tube of water.
