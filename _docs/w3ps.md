@@ -13,26 +13,24 @@ toc: true
   - Please turn in your completed problem sets as an electronic copy via Canvas. 
   - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations).
  
+ ## (Q1) Patterns with Logic
  
- ## (Q1)  Buggy Bacterial Flash Mob? (20 pts)
- 
- Students at MIT are claiming that they have designed a genetic program to realize 
- arepeating bacterial flash mob.  See their work yet again via:
- 
-[Polkadorks, iGEM-2006](https://2006.igem.org/wiki/index.php/IAP2004:Polkadorks)
- 
-In an epic East Coast versus West Coast technology “battle,” some of your colleagues
-are now claiming that the genetic program designed at MIT won’t actually produce the
-so-desired behavior.  Looking only at their proposed “device-level system diagram”...
+Your goal is to engineer patterns in tissues using proteins delivered by the hardware
+platform shown in Figure-1 (below). The platform itself consists of two channels (purple and
+green) through which proteins (ligands) are supplied continuously. A chamber in which
+engineered tissues develop (pink) sits between the two channels. Proteins from each channel
+can slowly move (diffuse) throughout the developing tissue. When the protein ligands are sensed by cells
+within the tissue the cells respond according to whatever genetic logic is operating in each cell.
 
+**Q.1.a.**  The concentration gradient of each protein ligand A and B is given in Figure-1.B. 
+Note that values of A or B above the dotted line can be considered ‘1’ or ‘ON’, and values below can be considered ‘0’ or ‘OFF’. 
 
-1.a. What do you think?  Will their program work or not?   (10 points)
+Consider two different genetic logic devices (AND, XOR) that are responsive to proteins A and B as inputs (“truth tables” or input/output relationship are given for each gate). Sketch the expected output (C) for each device as a function of the A and B inputs (draw on the figure below if useful). 
 
+**Hint-1** For each logic gate use the corresponding truth table.
 
-YES or NO (circle one)
+**Hint-2** Each logic gate takes in two inputs, ligands A and B, then computes some output C to realize a spatially defined pattern across the population of cells (pink). 
 
-
-1.b. Why or why not? (bullet points) (10 points)
 
 ## (Q2) GOOP Tube (30 pts)
 
@@ -113,5 +111,25 @@ Here is a system level diagram of a 3-inverter Ring oscillator. Think back to th
 
 5.b. Provide an example of a bad design choice, from system's level view, for these inverters? (Ring oscillator should still work) (5 points)
 
+
+ ## (Q6)  Buggy Bacterial Flash Mob? (0 pts)
+ 
+ Students at MIT are claiming that they have designed a genetic program to realize 
+ arepeating bacterial flash mob.  See their work yet again via:
+ 
+[Polkadorks, iGEM-2006](https://2006.igem.org/wiki/index.php/IAP2004:Polkadorks)
+ 
+In an epic East Coast versus West Coast technology “battle,” some of your colleagues
+are now claiming that the genetic program designed at MIT won’t actually produce the
+so-desired behavior.  Looking only at their proposed “device-level system diagram”...
+
+
+1.a. What do you think?  Will their program work or not?   (10 points)
+
+
+YES or NO (circle one)
+
+
+1.b. Why or why not? (bullet points) (10 points)
 
 
