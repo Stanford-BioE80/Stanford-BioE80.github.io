@@ -14,45 +14,17 @@ toc: true
 
 **GOALS:** Reflect on the engineering design cycle: Design, Build, and Test (DBT) and its role in Bioengineering. 
 
-## (Q1) MOSIS (20 pts)
+## (Q1) Free Genes Project and MOSIS (20 pts)
 
-[MOSIS](https://www.mosis.com/) (Metal Oxide Semiconductor Implementation Service) is a product of the VLSI revolution that changed the way we make the chips that power all of our electronics today. Before the advent of this shared implementation service, researchers and others looking to prototype and/or fabricate a chip had to be much more personally involved in the process of fabrication. The best results came when you knew someone in the fab facility, and could tailor your design to their skills. Recognizing a need, the clever minds behind MOSIS sought to help lower these barriers to entry (cost, specialized knowledge, and access to a foundry). 
-
-In doing so, they created the "fabless foundry" industry that has helped shape our society today. Watch this [video](https://www.youtube.com/watch?v=d5SEFE_49Ug) made by MOSIS explaining the workflow for using their service. As you do, pay special attention to each step of the workflow, who is involved, and which part of the DBT cycle is shown.
-
-**Q.1.a.** How does the MOSIS cycle compare (similarities and differences) to the DBT cycle you saw with KumaMax? Fill in the following table to compare and contrast the DBT workflow in each case, highlighting who is responsible for each step, and what tools they use in the completion of this task.
-
-<table>
-  <tr>
-    <td></td>
-    <td>KumaMax</td>
-    <td>Mosis</td>
-  </tr>
-  <tr>
-    <td>Design (Who, How)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Build (Who, How)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Test (Who, How)</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-
-(Additional Resources: Reminiscences of the VLSI Revolution - Lynn Conway's memoir, see [here](http://ai.eecs.umich.edu/people/conway/Memoirs/VLSI/Lynn_Conway_VLSI_Reminiscences.pdf)) 
-
-Engineering living matter has not yet undergone the same type of decoupling and standardization of different aspects of the DBT cycle that ushered in massive change in other fields (standardization of screws, outsourcing chip fabrication with MOSIS). People who want to make customized DNA often have to do so own their own, spending months to construct and validate a single piece of a DNA sequence. Recently, with the commercialization of DNA synthesis technologies, it has become possible to order customized genes, but this process is expensive. 
+Engineering living matter has not yet undergone the same type of decoupling and standardization of different aspects of the design, build, and  test (DBT) cycle that ushered in massive change in other fields (standardization of screws, outsourcing chip fabrication with [MOSIS](https://www.mosis.com/) (Metal Oxide Semiconductor Implementation Service)). People who want to make customized DNA often have to do so own their own, spending months to construct and validate a single piece of a DNA sequence. Recently, with the commercialization of DNA synthesis technologies, it has become possible to order customized genes, but this process is expensive. 
 
 [Free Genes Project](https://biobricks.org/freegenes/) wants to bring ideas of decoupling and the "fabless foundry" to the engineering of DNA.
 
-**Q.1.b.** Visit the Free Genes Project website. Briefly describe how it works. (bullet points)
+**Q.1.a.** Visit the Free Genes Project website. Briefly describe how it works. (bullet points)
+
+**Q.1.b.** How is FreeGenes similar to MOSIS?  (one sentence)  
+
+**Q.1.c.** How is FreeGenes different from MOSIS?  (one sentence)
 
 ## (Q2) Playing with the Amino Acid Alphabet (10 pts)
 
@@ -156,6 +128,7 @@ Do you have any unanswered questions (from this week, past weeks, or general BIO
 
 3. Interactive graph describing Fluorescent protein properties [link](http://www.fpvis.org/FP.html)
 
+
 ## Extra learning (100% optional):
 
 ### (Q.6) When are we 'done'? (0 pts)
@@ -193,5 +166,38 @@ By releasing videos of their failed launches, which include detailed annotations
 **[Antheia](https://antheia.bio/)**
 
 **[Bolt Threads](https://boltthreads.com/)**
+
+### (Q8) MOSIS and KumaMax (0 pts)
+
+[MOSIS](https://www.mosis.com/) (Metal Oxide Semiconductor Implementation Service) is a product of the VLSI revolution that changed the way we make the chips that power all of our electronics today. Before the advent of this shared implementation service, researchers and others looking to prototype and/or fabricate a chip had to be much more personally involved in the process of fabrication. The best results came when you knew someone in the fab facility, and could tailor your design to their skills. Recognizing a need, the clever minds behind MOSIS sought to help lower these barriers to entry (cost, specialized knowledge, and access to a foundry). 
+
+In doing so, they created the "fabless foundry" industry that has helped shape our society today. Watch this [video](https://www.youtube.com/watch?v=d5SEFE_49Ug) made by MOSIS explaining the workflow for using their service. As you do, pay special attention to each step of the workflow, who is involved, and which part of the DBT cycle is shown.
+
+**Q.8.a.** How does the MOSIS cycle compare (similarities and differences) to the DBT cycle you saw with KumaMax? Fill in the following table to compare and contrast the DBT workflow in each case, highlighting who is responsible for each step, and what tools they use in the completion of this task.
+
+<table>
+  <tr>
+    <td></td>
+    <td>KumaMax</td>
+    <td>Mosis</td>
+  </tr>
+  <tr>
+    <td>Design (Who, How)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Build (Who, How)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Test (Who, How)</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+(Additional Resources: Reminiscences of the VLSI Revolution - Lynn Conway's memoir, see [here](http://ai.eecs.umich.edu/people/conway/Memoirs/VLSI/Lynn_Conway_VLSI_Reminiscences.pdf)) 
 
 
