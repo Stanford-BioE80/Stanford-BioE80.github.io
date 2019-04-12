@@ -10,7 +10,7 @@ toc: true
 **NOTES:** 
   - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
   - Please turn in your completed problem sets as an electronic copy via Canvas. 
-  - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations) 
+  - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations). 
 
 **GOALS:** Reflect on the engineering design cycle: Design, Build, and Test (DBT) and its role in Bioengineering. 
 
@@ -63,9 +63,9 @@ Check out the website where the GFP structure is housed: [https://www.rcsb.org/s
 
 To do so:
 
-1. Download PyMol from this [Pymol Link]( https://pymol.org/2/) and Open PyMol on your laptop or computer. 
+1. Download PyMol from this [Pymol Link]( https://pymol.org/2/) and open PyMol on your laptop or computer. 
 
-2. Type in the command “fetch 1gfl” in PyMol. This command downloads the structure ofGreen Fluorescent Protein (GFP) from the Protein Data Bank (PDB)
+2. Type in the command “fetch 1gfl” in PyMol. This command downloads the structure of Green Fluorescent Protein (GFP) from the Protein Data Bank (PDB)
 
 3. In PyMol and take a look at the GFP structure.  Under the menus “H” and “S”  listed near the structure name on the toolbar on the right, click `Hide everything` and `Show cartoon`. 
 
@@ -80,9 +80,9 @@ To do so:
 **Q.4.b.** Describe in broad terms what processes unique to living matter are enabling building with mushrooms. 
 What are the potential and limitations of making with mushrooms? (bullet points)
 
-**Q.4.c.**  How is making with mushrooms different from other manufacturing processes such as 3D printing? (bullet points)
+**Q.4.c.** How is making with mushrooms different from other manufacturing processes such as 3D printing? (bullet points)
 
-**Q.4.d.**  Looking forward, we would want to go from creating matter with an inert function (e.g., a chair) to creating matter with biological function (i.e., growing a finger or a heart). What new considerations need to be made? (3-4 sentences, provide drawings or diagrams if helpful)
+**Q.4.d.** Looking forward, we would want to go from creating matter with an inert function (e.g., a chair) to creating matter with biological function (i.e., growing a finger or a heart). What new considerations need to be made? (3-4 sentences, provide drawings or diagrams if helpful)
 
 ## (Q5) Prepare for the Group Project (20 pts)
 
@@ -92,9 +92,9 @@ First, revisit [Kiva](https://www.kiva.org/about) from the pre-class reading. No
 
 **Q.5.a.** Name 3 sectors that are of interest to you? (Also add the 3 sectors [Here](https://docs.google.com/spreadsheets/d/1E5j9kcTJW_ok9W3qxqa5w_umo3dCFoRMR59G6Db9zyk/edit?usp=sharing)
 
-**Q.5.b.**  What role, imagined or as yet unimagined, can bioengineering play in addressing the needs in these sectors? (2 to 3 sentences)
+**Q.5.b.** What role, imagined or as yet unimagined, can bioengineering play in addressing the needs in these sectors? (2 to 3 sentences)
 
-**Q.5.c.**   Pick a location (ideally a region that you are not familiar with).  What are 3 to 4 specific requests that people from this location have? 
+**Q.5.c.** Pick a location (ideally a region that you are not familiar with).  What are 3 to 4 specific requests that people from this location have? 
 
 **Q.5.d.**  What role, imagined or as yet unimagined, can bioengineering play in addressing these requests? (2 to 3 sentences).
 
@@ -137,13 +137,13 @@ A crucial skill is determining when we are ready to exit the DBT cycle (if ever)
 
 Let's look at a real example of Test in action. Watch this [video](https://www.youtube.com/watch?v=bvim4rsNHkQ&feature=youtu.be), and answer the following questions.
 
-**Q.6.a.** Are you surprised by the video? Why do you think the company behind this video wanted to share their testing process with the world? (<150 words)
+**Q.6.a.** Are you surprised by the video? Why do you think the company behind this video wanted to share their testing process with the world?  (2 to 3 sentences).
 
-**Q.6.b.** Can you guess what some of the design specifications and testing benchmarks were from the video? (<150 words)
+**Q.6.b.** Can you guess what some of the design specifications and testing benchmarks were from the video?  (2 to 3 sentences).
 
 Working from our design specifications and field standards, we can outline an acceptable margin of error. Once we get to a product that is within this range, we can say that we have succeeded and exit the cycle. But this is context, specific.
 
-**Q.6.c.** How would you determine acceptable margins of error in the cases we have seen. Think about the stakeholders (who would be affected by a failure of the product), and how they would be impacted. Which do you think would have a larger margin of error? Why? (<150 words)
+**Q.6.c.** How would you determine acceptable margins of error in the cases we have seen. Think about the stakeholders (who would be affected by a failure of the product), and how they would be impacted. Which do you think would have a larger margin of error? Why?  (2 to 3 sentences).
 
 1. KumaMax: Creating an oral enzyme therapeutic to treat Celiac Disease
 
@@ -173,7 +173,7 @@ By releasing videos of their failed launches, which include detailed annotations
 
 In doing so, they created the "fabless foundry" industry that has helped shape our society today. Watch this [video](https://www.youtube.com/watch?v=d5SEFE_49Ug) made by MOSIS explaining the workflow for using their service. As you do, pay special attention to each step of the workflow, who is involved, and which part of the DBT cycle is shown.
 
-**Q.8.a.** How does the MOSIS cycle compare (similarities and differences) to the DBT cycle you saw with KumaMax? Fill in the following table to compare and contrast the DBT workflow in each case, highlighting who is responsible for each step, and what tools they use in the completion of this task.
+**Q.8.** How does the MOSIS cycle compare (similarities and differences) to the DBT cycle you saw with KumaMax? Fill in the following table to compare and contrast the DBT workflow in each case, highlighting who is responsible for each step, and what tools they use in the completion of this task.
 
 <table>
   <tr>
