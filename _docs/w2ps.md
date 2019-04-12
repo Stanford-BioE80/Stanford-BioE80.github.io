@@ -5,11 +5,11 @@ last_modified_at: 2018-11-25T22:21:33-05:00
 toc: true
 ---
 
-**DUE:** Next Friday(April.19), beginning of class.
+**DUE:** Next Friday(April.19), beginning of class via **Gradescope**. 
 
 **NOTES:** 
-  - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
-  - Please turn in your completed problem sets as an electronic copy via Canvas. 
+  - All BIOE.80 problem sets must be completed individually unless plainly noted opetherwise.
+  - Please turn in your completed problem sets as an electronic copy via **Gradescope**. 
   - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations). 
 
 **GOALS:** Reflect on the engineering design cycle: Design, Build, and Test (DBT) and its role in Bioengineering. 
