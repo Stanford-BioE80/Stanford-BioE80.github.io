@@ -18,10 +18,10 @@ shoes must cover the entire foot and pants must cover the ankle. Please leave fo
 
 ### Introduction:
 Welcome to the Making with Mushrooms activity!
-Our goal is to help you discover and get you inspired by the potential of living matter as a material.
+Our goal is to help you discover and be inspired by the potential of living matter as a material.
 In class goal: Make your own mycelium material object.
 To complete this activity you will first make your own mycelium material.
-Finally, you are asked to document and share your images as part of your PSET-8.
+Finally, you are asked to document and share your images as part of your PSET-2.
 
 
 ### Make your own mycelium material object:
@@ -36,55 +36,60 @@ Molds are available
 
 ### Procedure
 
-#### Set up 
+#### Design
 (suggested time: 10 min)
 
-1. Put on gloves!
+1. Think of something you would like to build, perhaps the idea you came in with or the object or part you wanted to mold.
 
-2. Spray and wipe down your forms/molds.
+2. Prep your mold. You can use a silicone baking mold, bag, cup, or other disposable materials that are available to you. Get creative! You’ll fill the empty space with the mycelium material and let it grow. 
 
-3. Break the antlers off, if there are any, to get to the spongy layer. Put theantlers in one bowl and the spongy material in the other.
+#### Mycelium set up 
+(suggested time: 10 min)
 
-4. Squeeze out the juice from the spongy material into the antler bowl in orderto get a damp but not wet material, leaving it in its original bowl. This will beyour final material. Your damp material should have no excess water (i.e. kindof like wet sand).
+3. Put on gloves!
+
+4. Spray and wipe down your forms/molds.
+
+5. Break the antlers off, if there are any, to get to the spongy layer. Put the antlers in one bowl and the spongy material in the other.
+
+6. Squeeze out the juice from the spongy material into the antler bowl in orderto get a damp but not wet material, leaving it in its original bowl. This will beyour final material. Your damp material should have no excess water (i.e. kind of like wet sand). If it's too dry, use a spray bottle to moisten the material.
 
 #### Build 
 (suggested time: 15 min)
 
-5. Think of something you would like to build, perhaps the idea you came inwith or the object or part you wanted to mold.
-
-6. Shape the material! Here are three ways to do so:
+7. Shape the material! Here are three ways to do so:
   a.With your hands!
   b.Around an object!
   c.In a baggy or cup!
   
-7. Seal it! You can either put it in a plastic bag, plastic wrap, or cup.
+8. Seal it! You can either put it in a plastic bag, plastic wrap, or cup.
 
 *Remember, you want to LOOSELY SEAL your bag to allow for gas exchange so that the material can harden.*
 
 #### Finish 
 (suggested time: 10 min)
 
-8. Label the bag/cup and ask your TA where to place it.
+9. Label the bag/cup and ask your TA where to place it.
 
-9. As a team, clean up your space completely. leaving the space better than you found it. 
+10. As a team, clean up your space completely. leaving the space cleaner than you found it. 
 To do so:
 
 a. Take all biomaterials and anything that touched biomaterial (e.g. trash bag coverings on the tables in 112) and place them in the trash.
 
-b. Wipe down your countertops with ethanol.
+b. Wipe down your countertops with 70% ethanol.
 
-c. Please clean your bowls in the sink after dumping the mushroom wastematerial in the trash bins. Please give your bowl to a TA afterwards forstorage.
+c. Please clean your bowls in the sink after dumping the mushroom waste material in the trash bins. Please give your bowl to a TA afterwards for storage.
 
 
 ####  Guiding questions to think about as you make
 
 These questions will be part of your PSET.
 
-**Q.1** What is actually going on here? Describe in broad terms what processesunique to living matter are making this possible and the potential/limitation ofmaking with mushrooms.
+**Q.1** What is actually going on here? Describe in broad terms what processes unique to living matter make this possible. What are the potentials and limitations of making with mushrooms?
 
-**Q.2** How is this similar or different to other additive manufacturing processes suchas 3D printing? (detail out similarities/differences...feel free to draw)
+**Q.2** How is this similar or different to other additive manufacturing processes such as 3D printing? (detail out similarities/differences...feel free to draw)
 
-**Q.3** Looking forward, how do we go from creating matter with an inert function(e.g. a chair) to creating matter with biological function (i.e. growing a finger, a heart, etc)? What new considerations need to be made?
+**Q.3** Looking forward, we will want to go from creating matter with an inert function (e.g. a chair) to creating matter with a biological function (i.e. growing a finger, a heart, etc). What new considerations need to be made?
 
 #### Additional Resources:
 1.MycoWorks https://www.youtube.com/watch?v=VWQznqpy3Ssb 
