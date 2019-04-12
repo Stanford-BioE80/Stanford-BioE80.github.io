@@ -16,9 +16,11 @@ Briefly examine the article, The Burden of Disease and the Changing Task of Medi
 **Q.1. How has the burden of disease changed over time?**
 
 ## Preclass for Wednesday
+Briefly examine the following links:
 
-There was no preclass for Wednesday Week-4. 
-Topic: "What will be the major human health challenges in 2030?"
+1. [WHO - 10 facts on Malaria] (https://www.who.int/features/factfiles/malaria/en/)
+
+2. [Synthetic biology’s first malaria drug meets market resistance](https://www.nature.com/news/synthetic-biology-s-first-malaria-drug-meets-market-resistance-1.19426?WT.ec_id=NEWS-20160225&spMailingID=50779167&spUserID=MzcwMzk3NDYwODcS1&spJobID=863136582&spReportId=ODYzMTM2NTgyS0)
 
 ## Preclass for Friday 
 
