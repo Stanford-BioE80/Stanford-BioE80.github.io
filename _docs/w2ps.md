@@ -90,7 +90,7 @@ This question seeks to enable you to prepare for the group formation for the fin
 
 First, revisit [Kiva](https://www.kiva.org/about) from the pre-class reading. Note that you can select various sectors (health, food, agriculture, arts, education,  ... ) or locations across the world. [Kiva link-2]( https://www.kiva.org/lend)
 
-**Q.5.a.** Name 3 sectors that are of interest to you?
+**Q.5.a.** Name 3 sectors that are of interest to you? (Also add the 3 sectors [Here](https://docs.google.com/spreadsheets/d/1E5j9kcTJW_ok9W3qxqa5w_umo3dCFoRMR59G6Db9zyk/edit?usp=sharing)
 
 **Q.5.b.**  What role, imagined or as yet unimagined, can bioengineering play in addressing the needs in these sectors? (2 to 3 sentences)
 
@@ -99,7 +99,7 @@ First, revisit [Kiva](https://www.kiva.org/about) from the pre-class reading. No
 **Q.5.d.**  What role, imagined or as yet unimagined, can bioengineering play in addressing these requests? (2 to 3 sentences).
 
 Provide the answers as part of problem set-2.  
-Additionally, we will have an online Google Spreadsheet for you to add in your ideas and share them with your classmates. This can help you find teams for your final project in preparation for Week 4 (Fri 26 April).  
+You will also bring your answers to the class on Week 4 (Fri 26 April) to find teams and begin to brainstorm for your final project.
 
 **Extra Credit (5 points)**
 
