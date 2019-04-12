@@ -98,8 +98,8 @@ First, revisit [Kiva](https://www.kiva.org/about) from the pre-class reading. No
 
 **Q.5.d.**  What role, imagined or as yet unimagined, can bioengineering play in addressing these requests? (2 to 3 sentences).
 
-Provide the answers as part of problem set-2.  
-You will also bring your answers to the class on Week 4 (Fri 26 April) to find teams and begin to brainstorm for your final project.
+Provide your answers as part of PSET-2.  
+You will also bring your answers to the class on Week-4 (Friday 26 April) to find teams and begin to brainstorm for your final project.
 
 **Extra Credit (5 points)**
 
