@@ -80,7 +80,7 @@ For more information about GFP check out: [PDB Link](http://pdb101.rcsb.org/motm
 [source](http://www.cryst.bbk.ac.uk/PPS2/projects/jonda/chromoph.htm)
 
 
-9. Take a screenshot of your highlighted protein structure for the problem set 2.
+9. Take a screenshot of your highlighted protein structure for the problem set 3.
 
 
 ### GOOP Experiment
