@@ -72,11 +72,12 @@ Add a screenshot of your GFP structure in PyMol with the chromophore highlighted
 
 ## (Q3) Inverters and Ring Oscillator (0 pts)
 
-Imagine that you are a system's level **Bioengineer** designing inverters and an oscillator.
+Imagine that you are a system's level **Bioengineer** designing genetic inverters and ring oscillators.
 
-**Q.3.a.** Draw a box diagram of a genetic inverter.  Label input and output to the system.  Then describe the behavior of the genetic inverter (2-3 sentences and use diagrams and drawings if helpful) 
+**Q.3.a.** Draw a box diagram of a genetic inverter at the device level. Describe the behavior of the genetic inverter. 
+(2-3 sentences and use diagrams and drawings if helpful) 
 
-**Q.3.b.** Imagine that you are building a 3-inverter Ring oscillator. Describe the role of Common Signal Carriers in constructing such a system (2-3 sentences and use diagrams and drawings if helpful) 
+**Q.3.b.** Imagine that you are building a 3-inverter genetic ring oscillator. Describe the role of Common Signal Carriers in constructing such a system (2-3 sentences and use diagrams and drawings if helpful).  
 
 **Extra learning** (100% optional):
 
@@ -92,11 +93,7 @@ depending on whether they are exposed to light or not, send or receive small mol
 across the light/dark boundary.  Only cells positioned at the boundary between light and dark express an enzyme that 
 results in formation of a dark pigment (HINT: see Figure and also the primary 
 
-<figure>
-<href="/assets/images/PSET-3.fig1.png"><img src="/assets/images/PSET-3.fig1.png">
-<figure >
 [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775486/))
-
 
 **Develop a device-level block diagram** that would result in the so-shown behavior. Label simple sensors, logic blocks, and actuators, as needed.  Connect outputs to inputsif and as required. (Hint:  Only give simple device names (e.g., “Dark sensor,” “pigment actuator” etc.); do not describe any biology in any molecular detail).  
 
