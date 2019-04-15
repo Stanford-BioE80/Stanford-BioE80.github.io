@@ -88,9 +88,9 @@ You imagine a submarine that can be shrunk and will carry the team of experts an
 **Extra learning** (100% optional):
 
 If you want to explore more re: a different type of DNA logic mentioned briefly in class, pleasecheck out this video from Prof. Endy on how to to engineer Boolean integrase Logic (BIL) gatesbased on DNA flipping... 
-[Transcriptors & Boolean Integrase Logic (BIL) gates, explained](https://www.youtube.com/watch?v=ahYZBeP_r5U)
+[Transcriptors & Boolean Integrase Logic (BIL) gates, explained](https://www.youtube.com/watch?v=ahYZBeP_r5U).
 
-***(Q4) Bacterial edge detection (0 pts)***
+***(Q5) Bacterial edge detection (0 pts)***
 
 Building on work first published in 2005, Jeff Tabor and colleagues eventually demonstrated a 
 bacterial edge detection system.  In their system a bacterial lawn (i.e., a uniform layer of identically engineered 
@@ -103,7 +103,7 @@ results in formation of a dark pigment (HINT: see Figure and also the primary
 
 **Develop a device-level block diagram** that would result in the so-shown behavior. Label simple sensors, logic blocks, and actuators, as needed.  Connect outputs to inputsif and as required. (Hint:  Only give simple device names (e.g., “Dark sensor,” “pigment actuator” etc.); do not describe any biology in any molecular detail).  
 
-*** (Q5)  Buggy Bacterial Flash Mob? (0 pts)***
+***(Q6)  Buggy Bacterial Flash Mob? (0 pts)***
  
  Students at MIT are claiming that they have designed a genetic program to realize 
  arepeating bacterial flash mob.  See their work yet again via:
