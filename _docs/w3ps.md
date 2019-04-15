@@ -17,7 +17,7 @@ Please make sure to not go over the word limits and when appropriate show your w
 
 GOAL: Reflect on the role of **abstraction** as a tool for helping to managecomplexity in biological systems.
 
-## (Q1) Patterns with Logic (30 pts)
+## (Q1) Patterns with Logic (20 pts)
  
 Your goal is to engineer patterns in tissues using proteins delivered by the hardware
 platform shown in Figure-1 (below). The platform itself consists of two channels (purple and
@@ -69,8 +69,7 @@ Add a screenshot of your GFP structure in PyMol with the chromophore highlighted
 
 **_Please give us feedback. Did you run into any problems?_**
 
-
-## (Q3) Inverters and Ring Oscillator (0 pts)
+## (Q3) Inverters and Ring Oscillator (20 pts)
 
 Imagine that you are a system's level **Bioengineer** designing genetic inverters and ring oscillators.
 
@@ -79,12 +78,19 @@ Imagine that you are a system's level **Bioengineer** designing genetic inverter
 
 **Q.3.b.** Imagine that you are building a 3-inverter genetic ring oscillator. Describe the role of Common Signal Carriers in constructing such a system (2-3 sentences and use diagrams and drawings if helpful).  
 
+## (Q4) Fantastic Voyage  
+
+In the near future, you and your team are planning to remove an inoperable tumor from the brain of an important scientist.  You conclude that the only way that tumor can be destroyed is to remove it from the inside of the patient's own body. 
+You imagine a submarine that can be shrunk and will carry the team of experts and doctors.  Sadly, however, no shrink ray exists in this future (physicist have not delivered).  You think of engineering living matter, for example, engineering microbes that are already small.  
+
+**Q.4.a.** Draw a generic system architecture (sensor(s), logic, and actuator) of your engineeried microbe 
+
 **Extra learning** (100% optional):
 
 If you want to explore more re: a different type of DNA logic mentioned briefly in class, pleasecheck out this video from Prof. Endy on how to to engineer Boolean integrase Logic (BIL) gatesbased on DNA flipping... 
 [Transcriptors & Boolean Integrase Logic (BIL) gates, explained](https://www.youtube.com/watch?v=ahYZBeP_r5U)
 
-## (Q4) Bacterial edge detection (0 pts)
+***(Q4) Bacterial edge detection (0 pts)***
 
 Building on work first published in 2005, Jeff Tabor and colleagues eventually demonstrated a 
 bacterial edge detection system.  In their system a bacterial lawn (i.e., a uniform layer of identically engineered 
@@ -97,7 +103,7 @@ results in formation of a dark pigment (HINT: see Figure and also the primary
 
 **Develop a device-level block diagram** that would result in the so-shown behavior. Label simple sensors, logic blocks, and actuators, as needed.  Connect outputs to inputsif and as required. (Hint:  Only give simple device names (e.g., “Dark sensor,” “pigment actuator” etc.); do not describe any biology in any molecular detail).  
 
- ## (Q5)  Buggy Bacterial Flash Mob? (0 pts)
+*** (Q5)  Buggy Bacterial Flash Mob? (0 pts)***
  
  Students at MIT are claiming that they have designed a genetic program to realize 
  arepeating bacterial flash mob.  See their work yet again via:
