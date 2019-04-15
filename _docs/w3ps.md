@@ -5,15 +5,19 @@ last_modified_at: Feb.20.2019
 2018: Week 6 
 toc: true
 ---
-
-**DUE:** Next Friday, beginning of class.
+**DUE:** Next Friday(April.26), beginning of class via Gradescope.
 
 **NOTES:** 
-  - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
-  - Please turn in your completed problem sets as an electronic copy via Canvas. 
-  - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations).
- 
- ## (Q1) Patterns with Logic
+
+All BIOE.80 problem sets must be completed individually unless plainly noted opetherwise.
+
+Please turn in your completed problem sets as an electronic copy via Gradescope.
+
+Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations).
+
+GOAL: Reflect on the role of **abstraction** as a tool for helping to managecomplexity in biological systems.
+
+  ## (Q1) Patterns with Logic
  
 Your goal is to engineer patterns in tissues using proteins delivered by the hardware
 platform shown in Figure-1 (below). The platform itself consists of two channels (purple and
@@ -45,33 +49,32 @@ Consider two different genetic logic devices (AND, XOR) that are responsive to p
 <href="/assets/images/PSET3.fig3.png"><img src="/assets/images/PSET3.fig3.png">
 <figure >
   
-## (Q2) GOOP Tube (30 pts)
+## (Q2) GOOP Tube (35 pts)
 
 On Friday you were given two GOOP tubes, one tube of DNA (instruction to express GFP), and one tube of water.
 
-**Q.2.a.** When and where did you add the water and DNA-expression to your GOOP tube. 
+**Q.2.a.** Did you show up on Fridayt? (Yes / No)
 
-**Q.2.b.** Did the GOOP with expression instructions turn green (produce GFP)? How long did it take? (Your grade does not depend on the expression of GFP). Include photos of both tubes at the start, about 6 hours and after 12 hours. (Time points don't have to be exact. Simply report when you took the photos) Make sure to provide a figure legend. 
+**Q.2.b.** When and where did you add the water and DNA-expression to your GOOP tubes. 
 
-**Q.2.c.** Why might certain designs work in GOOP, but not in a cell? Why might certain designs work in a cell, but not in GOOP? (2-3 sentences) 
+**Q.2.c.** Did the GOOP with expression instructions turn green (produce GFP)? How long did it take? (Your grade does not depend on the expression of GFP). Include photos of both tubes at the start, mid-way (about 6 hours), and after 12 hours. (Time points don't have to be exact. Simply report when you took the photos) Make sure to provide a figure legend. 
+
+**Q.2.d.** Why might certain designs work in GOOP, but not in a cell?  Why might certain designs work in a cell, but not in GOOP? (2-3 sentences) 
+
+**Q.4.e. Revisiting Design Tools (PyMol).**
+
+Add a screenshot of your GFP structure in PyMol with the chromophore highlighted in red (see week-3 in class instructions). Why do you think the structure (barrel structure) might be necessary around the chromophore? (bullet points) 
 
 **_Please give us feedback. Did you run into any problems?_**
 
-## (Q3) Bacterial edge detection (20 pts)
 
-Building on work first published in 2005, Jeff Tabor and colleagues eventually demonstrated a 
-bacterial edge detection system.  In their system a bacterial lawn (i.e., a uniform layer of identically engineered 
-bacteria growing on a plate) detect a light-encoded image.  The bacteria are initially all the same but, 
-depending on whether they are exposed to light or not, send or receive small molecule-encoded signals that diffuse 
-across the light/dark boundary.  Only cells positioned at the boundary between light and dark express an enzyme that 
-results in formation of a dark pigment (HINT: see Figure and also the primary 
-[source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775486/))
+## (Q3) Ring Oscillator (0 pts)
 
+Draw a device system level diagram of a 3-inverter Ring oscillator. Think back to the class on Wednesday, imagine that you are a system's level **Bioengineer** designing an oscillator...
 
-3.a. **Develop a device-level block diagram** that would result in the so-shown behavior. Label simple sensors, logic blocks, and actuators, as needed.  Connect outputs to inputsif and as required. (Hint:  Only give simple device names (e.g., “Dark sensor,” “pigmentactuator” etc.); do not describe any biology in any molecular detail).  (30 points)
+5.a. What is an ideal inverter from a systems level perspective? (bullet points and a simple diagram to describe inputs and outputs for the inverters) (5 points)
 
-
-3.b. Take a look at the photo of the system in action. Note the edge detection in the case of asquare or Alfred Hitchcock’s portrait. **What do you observe?** For example, why is there more pigment inside the corners of the square, or inside the bottom left angle of Alfred’s portrait?  (bullet points, 10 points)
+5.b. Provide an example of a bad design choice, from system's level view, for these inverters? (Ring oscillator should still work) (5 points)
 
 ## (Q4) Approximate and rapid numerical estimates (40 pts)
 
@@ -106,22 +109,27 @@ _Escherichia coli_ (**Figure 1**) is well-studied bacteria considered to be repr
 **Q.4.d.** How would you go about estimating the total number of carbon atoms in an *E.coli* cell? You don't have to calculate this just define variables and describe your approach step by step. 
 
 
-
 **Extra learning** (100% optional):
 
 If you want to explore more re: a different type of DNA logic mentioned briefly in class, pleasecheck out this video from Prof. Endy on how to to engineer Boolean integrase Logic (BIL) gatesbased on DNA flipping... 
 [Transcriptors & Boolean Integrase Logic (BIL) gates, explained](https://www.youtube.com/watch?v=ahYZBeP_r5U)
 
+## (Q5) Bacterial edge detection (0 pts)
 
-## (Q5) Ring Oscillator (0 pts)
+Building on work first published in 2005, Jeff Tabor and colleagues eventually demonstrated a 
+bacterial edge detection system.  In their system a bacterial lawn (i.e., a uniform layer of identically engineered 
+bacteria growing on a plate) detect a light-encoded image.  The bacteria are initially all the same but, 
+depending on whether they are exposed to light or not, send or receive small molecule-encoded signals that diffuse 
+across the light/dark boundary.  Only cells positioned at the boundary between light and dark express an enzyme that 
+results in formation of a dark pigment (HINT: see Figure and also the primary 
+
+<figure>
+<href="/assets/images/PSET-3.fig1.png"><img src="/assets/images/PSET-3.fig1.png">
+<figure >
+[source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775486/))
 
 
-Here is a system level diagram of a 3-inverter Ring oscillator. Think back to the class on Wednesday, imagine that you are a system's level **Bioengineer** designing an oscillator...
-
-5.a. What is an ideal inverter from a systems level perspective? (bullet points and a simple diagram to describe inputs and outputs for the inverters) (5 points)
-
-5.b. Provide an example of a bad design choice, from system's level view, for these inverters? (Ring oscillator should still work) (5 points)
-
+5.a. **Develop a device-level block diagram** that would result in the so-shown behavior. Label simple sensors, logic blocks, and actuators, as needed.  Connect outputs to inputsif and as required. (Hint:  Only give simple device names (e.g., “Dark sensor,” “pigment actuator” etc.); do not describe any biology in any molecular detail).  
 
  ## (Q6)  Buggy Bacterial Flash Mob? (0 pts)
  
