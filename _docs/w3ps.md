@@ -21,12 +21,12 @@ GOAL: Reflect on the role of **abstraction** as a tool for helping to manage com
  
 Your goal is to engineer patterns in tissues using proteins delivered by the hardware
 platform shown in Figure-1 (below). The platform itself consists of two channels (purple and
-green) through which proteins (ligands) are supplied continuously. A chamber in which
-engineered tissues develop (pink) sits between the two channels. Proteins from each channel
-can slowly move (diffuse) throughout the developing tissue. When the protein ligands are sensed by cells
+green) through which proteins (inputs) are supplied continuously. In between the two channels sits a chamber containing
+engineered tissue (pink). Proteins from each 
+channel can slowly move laterally throughout the developing tissue. When the protein inputs are sensed by cells
 within the tissue the cells respond according to whatever genetic logic is operating in each cell.
 
-The concentration gradient of each protein ligand A and B is given in Figure-1. Note that values of A or B above the dotted line can be considered ‘1’ or ‘ON’, and values below can be considered ‘0’ or ‘OFF’. 
+The concentration gradient of each protein A and B is given in Figure-1 for a cross-section of the device. Values of A or B above the dotted line can be considered ‘1’ or ‘ON’, and values below can be considered ‘0’ or ‘OFF’. 
 
 **Figure-1** Platform to engineer patterns in tissues via protein inputs.
 
@@ -34,18 +34,16 @@ The concentration gradient of each protein ligand A and B is given in Figure-1. 
 <href="/assets/images/PSET-3.fig1.png"><img src="/assets/images/PSET-3.fig1.png">
 <figure >
 
-Consider two different genetic logic devices (AND, XOR) that are responsive to proteins A and B as inputs (“truth tables” or input/output relationship are given for each gate). Sketch the expected output (C) for each device as a function of the A and B inputs (draw on the figure below if useful). 
+Consider two different genetic logic devices (AND, XOR) that are responsive to proteins A and B as inputs and that produce an output C. For each, use 1-2 sentences to describe the logic being implemented in words. Then sketch the signal (in this case, concentration) for the expected output (C) for each device as a function of the inputs that are shown (draw on the figures below if useful). 
 
-**Hint-1** For each logic gate use the corresponding truth table.
-
-**Hint-2** Each logic gate takes in two inputs, ligands A and B, then computes some output C to realize a spatially defined pattern across the population of cells (pink). 
+**Hint** For each logic gate, "truth tables" or input/output relationships are given. Use the corresponding truth table for the AND and XOR devices. 
 
 **Figure-2** Cells with genetic logic devices-1: AND Gate.
 <figure>
 <href="/assets/images/PSET3.fig2.png"><img src="/assets/images/PSET3.fig2.png">
 <figure >
 
-**Figure-3** Cells with genetic logic devices-1: XOR Gate.
+**Figure-3** Cells with genetic logic devices-2: XOR Gate.
 <figure>
 <href="/assets/images/PSET3.fig3.png"><img src="/assets/images/PSET3.fig3.png">
 <figure >
