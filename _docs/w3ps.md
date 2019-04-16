@@ -5,17 +5,17 @@ last_modified_at: Feb.20.2019
 2018: Week 6 
 toc: true
 ---
-**DUE:** Next Friday(April.26), beginning of class via Gradescope.
+**DUE:** Next Friday (April.26), beginning of class via Gradescope.
 
 **NOTES:** 
 
-All BIOE.80 problem sets must be completed individually unless plainly noted opetherwise.
+All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
 
 Please turn in your completed problem sets as an electronic copy via Gradescope.
 
 Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations).
 
-GOAL: Reflect on the role of **abstraction** as a tool for helping to managecomplexity in biological systems.
+GOAL: Reflect on the role of **abstraction** as a tool for helping to manage complexity in biological systems.
 
 ## (Q1) Patterns with Logic (30 pts)
  
@@ -52,13 +52,13 @@ Consider two different genetic logic devices (AND, XOR) that are responsive to p
   
 ## (Q2) GOOP Tube (50 pts)
 
-On Friday you were given two GOOP tubes, one tube of DNA (instruction to express GFP), and one tube of water.
+On Friday you were given two GOOP tubes, one tube of DNA (instructions to express GFP), and one tube of water.
 
-**Q.2.a.** Did you show up on Fridayt? (Yes / No)
+**Q.2.a.** Did you show up on Friday and participate in the activity? (Yes / No) 
 
-**Q.2.b.** When and where did you add the water and DNA-expression to your GOOP tubes. 
+**Q.2.b.** When and where did you add the water and DNA-expression to your GOOP tubes? 
 
-**Q.2.c.** Did the GOOP with expression instructions turn green (produce GFP)? How long did it take? (Your grade does not depend on the expression of GFP). Include photos of both tubes at the start, mid-way (about 6 hours), and after 12 hours. (Time points don't have to be exact. Simply report when you took the photos) Make sure to provide a figure legend. 
+**Q.2.c.** Did the GOOP with expression instructions turn green (produce GFP)? How long did it take? (Your grade does not depend on the expression of GFP). Include photos of both tubes at the start, mid-way (about 6 hours), and after 12 hours. (Time points don't have to be exact. Simply report when you took the photos.) Make sure to provide figure legends. 
 
 **Q.2.d.** Why might certain designs work in GOOP, but not in a cell?  Why might certain designs work in a cell, but not in GOOP? (2-3 sentences) 
 
@@ -70,16 +70,16 @@ Add a screenshot of your GFP structure in PyMol with the chromophore highlighted
 
 ## (Q3) Inverters and Ring Oscillator (20 pts)
 
-Imagine that you are a system's level **Bioengineer** designing genetic inverters and ring oscillators.
+Imagine that you are a system level **Bioengineer** designing genetic inverters and ring oscillators.
 
 **Q.3.a.** Draw a box diagram of a genetic inverter at the *device level*. Describe the behavior of the genetic inverter. 
 (2-3 sentences and use diagrams and drawings if helpful). 
 
 **Q.3.b.** Imagine that you are building a 3-inverter genetic ring oscillator at the *systems level*. Describe the role of Common Signal Carriers in constructing such a system (2-3 sentences and use diagrams and drawings if helpful).  
 
-**Extra learning** (100% optional):
+## Extra learning (100% optional):
 
-If you want to explore more: a different type of DNA logic mentioned briefly in class, please check out this video from Prof. Endy on how to to engineer Boolean integrase Logic (BIL) gatesbased on DNA flipping... 
+If you want to explore more: a different type of DNA logic mentioned briefly in class, please check out this video from Prof. Endy on how to to engineer Boolean integrase Logic (BIL) gates based on DNA flipping... 
 [Transcriptors & Boolean Integrase Logic (BIL) gates, explained](https://www.youtube.com/watch?v=ahYZBeP_r5U).
 
 ***(Q4) Bacterial edge detection (0 pts)***
@@ -105,12 +105,12 @@ are now claiming that the genetic program designed at MIT won’t actually produ
 so-desired behavior.  Looking only at their proposed “device-level system diagram”...
 
 
-1.a. What do you think?  Will their program work or not?   (10 points)
+1.a. What do you think?  Will their program work or not?   
 
 
 YES or NO (circle one)
 
 
-1.b. Why or why not? (bullet points) (10 points)
+1.b. Why or why not? (bullet points) 
 
 
