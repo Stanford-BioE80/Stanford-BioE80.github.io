@@ -34,7 +34,7 @@ The concentration gradient of each protein A and B is given on the right in Figu
 <href="/assets/images/PSET-3.fig1.png"><img src="/assets/images/PSET-3.fig1.png">
 <figure >
 
-Consider two different genetic logic devices (AND, XOR) that are responsive to proteins A and B as inputs and that produce an output C. For each, use 1-2 sentences to describe the logic being implemented in words. Then sketch the signal (in this case, concentration) for the expected output (C) for each device as a function of the inputs that are shown (Draw on the figures below or sketch your own chart of concentration vs. position in the device). 
+Consider two different genetic logic devices (AND, XOR) that are responsive to proteins A and B as inputs and that produce an output C. For each, use 1-2 sentences to describe the logic being implemented in words. Then sketch the signal (in this case, concentration) for the expected output (C) for each device as a function of input concentrations (Draw on the figures below or sketch your own chart of concentration vs. position in the device). 
 
 **Hint** For each logic gate, "truth tables" or input/output relationships are given. Use the corresponding truth table for the AND and XOR devices. 
 
