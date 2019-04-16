@@ -26,7 +26,7 @@ engineered tissue (pink). Proteins from each
 channel can slowly move laterally throughout the developing tissue. When the protein inputs are sensed by cells
 within the tissue the cells respond according to whatever genetic logic is operating in each cell.
 
-The concentration gradient of each protein A and B is given in Figure-1 for a cross-section of the device. Values of A or B above the dotted line can be considered ‘1’ or ‘ON’, and values below can be considered ‘0’ or ‘OFF’. 
+The concentration gradient of each protein A and B is given on the right in Figure-1 for a cross-section of the device. Values of A or B above the dotted line can be considered ‘1’ or ‘ON’, and values below can be considered ‘0’ or ‘OFF’. 
 
 **Figure-1** Platform to engineer patterns in tissues via protein inputs.
 
@@ -34,7 +34,7 @@ The concentration gradient of each protein A and B is given in Figure-1 for a cr
 <href="/assets/images/PSET-3.fig1.png"><img src="/assets/images/PSET-3.fig1.png">
 <figure >
 
-Consider two different genetic logic devices (AND, XOR) that are responsive to proteins A and B as inputs and that produce an output C. For each, use 1-2 sentences to describe the logic being implemented in words. Then sketch the signal (in this case, concentration) for the expected output (C) for each device as a function of the inputs that are shown (draw on the figures below if useful). 
+Consider two different genetic logic devices (AND, XOR) that are responsive to proteins A and B as inputs and that produce an output C. For each, use 1-2 sentences to describe the logic being implemented in words. Then sketch the signal (in this case, concentration) for the expected output (C) for each device as a function of the inputs that are shown (Draw on the figures below or sketch your own chart of concentration vs. position in the device). 
 
 **Hint** For each logic gate, "truth tables" or input/output relationships are given. Use the corresponding truth table for the AND and XOR devices. 
 
