@@ -17,7 +17,7 @@ Please make sure to not go over the word limits and when appropriate show your w
 
 GOAL: Reflect on the role of **abstraction** as a tool for helping to managecomplexity in biological systems.
 
-## (Q1) Patterns with Logic (20 pts)
+## (Q1) Patterns with Logic (30 pts)
  
 Your goal is to engineer patterns in tissues using proteins delivered by the hardware
 platform shown in Figure-1 (below). The platform itself consists of two channels (purple and
@@ -34,7 +34,6 @@ The concentration gradient of each protein ligand A and B is given in Figure-1. 
 <href="/assets/images/PSET-3.fig1.png"><img src="/assets/images/PSET-3.fig1.png">
 <figure >
 
- 
 Consider two different genetic logic devices (AND, XOR) that are responsive to proteins A and B as inputs (“truth tables” or input/output relationship are given for each gate). Sketch the expected output (C) for each device as a function of the A and B inputs (draw on the figure below if useful). 
 
 **Hint-1** For each logic gate use the corresponding truth table.
@@ -51,7 +50,7 @@ Consider two different genetic logic devices (AND, XOR) that are responsive to p
 <href="/assets/images/PSET3.fig3.png"><img src="/assets/images/PSET3.fig3.png">
 <figure >
   
-## (Q2) GOOP Tube (40 pts)
+## (Q2) GOOP Tube (50 pts)
 
 On Friday you were given two GOOP tubes, one tube of DNA (instruction to express GFP), and one tube of water.
 
@@ -73,37 +72,28 @@ Add a screenshot of your GFP structure in PyMol with the chromophore highlighted
 
 Imagine that you are a system's level **Bioengineer** designing genetic inverters and ring oscillators.
 
-**Q.3.a.** Draw a box diagram of a genetic inverter at the device level. Describe the behavior of the genetic inverter. 
-(2-3 sentences and use diagrams and drawings if helpful) 
+**Q.3.a.** Draw a box diagram of a genetic inverter at the *device level*. Describe the behavior of the genetic inverter. 
+(2-3 sentences and use diagrams and drawings if helpful). 
 
-**Q.3.b.** Imagine that you are building a 3-inverter genetic ring oscillator. Describe the role of Common Signal Carriers in constructing such a system (2-3 sentences and use diagrams and drawings if helpful).  
-
-## (Q4) Fantastic Voyage  
-
-In the near future, you and your team are planning to remove an inoperable tumor from the brain of an important scientist.  You conclude that the only way that tumor can be destroyed is to remove it from the inside of the patient's own body. 
-You imagine a submarine that can be shrunk and will carry the team of experts and doctors.  Sadly, however, no shrink ray exists in this future (physicist have not delivered).  You think of engineering living matter, for example, engineering microbes that are already small.  
-
-**Q.4.a.** Draw a generic system architecture (sensor(s), logic, and actuator) of your engineeried microbe 
+**Q.3.b.** Imagine that you are building a 3-inverter genetic ring oscillator at the *systems level*. Describe the role of Common Signal Carriers in constructing such a system (2-3 sentences and use diagrams and drawings if helpful).  
 
 **Extra learning** (100% optional):
 
-If you want to explore more re: a different type of DNA logic mentioned briefly in class, pleasecheck out this video from Prof. Endy on how to to engineer Boolean integrase Logic (BIL) gatesbased on DNA flipping... 
+If you want to explore more: a different type of DNA logic mentioned briefly in class, please check out this video from Prof. Endy on how to to engineer Boolean integrase Logic (BIL) gatesbased on DNA flipping... 
 [Transcriptors & Boolean Integrase Logic (BIL) gates, explained](https://www.youtube.com/watch?v=ahYZBeP_r5U).
 
-***(Q5) Bacterial edge detection (0 pts)***
+***(Q4) Bacterial edge detection (0 pts)***
 
 Building on work first published in 2005, Jeff Tabor and colleagues eventually demonstrated a 
 bacterial edge detection system.  In their system a bacterial lawn (i.e., a uniform layer of identically engineered 
 bacteria growing on a plate) detect a light-encoded image.  The bacteria are initially all the same but, 
 depending on whether they are exposed to light or not, send or receive small molecule-encoded signals that diffuse 
 across the light/dark boundary.  Only cells positioned at the boundary between light and dark express an enzyme that 
-results in formation of a dark pigment (HINT: see Figure and also the primary 
-
-[source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775486/))
+results in formation of a dark pigment (HINT: see the primary [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775486/))
 
 **Develop a device-level block diagram** that would result in the so-shown behavior. Label simple sensors, logic blocks, and actuators, as needed.  Connect outputs to inputsif and as required. (Hint:  Only give simple device names (e.g., “Dark sensor,” “pigment actuator” etc.); do not describe any biology in any molecular detail).  
 
-***(Q6)  Buggy Bacterial Flash Mob? (0 pts)***
+***(Q5)  Buggy Bacterial Flash Mob? (0 pts)***
  
  Students at MIT are claiming that they have designed a genetic program to realize 
  arepeating bacterial flash mob.  See their work yet again via:
