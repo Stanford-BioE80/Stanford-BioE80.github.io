@@ -19,8 +19,7 @@ GOAL: Reflect on the role of **abstraction** as a tool for helping to manage com
 
 ## (Q1) Patterns with Logic (30 pts)
  
-Your goal is to engineer patterns in tissues using proteins delivered by the hardware
-platform shown in Figure-1 (below). The platform itself consists of two channels (purple and
+Your goal is to engineer patterns in tissues using proteins delivered by the platform shown in Figure-1 (below). The platform itself consists of two channels (purple and
 green) through which proteins (inputs) are supplied continuously. In between the two channels sits a chamber containing
 engineered tissue (pink). Proteins from each 
 channel can slowly move laterally throughout the developing tissue. When the protein inputs are sensed by cells
@@ -58,13 +57,13 @@ On Friday you were given two GOOP tubes, one tube of DNA (instructions to expres
 
 **Q.2.c.** Did the GOOP with expression instructions turn green (produce GFP)? How long did it take? (Your grade does not depend on the expression of GFP). Include photos of both tubes at the start, mid-way (about 6 hours), and after 12 hours. (Time points don't have to be exact. Simply report when you took the photos.) Make sure to provide figure legends. 
 
+**_Please give us feedback. Did you run into any problems?_**
+
 **Q.2.d.** Why might certain designs work in GOOP, but not in a cell?  Why might certain designs work in a cell, but not in GOOP? (2-3 sentences) 
 
 **Q.4.e. Revisiting Design Tools (PyMol).**
 
 Add a screenshot of your GFP structure in PyMol with the chromophore highlighted in red (see week-3 in class instructions). Why do you think the structure (barrel structure) might be necessary around the chromophore? (bullet points) 
-
-**_Please give us feedback. Did you run into any problems?_**
 
 ## (Q3) Inverters and Ring Oscillator (20 pts)
 
@@ -103,12 +102,12 @@ are now claiming that the genetic program designed at MIT won’t actually produ
 so-desired behavior.  Looking only at their proposed “device-level system diagram”...
 
 
-1.a. What do you think?  Will their program work or not?   
+**5.a**. What do you think?  Will their program work or not?   
 
 
 YES or NO (circle one)
 
 
-1.b. Why or why not? (bullet points) 
+**5.b.** Why or why not? (bullet points) 
 
 
