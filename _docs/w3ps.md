@@ -8,13 +8,11 @@ toc: true
 **DUE:** Next Friday (April.26), beginning of class via Gradescope.
 
 **NOTES:** 
-
-All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
-
-Please turn in your completed problem sets as an electronic copy via Gradescope.
-
-Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations).
-
+  - All BIOE.80 problem sets must be completed individually unless plainly noted opetherwise.
+  - Please turn in your completed problem sets as an electronic copy via **Gradescope**. 
+  - Please make sure to not go over the word limits, provide figure captions, and when appropriate show your work (e.g., 
+  calculations). 
+  
 GOAL: Reflect on the role of **abstraction** as a tool for helping to manage complexity in biological systems.
 
 ## (Q1) Patterns with Logic (30 pts)
