@@ -54,9 +54,6 @@ published in January 2018:
 According to the numbers, this year’s flu season is in fact worse than usual. It got started early, and it’s been more severe. Twenty kids have died of the flu since October. And in the week ending January 6, 22.7 out of every 100,000 hospitalizations in the U.S. were for flu—twice the number of the previous week.” 
 
 
-**ADD Figure-1: The flu season of 2017-2018 is the worst season since 2009-2010**
-
-
 Every year, we are reminded to go get a flu shot. 
 
 **Q.1. If you got a flu vaccine last year, why do you still have to get a flu shot again this year?**
@@ -140,9 +137,7 @@ In the first class you started to learn about evolution and its  role from a Bio
 
  ## Example-1: “Evolution, at your service!” 
  
-Since the days of Gregor Mendel, geneticists (and avid gardeners/monks) have understood that we can breed populations for certain traits.  By taking advantage of our understanding of heritability and genetics, we can - for example - make chickens with extravagant traits ([link](https://www.pinterest.co.uk/pin/153685406008776095/), [link](https://www.pinterest.com/pin/266416134178755168/))
-
-Figure-1: goes here
+Since the days of Gregor Mendel, geneticists (and avid gardeners/monks) have understood that we can breed populations for certain traits.  By taking advantage of our understanding of heritability and genetics, we can - for example - make chickens with extravagant traits see here: ([link](https://www.pinterest.co.uk/pin/153685406008776095/), [link](https://www.pinterest.com/pin/266416134178755168/))
 
 
 Another example of human intervention in evolution is dog breeding. Take a look at the link to see the evolution of Petface [here](https://www.smithsonianmag.com/science-nature/evolution-petface-180967987/) From the article: Cranial length, snout length and skull length all contribute to the difficulties brachy dogs have in breathing. (PLOS One)
@@ -199,7 +194,6 @@ Here is the abstract from the [paper](http://science.sciencemag.org/content/353/
 "A key aspect of bacterial survival is the ability to evolve while migrating across spatially varying environmental challenges. Laboratory experiments, however, often study evolution in well-mixed systems. Here, we introduce an experimental device, the microbial evolution and growth arena (MEGA)–plate, in which bacteria spread and evolved on a large antibiotic landscape (120 × 60 centimeters) that allowed visual observation of mutation and selection in a migrating bacterial front. While resistance increased consistently, multiple coexisting lineages diversified both phenotypically and genotypically. Analyzing mutants at and behind the propagating front, we found that evolution is not always led by the most resistant mutants; highly resistant mutants may be trapped behind more sensitive lineages. The MEGA-plate provides a versatile platform for studying microbial adaption and directly visualizing evolutionary dynamics." 
 
 **Q.7. Could we use evolution to combat antibiotic resistance?**
-
 
 *Useful Additional Resource:* 
 Review the key Takeaways from: 
