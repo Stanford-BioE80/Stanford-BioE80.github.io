@@ -53,7 +53,11 @@ On Friday you were given two GOOP tubes, one tube of DNA (instructions to expres
 
 **Q.2.b.** When and where did you add the water and DNA-expression to your GOOP tubes? 
 
-**Q.2.c.** Did the GOOP with expression instructions turn green (produce GFP)? How long did it take? (Your grade does not depend on the expression of GFP). Include photos of both tubes at the start, mid-way (about 6 hours), and after 12 hours. (Time points don't have to be exact. Simply report when you took the photos.) Make sure to provide figure legends. 
+**Q.2.c.** Did the GOOP with expression instructions turn green (produce GFP)? How long did it take? 
+
+(Your grade does not depend on the expression of GFP). Include photos of both tubes at the start, mid-way (about 6 hours), and after 12 hours. (Time points don't have to be exact. Simply report when you took the photos.) 
+
+Make sure to provide figure legends. 
 
 **_Please give us feedback. Did you run into any problems?_**
 
