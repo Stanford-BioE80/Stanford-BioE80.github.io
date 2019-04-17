@@ -32,7 +32,7 @@ _______________________________________________________________________
 
 ## Preclass for Wednesday
 
-First read the (**Common Signal Carriers**) parts of this free comic book (**Programming DNA** and **Engineered Genetic Devices**)[Adventures in Synthetic Biology](https://openwetware.org/wiki/Adventures) before the class. 
+First read the (**Common Signal Carriers**) part from this free comic book [Adventures in Synthetic Biology](https://openwetware.org/wiki/Adventures) before the class. 
 
 ## Example-1:  Bacterial Flash Mob
 
