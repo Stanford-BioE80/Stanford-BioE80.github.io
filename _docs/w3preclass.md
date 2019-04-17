@@ -62,7 +62,7 @@ Note that our thinking about such systems can quickly become complicated by the 
 <figcaption><b>Figure 2</b>. Generic system architecture.</figcaption>
 </figure>
 
-A sensor measures environmentalproperties or inputs  (for example: a keyboard) and transfers this information to a computer (logic unit) to be processed. The results are then transferred to an actuator (e.g., a printer or a display) that can output these results.
+A sensor measures environmental properties or inputs  (for example: a keyboard) and transfers this information to a computer (logic unit) to be processed. The results are then transferred to an actuator (e.g., a printer or a display) that can output these results.
 
 This same framework can be applied to help manage the engineering of biological systems.Stated differently, the desired behavior of a complicated biological process can be represented at an intermediate level ofabstraction via a simpler-to-understand  “black box” diagram.
 
