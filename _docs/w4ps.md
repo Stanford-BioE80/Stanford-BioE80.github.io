@@ -14,11 +14,11 @@ last_modified_at: Feb.20.2019
 
 ## (Q1) Causes of death (20 points) 
 
-Using the figures from the class and this [source](https://www.businessinsider.com/leading-causes-of-death-from-1900-2010-2012-6?op=1#and-here-it-is-all-laid-out-in-one-chart-deaths-per-100000-people-by-cause-1900-vs-2010-18)
+Using the figures from the class (on Monday) and this [source](https://www.businessinsider.com/leading-causes-of-death-from-1900-2010-2012-6?op=1#and-here-it-is-all-laid-out-in-one-chart-deaths-per-100000-people-by-cause-1900-vs-2010-18)
 
-**Q.1.a.** What factors (i.e., changes) contributed to the reduction of deaths due to pneumonia and tuberculosis? (bullet points)
+**Q.1.a.** What factors (i.e., changes) contributed to the reduction of deaths due to pneumonia and tuberculosis from 1900s-2000s? (bullet points)
 
-**Q.1.b.** What factors s (i.e., changes) contributed to the increase indeaths due to cancer and heart disease. (bullet points)
+**Q.1.b.** What factors s (i.e., changes) contributed to the increase indeaths due to cancer and heart disease from 1900s-2000s. (bullet points)
 
 ## (Q2) Brainstorming Report  (40 pts)
 
@@ -36,24 +36,26 @@ Think back to your sectors and drawing from your experiences in class Friday, an
 
 Think back to the in class case study on the production of the key ingredient for the treatment of malaria, Artemisinin.
 
-**Q.3.a.** What were some of the key lessons from this example? (2-3 bullet points)
+**Q.3.a.** What were some of the key lessons from this case study? (2-3 bullet points)
 
-**Q.3.b.** If you were in charge of this project what would you have done differently?(2-3 bullet points)
+**Q.3.b.** If you were in charge of this project what would you have done differently? (2-3 bullet points)
 
 ## (Q4) Fantastic Voyage  (20 Points)
 
 In the near future, you and your team are planning to remove an inoperable tumor from the brain of an important scientist.  You conclude that the only way that tumor can be destroyed is to remove it from the inside of the patient's own body. 
 You imagine a submarine that can be shrunk and will carry the team of experts and doctors.  Sadly, however, no shrink ray exists in this future ([Fantastic Voyage](https://www.imdb.com/title/tt0060397/)). 
 
-Instead, you begin with engineer living matter, microbes or patient's cells, that are already small. 
+Instead, you can begin to engineer living matter, microbes or patient's cells, that are already small. 
 
-Briefly read the abstract of the paper titled [Acoustic reporter genes for noninvasive imaging of microorganisms in mammalian hosts](https://www.nature.com/articles/nature25021). 
+Briefly read the abstract of the paper titled [Acoustic reporter genes for noninvasive imaging of microorganisms in mammalian hosts](https://www.nature.com/articles/nature25021), which enables imaging and control of living matter in mammalian hosts.
 
 **Q.4.a.** In your own words summarize the abstract in 2-3 sentences. What is the main *claim* of this paper?
 
 **Q.4.b.** According to the abstract what is the origin and purpose of the gas-filled protein nanostructures in nature?
 
 **Q.4.c.** Think about another application for this system? (2-3 sentences)
+
+**Q.4.d.** Find another example (for example a research paper or a news article) demonstrating the progress and state of engineering of living matter, microbes or mammalian cells, to detect or combat diseases that are of interest to you.  Why did you select this example (link and 2-3 sentences)? 
 
 **Your questions** Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
