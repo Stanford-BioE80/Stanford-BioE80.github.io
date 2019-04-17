@@ -71,7 +71,7 @@ Add a screenshot of your GFP structure in PyMol with the chromophore highlighted
 
 Imagine that you are a system level **Bioengineer** designing genetic inverters and ring oscillators.
 
-**Q.3.a.** Draw a box diagram of a genetic inverter at the *device level*. Describe the behavior of the genetic inverter. 
+**Q.3.a.** Draw a box diagram of a genetic inverter at the *parts & device levels*. Describe the behavior of the genetic inverter. 
 (2-3 sentences and use diagrams and drawings if helpful). 
 
 **Q.3.b.** Imagine that you are building a 3-inverter genetic ring oscillator at the *systems level*. Describe the role of *Common Signal Carriers* in constructing such a system (2-3 sentences and use diagrams and drawings if helpful).  
