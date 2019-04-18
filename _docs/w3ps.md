@@ -83,8 +83,36 @@ If you want to explore more: a different type of DNA logic mentioned in class, p
 
 You can learn more about genetic parts to program bacteria from the paper [here](  https://www.sciencedirect.com/science/article/pii/S0958166906001273?via%3Dihub).
 
+#### (Q5)  Buggy Bacterial Flash Mob? (0 pts)
+ 
+ Students at MIT are claiming that they have designed a genetic program to realize 
+ arepeating bacterial flash mob.  See their work yet again via:
+ 
+[Polkadorks, iGEM-2006](https://2006.igem.org/wiki/index.php/IAP2004:Polkadorks)
+ 
+In an epic East Coast versus West Coast technology “battle,” some of your colleagues
+are now claiming that the genetic program designed at MIT won’t actually produce the
+so-desired behavior.  Looking only at their proposed “device-level system diagram”...
 
-## (Q6) Patterns with Logic (0 pts)
+**5.a**. What do you think?  Will their program work or not?   
+
+
+YES or NO (circle one)
+
+
+**5.b.** Why or why not? (bullet points) 
+
+####  (Q6) Inverters and Ring Oscillator (0 pts)
+
+Imagine that you are a system level **Bioengineer** designing genetic inverters and ring oscillators.
+
+**Q.6.a.** Draw a box diagram of a genetic inverter at the *parts & device levels*. Describe the behavior of the genetic inverter. 
+(2-3 sentences and use diagrams and drawings if helpful). 
+
+**Q.6.b.** Imagine that you are building a 3-inverter genetic ring oscillator at the *systems level*. Describe the role of *Common Signal Carriers* in constructing such a system (2-3 sentences and use diagrams and drawings if helpful).  
+
+
+####  (Q7) Patterns with Logic (0 pts)
  
 Your goal is to engineer patterns in tissues using proteins delivered by the platform shown in Figure-1 (below). The platform itself consists of two channels (purple and
 green) through which proteins (inputs) are supplied continuously. In between the two channels sits a chamber containing
@@ -104,43 +132,12 @@ Consider two different genetic logic devices (AND, XOR) that are responsive to p
 
 **Hint** For each logic gate, "truth tables" or input/output relationships are given. Use the corresponding truth table for the AND and XOR devices. 
 
-
 <figure>
 <a href="/assets/images/PSET-3.fig2.png"><img src="/assets/images/PSET-3.fig2.png></a>
 <figcaption><b>Figure 2</b>. Cells with genetic logic devices-1: AND Gate.</figcaption>
 </figure>
 
-
 <figure>
 <a href="/assets/images/PSET-3.fig3.png"><img src="/assets/images/PSET-3.fig3.png></a>
 <figcaption><b>Figure 2</b>. Cells with genetic logic devices-2: XOR Gate.</figcaption>
 </figure>
-
-***(Q5)  Buggy Bacterial Flash Mob? (0 pts)***
- 
- Students at MIT are claiming that they have designed a genetic program to realize 
- arepeating bacterial flash mob.  See their work yet again via:
- 
-[Polkadorks, iGEM-2006](https://2006.igem.org/wiki/index.php/IAP2004:Polkadorks)
- 
-In an epic East Coast versus West Coast technology “battle,” some of your colleagues
-are now claiming that the genetic program designed at MIT won’t actually produce the
-so-desired behavior.  Looking only at their proposed “device-level system diagram”...
-
-
-**5.a**. What do you think?  Will their program work or not?   
-
-
-YES or NO (circle one)
-
-
-**5.b.** Why or why not? (bullet points) 
-
-## (Q3) Inverters and Ring Oscillator (0 pts)
-
-Imagine that you are a system level **Bioengineer** designing genetic inverters and ring oscillators.
-
-**Q.3.a.** Draw a box diagram of a genetic inverter at the *parts & device levels*. Describe the behavior of the genetic inverter. 
-(2-3 sentences and use diagrams and drawings if helpful). 
-
-**Q.3.b.** Imagine that you are building a 3-inverter genetic ring oscillator at the *systems level*. Describe the role of *Common Signal Carriers* in constructing such a system (2-3 sentences and use diagrams and drawings if helpful).  
