@@ -64,7 +64,12 @@ Briefly read the abstract from the paper titled: [Programmable protein circuits 
 
 **Q.3.b.** Take a look at Figure below (Part of Figure-2 from the paper). Briefly describe what are the inputs and the output to this logic device? (Bullet points)
 
-**Q.3.c.** Does the presented logic device use a *Common Signal Carrier*? Why or Why not? (1-2 sentences)
+**Q.3.c.** Does the presented logic device (Figure 1) use a *Common Signal Carrier*? Why or Why not? (1-2 sentences)
+
+<figure>
+<a href="/assets/images/Pset3-LogicGate .png"><img src="/assets/images/Pset3-LogicGate .png"></a>
+<figcaption><b>Figure 1</b>. Logic Device diagram of CHOMP circuits.</figcaption>
+</figure>
 
 ## (Q4)  (15 pts)
 
