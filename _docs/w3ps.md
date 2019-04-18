@@ -15,7 +15,7 @@ toc: true
   
 GOAL: Reflect on the role of **Abstraction** as a tool for helping to manage complexity in biological systems.
 
-## (Q1) Generic System Architecture (30 pts)
+## (Q1) Generic System Architecture (20 pts)
 
 In class you encountered the Generic System Architecture composed of: 
 
@@ -28,11 +28,11 @@ For example, imagine yourself riding your bicycle on University Avenue and encou
 
 In one scenario you can describe yourself as the system.  In this case, your eyes are the sensor, your brain is the computation unit, and your hands are the actuator (pressing the levers to stop your bike).  
 
-In another scenario, you can describe your bike as the system.  In this case, the levers are the sensors. There is no computation unit, and the signal is directly transferred via a cable to the actuators breaks on the wheels.  
+In another scenario, you can describe your bike as the system.  In this case, the levers are the sensors. There is no computation unit, and the signal is directly transferred via a cable to the breaks (actuators on the wheels).  
 
 **Q.1.a.** Pick a scenario of your own choice (include a photo if applicable). Define the system in this scenario. 
 
-**Q.1.b.** Draw a generic system architecture with appropriate units.   
+**Q.1.b.** Draw a generic system architecture with appropriate units. Label the input(s) and output(s) to the system. 
 
 ## (Q2) GOOP Tube (50 pts)
 
@@ -56,12 +56,26 @@ Make sure to provide figure legends.
 
 Add a screenshot of your GFP structure in PyMol with the chromophore highlighted in red (see week-3 in class instructions). Why do you think the structure (barrel structure) might be necessary around the chromophore? (bullet points) 
 
-## (Q3) CHOMP Circuits
+## (Q3) CHOMP Circuits (15 pts)
+
+Briefly read the abstract from the paper titled: [Programmable protein circuits in living cells](https://science.sciencemag.org/content/361/6408/1252.long)/
+
+**Q.3.a.** In your own words, what is the primary claim of the paper? (1-2 sentences)
+
+**Q.3.b.** Take a look at Figure below (Part of Figure-2 from the paper). Briefly describe what are the inputs and the output to this logic device? (Bullet points)
+
+**Q.3.c.** Does the presented logic device use a *Common Signal Carrier*? Why or Why not? (1-2 sentences)
+
+## (Q4)  (15 pts)
+
+Thinking back to the class we 
 
 ## Extra learning (100% optional):
 
-If you want to explore more: a different type of DNA logic mentioned briefly in class, please check out this video from Prof. Endy on how to to engineer Boolean integrase Logic (BIL) gates based on DNA flipping... 
+If you want to explore more: a different type of DNA logic mentioned in class, please check out this video from Prof. Endy on how to to engineer Boolean integrase Logic (BIL) gates based on DNA flipping... 
 [Transcriptors & Boolean Integrase Logic (BIL) gates, explained](https://www.youtube.com/watch?v=ahYZBeP_r5U).
+
+You can learn more about genetic parts to program bacteria from the paper [here](  https://www.sciencedirect.com/science/article/pii/S0958166906001273?via%3Dihub).
 
 
 ## (Q6) Patterns with Logic (0 pts)
