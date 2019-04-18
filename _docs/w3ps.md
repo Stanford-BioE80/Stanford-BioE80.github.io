@@ -19,7 +19,9 @@ GOAL: Reflect on the role of **Abstraction** as a tool for helping to manage com
 
 In class you encountered the Generic System Architecture composed of: 
 
-Sensors (to measure properties or inputs), Logic Unit (to process information measured via sensors), and Actuator (that can act or output the desired result). 
+  - Sensors (to measure properties or inputs), 
+  - Logic Unit (to process information measured via sensors), and 
+  - Actuator (that can act or output the desired result). 
 
 We can apply the architecture to abstract diversity of systems.
 For example, imagine yourself riding your bicycle on University Avenue and encountering a stop sign on the road. 
@@ -28,9 +30,9 @@ In one scenario you can describe yourself as the system.  In this case, your eye
 
 In another scenario, you can describe your bike as the system.  In this case, the levers are the sensors. There is no computation unit, and the signal is directly transferred via a cable to the actuators breaks on the wheels.  
 
-**Q.1.a** Pick a scenario of your own choice (include a photo if applicable). Define the system in this scenario. 
+**Q.1.a.** Pick a scenario of your own choice (include a photo if applicable). Define the system in this scenario. 
 
-**Q.1.b** Draw a generic system architecture with appropriate units.   
+**Q.1.b.** Draw a generic system architecture with appropriate units.   
 
 ## (Q2) GOOP Tube (50 pts)
 
@@ -54,7 +56,7 @@ Make sure to provide figure legends.
 
 Add a screenshot of your GFP structure in PyMol with the chromophore highlighted in red (see week-3 in class instructions). Why do you think the structure (barrel structure) might be necessary around the chromophore? (bullet points) 
 
-
+## (Q3) CHOMP Circuits
 
 ## Extra learning (100% optional):
 
