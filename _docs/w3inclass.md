@@ -91,8 +91,9 @@ In your kit you have:
 
 - 2x GOOP reaction tubes labeled (G)
 - 1x Module 1 DNA parts kit  labeled (D)
-- 1x Pure water  labeled (W)
-- 2x Transfer pipettes
+- 1x Pure water labeled (W)
+- 3x Transfer pipettes
+- 1x water with food coloring (to practice pipetting)
 
 1. Set up two tubes following experiments (additional instructions from the Pre-class):
 
