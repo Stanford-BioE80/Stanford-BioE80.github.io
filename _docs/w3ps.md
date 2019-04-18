@@ -8,7 +8,7 @@ toc: true
 **DUE:** Next Friday (April.26), beginning of class via Gradescope.
 
 **NOTES:** 
-  - All BIOE.80 problem sets must be completed individually unless plainly noted opetherwise.
+  - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
   - Please turn in your completed problem sets as an electronic copy via **Gradescope**. 
   - Please make sure to not go over the word limits, when appropriate provide figure captions, and show your work (e.g., 
   calculations). 
@@ -23,14 +23,14 @@ In class you encountered the **Generic System Architecture** composed of:
   - Logic Unit (to process information measured via sensors), and 
   - Actuator (that can act or output the desired result). 
 
-We can apply the architecture to abstract diversity of systems.
+We can apply this same architecture to abstract a diversity of systems.
 For example, imagine yourself riding your bicycle on University Avenue and encountering a stop sign. 
 
 In one scenario you can describe yourself as the system.  In this case, your eyes are the sensor, your brain is the computation unit, and your hands are the actuator (i.e., pressing the levers to stop your bike).  
 
 In another scenario, you can describe your bike as the system.  In this case, the levers are the sensors. There is no computation unit, and the signal is directly transferred via a cable to the breaks (i.e., actuators on the wheels).  
 
-**Q.1.a.** Pick a scenario of your own choice (include a photo if applicable). Define the system in this scenario. 
+**Q.1.a.** Pick a scenario of your own choice (include a photo if applicable). Define the system for this scenario. 
 
 **Q.1.b.** Draw a generic system architecture with appropriate units. Label the input(s) and output(s) to the system. 
 
@@ -50,7 +50,7 @@ Make sure to provide figure legends.
 
 **_Please give us feedback. Did you run into any problems?_**
 
-**Q.2.d.** Why might certain designs work in GOOP, but not in a cell?  Why might certain designs work in a cell, but not in GOOP? (2-3 sentences) 
+**Q.2.d.** Why might certain designs work in GOOP, but not in a cell?  Vice versa, why might certain designs work in a cell, but not in GOOP? (2-3 sentences) 
 
 **Q.2.e. Revisiting Design Tools (PyMol).**
 
@@ -58,7 +58,7 @@ Add a screenshot of your GFP structure in PyMol with the chromophore highlighted
 
 ## (Q3) CHOMP Circuits (15 pts)
 
-Briefly read the abstract from the paper titled: [Programmable protein circuits in living cells](https://science.sciencemag.org/content/361/6408/1252.long).
+Briefly read the abstract from the paper titled: [Programmable protein circuits in living cells](https://science.sciencemag.org/content/361/6408/1252.long). Don't worry if you don't understand most of the words! Try to parse through the abstract to find the main claim.
 
 **Q.3.a.** In your own words, what is the primary *claim* of the paper? (1-2 sentences)
 
@@ -89,12 +89,12 @@ Recall from the class that we can use abstraction to help and manage complexity 
 
 Next, going down the abstraction hierarchy, you need parts.  Where to get parts?  How about a student-produced collection of thousands of DNA parts.  Sure! Go to the [iGEM Parts Registry](http://parts.igem.org/Catalog).  
 
-**Q.4.d.** Find parts that could be used to implement your device?  Share the name of those parts as part of PSET-3.  
+**Q.4.d.** Find parts that could be used to implement your device.  Share the name of those parts as part of PSET-3.  
 If you can’t find what you need, make a note and move on.
 
 **Q.4.e.**  Sketch how your parts should be organized as DNA elements in relation to one another so that they would implement the function as you desire.  Draw a black box around your parts.  Add inputs and output arrows to the box as appropriate. Are your input and output signals generic or specific to your device?
 
-Note: If you want to learn more  about absrtaction, sensors, and actuators in living matter check out **BIOE 44: Fundamentals for Engineering Biology Lab** 
+Note: If you want to learn more  about abstraction, sensors, and actuators in living matter check out **BIOE 44: Fundamentals for Engineering Biology Lab** 
 
 ## Extra learning (100% optional):
 
