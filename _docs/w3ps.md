@@ -83,7 +83,7 @@ If you want to explore more: a different type of DNA logic mentioned in class, p
 
 You can learn more about genetic parts to program bacteria from the paper [here](  https://www.sciencedirect.com/science/article/pii/S0958166906001273?via%3Dihub).
 
-#### (Q5)  Buggy Bacterial Flash Mob? (0 pts)
+### (Q5)  Buggy Bacterial Flash Mob? (0 pts)
  
  Students at MIT are claiming that they have designed a genetic program to realize 
  arepeating bacterial flash mob.  See their work yet again via:
@@ -102,7 +102,7 @@ YES or NO (circle one)
 
 **5.b.** Why or why not? (bullet points) 
 
-####  (Q6) Inverters and Ring Oscillator (0 pts)
+###  (Q6) Inverters and Ring Oscillator (0 pts)
 
 Imagine that you are a system level **Bioengineer** designing genetic inverters and ring oscillators.
 
@@ -111,33 +111,3 @@ Imagine that you are a system level **Bioengineer** designing genetic inverters 
 
 **Q.6.b.** Imagine that you are building a 3-inverter genetic ring oscillator at the *systems level*. Describe the role of *Common Signal Carriers* in constructing such a system (2-3 sentences and use diagrams and drawings if helpful).  
 
-
-####  (Q7) Patterns with Logic (0 pts)
- 
-Your goal is to engineer patterns in tissues using proteins delivered by the platform shown in Figure-1 (below). The platform itself consists of two channels (purple and
-green) through which proteins (inputs) are supplied continuously. In between the two channels sits a chamber containing
-engineered tissue (pink). Proteins from each 
-channel can slowly move laterally throughout the developing tissue. When the protein inputs are sensed by cells
-within the tissue the cells respond according to whatever genetic logic is operating in each cell.
-
-The concentration gradient of each protein A and B is given on the right in Figure-1 for a cross-section of the device. Values of A or B above the dotted line can be considered ‘1’ or ‘ON’, and values below can be considered ‘0’ or ‘OFF’. 
-
-
-<figure>
-<a href="/assets/images/PSET-3.fig1.png"><img src="/assets/images/PSET-3.fig1.png></a>
-<figcaption><b>Figure 1</b>. Platform to engineer patterns in tissues via protein inputs.</figcaption>
-</figure>
-  
-Consider two different genetic logic devices (AND, XOR) that are responsive to proteins A and B as inputs and that produce an output C. For each, use 1-2 sentences to describe the logic being implemented in words. Then sketch the signal (in this case, concentration) for the expected output (C) for each device as a function of input concentrations (Draw on the figures below or sketch your own chart of concentration vs. position in the device). 
-
-**Hint** For each logic gate, "truth tables" or input/output relationships are given. Use the corresponding truth table for the AND and XOR devices. 
-
-<figure>
-<a href="/assets/images/PSET-3.fig2.png"><img src="/assets/images/PSET-3.fig2.png></a>
-<figcaption><b>Figure 2</b>. Cells with genetic logic devices-1: AND Gate.</figcaption>
-</figure>
-
-<figure>
-<a href="/assets/images/PSET-3.fig3.png"><img src="/assets/images/PSET-3.fig3.png></a>
-<figcaption><b>Figure 2</b>. Cells with genetic logic devices-2: XOR Gate.</figcaption>
-</figure>
