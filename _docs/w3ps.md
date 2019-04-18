@@ -21,12 +21,16 @@ In class you encountered the Generic System Architecture composed of:
 
 Sensors (to measure properties or inputs), Logic Unit (to process information measured via sensors), and Actuator (that can act or output the desired result). 
 
-We can apply the generic system architecture to a variety of systems.
-For example, imagine yourself riding your bicycle and encountering a stop sign on the road. 
+We can apply the architecture to abstract diversity of systems.
+For example, imagine yourself riding your bicycle on University Avenue and encountering a stop sign on the road. 
 
-In one scenario you can describe your eyes as the sensor, your brain as the computation unit, and your hands as the actuator (pressing the levers to stop your bike).  In another scenario, you can describe your bike with this architecture where the levers are the sensors, there is no computation unit, and the signal is directly transferred to the breaks and the wheel. 
+In one scenario you can describe yourself as the system.  In this case, your eyes are the sensor, your brain is the computation unit, and your hands are the actuator (pressing the levers to stop your bike).  
 
-Pick a scenario of your own choice (include a photo if applicaple) define the system in this example and draw a generic system architecture with appropriate units.   
+In another scenario, you can describe your bike as the system.  In this case, the levers are the sensors. There is no computation unit, and the signal is directly transferred via a cable to the actuators breaks on the wheels.  
+
+**Q.1.a** Pick a scenario of your own choice (include a photo if applicable). Define the system in this scenario. 
+
+**Q.1.b** Draw a generic system architecture with appropriate units.   
 
 ## (Q2) GOOP Tube (50 pts)
 
@@ -50,14 +54,7 @@ Make sure to provide figure legends.
 
 Add a screenshot of your GFP structure in PyMol with the chromophore highlighted in red (see week-3 in class instructions). Why do you think the structure (barrel structure) might be necessary around the chromophore? (bullet points) 
 
-## (Q3) Inverters and Ring Oscillator (20 pts)
 
-Imagine that you are a system level **Bioengineer** designing genetic inverters and ring oscillators.
-
-**Q.3.a.** Draw a box diagram of a genetic inverter at the *parts & device levels*. Describe the behavior of the genetic inverter. 
-(2-3 sentences and use diagrams and drawings if helpful). 
-
-**Q.3.b.** Imagine that you are building a 3-inverter genetic ring oscillator at the *systems level*. Describe the role of *Common Signal Carriers* in constructing such a system (2-3 sentences and use diagrams and drawings if helpful).  
 
 ## Extra learning (100% optional):
 
@@ -65,7 +62,7 @@ If you want to explore more: a different type of DNA logic mentioned briefly in 
 [Transcriptors & Boolean Integrase Logic (BIL) gates, explained](https://www.youtube.com/watch?v=ahYZBeP_r5U).
 
 
-## (Q1) Patterns with Logic (30 pts)
+## (Q6) Patterns with Logic (0 pts)
  
 Your goal is to engineer patterns in tissues using proteins delivered by the platform shown in Figure-1 (below). The platform itself consists of two channels (purple and
 green) through which proteins (inputs) are supplied continuously. In between the two channels sits a chamber containing
@@ -122,4 +119,11 @@ YES or NO (circle one)
 
 **5.b.** Why or why not? (bullet points) 
 
+## (Q3) Inverters and Ring Oscillator (0 pts)
 
+Imagine that you are a system level **Bioengineer** designing genetic inverters and ring oscillators.
+
+**Q.3.a.** Draw a box diagram of a genetic inverter at the *parts & device levels*. Describe the behavior of the genetic inverter. 
+(2-3 sentences and use diagrams and drawings if helpful). 
+
+**Q.3.b.** Imagine that you are building a 3-inverter genetic ring oscillator at the *systems level*. Describe the role of *Common Signal Carriers* in constructing such a system (2-3 sentences and use diagrams and drawings if helpful).  
