@@ -94,7 +94,7 @@ If you can’t find what you need, make a note and move on.
 
 **Q.4.e.**  Sketch how your parts should be organized as DNA elements in relation to one another so that they would implement the function as you desire.  Draw a black box around your parts.  Add inputs and output arrows to the box as appropriate. Are your input and output signals generic or specific to your device?
 
-Note: If you want to learn more about abstraction or practice design, build, and test sensors,  and actuators in living matter  check out **BIOE 44: Fundamentals for Engineering Biology Lab** 
+Note: If you want to learn more  about absrtaction, sensors, and actuators in living matter check out **BIOE 44: Fundamentals for Engineering Biology Lab** 
 
 ## Extra learning (100% optional):
 
