@@ -17,7 +17,7 @@ GOAL: Reflect on the role of **Abstraction** as a tool for helping to manage com
 
 ## (Q1) Generic System Architecture (20 pts)
 
-In class you encountered the Generic System Architecture composed of: 
+In class you encountered the **Generic System Architecture** composed of: 
 
   - Sensors (to measure properties or inputs), 
   - Logic Unit (to process information measured via sensors), and 
@@ -58,7 +58,7 @@ Add a screenshot of your GFP structure in PyMol with the chromophore highlighted
 
 ## (Q3) CHOMP Circuits (15 pts)
 
-Briefly read the abstract from the paper titled: [Programmable protein circuits in living cells](https://science.sciencemag.org/content/361/6408/1252.long)/
+Briefly read the abstract from the paper titled: [Programmable protein circuits in living cells](https://science.sciencemag.org/content/361/6408/1252.long).
 
 **Q.3.a.** In your own words, what is the primary claim of the paper? (1-2 sentences)
 
