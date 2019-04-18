@@ -71,6 +71,7 @@ Briefly read the abstract from the paper titled: [Programmable protein circuits 
 <figcaption><b>Figure 1</b>. Logic Device diagram of CHOMP circuits.</figcaption>
 </figure>
 
+
 ## (Q4)  (15 pts)
 
 Thinking back to the class we 
@@ -94,12 +95,10 @@ within the tissue the cells respond according to whatever genetic logic is opera
 The concentration gradient of each protein A and B is given on the right in Figure-1 for a cross-section of the device. Values of A or B above the dotted line can be considered ‘1’ or ‘ON’, and values below can be considered ‘0’ or ‘OFF’. 
 
 
-
 <figure>
-<href="/assets/images/PSET-3.fig1.png"><img src="/assets/images/PSET-3.fig1.png">
-<figure >
-  
-**Figure-1** Platform to engineer patterns in tissues via protein inputs.
+<a href="/assets/images/PSET-3.fig1.png"><img src="/assets/images/PSET-3.fig1.png></a>
+<figcaption><b>Figure 1</b>. Platform to engineer patterns in tissues via protein inputs.</figcaption>
+</figure>
   
 Consider two different genetic logic devices (AND, XOR) that are responsive to proteins A and B as inputs and that produce an output C. For each, use 1-2 sentences to describe the logic being implemented in words. Then sketch the signal (in this case, concentration) for the expected output (C) for each device as a function of input concentrations (Draw on the figures below or sketch your own chart of concentration vs. position in the device). 
 
@@ -107,18 +106,15 @@ Consider two different genetic logic devices (AND, XOR) that are responsive to p
 
 
 <figure>
-<href="/assets/images/PSET3.fig2.png"><img src="/assets/images/PSET3.fig2.png">
-<figure >
-
-**Figure-2** Cells with genetic logic devices-1: AND Gate.
+<a href="/assets/images/PSET-3.fig2.png"><img src="/assets/images/PSET-3.fig2.png></a>
+<figcaption><b>Figure 2</b>. Cells with genetic logic devices-1: AND Gate.</figcaption>
+</figure>
 
 
 <figure>
-<href="/assets/images/PSET3.fig3.png"><img src="/assets/images/PSET3.fig3.png">
-<figure >
-
-**Figure-3** Cells with genetic logic devices-2: XOR Gate.
- 
+<a href="/assets/images/PSET-3.fig3.png"><img src="/assets/images/PSET-3.fig3.png></a>
+<figcaption><b>Figure 2</b>. Cells with genetic logic devices-2: XOR Gate.</figcaption>
+</figure>
 
 ***(Q5)  Buggy Bacterial Flash Mob? (0 pts)***
  
