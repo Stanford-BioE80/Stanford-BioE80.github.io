@@ -81,7 +81,7 @@ If you need a refresher, please use the following [link](https://parts.igem.org/
 Recall from the class that we can use abstraction to help and manage complexity in engineering biological systems. 
 
 **Q.4.b.**  Imagine an engineered living system with a function of your choice.  What does this system do?
-(1-sentence. Example engineered bacteria (*E.coli* for example) to detect lead or arsenic and produce a color pigment (red for lead, purple for arsenic).
+ Example engineered bacteria (*E.coli* for example) to detect lead or arsenic and produce a color pigment (red for lead, purple for arsenic) (1-2 sentences)
 
 **Q.4.c.**  Sketch a black box “device-level” systems diagram that would implement your system.  
 
