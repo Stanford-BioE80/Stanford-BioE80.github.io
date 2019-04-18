@@ -15,7 +15,7 @@ toc: true
   
 GOAL: Reflect on the role of **Abstraction** as a tool for helping to manage complexity in biological systems.
 
-## (Q1) Generic System Architecture (20 pts)
+## (Q1) Generic System Architecture (10 pts)
 
 In class you encountered the **Generic System Architecture** composed of: 
 
@@ -34,7 +34,7 @@ In another scenario, you can describe your bike as the system.  In this case, th
 
 **Q.1.b.** Draw a generic system architecture with appropriate units. Label the input(s) and output(s) to the system. 
 
-## (Q2) GOOP Tube (50 pts)
+## (Q2) GOOP Tube (40 pts)
 
 On Friday you were given two GOOP tubes, one tube of DNA (instructions to express GFP), and one tube of water.
 
@@ -62,7 +62,7 @@ Briefly read the abstract from the paper titled: [Programmable protein circuits 
 
 **Q.3.a.** In your own words, what is the primary claim of the paper? (1-2 sentences)
 
-**Q.3.b.** Take a look at Figure below (Part of Figure-2 from the paper). Briefly describe what are the inputs and the output to this logic device? (Bullet points)
+**Q.3.b.** Take a look at Figure 1 below. Briefly describe what are the inputs and the output to this logic device? (Bullet points)
 
 **Q.3.c.** Does the presented logic device (Figure 1) use a *Common Signal Carrier*? Why or Why not? (1-2 sentences)
 
@@ -72,9 +72,28 @@ Briefly read the abstract from the paper titled: [Programmable protein circuits 
 </figure>
 
 
-## (Q4)  (15 pts)
+## (Q4) Parts, Devices, and Systems ( 35 pts)
 
-Thinking back to the class we 
+Thinking back to the class recall the hierarchy based on the Part (bioparts), Devices, and Systems approach to abstraction. 
+If you need additional review mateiral please use the following [link](https://parts.igem.org/Abstraction_Hierarchy).
+
+**Q.4.a.**  In your own words provide a brief (1-2 sentence) defenition for: Parts, Devices, and Systems.
+
+Imagine a Biologgical system of your choice.  For example a bacteria that detects lead or arsenic in the water and produces color pigments in responce orange for lead and red for arsenic. 
+
+**Q.4.b.**  What is your system?  Sketch a black box “device-level” systems diagram that would implement your system.  
+
+Hint: Your boxes should have very simple names, such as “change color,” “swim,” “detect lead,”“OR,” or whatever human-defined functions are needed and appropriate.  Make sure to also connect each black box device to the others as needed.    
+
+**Q.4.c.** Label each of your boxes via the generic system architecture we learned about in class this week.  That is, for each of your black boxes, label each with the letter “S,” “C,” or “A” depending on if each box can best be thought of as a “Sensing,” “Computing,” or “Actuating” function, respectively.  
+
+**Q.4.d.**  Next, going down the abstraction hierarchy, you need parts.  Where to get parts?  How about a student-produced collection of thousands of DNA parts.  Sure! Go to the [iGEM Parts Registry](http://parts.igem.org/Catalog).  
+
+Did you find parts that could be used to implement your device?  Share those parts as part of PSET.  If you can’t find what you want make a note and move on.
+
+**Q.4.e.**  Finally, sketch how your parts should be organized as DNA elements in relation to one another so that they would actually implement the function as you desire.  Draw a black box around your parts.  Add inputs and output arrows to the box as appropriate.  Sketch asimple transfer function (i.e., the expected relationship between the inputs and outputs).  Are  your input and output signals generic or specific to your device?
+
+Note: If you want to learn more about Abstraction and design, build, and tests sensors, logic, an actutors in living matter make sure to check out **BIOE 44: Fundamentals for Engineering Biology Lab** 
 
 ## Extra learning (100% optional):
 
@@ -96,9 +115,7 @@ so-desired behavior.  Looking only at their proposed “device-level system diag
 
 **5.a**. What do you think?  Will their program work or not?   
 
-
 YES or NO (circle one)
-
 
 **5.b.** Why or why not? (bullet points) 
 
