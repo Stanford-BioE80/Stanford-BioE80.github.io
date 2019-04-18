@@ -13,38 +13,21 @@ toc: true
   - Please make sure to not go over the word limits, provide figure captions, and when appropriate show your work (e.g., 
   calculations). 
   
-GOAL: Reflect on the role of **abstraction** as a tool for helping to manage complexity in biological systems.
+GOAL: Reflect on the role of **Abstraction** as a tool for helping to manage complexity in biological systems.
 
-## (Q1) Patterns with Logic (30 pts)
- 
-Your goal is to engineer patterns in tissues using proteins delivered by the platform shown in Figure-1 (below). The platform itself consists of two channels (purple and
-green) through which proteins (inputs) are supplied continuously. In between the two channels sits a chamber containing
-engineered tissue (pink). Proteins from each 
-channel can slowly move laterally throughout the developing tissue. When the protein inputs are sensed by cells
-within the tissue the cells respond according to whatever genetic logic is operating in each cell.
+## (Q1) Generic System Architecture (30 pts)
 
-The concentration gradient of each protein A and B is given on the right in Figure-1 for a cross-section of the device. Values of A or B above the dotted line can be considered ‘1’ or ‘ON’, and values below can be considered ‘0’ or ‘OFF’. 
+In class you encountered the Generic System Architecture composed of: 
 
-**Figure-1** Platform to engineer patterns in tissues via protein inputs.
+Sensors (to measure properties or inputs), Logic Unit (to process information measured via sensors), and Actuator (that can act or output the desired result). 
 
-<figure>
-<href="/assets/images/PSET-3.fig1.png"><img src="/assets/images/PSET-3.fig1.png">
-<figure >
+We can apply the generic system architecture to a variety of systems.
+For example, imagine yourself riding your bicycle and encountering a stop sign on the road. 
 
-Consider two different genetic logic devices (AND, XOR) that are responsive to proteins A and B as inputs and that produce an output C. For each, use 1-2 sentences to describe the logic being implemented in words. Then sketch the signal (in this case, concentration) for the expected output (C) for each device as a function of input concentrations (Draw on the figures below or sketch your own chart of concentration vs. position in the device). 
+In one scenario you can describe your eyes as the sensor, your brain as the computation unit, and your hands as the actuator (pressing the levers to stop your bike).  In another scenario, you can describe your bike with this architecture where the levers are the sensors, there is no computation unit, and the signal is directly transferred to the breaks and the wheel. 
 
-**Hint** For each logic gate, "truth tables" or input/output relationships are given. Use the corresponding truth table for the AND and XOR devices. 
+Pick a scenario of your own choice (include a photo if applicaple) define the system in this example and draw a generic system architecture with appropriate units.   
 
-**Figure-2** Cells with genetic logic devices-1: AND Gate.
-<figure>
-<href="/assets/images/PSET3.fig2.png"><img src="/assets/images/PSET3.fig2.png">
-<figure >
-
-**Figure-3** Cells with genetic logic devices-2: XOR Gate.
-<figure>
-<href="/assets/images/PSET3.fig3.png"><img src="/assets/images/PSET3.fig3.png">
-<figure >
-  
 ## (Q2) GOOP Tube (50 pts)
 
 On Friday you were given two GOOP tubes, one tube of DNA (instructions to express GFP), and one tube of water.
@@ -81,16 +64,43 @@ Imagine that you are a system level **Bioengineer** designing genetic inverters 
 If you want to explore more: a different type of DNA logic mentioned briefly in class, please check out this video from Prof. Endy on how to to engineer Boolean integrase Logic (BIL) gates based on DNA flipping... 
 [Transcriptors & Boolean Integrase Logic (BIL) gates, explained](https://www.youtube.com/watch?v=ahYZBeP_r5U).
 
-***(Q4) Bacterial edge detection (0 pts)***
 
-Building on work first published in 2005, Jeff Tabor and colleagues eventually demonstrated a 
-bacterial edge detection system.  In their system a bacterial lawn (i.e., a uniform layer of identically engineered 
-bacteria growing on a plate) detect a light-encoded image.  The bacteria are initially all the same but, 
-depending on whether they are exposed to light or not, send or receive small molecule-encoded signals that diffuse 
-across the light/dark boundary.  Only cells positioned at the boundary between light and dark express an enzyme that 
-results in formation of a dark pigment (HINT: see the primary [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775486/))
+## (Q1) Patterns with Logic (30 pts)
+ 
+Your goal is to engineer patterns in tissues using proteins delivered by the platform shown in Figure-1 (below). The platform itself consists of two channels (purple and
+green) through which proteins (inputs) are supplied continuously. In between the two channels sits a chamber containing
+engineered tissue (pink). Proteins from each 
+channel can slowly move laterally throughout the developing tissue. When the protein inputs are sensed by cells
+within the tissue the cells respond according to whatever genetic logic is operating in each cell.
 
-**Develop a device-level block diagram** that would result in the so-shown behavior. Label simple sensors, logic blocks, and actuators, as needed.  Connect outputs to inputsif and as required. (Hint:  Only give simple device names (e.g., “Dark sensor,” “pigment actuator” etc.); do not describe any biology in any molecular detail).  
+The concentration gradient of each protein A and B is given on the right in Figure-1 for a cross-section of the device. Values of A or B above the dotted line can be considered ‘1’ or ‘ON’, and values below can be considered ‘0’ or ‘OFF’. 
+
+
+
+<figure>
+<href="/assets/images/PSET-3.fig1.png"><img src="/assets/images/PSET-3.fig1.png">
+<figure >
+  
+**Figure-1** Platform to engineer patterns in tissues via protein inputs.
+  
+Consider two different genetic logic devices (AND, XOR) that are responsive to proteins A and B as inputs and that produce an output C. For each, use 1-2 sentences to describe the logic being implemented in words. Then sketch the signal (in this case, concentration) for the expected output (C) for each device as a function of input concentrations (Draw on the figures below or sketch your own chart of concentration vs. position in the device). 
+
+**Hint** For each logic gate, "truth tables" or input/output relationships are given. Use the corresponding truth table for the AND and XOR devices. 
+
+
+<figure>
+<href="/assets/images/PSET3.fig2.png"><img src="/assets/images/PSET3.fig2.png">
+<figure >
+
+**Figure-2** Cells with genetic logic devices-1: AND Gate.
+
+
+<figure>
+<href="/assets/images/PSET3.fig3.png"><img src="/assets/images/PSET3.fig3.png">
+<figure >
+
+**Figure-3** Cells with genetic logic devices-2: XOR Gate.
+ 
 
 ***(Q5)  Buggy Bacterial Flash Mob? (0 pts)***
  
