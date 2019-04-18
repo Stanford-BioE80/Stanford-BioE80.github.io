@@ -32,7 +32,7 @@ In another scenario, you can describe your bike as the system.  In this case, th
 
 **Q.1.a.** Pick a scenario of your own choice (include a photo if applicable). Define the system for this scenario. 
 
-**Q.1.b.** Draw a generic system architecture with appropriate units. Label the input(s) and output(s) to the system. 
+**Q.1.b.** Draw the generic system architecture with appropriate units for your system. Label the input(s) and output(s) to the system. 
 
 ## (Q2) GOOP Tube (40 pts)
 
