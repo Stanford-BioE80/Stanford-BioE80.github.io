@@ -58,7 +58,7 @@ Add a screenshot of your GFP structure in PyMol with the chromophore highlighted
 
 ## (Q3) CHOMP Circuits (15 pts)
 
-Briefly read the abstract from the paper titled: [Programmable protein circuits in living cells](https://science.sciencemag.org/content/361/6408/1252.long). Don't worry if you don't understand most of the words! Try to parse through the abstract to find the main claim.
+Briefly read the abstract from the paper titled: [Programmable protein circuits in living cells](https://science.sciencemag.org/content/361/6408/1252.long). Don't worry if you don't understand most of the words! Try to parse through the abstract to find the main claim. (One of the goals for BIOE/ENGR. 80 is to start to familiarize you with scientific literature. For the abstraction week, we'll start by looking at our first abstract.)
 
 **Q.3.a.** In your own words, what is the primary *claim* of the paper? (1-2 sentences)
 
