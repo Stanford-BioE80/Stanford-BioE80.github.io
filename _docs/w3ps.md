@@ -10,10 +10,10 @@ toc: true
 **NOTES:** 
   - All BIOE.80 problem sets must be completed individually unless plainly noted opetherwise.
   - Please turn in your completed problem sets as an electronic copy via **Gradescope**. 
-  - Please make sure to not go over the word limits, provide figure captions, and when appropriate show your work (e.g., 
+  - Please make sure to not go over the word limits, when appropriate provide figure captions, and show your work (e.g., 
   calculations). 
   
-GOAL: Reflect on the role of **Abstraction** as a tool for helping to manage complexity in biological systems.
+GOAL: Reflect on the role of **Abstraction** as a tool for helping to manage complexity in biological systems.  
 
 ## (Q1) Generic System Architecture (10 pts)
 
@@ -24,11 +24,11 @@ In class you encountered the **Generic System Architecture** composed of:
   - Actuator (that can act or output the desired result). 
 
 We can apply the architecture to abstract diversity of systems.
-For example, imagine yourself riding your bicycle on University Avenue and encountering a stop sign on the road. 
+For example, imagine yourself riding your bicycle on University Avenue and encountering a stop sign. 
 
-In one scenario you can describe yourself as the system.  In this case, your eyes are the sensor, your brain is the computation unit, and your hands are the actuator (pressing the levers to stop your bike).  
+In one scenario you can describe yourself as the system.  In this case, your eyes are the sensor, your brain is the computation unit, and your hands are the actuator (i.e., pressing the levers to stop your bike).  
 
-In another scenario, you can describe your bike as the system.  In this case, the levers are the sensors. There is no computation unit, and the signal is directly transferred via a cable to the breaks (actuators on the wheels).  
+In another scenario, you can describe your bike as the system.  In this case, the levers are the sensors. There is no computation unit, and the signal is directly transferred via a cable to the breaks (i.e., actuators on the wheels).  
 
 **Q.1.a.** Pick a scenario of your own choice (include a photo if applicable). Define the system in this scenario. 
 
@@ -52,7 +52,7 @@ Make sure to provide figure legends.
 
 **Q.2.d.** Why might certain designs work in GOOP, but not in a cell?  Why might certain designs work in a cell, but not in GOOP? (2-3 sentences) 
 
-**Q.4.e. Revisiting Design Tools (PyMol).**
+**Q.2.e. Revisiting Design Tools (PyMol).**
 
 Add a screenshot of your GFP structure in PyMol with the chromophore highlighted in red (see week-3 in class instructions). Why do you think the structure (barrel structure) might be necessary around the chromophore? (bullet points) 
 
@@ -60,9 +60,9 @@ Add a screenshot of your GFP structure in PyMol with the chromophore highlighted
 
 Briefly read the abstract from the paper titled: [Programmable protein circuits in living cells](https://science.sciencemag.org/content/361/6408/1252.long).
 
-**Q.3.a.** In your own words, what is the primary claim of the paper? (1-2 sentences)
+**Q.3.a.** In your own words, what is the primary *claim* of the paper? (1-2 sentences)
 
-**Q.3.b.** Take a look at Figure 1 below. Briefly describe what are the inputs and the output to this logic device? (Bullet points)
+**Q.3.b.** Take a look at Figure-1 below  (reporduced from the paper). Briefly describe what are the inputs and the output to this logic device? (Bullet points)
 
 **Q.3.c.** Does the presented logic device (Figure 1) use a *Common Signal Carrier*? Why or Why not? (1-2 sentences)
 
@@ -71,29 +71,30 @@ Briefly read the abstract from the paper titled: [Programmable protein circuits 
 <figcaption><b>Figure 1</b>. Logic Device diagram of CHOMP circuits.</figcaption>
 </figure>
 
-
-## (Q4) Parts, Devices, and Systems ( 35 pts)
+## (Q4) Navigating the Abstraction Hierarchy (35 pts)
 
 Thinking back to the class recall the hierarchy based on the Part (bioparts), Devices, and Systems approach to abstraction. 
-If you need additional review mateiral please use the following [link](https://parts.igem.org/Abstraction_Hierarchy).
+If you need a refresher, please use the following [link](https://parts.igem.org/Abstraction_Hierarchy).
 
-**Q.4.a.**  In your own words provide a brief (1-2 sentence) defenition for: Parts, Devices, and Systems.
+**Q.4.a.**  In your own words provide brief definitions for Parts, Devices, and Systems. (1 sentence each)
 
-Imagine a Biologgical system of your choice.  For example a bacteria that detects lead or arsenic in the water and produces color pigments in responce orange for lead and red for arsenic. 
+Recall from the class that we can use abstraction to help and manage complexity in engineering biological systems. 
 
-**Q.4.b.**  What is your system?  Sketch a black box “device-level” systems diagram that would implement your system.  
+**Q.4.b.**  Imagine an engineered living system with a function of your choice.  What does this system do?
+(1-sentence. Example engineered bacteria (*E.coli* for example) to detect lead or arsenic and produce a color pigment (red for lead, purple for arsenic).
 
-Hint: Your boxes should have very simple names, such as “change color,” “swim,” “detect lead,”“OR,” or whatever human-defined functions are needed and appropriate.  Make sure to also connect each black box device to the others as needed.    
+**Q.4.c.**  Sketch a black box “device-level” systems diagram that would implement your system.  
 
-**Q.4.c.** Label each of your boxes via the generic system architecture we learned about in class this week.  That is, for each of your black boxes, label each with the letter “S,” “C,” or “A” depending on if each box can best be thought of as a “Sensing,” “Computing,” or “Actuating” function, respectively.  
+**Hint:** Your boxes should have simple names, such as “change color,” “detect lead,” “OR,” or whatever human-defined functions are needed and appropriate.  Make sure also to connect each black box device to the others as needed.    
 
-**Q.4.d.**  Next, going down the abstraction hierarchy, you need parts.  Where to get parts?  How about a student-produced collection of thousands of DNA parts.  Sure! Go to the [iGEM Parts Registry](http://parts.igem.org/Catalog).  
+Next, going down the abstraction hierarchy, you need parts.  Where to get parts?  How about a student-produced collection of thousands of DNA parts.  Sure! Go to the [iGEM Parts Registry](http://parts.igem.org/Catalog).  
 
-Did you find parts that could be used to implement your device?  Share those parts as part of PSET.  If you can’t find what you want make a note and move on.
+**Q.4.d.** Find parts that could be used to implement your device?  Share the name of those parts as part of PSET-3.  
+If you can’t find what you need, make a note and move on.
 
-**Q.4.e.**  Finally, sketch how your parts should be organized as DNA elements in relation to one another so that they would actually implement the function as you desire.  Draw a black box around your parts.  Add inputs and output arrows to the box as appropriate.  Sketch asimple transfer function (i.e., the expected relationship between the inputs and outputs).  Are  your input and output signals generic or specific to your device?
+**Q.4.e.**  Sketch how your parts should be organized as DNA elements in relation to one another so that they would implement the function as you desire.  Draw a black box around your parts.  Add inputs and output arrows to the box as appropriate. Are your input and output signals generic or specific to your device?
 
-Note: If you want to learn more about Abstraction and design, build, and tests sensors, logic, an actutors in living matter make sure to check out **BIOE 44: Fundamentals for Engineering Biology Lab** 
+Note: If you want to learn more about abstraction or practice design, build, and test sensors,  and actuators in living matter  check out **BIOE 44: Fundamentals for Engineering Biology Lab** 
 
 ## Extra learning (100% optional):
 
@@ -127,4 +128,3 @@ Imagine that you are a system level **Bioengineer** designing genetic inverters 
 (2-3 sentences and use diagrams and drawings if helpful). 
 
 **Q.6.b.** Imagine that you are building a 3-inverter genetic ring oscillator at the *systems level*. Describe the role of *Common Signal Carriers* in constructing such a system (2-3 sentences and use diagrams and drawings if helpful).  
-
