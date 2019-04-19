@@ -152,7 +152,7 @@ Another example of human intervention in evolution is dog breeding. Take a look 
 **Q.2. Thinking of evolution as an algorithm, where else can we intervene?** 
 
 
- ## Example-2: Directed evolution of proteins 
+## Example-2: Directed evolution of proteins 
  
 [Directed evolution](https://www.nobelprize.org/prizes/chemistry/2018/press-release/) is an effective strategy for improving or altering the activity of biomolecules for industrial, research and therapeutic applications. Laboratory evolution of proteins requires methods for generating genetic diversity coupled with identifying protein variants with desired properties. (You can read on the scientific background on the Nobel Prize in Chemistry 2018 awarded to the Directed Evolution of enzymes and  binding proteins from [Link](https://www.nobelprize.org/uploads/2018/10/advanced-chemistryprize-2018.pdf))
 
