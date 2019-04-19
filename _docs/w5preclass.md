@@ -98,7 +98,7 @@ Note the highlighted lines from the abstract.
 <a href="/assets/images/Week-5 - network diagram.png"><img src="/assets/images/Week-5 - network diagram.png"></a>
 </figure>
 
-Figure-1: Network of 495 modern, two published ancient genomes (light yellow box), and three ancient hepatitis B virus (HBV) obtained in this study (grey box). Colors indicating the 8 human HBV Genotypes (A-H), two monkey genotypes (Monkeys I, African apes and Monkeys II, Asian monkeys) and ancient genomes (red).[research article](https://www.biorxiv.org/content/early/2018/05/06/315531.full.pdf+html)
+**Figure-1** Network of 495 modern, two published ancient genomes (light yellow box), and three ancient hepatitis B virus (HBV) obtained in this study (grey box). Colors indicating the 8 human HBV Genotypes (A-H), two monkey genotypes (Monkeys I, African apes and Monkeys II, Asian monkeys) and ancient genomes (red).[research article](https://www.biorxiv.org/content/early/2018/05/06/315531.full.pdf+html)
 
 
 **Q.6. What is the role of evolution (as an algorithm) in this example?**
@@ -164,7 +164,7 @@ Here is an introduction from a [research article](https://www.nature.com/article
 <a href="/assets/images/w5pc_fig2.png"><img src="/assets/images/w5pc_fig2.png"></a>
 </figure>
 
-Figure-1: The work flow for the directed evolution of enzymes. [Source](https://www.nobelprize.org/uploads/2018/10/advanced-chemistryprize-2018.pdf)
+**Figure-1** The work flow for the directed evolution of enzymes. [Source](https://www.nobelprize.org/uploads/2018/10/advanced-chemistryprize-2018.pdf)
 
 **Natural selection:** A process by which individuals with the highest reproductive fitness pass on their genetic material to their offspring, thus maintaining and enriching heritable traits that are adaptive to the natural environment. 
 
