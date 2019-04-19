@@ -98,7 +98,6 @@ Note the highlighted lines from the abstract.
 <a href="/assets/images/Week-5 - network diagram.png"><img src="/assets/images/Week-5 - network diagram.png"></a>
 </figure>
 
-
 Figure-1: Network of 495 modern, two published ancient genomes (light yellow box), and three ancient hepatitis B virus (HBV) obtained in this study (grey box). Colors indicating the 8 human HBV Genotypes (A-H), two monkey genotypes (Monkeys I, African apes and Monkeys II, Asian monkeys) and ancient genomes (red).[research article](https://www.biorxiv.org/content/early/2018/05/06/315531.full.pdf+html)
 
 
@@ -161,8 +160,11 @@ Here is an introduction from a [research article](https://www.nature.com/article
 
 “ Over many generations, iterated mutation and natural selection during biological evolution provide solutions for challenges that organisms face in the natural world. However, the traits that result from natural selection only occasionally overlap with features of organisms and biomolecules that are sought by humans. To guide evolution to access useful phenotypes more frequently, humans for centuries have used artificial selection, beginning with the selective breeding of crops and domestication of animals. More recently, directed evolution in the laboratory has proved to be a highly effective and broadly applicable framework for optimizing or altering the activities of individual genes and gene products, which are the fundamental units of biology Genetic diversity fuels both natural and laboratory evolution. The occurrence rate of spontaneous mutations is generally insufficient to access desired gene variants on a time scale that is practical for laboratory evolution. A number of genetic diversification techniques are therefore used to generate libraries of gene variants that accelerate the exploration of a gene's sequence space. Methods to identify and isolate library members with desired properties are a second crucial component of laboratory evolution. During organismal evolution, phenotype and genotype are intrinsically coupled within each organism. However, during laboratory evolution (Figure-3), it is often inconvenient or impossible to manipulate genes and gene products in a coupled manner. Therefore, single-gene evolution in the laboratory requires carefully designed strategies for screening or selecting functional variants in ways that maintain the genotype–phenotype association.
 
-**Figure-3:** The process of directed evolution in the laboratory mimics that of biological evolution.  A diverse library of genes is translated into a corresponding library of gene products and screened or selected for functional variants in a manner that maintains the correspondence between genotype (genes) and phenotype (gene products and their functions). These functional genes are replicated and serve as starting points for subsequent rounds of diversification and screening or selection. B. Although the mutational space is multidimensional, it is conceptually helpful to visualize directed 
-evolution as a series of steps within a three-dimensional fitness landscape. Library generation samples the proximal surface of the landscape, and screening or selection identifies the genetic means to 'climb' towards fitness peaks. Directed evolution can arrive at absolute maximum activity levels but can also become trapped at local fitness maxima in which library diversification is insufficient to cross 'fitness valleys' and access neighbouring fitness peaks [Source](https://www.nature.com/articles/nrg3927).
+<figure>
+<a href="/assets/images/w5pc_fig2.png"><img src="/assets/images/w5pc_fig2.png"></a>
+</figure>
+
+Figure-1: The work flow for the directed evolution of enzymes. [Source](https://www.nobelprize.org/uploads/2018/10/advanced-chemistryprize-2018.pdf)
 
 **Natural selection:** A process by which individuals with the highest reproductive fitness pass on their genetic material to their offspring, thus maintaining and enriching heritable traits that are adaptive to the natural environment. 
 
