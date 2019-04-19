@@ -48,7 +48,7 @@ Imagine that we could forever remove the gene that causes *90% of cases* of CF b
 
 On Wednesday and Friday of this week you cultivated, grew, and examined the microbes from your skin.
 
-**4.a.** Describe in your own words what is the microbiome, and provide a current example of study of the microbiome (include references if needed) (Max 100 words)
+**4.a.** Describe in your own words what is the microbiome, and provide a current example of study of the microbiome (include references if needed) (3-4 sentences) 
 
 **4.b.** Name 2 key methods used to study the microbiome? (Bullet points)
 
