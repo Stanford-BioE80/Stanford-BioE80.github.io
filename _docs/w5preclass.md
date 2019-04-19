@@ -12,7 +12,6 @@ _______________________________________________________________________
 Please read and consider the below before start of each class.
 The questions given are only study questions not homework to be graded.
 Talk about it all with your classmates, friends, or TAs, as you like.
-_______________________________________________________________________
 
 ## Preclass for Monday
 
@@ -77,7 +76,7 @@ An **algorithm** can be defined as:
 
 Given this definition, think about evolution in this new context.  
 
-**Q.5. If evolution is an algorithm, what problem is being solved, and by whom(/what)? What are the rules?**
+**Q.5. If evolution is an algorithm, what problem is being solved, and by whom(or what)? What are the rules?**
 
 Extracting out the idea of Evolution from this example evolution is the results of two intertwined processes: Random Mutations beget genetic variation; non-random selection to improve “fitness”. The end result may look non-random, but the mechanism that enables evolution and natural selection to occur is entirely random. 
 
@@ -87,7 +86,9 @@ This example of flu virus highlights the algorithm of evolution acting on a *tim
 
 ## Example-2: Ancient virus genomes reveal complex evolution of Hepatitis B
 
-In a fascinating [research article](https://www.biorxiv.org/content/early/2018/05/06/315531.full.pdf+html) see also ([article](https://www.nytimes.com/2018/05/09/science/ancient-dna-bones-hepatitis.html)), “Scientists reported on Wednesday that they have recovered DNA from the oldest viruses known to have infected humans — and have succeeded in resurrecting some of them in the laboratory. The viruses were all strains of hepatitis B. Two teams of researchers independently discovered its DNA in 15 ancient skeletons, the oldest a farmer who lived 7,000 years ago in what is now Germany. Until now, the oldest viral DNA ever recovered from human remains was just 450 years old.” Here is the abstract from the article: 
+In a fascinating [research article](https://www.biorxiv.org/content/early/2018/05/06/315531.full.pdf+html) see also ([article](https://www.nytimes.com/2018/05/09/science/ancient-dna-bones-hepatitis.html)), “Scientists reported on Wednesday that they have recovered DNA from the oldest viruses known to have infected humans — and have succeeded in resurrecting some of them in the laboratory. The viruses were all strains of hepatitis B. Two teams of researchers independently discovered its DNA in 15 ancient skeletons, the oldest a farmer who lived 7,000 years ago in what is now Germany. Until now, the oldest viral DNA ever recovered from human remains was just 450 years old.” 
+
+Here is the abstract from the article: 
 
 “The hepatitis B virus (HBV) is one of the most widespread human pathogens known today,  yet its origin and evolutionary history are still unclear and controversial. Here, we report the analysis of three ancient HBV genomes recovered from human skeletons found at three  different archaeological sites in Germany. We reconstructed two Neolithic and one medieval  HBV genomes by de novo assembly from shotgun DNA sequencing data. Additionally, we observed HBV-specific peptides using paleo-proteomics. Our results show that HBV circulates in the European population for at least 7000 years. **The Neolithic HBV genomes show a high genomic similarity to each other. In a phylogenetic network, they do not group with any human-associated HBV genome and are most closely related to those infecting African non-human primates. These ancient virus forms appear to represent distinct lineages that have no close relatives today and went possibly extinct.** Our results reveal the great  potential of ancient DNA from human skeletons in order to study the long-time evolution of blood borne viruses.”
 
@@ -149,7 +150,7 @@ Another example of human intervention in evolution is dog breeding. Take a look 
 
  ## Example-2: Directed evolution of proteins 
  
-[Directed evolution](https://www.nobelprize.org/prizes/chemistry/2018/press-release/) is an effective strategy for improving or altering the activity of biomolecules for industrial, research and therapeutic applications. Laboratory evolution of proteins requires methods for generating genetic diversity coupled with identifying protein variants with desired properties. 
+[Directed evolution](https://www.nobelprize.org/prizes/chemistry/2018/press-release/) is an effective strategy for improving or altering the activity of biomolecules for industrial, research and therapeutic applications. Laboratory evolution of proteins requires methods for generating genetic diversity coupled with identifying protein variants with desired properties. (You can read on the scientific background on the Nobel Prize in Chemistry 2018 awarded to the Directed Evolution of enzymes and  binding proteins from [Link](https://www.nobelprize.org/uploads/2018/10/advanced-chemistryprize-2018.pdf))
 
 Here is an introduction from a [research article](https://www.nature.com/articles/nrg3927)
 
@@ -187,7 +188,7 @@ According to [CDC](https://www.cdc.gov/antibiotic-use/community/about/antibiotic
 
 To answer the question above recall that in an earlier module you came across the MEGA-plate. 
 The (120 × 60 centimeters) plate on which bacteria spread and evolved on a large antibiotic landscape
-([Mega-plate video](https://www.youtube.com/watch?v=plVk4NVIUh8)
+([Mega-plate video](https://www.youtube.com/watch?v=plVk4NVIUh8))
 
 Here is the abstract from the [paper](http://science.sciencemag.org/content/353/6304/1147.full):
 
