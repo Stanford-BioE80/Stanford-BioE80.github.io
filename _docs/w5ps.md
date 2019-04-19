@@ -2,36 +2,26 @@
 title: "Week 5 Problem sets"
 permalink: /docs/w5ps/
 ---
-**DUE:** Next Friday, beginning of class.
+**DUE:** Next Friday(), beginning of class via **Gradescope**. 
 
 **NOTES:** 
-  - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
-  - Please turn in your completed problem sets as an electronic copy via Canvas. 
-  - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations)
+  - All BIOE.80 problem sets must be completed individually unless plainly noted opetherwise.
+  - Please turn in your completed problem sets as an electronic copy via **Gradescope**. 
+  - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations). 
+
+**GOALS:** Reflect on the utility of evolution both as an algorithm and as a service.
 
 ## (Q1) Evolution as Service (30 points)
 
-This week we explored evolution as service. 
-Think back to the examples from the pre-classand in-class material.
+**Q.1.a.** Describe two challenges associated with using Directed Evolution as an engineering approach? (bullet points)
 
-1.a. Describe two challenges associated with using “directed evolution” as an engineering approach (bullet points)
+Imagine that you want to engineer the rate of evolution (increase or decrease) in an engineered living matter. 
 
-1.b. Describe when is directed evolution a good engineering choice? 
+**Q.1.b.** Briefly describe a utility for engineering the rate of evolution itself. 
+Stated differently, Where and how you would use such an organism if you wanted to use evolution as a service? 
+(2-3 sentences)
 
-
-## (Q2) Engineering the rate of evolution (20 points)
-
-Imagine that you want to increase the rate of evolution in an engineered microbe...
-
-2.a. Briefly describe a utility for engineering the rate of evolution in your selected organism. 
-Stated differently, where and how you would use such an organism if you wanted to use evolution as a service? 
-(bullet points)
-
-2.b. Briefly describe a method or approach that you would use to increase the rate of evolution itself in your organism?
-(bullet points)
-
-
-## (Q3) Microbial Resistance (10 points)
+## (Q2) Microbial Resistance (15 points)
 
 According to recent news reports, a patient with a multi-drug resistant bacterial infection was cured by injecting 
 phage (i.e., bacterial viruses [The Bacteriophage Video](https://www.youtube.com/watch?v=YI3tsmFsrOg)) directly into the bacterial cyst inside thepatient’s abdomen. 
@@ -39,62 +29,29 @@ The patient was ultimately cured. The treatment, however, was not easy...
 
 “The learning curve was steep and unmarked. There were bouts of sepsis — a life-threateningcomplication caused by massive infection. Despite improvement, (the) patient’s conditionremained precarious. Doctors discovered that the bacterium eventually developed resistance tothe phage, what Schooley would characterize as “the recurring Darwinian dance,” but the teamcompensated by continually tweaking treatment with new phage strains — some that hadderived from sewage — and antibiotics.” [source](https://health.ucsd.edu/news/releases/Pages/2017-04-25-novel-phage-therapy-saves-patient-with-multidrug-resistant-bacterial-infection.aspx)
 
-3.a. You are the director of a new “Phage Therapy Institute”. Specify three generalresearch directions you could pursue to make phage therapeutic approach easier, faster,or safer. (5 points)
+**Q.2.a.**  You are the director of a new “Phage Therapy Institute”. Specify three general research directions you could pursue to make phage therapeutic approach easier, faster,or safer. (What tools and technologies you need, what questions  you have to address) (3-4 sentences)
 
-3.b.Select your favorite approach, in 100 words, write an argument in support of this approach (What tools and technologies you need) (5 points)
+## (Q3) Cystic Fibrosis (15 points)
 
-## (Q4) Approximate and rapid numerical estimates (40 pts)
+Cystic fibrosis (CF) is an inherited disorder that causes severe damage to the lungs, digestive system, and other organs in the body. 
 
-Approximations based on simple physical principles are known as Fermi problems. These problems will help you build quantitative intuition for working with biology. Most of these estimates are rough: they are designed to give you a broad, order of magnitude intuition for the biology, so keep in mind that that the exactly correct number could be different. Give your answers to two significant figures and provide units where appropriate. You should only need simple math and arithmetic; a couple of lines of work at most. 
+“Cystic fibrosis affects the cells that produce mucus, sweat, and digestive juices. These secreted fluids are normally thin and slippery. But in people with cystic fibrosis, a defective gene causes the secretions to become sticky and thick. Instead of acting as a lubricant, the secretions plug up tubes, ducts, and passageways, especially in the lungs and pancreas.” [source-1](https://www.mayoclinic.org/diseases-conditions/cystic-fibrosis/symptoms-causes/syc-20353700). This thick mucus in the lungs and sinuses provides an ideal environment for chronic bacterial and fungal infections. As a result CF patients mayoften have sinus infections, bronchitis, or pneumonia [source-1](https://www.mayoclinic.org/diseases-conditions/cystic-fibrosis/symptoms-causes/syc-20353700). CF itself is caused by a mutation in the gene cystic fibrosis transmembrane conductance regulator (CFTR). The most common mutation is a deletion of three nucleotides that results in a loss of the amino acid phenylalanine (F) at the 508th position in the protein. This mutation accounts for two-thirds (66–70) of CF cases worldwide and 90% of cases in the United States; however, over 1500 other mutations can produce CF [source-2](https://en.wikipedia.org/wiki/Cystic_fibrosis)
 
-Additional resources: bionumbers is an excellent source for biological numbers [link](http://bionumbers.hms.harvard.edu/) . "_Cell Biology by the Numbers_" is a great book on estimation problems in biology. You can get a free copy of the draft version [here](http://book.bionumbers.org/).
+**Q.3.a.** Phage therapy has been proposed and tested as a  potential solution for managing infections in cystic fibrosis. Thinking back to what you learned about evolution, what are the challenges associated with implementing this solution? (bullet points)
 
-_Escherichia coli_ (**Figure 1**) is well-studied bacteria considered to be representative of how bacterial systems work generally (i.e., a 'model' organism). _E. coli_ is also easy to grow in the lab and divides rapidly (about 20 mins). As a result, _E. coli_ is frequently used in bioengineering either as a model organism (to be studied or engineered directly) or as a host to generate large copies of user defined DNA. You will see (and setup your own in BIOE44) cultures tubes of _E. coli_ (with medium - food for bacteria) often growing overnight on shaking incubators (set to 37C) (**Figure 2**).
+Imagine that we could forever remove the gene that causes *90% of cases* of CF by engineering the human genome.
 
-<figure>
-<a href="/assets/images/w2pc_ecoli.png"><img src="/assets/images/w2pc_ecoli.png"></a>
-<figcaption><b>Figure 1</b>.
-<i>E. coli</i> is shaped like a rod, which we can approximate as a spherocylinder: a cylinder with hemispherical caps. Of note, MG1655 is a strain derived from a lineage of <i>E. coli</i> variants that was originally isolated from a diphtheria patient at the Palo Alto hospital in 1922.
-<a href="https://??????????">Source TBD</a>
-</figcaption>
-</figure>
+**Q.3.b.** Who should get to decide if we would permanently delete the gene from the gene pool? If you could permanently remove the gene what would you choose? (2-3 sentences) 
+(In this open-ended question we are looking for your reasoning)
 
-<figure>
-<a href="/assets/images/w2pc_ecoligrowth.png"><img src="/assets/images/w2pc_ecoligrowth.png"></a>
-<figcaption><b>Figure 2</b>.
-<i>E. coli</i> grown to saturation (after 8-12 hours). <i>E. coli</i> divides about every 20 mins. 
-<a href="http://book.bionumbers.org/">Source: Cell Biology by the Numbers</a>
-</figcaption>
-</figure>
-
-**Q.4.a.** Based on a spherocylinder model, calculate the volume of an _E. coli_ cell. 
-
-**Q.4.b.** If an _E. coli_ cell were the size of a building, how big would a water molecule be?
-
-**Q.4.c.** The mean diameter of a protein is roughly 4 nm. What is the upper bound on how many proteins could fit inside an *E. coli* cell?
-
-**Q.4.d.** How would you go about estimating the total number of carbon atoms in an *E.coli* cell? You don't have to calculate this just define variables and describe your approach step by step. 
-
-
-
-
-## (Q4) Cystic Fibrosis (10 points)
-
-Cystic fibrosis (CF) is an inherited disorder that causes severe damage to the lungs, digestivesystem and other organs in the body. “Cystic fibrosis affects the cells that produce mucus,sweat and digestive juices. These secreted fluids are normally thin and slippery. But in peoplewith cystic fibrosis, a defective gene causes the secretions to become sticky and thick. Insteadof acting as a lubricant, the secretions plug up tubes, ducts and passageways, especially in thelungs and pancreas.” [source-1](https://www.mayoclinic.org/diseases-conditions/cystic-fibrosis/symptoms-causes/syc-20353700) This thick mucus in the lungsand sinuses provides an ideal environment for chronicbacterial and fungal infections. As a result CF patients mayoften have sinus infections, bronchitis, or pneumonia [source-1](https://www.mayoclinic.org/diseases-conditions/cystic-fibrosis/symptoms-causes/syc-20353700). CF itself is caused by a mutation in the gene cystic fibrosis transmembrane conductance regulator (CFTR). The most common mutation is a deletion of three nucleotidesthat results in a loss of the amino acid phenylalanine (F) at the 508th position in the protein. This mutation accounts fortwo-thirds (66–70) of CF cases worldwide and 90% of casesin the United States; however, over 1500 other mutations canproduce CF [source-2](https://en.wikipedia.org/wiki/Cystic_fibrosis)
-
-4.a. Phage therapy has  been proposed and tested as a  potential solution for managinginfections in cystic fibrosis. Thinking back to what you learned about evolution, what arethe challenges associated with implementing this solution? (bullet points)
-
-4.b. Imagine that you could forever remove the gene that causes *90% of cases* of CF byengineering the human genome. Would you permanently delete the gene from the genepool? Why or why not? (50-100 words) (In this open-ended question we are looking foryour reasoning and not an exact solution)
-
-
-## (Q5) Meet your Microbe (30 pts)
+## (Q4) Meet your Microbe (40 pts)
 
 On Wednesday and Friday of this week you cultivated, grew, and examined the microbes from your skin.
 
-5.a. Describe in your own words what is the microbiome, and provide a current example ofstudy of the microbiome (include references if needed) (Max 100 words)
+**4.a.** Describe in your own words what is the microbiome, and provide a current example of study of the microbiome (include references if needed) (Max 100 words)
 
-5.b. What are key methods used to study the microbiome? (Bullet points)
+**4.b.** Name 2 key methods used to study the microbiome? (Bullet points)
 
-5.c. What are the current and future roles of DNA sequencing and synthesis in thestudy and engineering of microbiome? (1 or 2 Bullet points for each)
+**Colony Morphology** Make sure to include a picture and figure caption
 
-5.d. **Colony Morphology** Examine the morphology of the colonies on your plates. Describe as comprehensively as possible the ONE most interesting colony at your table (you decide what’s interesting!). What is the size, shape, and shape of the colony? What is thenarrowest classification you can make of this colony? Make sure to include a picture. (Max 100 words)
+**4.c.** Examine the morphology of the colonies on your plates. Describe as comprehensively as possible the ONE most interesting colony at your table (you decide what’s interesting!). What is the size, shape, and shape of the colony? What is thenarrowest classification you can make of this colony?  Max 100 words)
