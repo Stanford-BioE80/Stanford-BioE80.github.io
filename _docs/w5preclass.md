@@ -41,8 +41,7 @@ to better appreciate these examples.
 
 ## Example-1: Why do you need to get a flu shot every year?
 
-To begin, let us consider this past flu season. (Which was considered as the worst flu season since 2009-2010. 
-See Figure-1.) 
+To begin, let us consider this past flu season. (Which was considered as the worst flu season since 2009-2010) 
 
 Following is from an [article](https://www.theatlantic.com/health/archive/2018/01/the-perfect-storm-behind-this-years-nasty-flu-season/550469/) 
 published in January 2018: 
@@ -94,7 +93,13 @@ Here is the abstract from the article:
 
 Note the highlighted lines from the abstract.
 
-Figure-2: Network of 495 modern, two published ancient genomes (light yellow box), and three ancient hepatitis B virus (HBV) obtained in this study (grey box). Colors indicating the 8 human HBV Genotypes (A-H), two monkey genotypes (Monkeys I, African apes and Monkeys II, Asian monkeys) and ancient genomes (red).[research article](https://www.biorxiv.org/content/early/2018/05/06/315531.full.pdf+html)
+
+<figure>
+<a href="/assets/images/Week-5 - network diagram.png"><img src="/assets/images/Week-5 - network diagram.png"></a>
+</figure>
+
+
+Figure-1: Network of 495 modern, two published ancient genomes (light yellow box), and three ancient hepatitis B virus (HBV) obtained in this study (grey box). Colors indicating the 8 human HBV Genotypes (A-H), two monkey genotypes (Monkeys I, African apes and Monkeys II, Asian monkeys) and ancient genomes (red).[research article](https://www.biorxiv.org/content/early/2018/05/06/315531.full.pdf+html)
 
 
 **Q.6. What is the role of evolution (as an algorithm) in this example?**
