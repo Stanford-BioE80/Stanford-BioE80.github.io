@@ -1,5 +1,5 @@
 ---
-title: "Week 3 Problem setslass"
+title: "Week 3 Problem set"
 permalink: /docs/w3ps/
 last_modified_at: Feb.20.2019
 2018: Week 6 
@@ -28,25 +28,25 @@ For example, imagine yourself riding your bicycle on University Avenue and encou
 
 In one scenario you can describe yourself as the system.  In this case, your eyes are the sensor, your brain is the computation unit, and your hands are the actuator (i.e., pressing the levers to stop your bike).  
 
-In another scenario, you can describe your bike as the system.  In this case, the levers are the sensors. There is no computation unit, and the signal is directly transferred via a cable to the breaks (i.e., actuators on the wheels).  
+In another scenario, you can describe your bike as the system.  In this case, the levers are the sensors. There is no computation unit, and the signal is directly transferred via a cable to the brakes (i.e., actuators on the wheels).  
 
-**Q.1.a.** Pick a scenario of your own choice (include a photo if applicable). Define the system for this scenario. 
+**Q.1.a.** Look around the world from the perspective of an integrated systems engineer. Find an example of an integrated system, either natural or engineered. Submit a photo of the system you found and provide a one line description of the system itself. 
 
 **Q.1.b.** Draw the generic system architecture with appropriate units for your system. Label the input(s) and output(s) to the system. 
 
 ## (Q2) GOOP Tube (40 pts)
 
-On Friday you were given two GOOP tubes, one tube of DNA (instructions to express GFP), and one tube of water.
+On Friday you were given two GOOP tubes, one tube of DNA, and one tube of water.
 
 **Q.2.a.** Did you show up on Friday and participate in the activity? (Yes / No) 
 
-**Q.2.b.** When and where did you add the water and DNA-expression to your GOOP tubes? 
+**Q.2.b.** When and where did you add the water and DNA to your GOOP tubes? 
 
 **Q.2.c.** Did the GOOP with expression instructions turn green (produce GFP)? How long did it take? 
 
 (Your grade does not depend on the expression of GFP). Include photos of both tubes at the start, mid-way (about 6 hours), and after 12 hours. (Time points don't have to be exact. Simply report when you took the photos.) 
 
-Make sure to provide figure legends. 
+Make sure to provide figure legends for any figures you include. 
 
 **_Please give us feedback. Did you run into any problems?_**
 
@@ -73,7 +73,7 @@ Briefly read the abstract from the paper titled: [Programmable protein circuits 
 
 ## (Q4) Navigating the Abstraction Hierarchy (35 pts)
 
-Thinking back to the class recall the hierarchy based on the Part (bioparts), Devices, and Systems approach to abstraction. 
+Referring back to class on 15 and 17 April, recall the hierarchy based on the Part (bioparts), Devices, and Systems approach to abstraction. 
 If you need a refresher, please use the following [link](https://parts.igem.org/Abstraction_Hierarchy).
 
 **Q.4.a.**  In your own words provide brief definitions for Parts, Devices, and Systems. (1 sentence each)
