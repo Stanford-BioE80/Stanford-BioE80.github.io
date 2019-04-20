@@ -14,11 +14,9 @@ last_modified_at: Feb.20.2019
 
 ## (Q1) Causes of death (20 points) 
 
-Using the figures from the class (on Monday) and this [source](https://www.businessinsider.com/leading-causes-of-death-from-1900-2010-2012-6?op=1#and-here-it-is-all-laid-out-in-one-chart-deaths-per-100000-people-by-cause-1900-vs-2010-18)
+Thinking back to the class on Monday 
 
 **Q.1.a.** What factors (i.e., changes) contributed to the reduction of deaths due to pneumonia and tuberculosis from 1900s-2000s? (bullet points)
-
-**Q.1.b.** What factors s (i.e., changes) contributed to the increase indeaths due to cancer and heart disease from 1900s-2000s. (bullet points)
 
 ## (Q2) Brainstorming Report  (40 pts)
 
@@ -55,7 +53,8 @@ Briefly read the abstract of the paper titled [Acoustic reporter genes for nonin
 
 **Q.4.c.** Think about another application for this system? (2-3 sentences)
 
-**Q.4.d.** Find another example (for example a research paper or a news article) demonstrating the progress and state of engineering of living matter, microbes or mammalian cells, to detect or combat diseases that are of interest to you.  Why did you select this example (link and 2-3 sentences)? 
+**Q.4.d.** Find another example (for example a research paper or a news article) demonstrating the progress and state of engineering of living matter, microbes or mammalian cells, to detect or combat diseases that are of interest to you.  
+Why did you select this example (link and 2-3 sentences)? 
 
 **Your questions** Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
