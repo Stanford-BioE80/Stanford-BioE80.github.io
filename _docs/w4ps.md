@@ -12,11 +12,17 @@ last_modified_at: Feb.20.2019
   - Please turn in your completed problem sets as an electronic copy via Canvas. 
   - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations).
 
-## (Q1) Causes of death (20 points) 
+## (Q1) Health and Flourishing (30 points) 
 
 Thinking back to the class on Monday 
 
 **Q.1.a.** What factors (i.e., changes) contributed to the reduction of deaths due to pneumonia and tuberculosis from 1900s-2000s? (bullet points)
+
+Think back to the in-class case study on the production of the key ingredient for the treatment of malaria, Artemisinin.
+
+**Q.1.b.** What were some of the major lessons from this case study? (2-3 bullet points)
+
+**Q.1.c.** If you were in charge of the Artemisinin project what would you have done differently? (2-3 bullet points)
 
 ## (Q2) Brainstorming Report  (40 pts)
 
@@ -30,15 +36,7 @@ Think back to your sectors and drawing from your experiences in class Friday, an
 
 **Q.2.d.** Select one idea and further explore it (a paragraph, drawings, figures, and diagrams if necessary). 
 
-## (Q3) Artemisinin (20 Points)
-
-Think back to the in class case study on the production of the key ingredient for the treatment of malaria, Artemisinin.
-
-**Q.3.a.** What were some of the key lessons from this case study? (2-3 bullet points)
-
-**Q.3.b.** If you were in charge of this project what would you have done differently? (2-3 bullet points)
-
-## (Q4) Fantastic Voyage  (20 Points)
+## (Q3) Fantastic Voyage  (30 Points)
 
 In the near future, you and your team are planning to remove an inoperable tumor from the brain of an important scientist.  You conclude that the only way that tumor can be destroyed is to remove it from the inside of the patient's own body. 
 You imagine a submarine that can be shrunk and will carry the team of experts and doctors.  Sadly, however, no shrink ray exists in this future ([Fantastic Voyage](https://www.imdb.com/title/tt0060397/)). 
@@ -47,13 +45,13 @@ Instead, you can begin to engineer living matter, microbes or patient's cells, t
 
 Briefly read the abstract of the paper titled [Acoustic reporter genes for noninvasive imaging of microorganisms in mammalian hosts](https://www.nature.com/articles/nature25021), which enables imaging and control of living matter in mammalian hosts.
 
-**Q.4.a.** In your own words summarize the abstract in 2-3 sentences. What is the main *claim* of this paper?
+**Q.3.a.** In your own words summarize the abstract in 2-3 sentences. What is the main *claim* of this paper?
 
-**Q.4.b.** According to the abstract what is the origin and purpose of the gas-filled protein nanostructures in nature?
+**Q.3.b.** According to the abstract what is the origin and purpose of the gas-filled protein nanostructures in nature?
 
-**Q.4.c.** Think about another application for this system? (2-3 sentences)
+**Q.3.c.** Think about another application for this system? (2-3 sentences)
 
-**Q.4.d.** Find another example (for example a research paper or a news article) demonstrating the progress and state of engineering of living matter, microbes or mammalian cells, to detect or combat diseases that are of interest to you.  
+**Q.3.d.** Find another example (for example a research paper or a news article) demonstrating the progress and state of engineering of living matter, microbes or mammalian cells, to detect or combat diseases that are of interest to you.  
 Why did you select this example (link and 2-3 sentences)? 
 
 **Your questions** Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
