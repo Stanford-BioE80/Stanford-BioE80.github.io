@@ -129,7 +129,7 @@ _______________________________________________________________________
 ## Preclass for Wednesday
 
 
-## Introduction:From Natural Algorithm to Engineering Service - part 2
+## Introduction: From Natural Algorithm to Engineering Service - part 2
 
 In the first class you started to learn about evolution and its  role from a Bioengineering perspective.  In the previous class you were introduced to evolution as an algorithm. In this class you will examine the role of evolution as an engineering solution and approach. After considering the following example and the material throughout this week you will be able to:
 
