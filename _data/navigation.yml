@@ -92,9 +92,11 @@ docs:
 
   - title: Class Slides
     children:
-      - title: "Week 1"
+      - title: "Week 1 CS"
         url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w1
-      - title: "Week 2"
-        url: /docs/w2ps/
-      - title: "Week 3"
-        url: /docs/w3ps/
+      - title: "Week 2 CS"
+        url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w2
+      - title: "Week 3 CS"
+        url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w3
+      - title: "Week 4 CS"
+        url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w4
