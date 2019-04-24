@@ -16,7 +16,7 @@ foo:
         url: /child-2-page-url/
       - title: "Child Link 3"
         url: /child-3-page-url/
-        
+
 # main links
 main:
   - title: "Welcome"
@@ -45,19 +45,19 @@ docs:
       - title: "Week 2 Preclass"
         url: /docs/w2preclass/
       - title: "Week 2 Inclass"
-        url: /docs/w2inclass/        
+        url: /docs/w2inclass/
       - title: "Week 3 Preclass"
         url: /docs/w3preclass/
       - title: "Week 3 Inclass"
         url: /docs/w3inclass/
       - title: "Week 4 Preclass"
-        url: /docs/w4preclass/      
+        url: /docs/w4preclass/
       - title: "Week 5 Preclass"
         url: /docs/w5preclass/
       - title: "Week 5 Inclass"
-        url: /docs/w5inclass/    
+        url: /docs/w5inclass/
       - title: "Week 6 Preclass"
-        url: /docs/w6preclass/     
+        url: /docs/w6preclass/
       - title: "Week 7 Preclass"
         url: /docs/w7preclass/
       - title: "Week 8 Preclass"
@@ -68,7 +68,7 @@ docs:
         url: /docs/w9preclass/
       - title: "Week 9 Inclass"
         url: /docs/w9inclass/
-      
+
   - title: Problem Sets
     children:
       - title: "Week 1 PS"
@@ -89,6 +89,12 @@ docs:
       #  url: /docs/w8ps/
       #- title: "Week 9 PS"
       #  url: /docs/w9ps/
-        
-        
-        
+
+  - title: Class Slides
+    children:
+      - title: "Week 1"
+        url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w1
+      - title: "Week 2"
+        url: /docs/w2ps/
+      - title: "Week 3"
+        url: /docs/w3ps/
