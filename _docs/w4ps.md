@@ -22,25 +22,7 @@ Thinking back to the case study on the production Artemisinin,
 
 **Q.1.b.** What were some of the major lessons from this case study? (2-3 bullet points)
 
-## (Q2) Brainstorming Report  (45 pts)
-
-**Q.2.a.**  Did you show up on Friday? (Yes / No)
-
-**Q.2.b.**  Were you able to connect with your group? (Yes / No) Please share their names 
-
-Drawing from your experiences in class Friday, 
-
-Provide a brief summary of the activity. 
-
-**Q.2.c.**  What audiences and topic did your group identify?
-
-**Q.2.d.**  What audiences and topic did your group recieve? 
-
-**Q.2.d.** Brainstorming report, based on the audience and topic combination - what mediums did you identify?
-
-**Q.2.e.** Select one idea and further explore it (a paragraph, drawings, figures, and diagrams if necessary). 
-
-## (Q3) Fantastic Voyage  (35 Points)
+## (Q2) Fantastic Voyage  (35 Points)
 
 In the near future, you and your team are planning to remove an inoperable tumor from the brain of an important scientist.  You conclude that the only way that tumor can be destroyed is to remove it from the inside of the patient's own body. 
 You imagine a submarine that can be shrunk and will carry the team of experts and doctors.  Sadly, however, no shrink ray exists in this future ([Fantastic Voyage](https://www.imdb.com/title/tt0060397/)). 
@@ -49,16 +31,36 @@ Instead, you can begin to engineer living matter, microbes or patient's cells, t
 
 Briefly read the abstract of the paper titled [Acoustic reporter genes for noninvasive imaging of microorganisms in mammalian hosts](https://www.nature.com/articles/nature25021), which enables imaging and control of living matter in mammalian hosts.
 
-**Q.3.a.** In your own words summarize the abstract in 2-3 sentences. What is the main *claim* of this paper?
+**Q.2.a.** In your own words summarize the abstract in 2-3 sentences. What is the main *claim* of this paper?
 
-**Q.3.b.** According to the abstract what is the origin and purpose of the gas-filled protein nanostructures in nature?
+**Q.2.b.** According to the abstract what is the origin and purpose of the gas-filled protein nanostructures in nature?
 
-**Q.3.c.** Think about another application for this system? (2-3 sentences)
+**Q.2.c.** Think about another application for this system? (2-3 sentences)
 
-**Q.3.d.** Find another example (for example a research paper or a news article) demonstrating the progress and state of engineering of living matter, microbes or mammalian cells, to detect or combat diseases that are of interest to you.  
-Why did you select this example (link and 2-3 sentences)? 
+**Q.2.d.** Find another example (a research paper or a news article) demonstrating the progress and state of engineering of living matter, microbes or mammalian cells, to detect or combat diseases that are of interest to you.  What is the main *claim* of your selected paper (link and 2-3 sentences) ? Why did you select this example ? (1-2 sentences)
+
+## (Q3) Brainstorming Report  (45 pts)
+
+This part must be completed individually
+
+**Q.3.a.**  Did you show up on Friday? (Yes / No)
+
+**Q.3.b.**  Were you able to connect with everyone in your group? (Yes / No) Please share their names 
+
+Drawing from your experiences in class Friday, 
+
+**Q.3.c.**  What audience and topic did your group identify?
+
+**Q.3.d.**  What audience and topic did your group recieve? 
+
+**Q.3.d.** Brainstorming report, based on the audience and topic combination - what mediums did you identify?
+
+**Q.3.e.** Select one medium and further explore it individually (a paragraph, drawings, figures, and diagrams if necessary). 
 
 **Your questions** Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
+
+# Final Project - Group Activity.1: Team Rules 
+### Due with PSET-4 (6 Points)
 
 ## Extra learning (100% optional):
 
