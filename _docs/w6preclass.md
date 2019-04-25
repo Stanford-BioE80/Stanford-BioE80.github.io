@@ -38,7 +38,7 @@ Put yourself in the shoes of a couple who recently discovered they were pregnant
 <a href="/assets/images/w3pc_CarlsonCurves.png"><img src="/assets/images/w3pc_CarlsonCurves.png"></a>
 </figure>
 
-**Figure.1.** "Reduction of the Price of DNA sequencing (reading) and synthesis(writing) per base per over past 30 years.[Source](https://synbiobeta.com/time-new-dna-synthesis-sequencing-cost-curves-rob-carlson/)
+**Figure.1.** "Reduction of the Price of DNA sequencing (reading) and synthesis(writing) per base per over past 30 years.  [Source](https://synbiobeta.com/time-new-dna-synthesis-sequencing-cost-curves-rob-carlson/)
 
 **Q.2. Do you think NIPT could have been economically feasible in the year 2010?What about 2000, or 1990? Why?**
 
@@ -54,10 +54,10 @@ Let’s delve into how current sequencing technologies work.
 Start with this [video](https://www.youtube.com/watch?v=MvuYATh7Y74) that provides backgroundabout sequencing and its use to decode the human genome, with a focus on “massivelyparallel sequencing” (often marketed as “next-generation” sequencing technology). Figure-2, also breaks down the same process described in the video.
 
 <figure>
-<href="/assets/images/w3pc_NGS.png"><img src="/assets/images/w3pc_NGS.png">
-Figure.2. "Breakdown of DNA sequencing steps (specifically next generationsequencing). In this approach instead of reading a long sequence of DNA one baseper at a time, the sequence is divided into many pieces (fragments) which are all read simultaneously". <a href="https://www.nature.com/articles/nature24286.pdf"> Source</a>
-</figure> 
+<a href="/assets/images/w3pc_NGS.png"><img src="/assets/images/w3pc_NGS.png"></a>
+</figure>
 
+**Figure.2.** "Breakdown of DNA sequencing steps (specifically next generationsequencing). In this approach instead of reading a long sequence of DNA one baseper at a time, the sequence is divided into many pieces (fragments) which are all read simultaneously". [Source](https://www.nature.com/articles/nature24286.pdf)
 
 During sequencing first, the genomic DNA (the DNA that we want to read) is broken into smaller pieces (fragmented). Then a synthetic linker sequence is added to the end ofthe fragments (adaptor) which helps the DNA fragments get attached to a surface on which the sequencing happens (flow cell). Next, the DNA fragments are separated inspace and read individually. Each fragment is amplified (thousands of copies of eachpiece is made) to make sure the correct sequence is detected. To actually read the fragments, pre-labeled nucleotides (nucleotides with color) and enzymes (that incorporate nucleotides into the fragments) are added to the flow cell. As each colored base pair is added to the fragments a new colorful spot is introduced. By taking images from the spots we are able to decode the sequence. Finally, the fragments are stitched together to reveal the original sequence of the genomic DNA. Here is an additional video that describes this process in even more detail [optional link](https://www.youtube.com/watch?v=fCd6B5HRaZ8).
 
