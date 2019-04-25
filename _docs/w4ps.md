@@ -57,9 +57,9 @@ Drawing from your experiences in class Friday,
 
 **Q.3.d.**  What audience and topic did your group recieve? 
 
-**Q.3.d.** Brainstorming report, based on the audience and topic combination - what mediums did you identify? (name 3 here)
+**Q.3.e.** Brainstorming report, based on the audience and topic combination - what mediums did you identify? (name 3 here)
 
-**Q.3.e.** Select one medium and further explore it individually (in a paragraph describe how the medium serves the audience for a given topic). 
+**Q.3.f.** Select one medium and further explore it individually (in a paragraph describe how the medium serves the audience for a given topic). 
 
 **Your questions** Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
