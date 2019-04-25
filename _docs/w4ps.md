@@ -12,7 +12,7 @@ last_modified_at: Feb.20.2019
   - Please turn in your completed problem sets as an electronic copy via Canvas. 
   - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations).
 
-## (Q1) Health and Flourishing (30 points) 
+## (Q1) Health and Flourishing (20 points) 
 
 Thinking back to the class on Monday, 
 
@@ -22,15 +22,13 @@ Thinking back to the case study on the production Artemisinin,
 
 **Q.1.b.** What were some of the major lessons from this case study? (2-3 bullet points)
 
-**Q.1.c.** If you were in charge of the Artemisinin project what would you have done differently? (2-3 bullet points)
-
-## (Q2) Brainstorming Report  (40 pts)
+## (Q2) Brainstorming Report  (45 pts)
 
 **Q.2.a.**  Did you show up on Friday? (Yes / No)
 
 **Q.2.b.**  Were you able to connect with your group? (Yes / No) Please share their names 
 
-Drawing from your experiences in class Friday, and given ongoing developments in tools that impact and enable bioengineering, and combined with the fact that most of the bioengineering hasn’t yet been imagined let alone realized ... 
+Drawing from your experiences in class Friday, 
 
 Provide a brief summary of the activity. 
 
@@ -42,7 +40,7 @@ Provide a brief summary of the activity.
 
 **Q.2.e.** Select one idea and further explore it (a paragraph, drawings, figures, and diagrams if necessary). 
 
-## (Q3) Fantastic Voyage  (30 Points)
+## (Q3) Fantastic Voyage  (35 Points)
 
 In the near future, you and your team are planning to remove an inoperable tumor from the brain of an important scientist.  You conclude that the only way that tumor can be destroyed is to remove it from the inside of the patient's own body. 
 You imagine a submarine that can be shrunk and will carry the team of experts and doctors.  Sadly, however, no shrink ray exists in this future ([Fantastic Voyage](https://www.imdb.com/title/tt0060397/)). 
