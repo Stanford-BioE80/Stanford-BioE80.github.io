@@ -65,8 +65,16 @@ Drawing from your experiences in class Friday,
 **Your questions or concerns** Do you have any unanswered questions or concerns (from this week, past weeks, or general BIOE) that you would like to share with us?
 
 # Final Project - Group Activity.1: Team Rules 
-### Due with PSET-4 (6 Points)
+
+**NOTES:** 
+
+ - Next Friday, with PSET-4 beginning of class.
+ - Team Rules is 6 points of your Final Project.
+ - Please turn in a single electronic copy of your Team Rules via Gradescope. 
+ 
+**Group Activity.1**
 Turn in a copy of your team rules. We expect to see five or more rules that you have all agreed upon.
+
 
 ## Extra learning (100% optional):
 
