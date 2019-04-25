@@ -1,5 +1,5 @@
 ---
-title: "Week 4 Problem sets"
+title: "Week 4 Problem Set"
 permalink: /docs/w4ps/
 last_modified_at: Feb.20.2019
 2018: Week 9
@@ -9,7 +9,7 @@ last_modified_at: Feb.20.2019
 
 **NOTES:** 
   - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
-  - Please turn in your completed problem sets as an electronic copy via Canvas. 
+  - Please turn in your completed problem sets as an electronic copy via Gradescope. 
   - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations).
 
 ## (Q1) Health and Flourishing (20 points) 
@@ -19,13 +19,13 @@ Thinking back to the class on Monday,
 **Q.1.a.** What factors contributed to the reduction of deaths due to pneumonia and tuberculosis from 1900s-2000s? 
 (2-3 bullet points)
 
-Thinking back to the case study on the production Artemisinin,
+Thinking back to the case study on the production of Artemisinin from Wednesday,
 
 **Q.1.b.** What were some of the major lessons from this case study? (2-3 bullet points)
 
 ## (Q2) Fantastic Voyage  (35 Points)
 
-In the near future, you and your team are planning to remove an inoperable tumor from the brain of an important scientist.  You conclude that the only way that tumor can be destroyed is to remove it from the inside of the patient's own body. 
+In the near future, you and your team are planning to remove an inoperable tumor from the brain of an important scientist.  You conclude that the only way that the tumor can be destroyed is to remove it from the inside of the patient's own body. 
 You imagine a submarine that can be shrunk and will carry the team of experts and doctors.  Sadly, however, no shrink ray exists in this future ([Fantastic Voyage](https://www.imdb.com/title/tt0060397/)). 
 
 Instead, you can begin to engineer living matter, microbes or patient's cells, that are already small. 
@@ -36,7 +36,7 @@ Briefly read the abstract of the paper titled [Acoustic reporter genes for nonin
 
 **Q.2.b.** According to the abstract what is the origin and purpose of the gas-filled protein nanostructures in nature?
 
-**Q.2.c.** Think about another application for this system? (2-3 sentences)
+**Q.2.c.** Think about and describe another application for this system. (2-3 sentences)
 
 Find another example (a research paper or a news article) demonstrating the progress and state of engineering of living matter, microbes or mammalian cells, to detect or combat diseases that are of interest to you.
 
@@ -50,22 +50,23 @@ This part must be completed individually
 
 **Q.3.a.**  Did you show up on Friday? (Yes / No)
 
-**Q.3.b.**  Were you able to connect with everyone in your group? (Yes / No) Please share their names 
+**Q.3.b.**  Were you able to connect with everyone in your group? (Yes / No) Please share their names. 
 
 Drawing from your experiences in class Friday, 
 
-**Q.3.c.**  What audience and topic did your group identify?
+**Q.3.c.**  What audience and topic did your group identify and write down on the index cards?
 
-**Q.3.d.**  What audience and topic did your group recieve? 
+**Q.3.d.**  What audience and topic did your group receive? 
 
 **Q.3.e.** Brainstorming report, based on the audience and topic combination - what mediums did you identify? (name 3 here)
 
-**Q.3.f.** Select one medium and further explore it individually (in a paragraph describe how the medium serves the audience for a given topic). 
+**Q.3.f.** Select two mediums from your group brainstorm list and further explore them individually. In a paragraph describe how the medium serves the audience for a given topic. 
 
-**Your questions** Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
+**Your questions or concerns** Do you have any unanswered questions or concerns (from this week, past weeks, or general BIOE) that you would like to share with us?
 
 # Final Project - Group Activity.1: Team Rules 
 ### Due with PSET-4 (6 Points)
+Turn in a copy of your team rules. We expect to see five or more rules that you have all agreed upon.
 
 ## Extra learning (100% optional):
 
