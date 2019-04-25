@@ -37,7 +37,11 @@ Briefly read the abstract of the paper titled [Acoustic reporter genes for nonin
 
 **Q.2.c.** Think about another application for this system? (2-3 sentences)
 
-**Q.2.d.** Find another example (a research paper or a news article) demonstrating the progress and state of engineering of living matter, microbes or mammalian cells, to detect or combat diseases that are of interest to you.  What is the main *claim* of your selected paper (link and 2-3 sentences) ? Why did you select this example ? (1-2 sentences)
+Find another example (a research paper or a news article) demonstrating the progress and state of engineering of living matter, microbes or mammalian cells, to detect or combat diseases that are of interest to you.
+
+**Q.2.d.** What is the main *claim* of your paper (link and 2-3 sentences)? 
+
+**Q.2.e.** Why did you select this example ? (1-2 sentences)
 
 ## (Q3) Brainstorming Report  (45 pts)
 
