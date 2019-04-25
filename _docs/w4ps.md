@@ -16,7 +16,8 @@ last_modified_at: Feb.20.2019
 
 Thinking back to the class on Monday, 
 
-**Q.1.a.** What factors (i.e., changes) contributed to the reduction of deaths due to pneumonia and tuberculosis from 1900s-2000s? (bullet points)
+**Q.1.a.** What factors contributed to the reduction of deaths due to pneumonia and tuberculosis from 1900s-2000s? 
+(bullet points)
 
 Thinking back to the case study on the production Artemisinin,
 
