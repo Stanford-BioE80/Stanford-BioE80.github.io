@@ -5,7 +5,7 @@ last_modified_at: Feb.20.2019
 2018: Week 9
 ---
 
-**DUE:** Next Friday, May 3, beginning of class.
+**DUE:** Next Friday (May 3) beginning of class.
 
 **NOTES:** 
   - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
