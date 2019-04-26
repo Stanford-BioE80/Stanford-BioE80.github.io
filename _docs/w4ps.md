@@ -78,22 +78,4 @@ Turn in a copy of your team rules. We expect to see five or more rules that you 
 
 ## Extra learning (100% optional):
 
-### (Q4) Biodefense (0 points) 
 
-Last year the Center for Health Security at Johns Hopkins University ran a simulated exercise exploring and gaining experience with how our current society would respond to a new virus.  They named exercise [CladeX](http://www.centerforhealthsecurity.org/our-work/events/2018_clade_x_exercise/). In such exercises, prior government officials with tremendous real-world expertise role play how the government might behave and respond to anemerging situation. Get a piece of note paper and load the video recording of their exercise here: [source](https://youtu.be/sJ1x8SlNxj0) 
-
-First, watch from 7-11’ to get a sense of what is going on from the simulated news coverage.
-
-Second, watch the person playing the part of the US National Security Council from 11’ to 14’.Take notes regarding the facts and figures related to the infection, its latency, its consequences,how long it will take to develop a vaccine, etc.
-
-Third, watch the person playing the part of the expert from the Centers for Disease Control &Prevention (CDC) from 14’ to 15:30’ to get additional context.
-
-*NOTE:* You do not need to watch the entire exercise (hours of video) to proceed.  Answer thefollowing based on the facts and figures gleaned from the <10’ of introductory video.
-
-Develop back-of-the-envelope estimates for the following:
-
-4.a. How many people will be infected by the virus?  Make and note whatever simplifyingassumptions you find useful (20 points).
-
-4.b. How many people will die from the virus?  Make and note whatever simplifyingassumptions you find useful (20 points).
-
-4.c. Based on your experience calculating your estimates, what one intervention would youwish for and why?  (Max 100 words, 10 points).
