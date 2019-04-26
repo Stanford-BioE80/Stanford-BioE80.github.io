@@ -64,18 +64,28 @@ Drawing from your experiences in class Friday,
 
 **Your questions or concerns** Do you have any unanswered questions or concerns (from this week, past weeks, or general BIOE) that you would like to share with us?
 
-# Final Project - Group Activity.1: Team Rules 
+# Final Project - Group Activity.1 
 
 **NOTES:** 
 
- - Next Friday, with PSET-4 beginning of class.
+ - Due: Next Friday (May 03), with PSET-4 beginning of class.
+ - Include your group number and names of your group members.
  - Team Rules is 6 points of your Final Project.
+ - Brainstorm is 30 points of your Final Project.
  - Please turn in a single electronic copy of your Team Rules via Gradescope. 
  
-**Group Activity.1**
-Turn in a copy of your team rules. We expect to see five or more rules that you have all agreed upon.
 
+**Q.1.** What is your group number?  
 
-## Extra learning (100% optional):
+**Q.2.** Turn in a copy of your team rules. We expect to see between 6 and 10 rules (5 rules < # rules < 11 rules) that you have all agreed upon. (6 points)
 
+**Q.3.** Brainstorm report: As a group for your project brainstorm: topics, audiences, and methods. 
+Here is our rubric for grading the brainstorming activity:
 
+- Topic (10 points),  2 point per 10 ideas
+
+- Audience (10 points),  2 point per 10 ideas
+
+- Method (10 points), 2 point per 10 ideas
+
+Next activity we will work on evaluating the ideas as part of a group activity /
