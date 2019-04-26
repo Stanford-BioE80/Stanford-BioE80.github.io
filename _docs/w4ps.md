@@ -88,4 +88,4 @@ Here is our rubric for grading the brainstorming activity:
 
 - Method (10 points), 2 point per 10 ideas
 
-Next activity we will work on evaluating the ideas as part of a group activity /
+Next week we will work on evaluating the ideas.
