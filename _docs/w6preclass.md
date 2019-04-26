@@ -169,3 +169,57 @@ This report fed into a US federal government policy making process that resulted
 **Q7. Do you imagine that the DNA sequence screening guidelines developed forcommercial DNA synthesis ~10 years ago will be sufficient to guard againstmal-intentioned actors 10 years from now?**
 
 **Q8. Is it easier to imagine a negative change or a positive change?  E.g., is it easier to imagine a new way to destroy the world or a positive improvement tomodern society?** 
+
+
+## Preclass Reading for Fridy  
+
+### Meet Your Microbes!
+
+After finishing this activity:
+
+**Goal-1:** You will have been introduced to basic methods for cultivating andcategorizing 
+microbial life in the lab; it turns out we can only cultivate ~1% of microbes found in nature in the lab 
+(i.e., we can’t grow most microbes underlaboratory conditions, at least not yet).
+
+**Goal-2:** You have been introduced to the diversity of the life (microbiome) that
+live in and on you (are you?). And, begin to describe the role that the microbiome plays in your health and well being.
+
+**Goal-3:** By observing this diversity of microbial phenotypes you will have theopportunity to appreciate the rich diversity and engineering potential that livingmatter provides.
+
+<figure>
+<a href="/assets/images/w4pc_S.Chimileski Biofilm_pseudomonas aeruginosa biofilm.gif"><img src="/assets/images/w4pc_S.Chimileski Biofilm_pseudomonas aeruginosa biofilm.gif"></a>
+</figure>
+
+
+**Figure-1** biofilm development via a *Pseudomonas aeruginosa* colony with the extracellularmatrix, material released by the cells, stained red and pink by Scott Chimileski. [Source](https://www.scottchimileskiphotography.com/Creative-Commons/) - licensed under a Creative Commons non-commercial use. Make sure to visit his [website](https://www.scottchimileskiphotography.com/Portfolio/) for additional photos.
+
+In an earlier activity we used a Foldscope to observe and explore the world around us,either as explorers or makers looking for parts and inspiration. In today’s activity we willexplore the *microbiome* that lives on and within us.
+The microbiome is the vast collection of bacteria, viruses, fungi, and other microbes thatshare our bodies (additional [link](https://www.nature.com/collections/stkpgwjvvk/content/content). Depending on their context they can play a positive
+or a negative role in our health and well being. For example, they can cause orinfluence non-communicable diseases. Engineering the microbiome is considered by some respected academics to be part of the the future of medicine. For example,researchers at Cornell recently engineered a gut microbe to address aspects of diabetes 
+(see [here](https://www.ncbi.nlm.nih.gov/pubmed/25626737)).
+
+**Q.1. What do you think are various methods that we can use to study themicrobiome (i.e., all bacteria in and on you)? How can we tell what microbes arepresent in the microbiome?**
+
+Thinking back to observing via your Foldscope, looking at microbes is certainly onemethod to study microbes. 
+Figure-2 (below) are photographs of multiplebacteria and fungal colonies. You may notice the different colors, shapes, sizes, andstructures of these colonies. Some of the colonies have a smooth morphology whileothers have a more folded surface. You may begin to ask what are the advantages of having a smooth, or folded, or a rough surface. You may also use this diversity of properties as a possible approach to discern various microorganisms from one another.  However there is one important caveat to keep in mind, the diversity of microbial worldis incredible but we can only cultivate for study approximately 1% of the microbes thatlive on you. This is in part because many microbes are highly “social” and dwell in andamong communities of other microbes. We still have much to learn about the 1% we can cultivate, with plenty more to learn from the 99% we can’t yet grow.
+
+<figure>
+<a href="/assets/images/w4pc_meetYourMicrobe.png"><img src="/assets/images/w4pc_meetYourMicrobe.png"></a>
+</figure>
+
+**Figure-2**  Photographs of multiple bacteria and fungal colonies.  It is possible to identify bacterial or fungal species by the shape, color, and structure of the colonies that they form. 
+
+
+**Q.2. If we cannot cultivate and grow many components of the microbiome inisolation in the lab, how can we tell what is present in each context? Whatcontemporary technologies have enabled the study and engineering of themicrobiome?**
+
+Think about your own answer and then visit the following link to begin to answer the above question [Scientists Unveil New ‘Tree of Life’](https://www.nytimes.com/2016/04/12/science/scientists-unveil-new-tree-of-life.html)
+
+
+While the plate assays (growing bacteria on defined media) and looking at growth andphenotypes, may seem simple. They have and continue to play an incredibly powerfulrole in the discovery and development of biology as well as in the pursuit of bioengineering.[source](http://science.sciencemag.org/content/353/6304/1147) demonstrates a creative and unique plateassay called MEGA-plate (“mega” since the plate is **2x4 feet!**) to demonstrate and study bacterial evolution. MEGA plate was used to study the evolution andemergence of antibiotic resistance over time in bacterial populations. Make sure to watch this [video](https://www.youtube.com/watch?time_continue=7&v=yybsSqcB7mE).
+
+
+### What Next
+During the class, you will use the plates that you prepared on Wednesday toexamine and classifying the microbes 
+that grew on your plates. To prepare for this make sure to take a look at the first page of this 
+[link](http://delrio.dcccd.edu/jreynolds/microbiology/2421/lab_manual/colony_morph.pdf)
+
