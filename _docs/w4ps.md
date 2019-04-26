@@ -77,9 +77,8 @@ Drawing from your experiences in class Friday,
  - Include your group number and names of your group members.
  - Team Rules is 6 points of your Final Project.
  - Brainstorm is 30 points of your Final Project.
- - Please turn in a single electronic copy of your Team Rules via Gradescope. 
+ - Please turn in a single electronic copy of your **Group Activity** via Gradescope. 
  
-
 **Q.1.** What is your group number?  
 
 **Q.2.** Turn in a copy of your team rules. We expect to see between 6 and 10 rules (5 rules < # rules < 11 rules) that you have all agreed upon. (6 points)
