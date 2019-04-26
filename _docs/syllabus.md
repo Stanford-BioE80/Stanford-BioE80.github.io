@@ -124,7 +124,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ------------ | ----------- | -------|
 | Mon 22 April | 320-105     | What will you die of?|
 | Wed 24 April | 320-105    | Health in 2030 |
-| Fri 26 April | SC 112/132 | Brainstorming Needs (Project Activity) **(PSET 4)** |
+| Fri 26 April | 320-105| Brainstorming (Project Activity) **(PSET 4)** |
 
 **Lead Instructor**:  Jan
 
@@ -136,7 +136,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ----------- | ----------- | -------|
 | Mon 29 April| 320-105     | What is evolution from an engineering perspective?|
 | Wed 01 May  | 320-105     | How to use and change evolution? |
-| Fri 03 May  | SC 112/132  | Meet your Microbes **(PSET 5)** |
+| Fri 03 May  | SC 112/132  |  Project Activity **(PSET 5)** |
 
 **Lead Instructor**:  Jan
 
@@ -148,7 +148,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ----------- | ----------- | -------|
 | Mon 06 May  | 320-105     | How much better can DNA synthesis get? So what? |
 | Wed 08 May  | 320-105     | What happens as genetic material becomes equivalent to information? |
-| Fri 10 May  | SC 112/132  | Project Activity **(PSET 6)** |
+| Fri 10 May  | SC 112/132  | Meet your Microbes **(PSET 6)** |
 
  **Lead Instructor**:  Drew
 
