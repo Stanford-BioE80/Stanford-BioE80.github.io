@@ -58,5 +58,5 @@ Thanks to a long-term evolution experiment [source](http://myxo.css.msu.edu/) it
 
 **Q.4.c.** Given your answer from 4.b and the size of *E.coli*'s genome, how much of the overnight culture do you need to have every single nonlethal base pair substitution in culture? (explain your answer in 2-3 sentences)
 
-Note: Question-4 is based on an entry form (Cell Biology by the Numbers)[http://book.bionumbers.org/what-is-the-mutation-rate-during-genome-replication/]. The answers are available from the website. However, we expect you to attempt the question on your own without looking at the website.   
+Note: Question-4 is based on an entry form [*Cell Biology by the Numbers*](http://book.bionumbers.org/what-is-the-mutation-rate-during-genome-replication/). The answers are available from the website. However, we expect you to attempt the question on your own without looking at the website.   
 
