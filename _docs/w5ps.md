@@ -44,14 +44,4 @@ Imagine that we could forever remove the gene that causes *90% of cases* of CF b
 **Q.3.b.** Who should get to decide if we would permanently delete the gene from the gene pool? If you could permanently remove the gene what would you choose? (2-3 sentences) 
 (In this open-ended question we are looking for your reasoning)
 
-## (Q4) Meet your Microbe (40 pts)
 
-On Wednesday and Friday of this week you cultivated, grew, and examined the microbes from your skin.
-
-**4.a.** Describe in your own words what is the microbiome, and provide a current example of study of the microbiome (include references if needed) (3-4 sentences) 
-
-**4.b.** Name 2 key methods used to study the microbiome? (Bullet points)
-
-**Colony Morphology** Make sure to include a picture and figure caption
-
-**4.c.** Examine the morphology of the colonies on your plates. Describe as comprehensively as possible the ONE most interesting colony at your table (you decide what’s interesting!). What is the size, shape, and shape of the colony? What is thenarrowest classification you can make of this colony?  Max 100 words)
