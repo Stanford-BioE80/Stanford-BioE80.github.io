@@ -1,5 +1,5 @@
 ---
-title: "Week 6 Problem Set"
+title: "Week 6 Preclass"
 permalink: /docs/w6preclass/
 last_modified_at: Feb.20.2019
 toc: true
