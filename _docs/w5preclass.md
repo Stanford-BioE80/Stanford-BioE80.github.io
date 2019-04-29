@@ -103,7 +103,6 @@ Note the highlighted lines from the abstract.
 
 **Q.6. What is the role of evolution (as an algorithm) in this example?**
 
-**Q.7. Thinking back to week-3, DNA read/write, what is the role of synthesis and sequencing in realizing this example?**
 
 
 ## Summary
