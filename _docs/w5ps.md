@@ -44,4 +44,19 @@ Imagine that we could forever remove the gene that causes *90% of cases* of CF b
 **Q.3.b.** Who should get to decide if we would permanently delete the gene from the gene pool? If you could permanently remove the gene what would you choose? (2-3 sentences) 
 (In this open-ended question we are looking for your reasoning)
 
+**Your questions**
+Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
+
+## Extra learning (100% optional):
+
+### (Q4) Mutation Rate and Genome Replication 
+Thanks to a long-term evolution experiment [source](http://myxo.css.msu.edu/) it is possible to estimate that *E. coli* has a mutation rate on the order of 10^-10 mutations/bp/replication [source](https://bionumbers.hms.harvard.edu/bionumber.aspx?&id=105813).
+
+**Q.4.a.** Assume that *E. coli* has a genome size of 5×10^6 bps. What is the rate of mutation/replication?
+
+**Q.4.b.** Assume there are 10^10  cells in a 5 mL overnight culture of *E. coli* (i.e., 10^10 genomes are replicating during the final doubling).  Given the rate of mutatuion/replication (from 4.a), how many novel mutations do you expect inside the overnight culture?
+
+**Q.4.c.** Given your answer from 4.b and the size of *E.coli*'s genome, how much of the overnight culture do you need to have every single nonlethal base pair substitution in culture? (explain your answer in 2-3 sentences)
+
+Note: Question-4 is based on an entry form (*Cell Biology by the Numbers*)[http://book.bionumbers.org/what-is-the-mutation-rate-during-genome-replication/]. The answers are available from the website. However, we expect you to attempt the question on your own without looking at the website.   
 
