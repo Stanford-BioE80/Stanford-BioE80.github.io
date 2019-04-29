@@ -106,6 +106,18 @@ Please include quantitative reasoning in your answer.  (4 pts)
 4.d. Where would you use an Illumina sequencing machine instead of a minION sequencingmachine? 
 and vice versa? (4 pts)
 
+## (Q5) Meet your Microbe (40 pts)
+
+On Wednesday and Friday of this week you cultivated, grew, and examined the microbes from your skin.
+
+**5.a.** Describe in your own words what is the microbiome, and provide a current example of study of the microbiome (include references if needed) (3-4 sentences) 
+
+**5.b.** Name 2 key methods used to study the microbiome? (Bullet points)
+
+**Colony Morphology** Make sure to include a picture and figure caption
+
+**5.c.** Examine the morphology of the colonies on your plates. Describe as comprehensively as possible the ONE most interesting colony at your table (you decide what’s interesting!). What is the size, shape, and shape of the colony? What is thenarrowest classification you can make of this colony?  Max 100 words)
+
 ### (EXTRA CREDIT) Scavenger hunt: Find some “artificial stone” and take a selfie (2 pts)
 
 
