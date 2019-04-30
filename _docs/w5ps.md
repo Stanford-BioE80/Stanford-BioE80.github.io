@@ -24,9 +24,10 @@ phage (i.e., bacterial viruses [The Bacteriophage Video](https://www.youtube.com
 
 ## (Q2) Mutation Rate and Genome Replication (20 points)
 
-Thanks to a long-term evolution experiment [source](http://myxo.css.msu.edu/) it is possible to estimate that *E. coli* has a mutation rate on the order of 10^-10 (mutations/bps)/replication [source](https://bionumbers.hms.harvard.edu/bionumber.aspx?&id=105813).
+Thanks to a long-term evolution experiment [source](http://myxo.css.msu.edu/) it is possible to estimate that *E. coli* has a mutation rate on the order of 10^-10 (mutations)/(base x replication) [source](https://bionumbers.hms.harvard.edu/bionumber.aspx?&id=105813).
 
-**Q.2.a.** Assume that *E. coli* has a genome size of 5×10^6 base-pairs (bps). What is the rate of mutation/replication for *E. coli*?
+**Q.2.a.** Assume that *E. coli* has a genome size of 10^7 bases per genome. What is the rate of 
+mutations/genome replication for *E. coli*?
 
 **Q.2.b.** Assume there are 10^10  cells in a 5 mL overnight culture of *E. coli* (i.e., 10^10 genomes are replicating during the final doubling).  Given the rate of mutatuion/replication (from 2.a), how many novel mutations do you expect inside the overnight culture?
 
