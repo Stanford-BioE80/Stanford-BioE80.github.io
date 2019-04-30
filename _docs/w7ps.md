@@ -51,23 +51,12 @@ Extra resources:
 2. http://clinchem.aaccjnls.org/content/48/12/2270.long#sec-18
 3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3714061/
 
-
-## (Q3) Artemisinin (15 Points)
-
-Think back to the in class case study on the production of the key ingredient for the treatment ofmalaria, Artemisinin (Additional information here: [source-1](https://www.nature.com/articles/nrmicro3240), [source-2](http://www.nature.com.stanford.idm.oclc.org/articles/nature12051)
-
-3.a. What were some of the key lessons from this example? (2-3 bullet points)
-
-3.b. Why was the project not successful?(bullet points)
-
-3.c. If you were in charge of this project what would you have done differently? (2-3 sentences)
-
-## (Q4) Gene Drive (30 points)
+## (Q3) Gene Drive (30 points)
 
 As we discussed on Friday because gene drives could impact natural ecosystems they arecurrently developed under strict biosafety controls (e.g., physical containment). Publicdiscussions on whether, how, and when it might be appropriate to release a gene drive into thewild are still ongoing. Here, you will consider examples that can be used to examine thepotential impact of releasing a gene drive into wild ecosystems.
 
-4.a. In the real world, gene drives might not always work correctly.  For example, in a recentexperiment, penetrance of a gene drive in a laboratory population of Drosophila (aka, fruit flies) was only 94.5%. Why might a gene drive might not always work perfectly well? (bullet points)
+3.a. In the real world, gene drives might not always work correctly.  For example, in a recentexperiment, penetrance of a gene drive in a laboratory population of Drosophila (aka, fruit flies) was only 94.5%. Why might a gene drive might not always work perfectly well? (bullet points)
 
-4.b. Would there be any practical difference between the impact of a gene drive on a populationof wild rabbits versus a population of long-lived tortoises? Why or why not?
+3.b. Would there be any practical difference between the impact of a gene drive on a populationof wild rabbits versus a population of long-lived tortoises? Why or why not?
 
-4.c. Please consider the “Pink Chicken Project” via https://pinkchickenproject.com/. Did you order an egg? (Y/N).  If you wished to stop this project what would you do? (50 words)
+3.c. Please consider the “Pink Chicken Project” via https://pinkchickenproject.com/. Did you order an egg? (Y/N).  If you wished to stop this project what would you do? (50 words)
