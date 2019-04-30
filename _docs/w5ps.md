@@ -28,9 +28,9 @@ Thanks to a long-term evolution experiment [source](http://myxo.css.msu.edu/) it
 
 **Q.2.a.** Assume that *E. coli* has a genome size of 5×10^6 base-pairs (bps). What is the rate of mutation/replication for *E. coli*?
 
-**Q.2.b.** Assume there are 10^10  cells in a 5 mL overnight culture of *E. coli* (i.e., 10^10 genomes are replicating during the final doubling).  Given the rate of mutatuion/replication (from 4.a), how many novel mutations do you expect inside the overnight culture?
+**Q.2.b.** Assume there are 10^10  cells in a 5 mL overnight culture of *E. coli* (i.e., 10^10 genomes are replicating during the final doubling).  Given the rate of mutatuion/replication (from 2.a), how many novel mutations do you expect inside the overnight culture?
 
-**Q.2.c.** Given your answer from 2.b and the size of *E.coli*'s genome, is 5mL of the overnight culture sufficent to ensure that you have every single nonlethal base pair substitution in culture? (Yes/ No then explain your answer in 2-3 sentences)
+**Q.2.c.** Given your answer from 2.b and the size of *E.coli*'s genome, is 5mL of the overnight culture sufficent to ensure that you have every single nonlethal base pair substitution in culture? (Yes  / No, Explain your answer in 2-3 sentences)
 
 Note: Question-2 is based on an entry form [*Cell Biology by the Numbers*](http://book.bionumbers.org/what-is-the-mutation-rate-during-genome-replication/). Please attempt the question on your own first without looking at the website.   
 
