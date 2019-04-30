@@ -7,7 +7,7 @@ permalink: /docs/w5ps/
 **NOTES:** 
   - All BIOE.80 problem sets must be completed individually unless plainly noted opetherwise.
   - Please turn in your completed problem sets as an electronic copy via **Gradescope**. 
-  - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations). 
+  - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations, units, and figure captions). 
 
 **GOALS:** Reflect on the utility of evolution both as an algorithm and as a service.
 
@@ -24,13 +24,13 @@ phage (i.e., bacterial viruses [The Bacteriophage Video](https://www.youtube.com
 
 ## (Q2) Mutation Rate and Genome Replication (20 points)
 
-Thanks to a long-term evolution experiment [source](http://myxo.css.msu.edu/) it is possible to estimate that *E. coli* has a mutation rate on the order of 10^-10 mutations/bp/replication [source](https://bionumbers.hms.harvard.edu/bionumber.aspx?&id=105813).
+Thanks to a long-term evolution experiment [source](http://myxo.css.msu.edu/) it is possible to estimate that *E. coli* has a mutation rate on the order of 10^-10 (mutations/bps)/replication [source](https://bionumbers.hms.harvard.edu/bionumber.aspx?&id=105813).
 
 **Q.2.a.** Assume that *E. coli* has a genome size of 5×10^6 base-pairs (bps). What is the rate of mutation/replication for *E. coli*?
 
 **Q.2.b.** Assume there are 10^10  cells in a 5 mL overnight culture of *E. coli* (i.e., 10^10 genomes are replicating during the final doubling).  Given the rate of mutatuion/replication (from 4.a), how many novel mutations do you expect inside the overnight culture?
 
-**Q.2.c.** Given your answer from 2.b and the size of *E.coli*'s genome, is 5mL of the overnight culture enough to ensure that you have every single nonlethal base pair substitution in culture? (Yes/ No then explain your answer in 2-3 sentences)
+**Q.2.c.** Given your answer from 2.b and the size of *E.coli*'s genome, is 5mL of the overnight culture sufficent to ensure that you have every single nonlethal base pair substitution in culture? (Yes/ No then explain your answer in 2-3 sentences)
 
 Note: Question-2 is based on an entry form [*Cell Biology by the Numbers*](http://book.bionumbers.org/what-is-the-mutation-rate-during-genome-replication/). Please attempt the question on your own first without looking at the website.   
 
