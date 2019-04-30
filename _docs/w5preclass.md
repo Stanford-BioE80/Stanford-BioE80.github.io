@@ -205,3 +205,10 @@ Here is the abstract from the [paper](http://science.sciencemag.org/content/353/
 *Useful Additional Resource:* 
 Review the key Takeaways from: 
 [Methods for the directed evolution of proteins](https://www.nature.com/articles/nrg3927)
+
+
+## Preclass for Friday 
+
+Make sure to visit the following resource ahead of the class on Friday:
+
+[I like, I wish, What if](https://dschool-old.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
