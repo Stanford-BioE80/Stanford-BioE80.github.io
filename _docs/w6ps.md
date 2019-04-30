@@ -71,15 +71,17 @@ Helpful resources:[link1](https://www.nature.com/news/how-dna-could-store-all-th
 
 ## (Q3) Meet your Microbe (40 pts)
 
-On Wednesday and Friday of this week you cultivated, grew, and examined the microbes from your skin.
+On Wednesday and Friday of this week, you cultivated, grew, and examined the microbes from your skin.
 
-**3.a.** Describe in your own words what is the microbiome, and provide a current example of study of the microbiome (include references if needed) (3-4 sentences) 
+**3.a.** Describe in your own words what is microbiome and provide a current research article of the microbiome (include a references link)?  What is the key claim of your paper? (3-4 sentences) 
 
 **3.b.** Name 2 key methods used to study the microbiome? (Bullet points)
 
 **Colony Morphology** Make sure to include a picture and figure caption
 
-**3.c.** Examine the morphology of the colonies on your plates. Describe as comprehensively as possible the ONE most interesting colony at your table (you decide what’s interesting!). What is the size, shape, and shape of the colony? What is thenarrowest classification you can make of this colony?  Max 100 words)
+**3.c.** Examine the morphology of the colonies on a plate from your table (your plate or a neighbor's  plate). 
+Describe as comprehensively as possible the ONE most interesting colony at your table (you decide what’s interesting!). 
+What is the size, shape, and shape of the colony? What is the narrowest classification you can make of this colony?  (4-5 sentences)
 
 ### (EXTRA CREDIT) Scavenger hunt: Find some “artificial stone” and take a selfie (2 pts)
 
