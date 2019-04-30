@@ -3,37 +3,39 @@ title: "Week 6 PSET"
 permalink: /docs/w6ps/
 2018: 
 ---
-***DUE:** Next Friday, beginning of class.
+
+**DUE:** Next Friday (May ) beginning of class.
 
 **NOTES:** 
   - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
-  - Please turn in your completed problem sets as an electronic copy via Canvas. 
+  - Please turn in your completed problem sets as an electronic copy via Gradescope. 
   - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations).
 
 **GOAL:** Welcome to PSET-6. This problem set will help you further develop your ability to
-describe how DNA read/write work. Coupled with this you will examine the consequences of
-non-trivial *quantitative pacing* in the development of these technologies. 
-Finally, you will examine the consequence of  interconvertability of matter and information as DNA read/write
-tools improve and discuss the *qualitative changes* that emerge.
+describe how DNA read and write work. Coupled with this you will examine the consequences of
+non-trivial *quantitative pacing* in the development of these technologies. Finally, you will examine the consequence of  interconvertability of matter and information as DNA read and write tools improve and discuss the *qualitative changes* that emerge.
 
 
-## (Q2) (Nature + Nurture) or (Fab a Family) (20 pts)
+## (Q1) (Nature + Nurture) or (Fab a Family) (30 pts)
 
-As we discussed briefly in class, over the past 12 years the price of synthesizing genes has dropped from $4 to $0.04 
+Over the past 12 years the price of synthesizing genes has dropped from $4 to $0.04 
 per base pair; presume the future price of DNA synthesis will continueto drop two fold every two years. 
+
 Meanwhile, Stanford’s undergraduate tuition is approximately $50,000 per year up from $25,000 in 2000.  
-Presume Stanford’s tuition will continue to doubleevery 15 years.
+Presume Stanford’s tuition will continue to double every 15 years.
 
-2.a. If a human genome is 4 billion base pairs long then when will the cost of synthesizing theDNA encoding an entire human genome be roughly the same as the tuition cost associated with attending Stanford for one year? Hint: use the facts given, keep your math simple, and write itout. An approximate answer is fine. (Show your work)
+**Q.1.a.** If a human genome is 4 billion base pairs long then when will the cost of synthesizing the DNA encoding an entire human genome be roughly the same as the tuition cost associated with attending Stanford for one year? 
 
-2.b. What would be your estimate if the price of synthesizing genes continue to drop two foldevery 2.5 years instead of 2 years (i.e., only a 6-month longer doubling time). An approximateanswer is fine. 
-What is the percent difference between your two estimations? 
+Hint: use the facts given. Keep your math simple, and write out the equations (i.e., show your work). 
+An approximate answer is fine. 
 
-2.c. Given your answer from part (a) presume that you could then design, build, and bring to lifea human encoded by a genome that you design (e.g., with any and all mutations that you andyour partner choose).  As potential parents would you prefer to spend your savings on collegetuition for a natural child or on realizing a genetically engineered offspring who then has to maketheir own way?
+**Q.1.b.**  What would be your estimate if the price of synthesizing genes continue to drop two foldevery 2.5 years instead of 2 years (i.e., only a 6-month longer doubling time). An approximateanswer is fine. 
 
-## (Q3) DNA as a Storage Medium (20 pts)
+**Q.1.c.** Given your answer from part (a) presume that you could then design, build, and bring to life a human encoded by a genome that you design (e.g., with any and all mutations that you andyour partner choose).  As potential parents would you prefer to spend your savings on collegetuition for a natural child or on realizing a genetically engineered offspring who then has to make  their own way? Why? (2-3 sentences) 
 
-The US government has been using an underground salt mine in Pennsylvania as a long termstorage facility for physical documents, primarily retirement related papers. According to theWashington Post, in this facility approximately 1000 employees pass thousands of case filesfrom cavern to cavern and then type in retirees’ personal data, one line at a time. Basicdocument retrieval involves a forklift and takes days. Given the trends in DNA read and write,consider using DNA as an alternative storage medium for these documents.
+## (Q2) DNA as a Storage Medium (30 pts)
+
+The US government has been using an underground salt mine in Pennsylvania as a long termstorage facility for physical documents, primarily retirement related papers. According to theWashington Post, in this facility approximately 1000 employees pass thousands of case filesfrom cavern to cavern and then type in retirees’ personal data, one line at a time. Basic document retrieval involves a forklift and takes days. Given the trends in DNA read and write, consider using DNA as an alternative storage medium for these documents.
 
 Helpful numbers:
 
@@ -43,27 +45,27 @@ Letters per cubic meter of typical government document = 10^9 letters/ m^3
 
 Volume of a DNA base pair ~ 10^-27 m^3
 
-Please round or simplify whenever convenient.
+Please round or simplify whenever convenient. Please show your work and include units. 
 
-3.a. Since DNA has only 4 bases, but English has 26 letters, you will somehow have to mapletters to bases. Briefly specify a simple encoding scheme for doing that. You *do not* have togive a letter to DNA mapping for all letters. 
-The first few will do the trick. (4 pts)
+**2.a.** Since DNA has only 4 bases, but English has 26 letters, you will somehow have to map letters to bases. Briefly specify a simple encoding scheme for doing that. You *do not* have to give a letter to DNA mapping for all letters. 
+The first few will do the trick. 
 
-3.b. Using your letter to DNA mapping, how many total base pairs of DNA would be needed tostore the archival contents of the salt mine; assume that the salt mine is completely packed withdocuments. (3 pts)
+**2.b.** Using your letter to DNA mapping, how many total base pairs of DNA would be needed to  store the archival contents of the salt mine; assume that the salt mine is completely packed withdocuments. 
 
-3.c. What would be the physical volume of this DNA? (2 pts)
+**2.c.** What would be the physical volume of this DNA? 
 
-3.d. Will the DNA fit into a thimble? (1 pt)        Yes / No
+**2.d.** Will the DNA fit into a thimble?  Yes / No
 
-3.e. How expensive would it be to print this DNA (with cost ~1 cents/base) (2 pts)
+**2.e.**  How expensive would it be to print this DNA (with cost ~1 cents/base) 
 
-3.f. Give two major advantages of using DNA as storage medium. (2 pts) (bullet points)
+**2.f.** Give two major advantages of using DNA as storage medium. (bullet points)
 
-3.g. Give two major disadvantages of using DNA as storage medium. (2 pts) (bullet points)
+**2.g.**  Give two major disadvantages of using DNA as storage medium. (bullet points)
 
-3.h. How would you maintain and replicate (copy) this library (2 pts) (bullet points)
+**2.h.** How would you maintain and replicate (copy) this library. (bullet points)
 
-3.i. Can information be stored in the DNA in a living organism as opposed to DNA stored in afrozen tube (-80 freezer). 
-If yes, what are one advantage and one disadvantage of using live cell storage? (2 pts)
+**2.i.** Can information be stored in the DNA in a living organism as opposed to DNA stored in afrozen tube (-80 freezer). 
+If yes, what are one advantage and one disadvantage of using live cell storage? 
 
 Helpful resources:[link1](https://www.nature.com/news/how-dna-could-store-all-the-world-s-data-1.20496), [link2](https://wyss.harvard.edu/taking-cells-out-to-the-movies-with-new-crispr-technology/)
 
