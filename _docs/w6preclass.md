@@ -219,7 +219,7 @@ While the plate assays (growing bacteria on defined media) and looking at growth
 
 
 ### What Next
-During the class, you will use the plates that you prepared on Wednesday toexamine and classifying the microbes 
+During the class, you will use the plates that you prepared on Wednesday to examine and classifying the microbes 
 that grew on your plates. To prepare for this make sure to take a look at the first page of this 
 [link](http://delrio.dcccd.edu/jreynolds/microbiology/2421/lab_manual/colony_morph.pdf)
 
