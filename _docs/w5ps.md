@@ -11,16 +11,16 @@ permalink: /docs/w5ps/
 
 **GOALS:** Reflect on the utility of evolution both as an algorithm and as a service.
 
-## (Q1) Microbial Resistance (20 points)
+## (Q1) Microbial Resistance (15 points)
 
 According to recent news reports, a patient with a multi-drug resistant bacterial infection was cured by injecting 
 phage (i.e., bacterial viruses [The Bacteriophage Video](https://www.youtube.com/watch?v=YI3tsmFsrOg)) directly into the bacterial cyst inside thepatient’s abdomen. The patient was ultimately cured. The treatment, however, was not easy...
 
 “The learning curve was steep and unmarked. There were bouts of sepsis — a life-threatening omplication caused by massive infection. Despite improvement, (the) patient’s conditionremained precarious. Doctors discovered that the bacterium eventually developed resistance to the phage, what Schooley would characterize as “the recurring Darwinian dance,” but the team compensated by continually tweaking treatment with new phage strains — some that had derived from sewage — and antibiotics.” [source](https://health.ucsd.edu/news/releases/Pages/2017-04-25-novel-phage-therapy-saves-patient-with-multidrug-resistant-bacterial-infection.aspx)
 
-**Q.1.a.** From the above text and thinking back to what you learned about evolution, what are the challenges associated with implementing Phage therapy? (bullet points)
+**Q.1.a.** From the above text and thinking back to what you learned about evolution, what are the challenges associated with implementing Phage therapy? 
 
-**Q.1.b.**  You are the director of a new “Phage Therapy Institute”. Specify three general research directions you could pursue to make phage therapeutic approach easier, faster,or safer. (What tools and technologies you need, what questions  you have to address) (3-4 sentences)
+**Q.1.b.**  You are the director of a new “Phage Therapy Institute”. Specify three general research directions you could pursue to make phage therapeutic approach easier, faster,or safer. (What tools and technologies you need, what questions  you have to address) (bullet points)
 
 ## (Q2) Mutation Rate and Genome Replication (20 points)
 
@@ -32,7 +32,7 @@ Thanks to a long-term evolution experiment [source](http://myxo.css.msu.edu/) it
 
 **Q.2.c.** Given your answer from 2.b and the size of *E.coli*'s genome, is 5mL of the overnight culture sufficent to ensure that you have every single nonlethal base pair substitution in culture? (Yes  / No, Explain your answer in 2-3 sentences)
 
-Note: Question-2 is based on an entry form [*Cell Biology by the Numbers*](http://book.bionumbers.org/what-is-the-mutation-rate-during-genome-replication/). Please attempt the question on your own first without looking at the website.   
+Note: Question-2 is based on an entry form [*Cell Biology by the Numbers*](http://book.bionumbers.org/what-is-the-mutation-rate-during-genome-replication/).    
 
 **Your questions**
 Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
