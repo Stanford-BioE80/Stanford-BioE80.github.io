@@ -34,12 +34,26 @@ Thanks to a long-term evolution [experiment](http://myxo.css.msu.edu/) it is pos
 
 Note: Question-2 is based on an entry form [*Cell Biology by the Numbers*](http://book.bionumbers.org/what-is-the-mutation-rate-during-genome-replication/).    
 
+## (Q3) Brainstorming Report  (20 pts)
+
+This part must be completed individually
+
+**Q.3.a.**  Did you show up on Friday? (Yes / No)
+
+**Q.3.b.**  Were you able to connect with everyone in your group? (Yes / No) Please share their names. 
+
+Drawing from your experiences in class Friday using [I like, I wish, What if](https://dschool-old.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
+
+**Q.3.c.**  What audience, method and topic combinations did your group identify using the tool. (name top 3 here)
+
+**Q.3.d.** Select one audience group from your top brainstorm list and further explore them individually. In a paragraph Describe wny the audience you have chosen would find that topic relevant. Identify additional stakeholders associated with your topic.
+
 **Your questions**
 Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
 ## Extra learning (100% optional):
 
-## (Q4) Evolution as a Service (0 points)
+### (Q4) Evolution as a Service (0 points)
 
 **Q.4.a.** Describe two challenges associated with using Directed Evolution as an engineering approach? (bullet points)
 
@@ -50,7 +64,7 @@ Stated differently, Where and how you would use such an organism if you wanted t
 (2-3 sentences)
 
 
-## (Q5) Cystic Fibrosis (0 points)
+### (Q5) Cystic Fibrosis (0 points)
 
 Cystic fibrosis (CF) is an inherited disorder that causes severe damage to the lungs, digestive system, and other organs in the body. 
 
