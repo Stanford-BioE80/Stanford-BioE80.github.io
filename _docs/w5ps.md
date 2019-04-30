@@ -11,7 +11,7 @@ permalink: /docs/w5ps/
 
 **GOALS:** Reflect on the utility of evolution both as an algorithm and as a service.
 
-## (Q1) Microbial Resistance (15 points)
+## (Q1) Microbial Resistance (5 points)
 
 According to recent news reports, a patient with a multi-drug resistant bacterial infection was cured by injecting 
 phage (i.e., bacterial viruses [The Bacteriophage Video](https://www.youtube.com/watch?v=YI3tsmFsrOg)) directly into the bacterial cyst inside thepatient’s abdomen. The patient was ultimately cured. The treatment, however, was not easy...
@@ -20,9 +20,7 @@ phage (i.e., bacterial viruses [The Bacteriophage Video](https://www.youtube.com
 
 **Q.1.a.** From the above text and thinking back to what you learned about evolution, what are the challenges associated with implementing Phage therapy? 
 
-**Q.1.b.**  You are the director of a new “Phage Therapy Institute”. Specify three general research directions you could pursue to make phage therapeutic approach easier, faster,or safer. (What tools and technologies you need, what questions  you have to address) (bullet points)
-
-## (Q2) Mutation Rate and Genome Replication (15 points)
+## (Q2) Mutation Rate and Genome Replication (X points)
 
 Thanks to a long-term evolution [experiment](http://myxo.css.msu.edu/) it is possible to estimate that *E. coli* has a mutation rate on the order of 10^-10 (mutations)/(base x replication) [bionumber-source](https://bionumbers.hms.harvard.edu/bionumber.aspx?&id=105813). Assume that *E. coli* has a genome size of 10^7 bases per genome.
 
