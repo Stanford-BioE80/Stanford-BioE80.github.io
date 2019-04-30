@@ -92,7 +92,8 @@ What is the size, shape, and shape of the colony? What is the narrowest classifi
 **Figure-1:Example photo of George Goodman’s Artificial Stone (this photo is taken looking down at a sidewalk)**
 
 Here is a sample photo of George Goodman’s artificial stone used to build parts of the campus.
-As discussed rhis week standardization (process for dividing labor) in civil engineering has enabled us to transform and shape rocks (in this case artificial stones) into building blocks for building structures ranging from Stanford’s campus to Segovia’s aqueduct. 
+As discussed this week standardization (process for dividing labor) in civil engineering has enabled us to transform and shape rocks (in this case artificial stones) into building blocks for building structures ranging from Stanford’s campus to Segovia’s aqueduct. 
+
 You will receive 2 points extra credit if you find and take a selfie with any of Mr. Goodman’s Artificial Stones markers (there are many around the main quad). Please include a figure caption with your image.
 
 **Final Notes:** This week you learned about tools and technologies that enable DNA read and write. As part ofyour core bioengineering skills you should be able to describe how these technologies work.You also learned about the non-trivial speed of development in these technologies and thevarious ramifications of this development. 
