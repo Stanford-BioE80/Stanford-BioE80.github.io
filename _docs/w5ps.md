@@ -22,7 +22,7 @@ phage (i.e., bacterial viruses [The Bacteriophage Video](https://www.youtube.com
 
 **Q.1.b.**  You are the director of a new “Phage Therapy Institute”. Specify three general research directions you could pursue to make phage therapeutic approach easier, faster,or safer. (What tools and technologies you need, what questions  you have to address) (bullet points)
 
-## (Q2) Mutation Rate and Genome Replication (20 points)
+## (Q2) Mutation Rate and Genome Replication (15 points)
 
 Thanks to a long-term evolution [experiment](http://myxo.css.msu.edu/) it is possible to estimate that *E. coli* has a mutation rate on the order of 10^-10 (mutations)/(base x replication) [bionumber-source](https://bionumbers.hms.harvard.edu/bionumber.aspx?&id=105813). Assume that *E. coli* has a genome size of 10^7 bases per genome.
 
