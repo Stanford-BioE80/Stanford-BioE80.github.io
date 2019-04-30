@@ -69,46 +69,19 @@ If yes, what are one advantage and one disadvantage of using live cell storage?
 
 Helpful resources:[link1](https://www.nature.com/news/how-dna-could-store-all-the-world-s-data-1.20496), [link2](https://wyss.harvard.edu/taking-cells-out-to-the-movies-with-new-crispr-technology/)
 
-## (Q4)Sequencing and Synthesis technologies (20 pts)
-
-In the pre-class material you were introduced to a DNA read method commonly referred to as next-generation sequencing (NGS) or massively parallelsequencing. Let’s examine an alternative approach, namely nanopore sequencing.
-
-
-Watch this [video](https://nanoporetech.com/products/minion)
-
-4.a. Describe how Nanopore sequencing works (use bullet points, 8 pts)
-
-
-MinION is a product that uses Nanopores for sequencing.
-While the error rate with Nanopore technology is between 5-10%. [additional Link](https://f1000research.com/articles/6-760/v1). This tool can be used to sequence and assemble a human genome
-[additional link](https://www.nature.com/articles/nbt.4060).  Now brefiely examine the various products sequencing technology from illumina [link](https://www.illumina.com/systems/sequencing-platforms/comparison-tool.html).
-
-4.b. How are NGS and Nanopore sequencing different? (4 pts)
-
-4.c. Imagine that the storage of information in DNA from the previous question has become a routine platform. 
-You have been hired as a consultant for a library that seeks to store its archiveinside the DNA medium. 
-Your task is to determine suitable reading platforms. What type of“read technology” would you recommend: 
-a sequencer that gives massive simultaneous shortreads with very low error, 
-or fast readers that reads long sequences with error rates as high as 15 %. 
-Please include quantitative reasoning in your answer.  (4 pts)
-
-4.d. Where would you use an Illumina sequencing machine instead of a minION sequencingmachine? 
-and vice versa? (4 pts)
-
-## (Q5) Meet your Microbe (40 pts)
+## (Q3) Meet your Microbe (40 pts)
 
 On Wednesday and Friday of this week you cultivated, grew, and examined the microbes from your skin.
 
-**5.a.** Describe in your own words what is the microbiome, and provide a current example of study of the microbiome (include references if needed) (3-4 sentences) 
+**3.a.** Describe in your own words what is the microbiome, and provide a current example of study of the microbiome (include references if needed) (3-4 sentences) 
 
-**5.b.** Name 2 key methods used to study the microbiome? (Bullet points)
+**3.b.** Name 2 key methods used to study the microbiome? (Bullet points)
 
 **Colony Morphology** Make sure to include a picture and figure caption
 
-**5.c.** Examine the morphology of the colonies on your plates. Describe as comprehensively as possible the ONE most interesting colony at your table (you decide what’s interesting!). What is the size, shape, and shape of the colony? What is thenarrowest classification you can make of this colony?  Max 100 words)
+**3.c.** Examine the morphology of the colonies on your plates. Describe as comprehensively as possible the ONE most interesting colony at your table (you decide what’s interesting!). What is the size, shape, and shape of the colony? What is thenarrowest classification you can make of this colony?  Max 100 words)
 
 ### (EXTRA CREDIT) Scavenger hunt: Find some “artificial stone” and take a selfie (2 pts)
-
 
 <figure>
 <a href="/assets/images/w3pc_artificialStone.png"><img src="/assets/images/w3pc_artificialStone.png"></a>
@@ -117,9 +90,37 @@ On Wednesday and Friday of this week you cultivated, grew, and examined the micr
 **Figure-1:Example photo of George Goodman’s Artificial Stone (this photo is taken looking down at a sidewalk)**
 
 Here is a sample photo of George Goodman’s artificial stone used to build parts of the campus.
-As discussed This week standardization (process for dividing labor) in civil engineering has enabled us to transform and shape rocks (in this case artificial stones) into building blocks for building structures ranging from Stanford’s campus to Segovia’s aqueduct. 
+As discussed rhis week standardization (process for dividing labor) in civil engineering has enabled us to transform and shape rocks (in this case artificial stones) into building blocks for building structures ranging from Stanford’s campus to Segovia’s aqueduct. 
 You will receive 2 points extra credit if you find and take a selfie with any of Mr. Goodman’s Artificial Stones markers (there are many around the main quad). Please include a figure caption with your image.
 
 **Final Notes:** This week you learned about tools and technologies that enable DNA read and write. As part ofyour core bioengineering skills you should be able to describe how these technologies work.You also learned about the non-trivial speed of development in these technologies and thevarious ramifications of this development. 
 
 Do you have any unanswered questions (from this week, past weeks, or general BIOE) that youwould like to share with us?
+
+
+## Extra learning (100% optional):
+
+### (Q4)Sequencing and Synthesis technologies (0 pts)
+
+In the pre-class material you were introduced to a DNA read method commonly referred to as next-generation sequencing (NGS) or massively parallelsequencing. Let’s examine an alternative approach, namely nanopore sequencing.
+
+
+Watch this [video](https://nanoporetech.com/products/minion)
+
+**4.a.** Describe how Nanopore sequencing works (use bullet points, 8 pts)
+
+MinION is a product that uses Nanopores for sequencing.
+While the error rate with Nanopore technology is between 5-10%. [additional Link](https://f1000research.com/articles/6-760/v1). This tool can be used to sequence and assemble a human genome
+[additional link](https://www.nature.com/articles/nbt.4060).  Now brefiely examine the various products sequencing technology from illumina [link](https://www.illumina.com/systems/sequencing-platforms/comparison-tool.html).
+
+**4.b.** How are NGS and Nanopore sequencing different? 
+
+**4.c.** Imagine that the storage of information in DNA from the previous question has become a routine platform. 
+You have been hired as a consultant for a library that seeks to store its archiveinside the DNA medium. 
+Your task is to determine suitable reading platforms. What type of“read technology” would you recommend: 
+a sequencer that gives massive simultaneous shortreads with very low error, 
+or fast readers that reads long sequences with error rates as high as 15 %. 
+Please include quantitative reasoning in your answer.  
+
+**4.d.** Where would you use an Illumina sequencing machine instead of a minION sequencingmachine? 
+and vice versa? 
