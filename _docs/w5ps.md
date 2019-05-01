@@ -25,11 +25,11 @@ True / False questions, please circle the best answer.  If *False* please provid
 **Q.1.d.** Humans cannot negatively impact ecosystems, because species will just evolve what they need to survive
 (True /  False)
 
-**Q.1.e.** Individual organisms cannot evolve during a single lifespan.(True /  False)
+**Q.1.e.** Individual organisms cannot evolve during a single lifespan (True /  False)
 
 ## (Q2) Understanding the "Search Space" of Evolution (20 points)
 
-In class, we talked about thinking of evolution as an algorithm. In this problem, we will try and make some elements of this metaphor more concrete. We can think of evolution as a type of [optimization algorithm](https://en.wikipedia.org/wiki/Mathematical_optimization#Optimization_algorithms). In lecture we talked about so called "evolutionary algorithms," which are a type of optimization algorithm in the field of computer science which borrows heavily from nature and biological evolution.
+In class, we talked about thinking of evolution as an algorithm. In this problem, we will try and make some elements of this metaphor more concrete. We can think of evolution as a type of [optimization algorithm](https://en.wikipedia.org/wiki/Mathematical_optimization#Optimization_algorithms). In lecture we talked about so called "evolutionary algorithms," which are a type of optimization algorithm in the field of computer science which borrows heavily from biological evolution.
 
 These optimization algorithms seek to find the best solution, or at least a really good one, from a set of possible choices. What is defined as "really good" depends on the particular problem being optimized, but generally engineers deal with systems where an input choice maps to an output number. The goal then becomes to maximize or minimize the output number over all possible choices. This output number could be something like a "cost of production," or an "energy consumption," or the "mass of product". We call the set of possible input choices the "search space" of an algorithm. 
 
@@ -43,7 +43,7 @@ Note: it may be very helpful to write out all the possible genomes by hand.
 
 **Q.2.c.** _E. coli_ has a genome of length _n<sub>E. coli</sub>_ = 4.3 Mb, We will approximate this length as _n<sub>E. coli</sub>_ ~ 10<sup>7</sup>. How many unique genome could be made of this length?
 
-Physicists estimate that there are 10<sup>80</sup> atoms in the known Universe [link to popular science article describing how this number was estimated](https://www.universetoday.com/36302/atoms-in-the-universe/). How does the number of atoms in the known Universe compare to the number of unique genomes of the same length as the _E. coli._ genome?
+**Q.2.d.** Physicists estimate that there are 10<sup>80</sup> atoms in the known Universe [link to popular science article describing how this number was estimated](https://www.universetoday.com/36302/atoms-in-the-universe/). How does the number of atoms in the known Universe compare to the number of unique genomes of the same length as the _E. coli._ genome?
 
 ## (Q3) How much of the Evolutionary "Search Space" has been Searched? (40 points)
 
