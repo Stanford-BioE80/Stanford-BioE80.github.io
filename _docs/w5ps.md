@@ -11,14 +11,20 @@ permalink: /docs/w5ps/
 
 **GOALS:** Reflect on the utility of evolution both as an algorithm and as a service.
 
-## (Q1) Microbial Resistance (5 points)
 
-According to recent news reports, a patient with a multi-drug resistant bacterial infection was cured by injecting
-phage (i.e., bacterial viruses [The Bacteriophage Video](https://www.youtube.com/watch?v=YI3tsmFsrOg)) directly into the bacterial cyst inside thepatient’s abdomen. The patient was ultimately cured. The treatment, however, was not easy...
+## (Q1) Evolution Fundamentals & Misconceptions
 
-“The learning curve was steep and unmarked. There were bouts of sepsis — a life-threatening omplication caused by massive infection. Despite improvement, (the) patient’s conditionremained precarious. Doctors discovered that the bacterium eventually developed resistance to the phage, what Schooley would characterize as “the recurring Darwinian dance,” but the team compensated by continually tweaking treatment with new phage strains — some that had derived from sewage — and antibiotics.” [source](https://health.ucsd.edu/news/releases/Pages/2017-04-25-novel-phage-therapy-saves-patient-with-multidrug-resistant-bacterial-infection.aspx)
+True / False questions, please circle the best answer.  If *False* please provide a counter example (1-2 sentences)
 
-**Q.1.a.** From the above text and thinking back to what you learned about evolution, what are the challenges associated with implementing Phage therapy?
+**Q.1.a.** Evolution of living matter generally occurs at a constant rate. (True /  False)
+
+**Q.1.b.** Evolution of living matter is independent of the environment. (True /  False)
+
+**Q.1.c.** Because evolution is slow, we cannot influence or use it. (True /  False)
+
+**Q.1.d.** Humans cannot negatively impact ecosystems, because species will just evolve what they need to survive. (True /  False)
+
+**Q.1.e.** Individual organisms cannot evolve during a single lifespan. (True /  False)
 
 ## (Q2) Understanding the "Search Space" of Evolution (X points)
 In class, we talked about thinking of evolution as an algorithm. In this problem, we will try and make some elements of this metaphor more concrete. We can think of evolution as a type of [optimization algorithm](https://en.wikipedia.org/wiki/Mathematical_optimization#Optimization_algorithms). In lecture we talked about so called "evolutionary algorithms," which are a type of optimization algorithm in the field of computer science which borrows heavily from biological evolution.
@@ -96,3 +102,11 @@ Imagine that we could forever remove the gene that causes *90% of cases* of CF b
 **Q.6.b.** Assume there are 10^10  cells in a 5 mL overnight culture of *E. coli* (i.e., 10^10 genomes are replicating during the final doubling). Given the rate of mutation / genome x generation (from 3.a), how many novel mutations do you expect inside the overnight culture?
 
 **Q.6.c.** Given your answer from 6.b and the size of *E.coli*'s genome, is 5mL of the overnight culture sufficent to ensure that you have every single nonlethal base pair substitution in culture? (Yes  / No, Explain your answer in 2-3 sentences)
+
+####  (Q7) Microbial Resistance (0 points)
+According to recent news reports, a patient with a multi-drug resistant bacterial infection was cured by injecting
+phage (i.e., bacterial viruses [The Bacteriophage Video](https://www.youtube.com/watch?v=YI3tsmFsrOg)) directly into the bacterial cyst inside thepatient’s abdomen. The patient was ultimately cured. The treatment, however, was not easy...
+
+“The learning curve was steep and unmarked. There were bouts of sepsis — a life-threatening omplication caused by massive infection. Despite improvement, (the) patient’s conditionremained precarious. Doctors discovered that the bacterium eventually developed resistance to the phage, what Schooley would characterize as “the recurring Darwinian dance,” but the team compensated by continually tweaking treatment with new phage strains — some that had derived from sewage — and antibiotics.” [source](https://health.ucsd.edu/news/releases/Pages/2017-04-25-novel-phage-therapy-saves-patient-with-multidrug-resistant-bacterial-infection.aspx)
+
+**Q.7.a.** From the above text and thinking back to what you learned about evolution, what are the challenges associated with implementing Phage therapy?
