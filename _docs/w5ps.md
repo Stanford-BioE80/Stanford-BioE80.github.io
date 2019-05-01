@@ -91,7 +91,7 @@ Stated differently, Where and how you would use such an organism if you wanted t
 #### (Q5) Mutation Rate and Genome Replication (0 points)
 **Q.5.a.** Assume there are 10^10  cells in a 5 mL overnight culture of *E. coli* (i.e., 10^10 genomes are replicating during the final doubling). Given the rate of mutation / genome x generation (from 3.a), how many novel mutations do you expect inside the overnight culture?
 
-**Q.5.b.** Given your answer from 6.b and the size of *E.coli*'s genome, is 5mL of the overnight culture sufficent to ensure that you have every single nonlethal base pair substitution in culture? (Yes  / No, Explain your answer in 2-3 sentences)
+**Q.5.b.** Given your answer from 5.b and the size of *E.coli*'s genome, is 5mL of the overnight culture sufficent to ensure that you have every single nonlethal base pair substitution in culture? (Yes  / No, Explain your answer in 2-3 sentences)
 
 ####  (Q6) Microbial Resistance (0 points)
 According to recent news reports, a patient with a multi-drug resistant bacterial infection was cured by injecting
