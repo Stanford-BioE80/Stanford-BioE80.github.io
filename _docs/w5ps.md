@@ -80,7 +80,7 @@ Do you have any unanswered questions (from this week, past weeks, or general BIO
 
 ## Extra learning (100% optional):
 
-### (Q4) Evolution as a Service (0 points)
+#### (Q4) Evolution as a Service (0 points)
 
 **Q.4.a.** Describe two challenges associated with using Directed Evolution as an engineering approach? (bullet points)
 
