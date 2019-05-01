@@ -47,7 +47,7 @@ Note: it may be very helpful to write out all the possible genomes by hand.
 
 ## (Q3) How much of the Evolutionary "Search Space" has been Searched? (40 points)
 
-In the previous problem, we estimated how big the space of all genomes as long as the _E. coli_ genome is(spoiler: very big). In this problem, we will estimate how much of this space has been searched. Thanks to a long-term evolution [experiment](http://myxo.css.msu.edu/) it is possible to estimate that *E. coli* has a mutation rate on the order of 10<sup>-10</sup> (mutations)/(base x generation) [bionumber-source](https://bionumbers.hms.harvard.edu/bionumber.aspx?&id=105813). Assume that *E. coli* has a genome size of 10^7 bases per genome.
+In the previous problem, we estimated how big the space of all genomes as long as the _E. coli_ genome is(spoiler: very big). In this problem, we will estimate how much of this space has been searched. Thanks to a long-term evolution [experiment](http://myxo.css.msu.edu/) it is possible to estimate that *E. coli* has a mutation rate on the order of 10<sup>-10</sup> (mutations)/(base x generation) [bionumber-source](https://bionumbers.hms.harvard.edu/bionumber.aspx?&id=105813). Assume that *E. coli* has a genome size of 10<sup>7</sup> bases per genome.
 
 **Q.3.a.**  What is the rate of mutations/genome x generation for *E. coli*? That is to say, how many mutations should we expect per individual bacterial genome replication event?
 
