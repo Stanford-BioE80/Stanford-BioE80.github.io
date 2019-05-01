@@ -59,42 +59,42 @@ In the previous problem, we estimated how big is the space of all genomes as lon
 
 Note: Question-3 is based on an entry from [*Cell Biology by the Numbers*](http://book.bionumbers.org/what-is-the-mutation-rate-during-genome-replication/), and from material from Dan Fisher's course Evolution by the Numbers [APPPHYS237/BIO251](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=APPPHYS%20237:%20Evolution%20by%20the%20numbers&academicYear=20182019).
 
-## (Q3) Brainstorming Report-2 (30 pts)
+## (Q4) Brainstorming Report-2 (30 pts)
 
 This part must be completed individually
 
-**Q.3.a.**  Did you show up on Friday? (Yes / No)
+**Q.4.a.**  Did you show up on Friday? (Yes / No)
 
-**Q.3.b.**  Were you able to connect with everyone in your group? (Yes / No) Please share their names.
+**Q.4.b.**  Were you able to connect with everyone in your group? (Yes / No) Please share their names.
 
 Drawing from your experiences in class Friday using [I like, I wish, What if](https://dschool-old.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
 
-**Q.3.c.**  What audience, method and topic combinations did your group identify using the tool. (name top 3 here)
+**Q.4.c.**  What audience, method and topic combinations did your group identify using the tool. (name top 3 here)
 
 **Your questions**
 Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
 ## Extra learning (100% optional):
 
-#### (Q4) Evolution as a Service (0 points)
+#### (Q5) Evolution as a Service (0 points)
 
-**Q.4.a.** Describe two challenges associated with using Directed Evolution as an engineering approach? (bullet points)
+**Q.5.a.** Describe two challenges associated with using Directed Evolution as an engineering approach? (bullet points)
 
 Imagine that you want to engineer the rate of evolution (increase or decrease) in an engineered living matter.
 
-**Q.4.b.** Briefly describe a utility for engineering the rate of evolution itself.
+**Q.5.b.** Briefly describe a utility for engineering the rate of evolution itself.
 Stated differently, Where and how you would use such an organism if you wanted to use evolution as a service?
 (2-3 sentences)
 
-#### (Q5) Mutation Rate and Genome Replication (0 points)
-**Q.5.a.** Assume there are 10^10  cells in a 5 mL overnight culture of *E. coli* (i.e., 10^10 genomes are replicating during the final doubling). Given the rate of mutation / genome x generation (from 3.a), how many novel mutations do you expect inside the overnight culture?
+#### (Q6) Mutation Rate and Genome Replication (0 points)
+**Q.6.a.** Assume there are 10^10  cells in a 5 mL overnight culture of *E. coli* (i.e., 10^10 genomes are replicating during the final doubling). Given the rate of mutation / genome x generation (from 3.a), how many novel mutations do you expect inside the overnight culture?
 
-**Q.5.b.** Given your answer from 5.b and the size of *E.coli*'s genome, is 5mL of the overnight culture sufficent to ensure that you have every single nonlethal base pair substitution in culture? (Yes  / No, Explain your answer in 2-3 sentences)
+**Q.6.b.** Given your answer from 5.b and the size of *E.coli*'s genome, is 5mL of the overnight culture sufficent to ensure that you have every single nonlethal base pair substitution in culture? (Yes  / No, Explain your answer in 2-3 sentences)
 
-####  (Q6) Microbial Resistance (0 points)
+####  (Q7) Microbial Resistance (0 points)
 According to recent news reports, a patient with a multi-drug resistant bacterial infection was cured by injecting
 phage (i.e., bacterial viruses [The Bacteriophage Video](https://www.youtube.com/watch?v=YI3tsmFsrOg)) directly into the bacterial cyst inside thepatient’s abdomen. The patient was ultimately cured. The treatment, however, was not easy...
 
 “The learning curve was steep and unmarked. There were bouts of sepsis — a life-threatening omplication caused by massive infection. Despite improvement, (the) patient’s conditionremained precarious. Doctors discovered that the bacterium eventually developed resistance to the phage, what Schooley would characterize as “the recurring Darwinian dance,” but the team compensated by continually tweaking treatment with new phage strains — some that had derived from sewage — and antibiotics.” [source](https://health.ucsd.edu/news/releases/Pages/2017-04-25-novel-phage-therapy-saves-patient-with-multidrug-resistant-bacterial-infection.aspx)
 
-**Q.6.a.** From the above text and thinking back to what you learned about evolution, what are the challenges associated with implementing Phage therapy?
+**Q.7.a.** From the above text and thinking back to what you learned about evolution, what are the challenges associated with implementing Phage therapy?
