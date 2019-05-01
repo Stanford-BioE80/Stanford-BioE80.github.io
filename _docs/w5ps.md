@@ -73,8 +73,6 @@ Drawing from your experiences in class Friday using [I like, I wish, What if](ht
 
 **Q.3.c.**  What audience, method and topic combinations did your group identify using the tool. (name top 3 here)
 
-**Q.3.d.** Select one audience group from your top brainstorm list and further explore them individually. In a paragraph Describe wny the audience you have chosen would find that topic relevant. Identify additional stakeholders associated with your topic.
-
 **Your questions**
 Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
