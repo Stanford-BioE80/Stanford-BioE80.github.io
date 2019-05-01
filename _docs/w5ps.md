@@ -2,7 +2,7 @@
 title: "Week 5 Problem sets"
 permalink: /docs/w5ps/
 ---
-**DUE:** Next Friday(), beginning of class via **Gradescope**.
+**DUE:** Next Friday (May 10th), beginning of class via **Gradescope**.
 
 **NOTES:**
   - All BIOE.80 problem sets must be completed individually unless plainly noted opetherwise.
@@ -31,7 +31,7 @@ True / False questions, please circle the best answer.  If *False* please provid
 
 In class, we talked about thinking of evolution as an algorithm. In this problem, we will try and make some elements of this metaphor more concrete. We can think of evolution as a type of [optimization algorithm](https://en.wikipedia.org/wiki/Mathematical_optimization#Optimization_algorithms). In lecture we talked about so called "evolutionary algorithms," which are a type of optimization algorithm in the field of computer science which borrows heavily from biological evolution.
 
-These optimization algorithms seek to find the best solution, or at least a really good one, from a set of possible choices. What is defined as "really good" depends on the particular problem being optimized, but generally engineers deal with systems where an input choice maps to an output number. The goal then becomes to maximize or minimize the output number over all possible choices. This output number could be something like a "cost of production," or an "energy consumption," or the "mass of product". We call the set of possible input choices the "search space" of an algorithm. 
+These optimization algorithms seek to find the best solution, or at least a really good one, from a set of possible choices. What is defined as "really good" depends on the particular problem being optimized, but generally engineers deal with systems where an input choice maps to an output number. The goal then becomes to maximize or minimize the output number over all possible choices. This output number could be something like a "cost of production," or an "energy consumption," or the "mass of product". We call the set of possible input choices the "search space" of an algorithm.
 
 In biological evolution, the search space is the space of all possible genomes (the **"genotype space"**) and the output is biological fitness.
 
