@@ -136,7 +136,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ----------- | ----------- | -------|
 | Mon 29 April| 320-105     | What is evolution from an engineering perspective?|
 | Wed 01 May  | 320-105     | How to use and change evolution? |
-| Fri 03 May  | SC 112/132  |  Project Activity **(PSET 5)** |
+| Fri 03 May  | 320-105  |  Project Activity **(PSET 5)** |
 
 **Lead Instructor**:  Jan
 
