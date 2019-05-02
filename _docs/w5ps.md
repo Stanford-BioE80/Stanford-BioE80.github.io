@@ -69,10 +69,14 @@ This part must be completed individually
 
 Drawing from your experiences in class Friday using [I like, I wish, What if](https://dschool-old.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
 
-**Q.4.c.**  What audience, method and topic combinations did your group identify using the tool. (name top 3 here)
+**Q.4.c.**  What ideas did your group identify using the tool (name atleast 3)
 
 **Your questions**
 Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
+
+### (Extra credit - 5 points)
+
+
 
 ## Extra learning (100% optional):
 
