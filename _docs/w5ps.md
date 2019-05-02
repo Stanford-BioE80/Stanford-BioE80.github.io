@@ -76,9 +76,19 @@ Do you have any unanswered questions (from this week, past weeks, or general BIO
 
 ### (Extra credit - 5 points)
 
+On Wednesday's lecture, the topic of human reproduction without sex was briefly mentioned.  First, read more about this topic from the following interview with Hank Greely [source](https://www.theatlantic.com/health/archive/2017/06/babies-sex/531735/). ([Hank Greely](https://law.stanford.edu/directory/henry-t-greely/) is the Director of the Center for Law and the Biosciences at Stanford Law School. He is the author of the book on this topic titled the End of Sex and the Future of Human Reproduction)
+
+**Extra credit.a.** Think about audiences that might care about the topic (list three)?
+
+**Extra credit.b.** Select one group from your list. Describe in 1-2 sentences why the audience you have chosen would find that topic relevant?
+
+**Extra credit.c.** In 2-3 sentences state what you want the audience to know about *The End of Sex*?
+
+**Extra credit.d.** In 2-3 sentences state what method will you use to communicate with this group? and why?
 
 
 ## Extra learning (100% optional):
+
 
 #### (Q5) Evolution as a Service (0 points)
 
