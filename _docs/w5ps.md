@@ -80,13 +80,13 @@ On Wednesday's lecture, the topic of human reproduction without sex was briefly 
 
 ([Hank Greely](https://law.stanford.edu/directory/henry-t-greely/) is the Director of the Center for Law and the Biosciences at Stanford Law School. He is the author of the End of Sex and the Future of Human Reproduction)
 
-**Extra credit.a.** Think about audiences that might care about the topic (list three)?
+**Extra credit.a.** Who are stakeholders on different sides of this issue? List six total audiences on multiple sides.
 
-**Extra credit.b.** Select one group from your list. Describe in 1-2 sentences why the audience you have chosen would find that topic relevant?
+**Extra credit.b.** For each stakeholder, describe in 1-2 sentences why each audience you have chosen would find that topic relevant.
 
-**Extra credit.c.** In 2-3 sentences state what you want the audience to know about *The End of Sex*?
+**Extra credit.c.** Let’s say you are presenting this topic to the students in Introduction to Bioengineering. In 2-3 sentences state what you want this audience to know about *The End of Sex*?
 
-**Extra credit.d.** In 2-3 sentences state what method will you use to communicate with this group? and why?
+**Extra credit.d.** What questions do you have about this topic? List up to 5. We will revisit the topic in later weeks.
 
 
 ## Extra learning (100% optional):
