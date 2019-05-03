@@ -53,9 +53,11 @@ In the previous problem, we estimated how big the space of all genomes as long a
 
 **Q.3.b.** Assume there are 10<sup>30</sup> _E. coli_ cells on Earth ([estimate from a 1998 study out of University of Georgia](https://www.pnas.org/content/95/12/6578)). If every one of these cells replicates all at once, how many mutations should we expect to occur in this replication cycle?
 
-**Q.3.c.** Life on Earth is approximately 10<sup>9.5</sup> years old. _E. coli_ replicates at a rate of one generation per 20 minutes, or 3 replications per hour. If we assume that _E. coli_ has been around since the beginning of life on Earth, how many _E. coli_ generations have passed since life began?
+**Q.3.c.** Life on Earth is approximately 10<sup>9.5</sup> years old. The fastest that _E. coli_ can replicate at a rate of one generation per 20 minutes, or 3 replications per hour. If we assume that _E. coli_ has been around since the beginning of life on Earth, how many _E. coli_ generations have passed since life began?
 
-**Q.3.d.** Let's assume that the global population size of _E. coli_ remains constant over time. Given your answers for 2.b. (the total number of mutations that arise every time all the _E. coli_ in the world replicate) and 2.c. (the number of times _E. coli_ could have replicated since life began), how many total mutation events would you expect have happened in Earth's history? Is this number bigger or smaller than the number of possible _E. coli_ genotypes?
+**Q.3.d.** Let's assume that the global population size of _E. coli_ remains constant over time. Given your answers for 2.b. (the total number of mutations that arise every time all the _E. coli_ in the world replicate) and 2.c. (the number of times _E. coli_ could have replicated since life began), how many total mutation events would you expect have happened in Earth's history?
+
+**Q.3.e.** Is the number of total mutation events (from 3d) bigger or smaller than the number of possible microbial genotypes (from 3c)? 
 
 Note: Question-3 is based on an entry from [*Cell Biology by the Numbers*](http://book.bionumbers.org/what-is-the-mutation-rate-during-genome-replication/), and from material from Dan Fisher's course Evolution by the Numbers [APPPHYS237/BIO251](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=APPPHYS%20237:%20Evolution%20by%20the%20numbers&academicYear=20182019).
 
