@@ -44,7 +44,7 @@ Note: it may be very helpful to write out all the possible genomes by hand.
 
 **Q.2.d.** Physicists estimate that there are 10<sup>80</sup> atoms in the known Universe [link to popular science article describing how this number was estimated](https://www.universetoday.com/36302/atoms-in-the-universe/). How does the number of atoms in the known Universe compare to the number of unique genomes of the same length as the _E. coli._ genome?
 
-## (Q3) How much of the Evolutionary "Search Space" has been Searched? (30 points)
+## (Q3) How much of the Evolutionary "Search Space" has been Searched? (35 points)
 
 In the previous problem, we estimated how big the space of all genomes as long as the _E. coli_ genome is(spoiler: very big). In this problem, we will estimate how much of this space has been searched. Thanks to a long-term evolution [experiment](http://myxo.css.msu.edu/) it is possible to estimate that *E. coli* has a mutation rate on the order of 10<sup>-10</sup> (mutations)/(base x generation) [bionumber-source](https://bionumbers.hms.harvard.edu/bionumber.aspx?&id=105813). Assume that *E. coli* has a genome size of 10<sup>7</sup> bases per genome.
 
@@ -65,13 +65,15 @@ Given that mutations are random, what else is at play in evolution that the resu
 
 Note: Question-3 is based on an entry from [*Cell Biology by the Numbers*](http://book.bionumbers.org/what-is-the-mutation-rate-during-genome-replication/), and from material from Dan Fisher's course Evolution by the Numbers [APPPHYS237/BIO251](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=APPPHYS%20237:%20Evolution%20by%20the%20numbers&academicYear=20182019).
 
-## (Q4)Brainstorming Report-2 (20 pts)
+## (Q4)Brainstorming Report-2 (15 pts)
 
 This part must be completed individually
 
 **Q.4.a.** Did you show up on Friday? (Yes / No)
 
 **Q.4.b.** What gift should we get for Emilio? (2-3 sentences)
+
+**Q.4.c.** What questions do you have for Michael about an effective interview? List 3.
 
 
 # Final Project - Group Activity.2 (30 points)
