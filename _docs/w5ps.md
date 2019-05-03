@@ -16,16 +16,15 @@ permalink: /docs/w5ps/
 
 True / False questions, please select the best answer.  If *False* please explain why (1-2 sentences). Please see preclass materials from Monday and Wednesday for background material.
 
-**Q.1.a.** Evolution of living matter generally occurs at a constant rate (True /  False)
+**Q.1.a.** Individual mutations occur at random (True /  False)
 
 **Q.1.b.** Evolution of living matter is independent of the environment (True /  False)
 
-**Q.1.c.** Because evolution is slow, we cannot influence or use it (True /  False)
+**Q.1.c.** Selection is random and unbiased (True /  False)
 
-**Q.1.d.** Humans cannot negatively impact ecosystems, because species will just evolve what they need to survive
-(True /  False)
+**Q.1.d.** Evolution works on the scale of individuals, not on populations (True /  False)
 
-**Q.1.e.** Individual organisms cannot evolve during a single lifespan (True /  False)
+**Q.1.e.** Engineers, including bioengineers, can use evolution to optimize human-designed systems  (True /  False)
 
 ## (Q2) Understanding the "Search Space" of Evolution (30 points)
 
@@ -51,11 +50,18 @@ In the previous problem, we estimated how big the space of all genomes as long a
 
 **Q.3.a.**  What is the rate of mutations/genome x generation for *E. coli*? That is to say, how many mutations should we expect per individual bacterial genome replication event?
 
-**Q.3.b.** Assume there are 10<sup>30</sup> _E. coli_ cells on Earth ([estimate from a 1998 study out of University of Georgia](https://www.pnas.org/content/95/12/6578)). If every one of these cells replicates all at once, how many mutations should we expect to occur in this replication cycle?
+**Q.3.b.** Assume there are 10<sup>30</sup> microbial cells on Earth ([estimate from a 1998 study out of University of Georgia](https://www.pnas.org/content/95/12/6578)). If every one of these cells replicates all at once, how many mutations should we expect to occur in this replication cycle?
 
 **Q.3.c.** Life on Earth is approximately 10<sup>9.5</sup> years old. _E. coli_ replicates at a rate of one generation per 20 minutes, or 3 replications per hour. If we assume that _E. coli_ has been around since the beginning of life on Earth, how many _E. coli_ generations have passed since life began?
 
 **Q.3.d.** Let's assume that the global population size of _E. coli_ remains constant over time. Given your answers for 2.b. (the total number of mutations that arise every time all the _E. coli_ in the world replicate) and 2.c. (the number of times _E. coli_ could have replicated since life began), how many total mutation events would you expect have happened in Earth's history? Is this number bigger or smaller than the number of possible _E. coli_ genotypes?
+
+**Q.3.e.** Let's observe two things:
+
+* Microbes in nature are really good at what they do and are highly optimized for their environments
+* As you have just calculated, there has not been enough time to search hardly any part of the total search space.
+
+Given that mutations are random, what else is at play in evolution that the resulting organisms are so highly optimized? (1 bullet point)
 
 Note: Question-3 is based on an entry from [*Cell Biology by the Numbers*](http://book.bionumbers.org/what-is-the-mutation-rate-during-genome-replication/), and from material from Dan Fisher's course Evolution by the Numbers [APPPHYS237/BIO251](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=APPPHYS%20237:%20Evolution%20by%20the%20numbers&academicYear=20182019).
 
@@ -68,39 +74,41 @@ This part must be completed individually
 **Q.4.b.** What gift should we get for Emilio? (2-3 sentences)
 
 
-## Final Project - Group Activity.2 (30 points)
+# Final Project - Group Activity.2 (30 points)
 
 NOTES:
 
 * Due: Next Friday (May 10) beginning of class.
-* Include your group number and names of your group members.
-* Brainstorm report is 30 points of your Final Project.
+* Include your group number, names of your group members, and name of your digital (TA) mentor.
+* This report is 30 points of your Final Project.
 * Please turn in a single electronic copy of your Group Activity via Gradescope.
 
-**Group Activity.2.a.** Please share your team's selection for the final project. 
+**Group Activity.2.a.** Please share your team's top selection for the final project. Include the audience, topic, and medium. 
 
-**Group Activity.2.b.** Please share two back up selection for the final project. 
+**Group Activity.2.b.** Please share two back-up selections for the final project. 
 
-**Group Activity.2.c.** Why did your team select your top choice? (100 words)
+**Group Activity.2.c.** Why did your team select your top choice? (about 150 words)
 
-**Group Activity.2.d.** How did you reach your decision? (100 words)
+**Group Activity.2.d.** How did you reach your decision? (about 150 words)
 
 **Your questions**
 Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
-### (Extra credit - 5 points)
+## (Extra credit - 5 points)
 
-On Wednesday's lecture, the topic of human reproduction without sex was briefly mentioned. First, read more about this topic from the following interview with Hank Greely [source](https://www.theatlantic.com/health/archive/2017/06/babies-sex/531735/).
+In Wednesday's lecture, the topic of human reproduction without sex was briefly mentioned. First, read more about this topic from the following interview with Hank Greely [source](https://www.theatlantic.com/health/archive/2017/06/babies-sex/531735/).
 
-([Hank Greely](https://law.stanford.edu/directory/henry-t-greely/) is the Director of the Center for Law and the Biosciences at Stanford Law School. He is the author of the End of Sex and the Future of Human Reproduction)
+([Hank Greely](https://law.stanford.edu/directory/henry-t-greely/) is the Director of the Center for Law and the Biosciences at Stanford Law School. He is the author of the _End of Sex and the Future of Human Reproduction_)
 
-**Extra credit.a.** Who are stakeholders on different sides of this issue? List six total audiences on multiple sides.
+**Extra credit.a.** Who should care about the topic of human reproduction? List six stakeholders and explain why they should care in 1-2 sentences each.
 
-**Extra credit.b.** For each stakeholder, describe in 1-2 sentences why each audience you have chosen would find that topic relevant.
+**Extra credit.b.** Who appears to care about this topic? Who is not paying attention but should be? Explain why in 2-3 sentences. 
 
-**Extra credit.c.** Let’s say you are presenting this topic to the students in Introduction to Bioengineering. In 2-3 sentences state what you want this audience to know about *The End of Sex*?
+**Extra credit.c.** Imagine that you wanted to introduce this topic to the students in Introduction to Bioengineering next year. In 2-3 sentences state what you would want to make sure students learning about this for the first time would hear from you?
 
-**Extra credit.d.** What questions do you have about this topic? List up to 5. We will revisit the topic in later weeks.
+**Extra credit.d.** Do you believe that this future being discussed could come true? For example, could a woman use two skin cells to create a sperm and an egg needed for an embryo?
+
+**Extra credit.e.** What questions do you have about this topic? List up to 5. We will revisit the topic in later weeks.
 
 
 ## Extra learning (100% optional):
