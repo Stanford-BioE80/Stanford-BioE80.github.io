@@ -59,6 +59,14 @@ In the previous problem, we estimated how big the space of all genomes as long a
 
 Note: Question-3 is based on an entry from [*Cell Biology by the Numbers*](http://book.bionumbers.org/what-is-the-mutation-rate-during-genome-replication/), and from material from Dan Fisher's course Evolution by the Numbers [APPPHYS237/BIO251](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=APPPHYS%20237:%20Evolution%20by%20the%20numbers&academicYear=20182019).
 
+## (Q4)Brainstorming Report-2 (45 pts)
+
+This part must be completed individually
+
+**Q.4.a.** Did you show up on Friday? (Yes / No)
+
+**Q.4.b.** What gift should we get for Emilio? (2-3 sentences)
+
 
 ## Final Project - Group Activity.2 (30 points)
 
