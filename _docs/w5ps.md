@@ -12,7 +12,7 @@ permalink: /docs/w5ps/
 **GOALS:** Reflect on the utility of evolution both as an algorithm and as a service.
 
 
-## (Q1) Evolution Fundamentals & Misconceptions (30 points)
+## (Q1) Evolution Fundamentals & Misconceptions (20 points)
 
 True / False questions, please select the best answer.  If *False* please explain why (1-2 sentences). Please see preclass materials from Monday and Wednesday for background material.
 
@@ -27,7 +27,7 @@ True / False questions, please select the best answer.  If *False* please explai
 
 **Q.1.e.** Individual organisms cannot evolve during a single lifespan (True /  False)
 
-## (Q2) Understanding the "Search Space" of Evolution (20 points)
+## (Q2) Understanding the "Search Space" of Evolution (30 points)
 
 In class, we talked about thinking of evolution as an algorithm. In this problem, we will try and make some elements of this metaphor more concrete. We can think of evolution as a type of [optimization algorithm](https://en.wikipedia.org/wiki/Mathematical_optimization#Optimization_algorithms). In lecture we talked about so called "evolutionary algorithms," which are a type of optimization algorithm in the field of computer science which borrows heavily from biological evolution.
 
