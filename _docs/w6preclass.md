@@ -15,11 +15,15 @@ Talk about it all with your classmates, friends, or TAs, as you like.
 
 ## Introduction |Technology, Tools, and Trends (DNA read and write)
 
-This week we will explore **What changes may arise via trends in DNA read and write tools may matter for the rest of our lives?**  We hope you will learn more about the core capacities for accessing and encoding DNA and also consider thequantitative pacing of how these tools are improving.  This pre-class materialfocuses mostly on DNA sequencing...
+This week we will explore **What changes may arise via trends in DNA read and write tools may matter for the rest of our lives?**  We hope you will learn more about the core capacities for accessing and encoding DNA and also consider the quantitative pacing of how these tools are improving. Monday's pre-class material focuses mostly on DNA sequencing, whereas Wednesday's pre-class material focuses on DNA synthesis...
 
 **Goal 1:** You should be able to describe how DNA sequencing works.
 
-**Goal 2:** You should be able to describe the pace of developments in DNAread and write and be ready to discuss the ramifications of thisdevelopment.
+**Goal 2:** You should be able to describe the pace of developments in DNA read and write and be ready to discuss the ramifications of this development.
+
+**Goal 3:** You should also be able to describe how DNA synthesis works.
+
+**Goal 4:** You should gain a capacity to strategically evaluate quantitative trends and qualitative transitions.
 
 Let’s begin!
 
