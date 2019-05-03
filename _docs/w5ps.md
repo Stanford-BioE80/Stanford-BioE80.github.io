@@ -14,7 +14,7 @@ permalink: /docs/w5ps/
 
 ## (Q1) Evolution Fundamentals & Misconceptions (10 points)
 
-True / False questions, please circle the best answer.  If *False* please provide a counter example (1-2 sentences)
+True / False questions, please select the best answer.  If *False* please explain why (1-2 sentences). Please see preclass materials from Monday and Wednesday for background material.
 
 **Q.1.a.** Evolution of living matter generally occurs at a constant rate (True /  False)
 
@@ -31,7 +31,7 @@ True / False questions, please circle the best answer.  If *False* please provid
 
 In class, we talked about thinking of evolution as an algorithm. In this problem, we will try and make some elements of this metaphor more concrete. We can think of evolution as a type of [optimization algorithm](https://en.wikipedia.org/wiki/Mathematical_optimization#Optimization_algorithms). In lecture we talked about so called "evolutionary algorithms," which are a type of optimization algorithm in the field of computer science which borrows heavily from biological evolution.
 
-These optimization algorithms seek to find the best solution, or at least a really good one, from a set of possible choices. What is defined as "really good" depends on the particular problem being optimized, but generally engineers deal with systems where an input choice maps to an output number. The goal then becomes to maximize or minimize the output number over all possible choices. This output number could be something like a "cost of production," or an "energy consumption," or the "mass of product". We call the set of possible input choices the "search space" of an algorithm.
+These optimization algorithms seek to find the best solution, or at least a really good one, from a set of possible choices. What is defined as "really good" depends on the particular problem being optimized, but generally engineers deal with systems where an input choice maps to an output number. The goal then becomes to maximize or minimize the output number over all possible choices. This output number could be something like a "cost of production," or an "energy consumption," or the "mass of product". For example, a manufacturing engineer may wish to maximize the number of Foldscopes that can be made with $1M. The set of all possible input choices defines a "search space" over which the evolutionary algorithm seeks to find the best set of outputs.
 
 In biological evolution, the search space is the space of all possible genomes (the **"genotype space"**) and the output is biological fitness.
 
@@ -76,7 +76,7 @@ Do you have any unanswered questions (from this week, past weeks, or general BIO
 
 ### (Extra credit - 5 points)
 
-On Wednesday's lecture, the topic of human reproduction without sex was briefly mentioned. First, read more about this topic from the following interview with Hank Greely [source](https://www.theatlantic.com/health/archive/2017/06/babies-sex/531735/). 
+On Wednesday's lecture, the topic of human reproduction without sex was briefly mentioned. First, read more about this topic from the following interview with Hank Greely [source](https://www.theatlantic.com/health/archive/2017/06/babies-sex/531735/).
 
 ([Hank Greely](https://law.stanford.edu/directory/henry-t-greely/) is the Director of the Center for Law and the Biosciences at Stanford Law School. He is the author of the End of Sex and the Future of Human Reproduction)
 
