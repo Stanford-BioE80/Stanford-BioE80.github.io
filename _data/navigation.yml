@@ -79,8 +79,8 @@ docs:
         url: /docs/w3ps/
       - title: "Week 4 PS"
         url: /docs/w4ps/
-      #- title: "Week 5 PS"
-      #  url: /docs/w5ps/
+      - title: "Week 5 PS"
+        url: /docs/w5ps/
       #- title: "Week 6 PS"
       #  url: /docs/w6ps/
       #- title: "Week 7 PS"
