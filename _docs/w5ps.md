@@ -50,11 +50,7 @@ In the previous problem, we estimated how big is the space of all possible micro
 
 **Q.3.a.**  What is the rate of mutations/genome x generation for a typical microbe? That is to say, how many mutations should we expect per individual bacterial genome replication event? Assume the microbe has a mutation rate of 10<sup>-10</sup> (mutations)/(base x generation) and a genome length of _n_ = 10<sup>7</sup>.
 
-<<<<<<< HEAD
 **Q.3.b.** Assume there are 10<sup>30</sup> microbes on Earth ([estimate from a 1998 study out of University of Georgia](https://www.pnas.org/content/95/12/6578)). If every one of these microbes replicates all at once, how many mutations should we expect to occur in this replication cycle?
-=======
-**Q.3.b.** Assume there are 10<sup>30</sup> microbial cells on Earth ([estimate from a 1998 study out of University of Georgia](https://www.pnas.org/content/95/12/6578)). If every one of these cells replicates all at once, how many mutations should we expect to occur in this replication cycle?
->>>>>>> 8c0bb48673bf95a48f8f627a38f4c83bcd81fdf8
 
 **Q.3.c.** Life on Earth is approximately 10<sup>9.5</sup> years old. The fastest rate at which _E. coli_ can replicate is about one generation per 20 minutes, or 3 replications per hour. Assume that all microbes can double at this rate. How many microbial generations have passed since life began on Earth?
 
@@ -91,15 +87,9 @@ NOTES:
 * This report is 30 points of your Final Project.
 * Please turn in a single electronic copy of your Group Activity via Gradescope.
 
-<<<<<<< HEAD
-**Group Activity.2.a.** Please share your team's selection for the final project.
+**Group Activity.2.a.** Please share your team's top selection for the final project. Include the audience, topic, and medium.
 
-**Group Activity.2.b.** Please share two back up selection for the final project.
-=======
-**Group Activity.2.a.** Please share your team's top selection for the final project. Include the audience, topic, and medium. 
-
-**Group Activity.2.b.** Please share two back-up selections for the final project. 
->>>>>>> 8c0bb48673bf95a48f8f627a38f4c83bcd81fdf8
+**Group Activity.2.b.** Please share two back-up selections for the final project.
 
 **Group Activity.2.c.** Why did your team select your top choice? (about 150 words)
 
@@ -116,7 +106,7 @@ In Wednesday's lecture, the topic of human reproduction without sex was briefly 
 
 **Extra credit.a.** Who should care about the topic of human reproduction? List six stakeholders and explain why they should care in 1-2 sentences each.
 
-**Extra credit.b.** Who appears to care about this topic? Who is not paying attention but should be? Explain why in 2-3 sentences. 
+**Extra credit.b.** Who appears to care about this topic? Who is not paying attention but should be? Explain why in 2-3 sentences.
 
 **Extra credit.c.** Imagine that you wanted to introduce this topic to the students in Introduction to Bioengineering next year. In 2-3 sentences state what you would want to make sure students learning about this for the first time would hear from you?
 
