@@ -28,7 +28,7 @@ True / False questions, please select the best answer.  If *False* please explai
 
 ## (Q2) Understanding the "Search Space" of Evolution (30 points)
 
-In class, we talked about thinking of evolution as an algorithm. In this problem, we will try and make some elements of this metaphor more concrete. We can think of evolution as a type of [optimization algorithm](https://en.wikipedia.org/wiki/Mathematical_optimization#Optimization_algorithms). In lecture we talked about so called "evolutionary algorithms," which are a type of optimization algorithm in the field of computer science which borrows heavily from biological evolution.
+In class, we talked about thinking of evolution as an algorithm. In this problem we will try and make some elements of this metaphor more concrete. We can think of evolution as a type of [optimization algorithm](https://en.wikipedia.org/wiki/Mathematical_optimization#Optimization_algorithms). In lecture we talked about so called "evolutionary algorithms," which are a type of optimization algorithm in the field of computer science that borrows heavily from biological evolution.
 
 These optimization algorithms seek to find the best solution, or at least a really good one, from a set of possible choices. What is defined as "really good" depends on the particular problem being optimized, but generally engineers deal with systems where an input choice maps to an output number. The goal then becomes to maximize or minimize the output number over all possible choices. This output number could be something like a "cost of production," or an "energy consumption," or the "mass of product". For example, a manufacturing engineer may wish to maximize the number of Foldscopes that can be made with $1M. The set of all possible input choices defines a "search space" over which the evolutionary algorithm seeks to find the best set of outputs.
 
@@ -42,7 +42,7 @@ Note: it may be very helpful to write out all the possible genomes by hand.
 
 **Q.2.c.** A microbial genome is approximately _n_ ~ 10<sup>7</sup>. How many unique microbial genomes could be made of this length? We will use this number for the rest of the problem set as an approximation for the number of possible microbial genomes.
 
-**Q.2.d.** Physicists estimate that there are 10<sup>80</sup> atoms in the known Universe [link to popular science article describing how this number was estimated](https://www.universetoday.com/36302/atoms-in-the-universe/). How does the number of atoms in the known Universe compare to the number of possible microbial genomes?
+**Q.2.d.** Physicists estimate that there are 10<sup>80</sup> atoms in the known Universe ([link to popular science article describing how this number was estimated](https://www.universetoday.com/36302/atoms-in-the-universe/)). How does the number of atoms in the known Universe compare to the number of possible microbial genomes?
 
 ## (Q3) How much of the Evolutionary "Search Space" has been Searched? (35 points)
 
@@ -50,13 +50,11 @@ In the previous problem, we estimated how big is the space of all possible micro
 
 **Q.3.a.**  What is the rate of mutations/genome x generation for a typical microbe? That is to say, how many mutations should we expect per individual bacterial genome replication event? Assume the microbe has a mutation rate of 10<sup>-10</sup> (mutations)/(base x generation) and a genome length of _n_ = 10<sup>7</sup>.
 
-**Q.3.b.** Assume there are 10<sup>30</sup> microbes on Earth ([estimate from a 1998 study out of University of Georgia](https://www.pnas.org/content/95/12/6578)). If every one of these microbes replicates all at once, how many mutations should we expect to occur in this replication cycle?
+**Q.3.b.** Assume there are 10<sup>30</sup> microbes on Earth ([estimate from a 1998 study out of University of Georgia](https://www.pnas.org/content/95/12/6578)). If every one of these microbes replicates all at once, how many mutations should we expect to occur in a single replication cycle?
 
-**Q.3.c.** Life on Earth is approximately 10<sup>9.5</sup> years old. The fastest rate at which _E. coli_ can replicate is about one generation per 20 minutes, or 3 replications per hour. Assume that all microbes can double at this rate. How many microbial generations have passed since life began on Earth?
+**Q.3.c.** Life on Earth is approximately 10<sup>9.5</sup> years old. The fastest rate at which _E. coli_ can replicate is about one generation per 20 minutes, or 3 replications per hour. Assume that all microbes can double at this rate. How many microbial generations have passed since life began on Earth? That is to say, how many times would we expect a microbe to have doubled if that microbe had existed since the beginning of life on Earth?
 
 **Q.3.d.** Let's assume that the global population size of microbes remains constant over time. Given your answers for 2.b. (the total number of mutations that arise every time all the microbes in the world replicate) and 2.c. (the number of times microbes could have replicated since life began), how many total mutation events would you expect have happened in Earth's history?
-
-Is this number bigger or smaller than the number of possible _E. coli_ genotypes?
 
 **Q.3.e.** Let's observe two things:
 
