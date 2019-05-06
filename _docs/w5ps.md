@@ -54,7 +54,7 @@ In the previous problem, we estimated how big is the space of all possible micro
 
 **Q.3.c.** Life on Earth is approximately 10<sup>9.5</sup> years old. The fastest rate at which _E. coli_ can replicate is about one generation per 20 minutes, or 3 replications per hour. Assume that all microbes can double at this rate. How many microbial generations have passed since life began on Earth? That is to say, how many times would we expect a microbe to have doubled if that microbe had existed since the beginning of life on Earth?
 
-**Q.3.d.** Let's assume that the global population size of microbes remains constant over time. Given your answers for 2.b. (the total number of mutations that arise every time all the microbes in the world replicate) and 2.c. (the number of times microbes could have replicated since life began), how many total mutation events would you expect have happened in Earth's history?
+**Q.3.d.** Let's assume that the global population size of microbes remains constant over time. Given your answers for 3.b. (the total number of mutations that arise every time all the microbes in the world replicate) and 3.c. (the number of times microbes could have replicated since life began), how many total mutation events would you expect have happened in Earth's history?
 
 **Q.3.e.** Let's observe two things:
 
