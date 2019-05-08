@@ -1,5 +1,5 @@
 ---
-title: "Week  7Preclass -  "
+title: "Week-7 Preclass "
 permalink: 
 ---
 
@@ -9,7 +9,6 @@ permalink:
 Please read and consider the below before start of each class.
 The questions given are only study questions not homework to be graded.
 Talk about it all with your classmates, friends, or TAs, as you like.
-_______________________________________________________________________
 
 ## Preclass for Monday
 
@@ -39,7 +38,7 @@ _______________________________________________________________________
 
 ## Preclass for Wednesday
 
-There was no preclass for Wednesday Week-8. 
+
 
 
 _______________________________________________________________________
@@ -49,9 +48,3 @@ _______________________________________________________________________
 To prepare for the in-class Gene drives discussion please briefly review the following: 
 [Gene Drives](https://wyss.harvard.edu/media-post/crispr-cas9-gene-drives/), and
 [Gene Drives FAQ](https://wyss.harvard.edu/staticfiles/newsroom/pressreleases/Gene%20drives%20FAQ%20FINAL.pdf)
-
-
-
-
-
-
