@@ -1,5 +1,5 @@
 ---
-title: "Week-7 Preclass "
+title: "Week 7 Preclass "
 permalink: 
 ---
 
@@ -12,7 +12,7 @@ Talk about it all with your classmates, friends, or TAs, as you like.
 
 _______________________________________________________________________
 
-## Preclass for Monday
+## Preclass for Monday and Wednesday
 
 (1) Briefly study the "Bioeconomy Dashboard: Economic Metrics” [link](http://www.bioeconomycapital.com/bioeconomy-dashboard/)
 
@@ -35,14 +35,6 @@ doctrine of the foundation ofstatesand legitimate governments..." [link-3](https
 **Q.4 How do Rousseau’s assumptions about human nature differ from Hobbes’?** 
 
 **Q.5 How might such assumptions lead to differences in terms of how people are organized, or organize themselves?**
-
-_______________________________________________________________________
-
-## Preclass for Wednesday
-
-
-
-
 _______________________________________________________________________
 
 ## Preclass for Friday
