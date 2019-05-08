@@ -35,6 +35,7 @@ doctrine of the foundation ofstatesand legitimate governments..." [link-3](https
 **Q.4. How do Rousseau’s assumptions about human nature differ from Hobbes’?** 
 
 **Q.5. How might such assumptions lead to differences in terms of how people are organized, or organize themselves?**
+
 _______________________________________________________________________
 
 ## Preclass for Friday
