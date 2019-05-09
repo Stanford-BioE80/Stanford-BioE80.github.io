@@ -94,7 +94,7 @@ The following [paper](https://journals.plos.org/plosbiology/article?id=10.1371/j
 
 ## (Q4) Sequencing the Total DNA in the Biosphere (10 pts)
 
-The following [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002168) estimates that there are about 5.3 x 10^37 bases of DNA in the biosphere.  Given the increasing trends in productivity of sequencing (see slide-2 from class on Wednesday). In what century we can sequence 5.3 x 10^37 bases in a month?
+The following [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002168) estimates that there are about 5.3 x 10^37 bases of DNA in the biosphere.  Given the increasing trends in productivity of sequencing (see slide-2 from class on Wednesday). In what century can we sequence 5.3 x 10^37 bases in a month?
 
 ## Extra learning (100% optional):
 
