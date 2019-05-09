@@ -29,50 +29,50 @@ Volume of a DNA base pair ~ 10^-27 m^3
 
 Please round or simplify whenever convenient. Please show your work and include units.
 
-**Q.2.a.** Since DNA has only 4 bases, but English has 26 letters, you will somehow have to map letters to bases. 
+**Q.1.a.** Since DNA has only 4 bases, but English has 26 letters, you will somehow have to map letters to bases. 
 Briefly specify a simple encoding scheme for mapping bases into the 26 English letters. (You *do not* have to give a letter to DNA mapping for all letters. The first few will do the trick.)
 
 Hint-1: How many minimum of bases do you need to map 26 unique identifiers.  
 
 Hint-2: In your encoding scheme, the length of base pairs should be consistent for the entire scheme. 
 
-**Q.2.b.** Using your letter to DNA mapping, how many total base pairs of DNA would be needed to store the archival contents of the salt mine. Assume that the salt mine is completely packed with documents.
+**Q.1.b.** Using your letter to DNA mapping, how many total base pairs of DNA would be needed to store the archival contents of the salt mine. Assume that the salt mine is completely packed with documents.
 
-**Q.2.c.** What would be the physical volume of this DNA?
+**Q.1.c.** What would be the physical volume of this DNA?
 
-**Q.2.d.** Will the DNA fit into a thimble?  Yes / No
+**Q.1.d.** Will the DNA fit into a thimble?  Yes / No
 
-**Q.2.e.**  How expensive would it be to print this DNA (with cost ~1 cents/base)
+**Q.1.e.**  How expensive would it be to print this DNA (with cost ~1 cents/base)
 
-**Q.2.f.** Give two major advantages of using DNA as storage medium (bullet points)
+**Q.1.f.** Give two major advantages of using DNA as storage medium (bullet points)
 
-**Q.2.g.**  Give two major disadvantages of using DNA as storage medium (bullet points)
+**Q.1.g.**  Give two major disadvantages of using DNA as storage medium (bullet points)
 
-**Q.2.h.** How would you maintain and copy (replicate) this library (bullet points)
+**Q.1.h.** How would you maintain and copy (replicate) this library (bullet points)
 
-**Q.2.i.** Can information be stored in the DNA in a living organism as opposed to DNA stored in a frozen tube (-80 freezer).
+**Q.1.i.** Can information be stored in the DNA in a living organism as opposed to DNA stored in a frozen tube (-80 freezer).
 If yes, what are one advantage and one disadvantage of using live cell storage? (2 bullet points)
 
 Helpful resources:[link1](https://www.nature.com/news/how-dna-could-store-all-the-world-s-data-1.20496), [link2](https://wyss.harvard.edu/taking-cells-out-to-the-movies-with-new-crispr-technology/)
 
-## (Q3) Sequencing the Total DNA in the Biosphere (20 pts)
+## (Q2) Sequencing the Total DNA in the Biosphere (20 pts)
 
-**Q.3.** The following [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002168) estimates that there are about 5.3 x 10^37 bases of DNA in the biosphere.  Given the increasing trends in productivity of sequencing (see slide-2 from class on Wednesday). In what century can a team of 10 sequence 5.3 x 10^37 bases in a month?
+**Q.2.** The following [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002168) estimates that there are about 5.3 x 10^37 bases of DNA in the biosphere.  Given the increasing trends in productivity of sequencing (see slide-2 from class on Wednesday). In what century can a team of 10 sequence 5.3 x 10^37 bases in a month?
 
 ![Carlson Curves](/assets/images/PSET6_Crlson_Productivity.png
  "Productivity in DNA Sequencing and Synthesis")
 
 **Figure-1:** Carlson Curves.
  
-## (Q4) Meet your Microbes (45 pts)
+## (Q3) Meet your Microbes (45 pts)
 
 On Wednesday and Friday of this week, you cultivated, grew, and examined the microbes from your skin.
 
-**Q.4.a.** Did you show up on Friday? (yes/no)
+**Q.3.a.** Did you show up on Friday? (yes/no)
 
-**Q.4.b.** Define, in your own words, a microbiome (1-2 sentences).
+**Q.3.b.** Define, in your own words, a microbiome (1-2 sentences).
 
-**Q.4.c.** ***Colony Morphology.*** Examine the morphology of the colonies on a plate from your table (your plate or a neighbor's  plate).
+**Q.3.c.** ***Colony Morphology.*** Examine the morphology of the colonies on a plate from your table (your plate or a neighbor's  plate).
 Describe as comprehensively as possible the ONE most interesting colony at your table (you decide what’s interesting!).
 What is the size, shape, and color of the colony? What is the narrowest classification you can make of this colony (or, in other words, what type of bacteria do you think this might be)?  (4-5 sentences; make sure to include a picture and figure caption!)
 
@@ -85,13 +85,13 @@ In [this paper](https://www.nature.com/articles/nature13786), a group sequenced 
 ![Table of Relative Abundance](/assets/images/Microbes_PalmSample_Table.png
  "Relative Abundance of Microbes on Individual's Left and Right Palm")
  
-**Q.4.d.** Take a look at this data and compare it to what you saw on your plates. Write down two observations that you find interesting about this data. 
+**Q.3.d.** Take a look at this data and compare it to what you saw on your plates. Write down two observations that you find interesting about this data. 
 
-**Q.4.e.** In class, we mentioned four genera that are likely to be found on your plates: *Staphylococcus*, *Corynebacterium*, *Acinetobacter*, and *Pseudomonas*. What is the combined relative abundance of these types of bacteria for this individual’s left palm? Is this number surprising to you? Why or why not?
+**Q.3.e.** In class, we mentioned four genera that are likely to be found on your plates: *Staphylococcus*, *Corynebacterium*, *Acinetobacter*, and *Pseudomonas*. What is the combined relative abundance of these types of bacteria for this individual’s left palm? Is this number surprising to you? Why or why not?
 
-**Q.4.f.** What are two advantages to using a sequencing approach to identify microbes? What are two advantages to culturing organisms in lab (growing them on a plate or in a liquid flask)? 
+**Q.3.f.** What are two advantages to using a sequencing approach to identify microbes? What are two advantages to culturing organisms in lab (growing them on a plate or in a liquid flask)? 
 
-**Q.4.e** Look up one of these microbes from the table. Include a picture and a short paragraph (3-4 sentences) about what is known about this microbe. A picture can take the form of an image of a colony on a plate or a microscope-based image, including a SEM. Make sure to include your source(s).
+**Q.3.** Look up one of these microbes from the table. Include a picture and a short paragraph (3-4 sentences) about what is known about this microbe. A picture can take the form of an image of a colony on a plate or a microscope-based image, including a SEM. Make sure to include your source(s).
 
 **Additional Resources for microbial sequencing of skin microbiome:**
 
@@ -111,7 +111,7 @@ This week you learned about tools and technologies that enable DNA read and writ
 
 ## Extra learning (100% optional):
 
-### (Q1) (Nature + Nurture) or (Fab a Family) (0 pts)
+### (Q4) (Nature + Nurture) or (Fab a Family) (0 pts)
 
 Over the past 12 years the price of synthesizing genes has dropped from $4 to $0.04
 per base pair; presume the future price of DNA synthesis will continue to drop two fold every two years.
@@ -119,14 +119,14 @@ per base pair; presume the future price of DNA synthesis will continue to drop t
 Meanwhile Stanford’s undergraduate tuition is approximately $50,000 per year up from $25,000 in 2000.  
 Presume Stanford’s tuition will continue to double every 15 years.
 
-**Q.1.a.** If a human genome is 4 billion base pairs long then when will the cost of synthesizing the DNA encoding an entire human genome be roughly the same as the tuition cost associated with attending Stanford for one year?
+**Q.4.a.** If a human genome is 4 billion base pairs long then when will the cost of synthesizing the DNA encoding an entire human genome be roughly the same as the tuition cost associated with attending Stanford for one year?
 
 Hint: Use the facts given. Keep your math simple, and write out the equations (i.e., show your work).
 An approximate answer is fine.
 
-**Q.1.b.**  What would be your estimate if the price of synthesizing genes continue to drop two fold every 2.5 years instead of 2 years (i.e., only a 6-month longer doubling time). An approximate answer is fine.
+**Q.4.b.**  What would be your estimate if the price of synthesizing genes continue to drop two fold every 2.5 years instead of 2 years (i.e., only a 6-month longer doubling time). An approximate answer is fine.
 
-**Q.1.c.** Given your answer from part (a) presume that you could then design, build, and bring to life a human encoded by a genome that you design (e.g., with any and all mutations that you and your partner choose).  As potential parents would you prefer to spend your savings on college tuition for a natural child or on realizing a genetically engineered offspring who then has to make  their own way? Why? (2-3 sentences)
+**Q.4.c.** Given your answer from part (a) presume that you could then design, build, and bring to life a human encoded by a genome that you design (e.g., with any and all mutations that you and your partner choose).  As potential parents would you prefer to spend your savings on college tuition for a natural child or on realizing a genetically engineered offspring who then has to make  their own way? Why? (2-3 sentences)
 
 ### (Q5)Sequencing and Synthesis technologies (0 pts)
 
