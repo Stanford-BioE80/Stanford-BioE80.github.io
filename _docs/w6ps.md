@@ -71,8 +71,11 @@ Helpful resources:[link1](https://www.nature.com/news/how-dna-could-store-all-th
 
 ## (Q3) Sequencing the Total DNA in the Biosphere (10 pts)
 
-The following [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002168) estimates that there are about 5.3 x 10^37 bases of DNA in the biosphere.  Given the increasing trends in productivity of sequencing (see slide-2 from class on Wednesday). In what century can a team of 10 sequence 5.3 x 10^37 bases in a month?
+**Q.3.** The following [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002168) estimates that there are about 5.3 x 10^37 bases of DNA in the biosphere.  Given the increasing trends in productivity of sequencing (see slide-2 from class on Wednesday). In what century can a team of 10 sequence 5.3 x 10^37 bases in a month?
 
+![Carlson Curves](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/assets/images/PSET6 Carlson_Productivity.png
+ "Productivity in DNA Sequencing and Synthesis")
+ 
 ## (Q4) Meet your Microbes (40 pts)
 
 On Wednesday and Friday of this week, you cultivated, grew, and examined the microbes from your skin.
