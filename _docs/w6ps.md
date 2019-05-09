@@ -16,7 +16,7 @@ describe how DNA read and write work. Coupled with this you will examine the con
 non-trivial *quantitative pacing* in the development of these technologies. Finally, you will examine the consequence of  interconvertability of matter and information as DNA read and write tools improve and discuss the *qualitative changes* that emerge.
 
 
-## (Q1) (Nature + Nurture) or (Fab a Family) (30 pts)
+## (Q1) (Nature + Nurture) or (Fab a Family) (20 pts)
 
 Over the past 12 years the price of synthesizing genes has dropped from $4 to $0.04
 per base pair; presume the future price of DNA synthesis will continue to drop two fold every two years.
@@ -73,7 +73,9 @@ Helpful resources:[link1](https://www.nature.com/news/how-dna-could-store-all-th
 
 On Wednesday and Friday of this week, you cultivated, grew, and examined the microbes from your skin.
 
-**3.a.** Describe in your own words what is microbiome and provide a current research article of the microbiome (include a references link)?  What is the key claim of your paper? (3-4 sentences)
+**3.a.** Did you show up on Friday? 
+
+**3.b.** Describe in your own words what is microbiome and provide a current research article of the microbiome (include a references link)?  What is the key claim of your paper? (3-4 sentences)
 
 **3.b.** Name 2 key methods used to study the microbiome? (Bullet points)
 
@@ -83,47 +85,40 @@ On Wednesday and Friday of this week, you cultivated, grew, and examined the mic
 Describe as comprehensively as possible the ONE most interesting colony at your table (you decide what’s interesting!).
 What is the size, shape, and shape of the colony? What is the narrowest classification you can make of this colony?  (4-5 sentences)
 
-### (EXTRA CREDIT) Scavenger hunt: Find some “artificial stone” and take a selfie (2 pts)
-
-<figure>
-<a href="/assets/images/w3pc_artificialStone.png"><img src="/assets/images/w3pc_artificialStone.png"></a>
-</figure>
-
-**Figure-1:Example photo of George Goodman’s Artificial Stone (this photo is taken looking down at a sidewalk)**
-
-Here is a sample photo of George Goodman’s artificial stone used to build parts of the campus.
-As discussed this week standardization (process for dividing labor) in civil engineering has enabled us to transform and shape rocks (in this case artificial stones) into building blocks for building structures ranging from Stanford’s campus to Segovia’s aqueduct.
-
-You will receive 2 points extra credit if you find and take a selfie with any of Mr. Goodman’s Artificial Stones markers (there are many around the main quad). Please include a figure caption with your image.
 
 **Final Notes:** This week you learned about tools and technologies that enable DNA read and write. As part of your core bioengineering skills you should be able to describe how these technologies work.You also learned about the non-trivial speed of development in these technologies and the various ramifications of this development.
 
 Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
+The following [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002168) estimates that there are about 5.3 x 10^37  bases of DNA in the biosphere.  Given the increasing trends in productivity of sequencing (see slide-2 from  Wednesday class). In what century we can sequence 5.3 x 10^37 bases in a month?
+
+## (Q4) Sequencing the Total DNA in the Biosphere (10 pts)
+
+The following [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002168) estimates that there are about 5.3 x 10^37 bases of DNA in the biosphere.  Given the increasing trends in productivity of sequencing (see slide-2 from class on Wednesday). In what century we can sequence 5.3 x 10^37 bases in a month?
 
 ## Extra learning (100% optional):
 
-### (Q4)Sequencing and Synthesis technologies (0 pts)
+### (Q5)Sequencing and Synthesis technologies (0 pts)
 
 In the pre-class material you were introduced to a DNA read method commonly referred to as next-generation sequencing (NGS) or massively parallel sequencing. Let’s examine an alternative approach, namely nanopore sequencing.
 
 
 Watch this [video](https://nanoporetech.com/products/minion)
 
-**4.a.** Describe how Nanopore sequencing works (use bullet points, 8 pts)
+**5.a.** Describe how Nanopore sequencing works (use bullet points)
 
 MinION is a product that uses Nanopores for sequencing.
 While the error rate with Nanopore technology is between 5-10%. [additional Link](https://f1000research.com/articles/6-760/v1). This tool can be used to sequence and assemble a human genome
 [additional link](https://www.nature.com/articles/nbt.4060).  Now briefly examine the various products sequencing technology from Illumina [link](https://www.illumina.com/systems/sequencing-platforms/comparison-tool.html).
 
-**4.b.** How are NGS and Nanopore sequencing different?
+**5.b.** How are NGS and Nanopore sequencing different?
 
-**4.c.** Imagine that the storage of information in DNA from the previous question has become a routine platform.
+**5.c.** Imagine that the storage of information in DNA from the previous question has become a routine platform.
 You have been hired as a consultant for a library that seeks to store its archive inside the DNA medium.
 Your task is to determine suitable reading platforms. What type of“read technology” would you recommend:
 a sequencer that gives massive simultaneous short reads with very low error,
 or fast readers that reads long sequences with error rates as high as 15 %.
 Please include quantitative reasoning in your answer.  
 
-**4.d.** Where would you use an Illumina sequencing machine instead of a minION sequencing machine?
+**5.d.** Where would you use an Illumina sequencing machine instead of a minION sequencing machine?
 and vice versa?
