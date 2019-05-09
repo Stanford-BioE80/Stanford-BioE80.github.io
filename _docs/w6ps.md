@@ -31,7 +31,9 @@ Please round or simplify whenever convenient. Please show your work and include 
 
 **Q.2.a.** Since DNA has only 4 bases, but English has 26 letters, you will somehow have to map letters to bases. 
 Briefly specify a simple encoding scheme for mapping bases into the 26 English letters. (You *do not* have to give a letter to DNA mapping for all letters. The first few will do the trick.)
+
 Hint-1: How many minimum of bases do you need to map 26 unique identifiers.  
+
 Hint-2: In your encoding scheme, the length of base pairs should be consistent for the entire scheme. 
 
 **Q.2.b.** Using your letter to DNA mapping, how many total base pairs of DNA would be needed to store the archival contents of the salt mine. Assume that the salt mine is completely packed with documents.
