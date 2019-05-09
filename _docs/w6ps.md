@@ -17,24 +17,24 @@ non-trivial *quantitative pacing* in the development of these technologies. Fina
 
 ## (Q1) DNA as a Storage Medium (35 pts)
 
-The US government has been using an underground salt mine in Pennsylvania as a long term storage facility for physical documents, primarily retirement related papers. According to the Washington Post, in this facility approximately 1000 employees pass thousands of case files from cavern to cavern and then type in retirees’ personal data, one line at a time. Basic document retrieval involves a forklift and takes days. Given the trends in DNA read and write, consider using DNA as an alternative storage medium for these documents.
+The US government has been using an underground salt mine in Pennsylvania as a long term storage facility for physical documents, primarily retirement related papers. According to the Washington Post, in this facility approximately 1000 employees pass thousands of case files from cavern to cavern and then type in retirees’ personal data, one line at a time. Basic document retrieval involves a forklift and takes days. 
+
+Given the trends in DNA read and write, consider using DNA as an alternative storage medium for these documents.
 
 Helpful numbers:
 
 Volume of storage facility = 10 million m^3
 
-Letters per cubic meter of typical government document = 10^9 letters/ m^3
+Letters per cubic meter of typical government document = 10^9 letters/m^3
 
 Volume of a DNA base pair ~ 10^-27 m^3
 
-Please round or simplify whenever convenient. Please show your work and include units.
+Please round or simplify whenever convenient. **Please show your work and include units.**
 
 **Q.1.a.** Since DNA has only 4 bases, but English has 26 letters, you will somehow have to map letters to bases. 
 Briefly specify a simple encoding scheme for mapping bases into the 26 English letters. (You *do not* have to give a letter to DNA mapping for all letters. The first few will do the trick.)
-
-Hint-1: How many minimum of bases do you need to map 26 unique identifiers.  
-
-Hint-2: In your encoding scheme, the length of base pairs should be consistent for the entire scheme. 
+ 
+Hint-1: In your encoding scheme, the length of bases should be consistent for the entire scheme. 
 
 **Q.1.b.** Using your letter to DNA mapping, how many total base pairs of DNA would be needed to store the archival contents of the salt mine. Assume that the salt mine is completely packed with documents.
 
@@ -53,7 +53,7 @@ Hint-2: In your encoding scheme, the length of base pairs should be consistent f
 **Q.1.i.** Can information be stored in the DNA in a living organism as opposed to DNA stored in a frozen tube (-80 freezer).
 If yes, what are one advantage and one disadvantage of using live cell storage? (2 bullet points)
 
-Helpful resources:[link1](https://www.nature.com/news/how-dna-could-store-all-the-world-s-data-1.20496), [link2](https://wyss.harvard.edu/taking-cells-out-to-the-movies-with-new-crispr-technology/)
+Helpful resources:[How DNA Could Store All the World's Data](https://www.nature.com/news/how-dna-could-store-all-the-world-s-data-1.20496), [Taking Cells to the Movies](https://wyss.harvard.edu/taking-cells-out-to-the-movies-with-new-crispr-technology/)
 
 ## (Q2) Sequencing the Total DNA in the Biosphere (20 pts)
 
