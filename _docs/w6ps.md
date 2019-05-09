@@ -15,25 +15,7 @@ permalink: /docs/w6ps/
 describe how DNA read and write work. Coupled with this you will examine the consequences of
 non-trivial *quantitative pacing* in the development of these technologies. Finally, you will examine the consequence of  interconvertability of matter and information as DNA read and write tools improve and discuss the *qualitative changes* that emerge.
 
-
-## (Q1) (Nature + Nurture) or (Fab a Family) (20 pts)
-
-Over the past 12 years the price of synthesizing genes has dropped from $4 to $0.04
-per base pair; presume the future price of DNA synthesis will continue to drop two fold every two years.
-
-Meanwhile Stanford’s undergraduate tuition is approximately $50,000 per year up from $25,000 in 2000.  
-Presume Stanford’s tuition will continue to double every 15 years.
-
-**Q.1.a.** If a human genome is 4 billion base pairs long then when will the cost of synthesizing the DNA encoding an entire human genome be roughly the same as the tuition cost associated with attending Stanford for one year?
-
-Hint: Use the facts given. Keep your math simple, and write out the equations (i.e., show your work).
-An approximate answer is fine.
-
-**Q.1.b.**  What would be your estimate if the price of synthesizing genes continue to drop two fold every 2.5 years instead of 2 years (i.e., only a 6-month longer doubling time). An approximate answer is fine.
-
-**Q.1.c.** Given your answer from part (a) presume that you could then design, build, and bring to life a human encoded by a genome that you design (e.g., with any and all mutations that you and your partner choose).  As potential parents would you prefer to spend your savings on college tuition for a natural child or on realizing a genetically engineered offspring who then has to make  their own way? Why? (2-3 sentences)
-
-## (Q2) DNA as a Storage Medium (30 pts)
+## (Q1) DNA as a Storage Medium (35 pts)
 
 The US government has been using an underground salt mine in Pennsylvania as a long term storage facility for physical documents, primarily retirement related papers. According to the Washington Post, in this facility approximately 1000 employees pass thousands of case files from cavern to cavern and then type in retirees’ personal data, one line at a time. Basic document retrieval involves a forklift and takes days. Given the trends in DNA read and write, consider using DNA as an alternative storage medium for these documents.
 
@@ -47,8 +29,10 @@ Volume of a DNA base pair ~ 10^-27 m^3
 
 Please round or simplify whenever convenient. Please show your work and include units.
 
-**Q.2.a.** Since DNA has only 4 bases, but English has 26 letters, you will somehow have to map letters to bases. Briefly specify a simple encoding scheme for doing that. You *do not* have to give a letter to DNA mapping for all letters.
-The first few will do the trick.
+**Q.2.a.** Since DNA has only 4 bases, but English has 26 letters, you will somehow have to map letters to bases. 
+Briefly specify a simple encoding scheme for mapping bases into the 26 English letters. (You *do not* have to give a letter to DNA mapping for all letters. The first few will do the trick.)
+Hint-1: How many minimum of bases do you need to map 26 unique identifiers.  
+Hint-2: In your encoding scheme, the length of base pairs should be consistent for the entire scheme. 
 
 **Q.2.b.** Using your letter to DNA mapping, how many total base pairs of DNA would be needed to store the archival contents of the salt mine. Assume that the salt mine is completely packed with documents.
 
@@ -69,7 +53,7 @@ If yes, what are one advantage and one disadvantage of using live cell storage? 
 
 Helpful resources:[link1](https://www.nature.com/news/how-dna-could-store-all-the-world-s-data-1.20496), [link2](https://wyss.harvard.edu/taking-cells-out-to-the-movies-with-new-crispr-technology/)
 
-## (Q3) Sequencing the Total DNA in the Biosphere (10 pts)
+## (Q3) Sequencing the Total DNA in the Biosphere (20 pts)
 
 **Q.3.** The following [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002168) estimates that there are about 5.3 x 10^37 bases of DNA in the biosphere.  Given the increasing trends in productivity of sequencing (see slide-2 from class on Wednesday). In what century can a team of 10 sequence 5.3 x 10^37 bases in a month?
 
@@ -78,7 +62,7 @@ Helpful resources:[link1](https://www.nature.com/news/how-dna-could-store-all-th
 
 **Figure-1:** Carlson Curves.
  
-## (Q4) Meet your Microbes (40 pts)
+## (Q4) Meet your Microbes (45 pts)
 
 On Wednesday and Friday of this week, you cultivated, grew, and examined the microbes from your skin.
 
@@ -124,6 +108,23 @@ This week you learned about tools and technologies that enable DNA read and writ
 
 
 ## Extra learning (100% optional):
+
+### (Q1) (Nature + Nurture) or (Fab a Family) (0 pts)
+
+Over the past 12 years the price of synthesizing genes has dropped from $4 to $0.04
+per base pair; presume the future price of DNA synthesis will continue to drop two fold every two years.
+
+Meanwhile Stanford’s undergraduate tuition is approximately $50,000 per year up from $25,000 in 2000.  
+Presume Stanford’s tuition will continue to double every 15 years.
+
+**Q.1.a.** If a human genome is 4 billion base pairs long then when will the cost of synthesizing the DNA encoding an entire human genome be roughly the same as the tuition cost associated with attending Stanford for one year?
+
+Hint: Use the facts given. Keep your math simple, and write out the equations (i.e., show your work).
+An approximate answer is fine.
+
+**Q.1.b.**  What would be your estimate if the price of synthesizing genes continue to drop two fold every 2.5 years instead of 2 years (i.e., only a 6-month longer doubling time). An approximate answer is fine.
+
+**Q.1.c.** Given your answer from part (a) presume that you could then design, build, and bring to life a human encoded by a genome that you design (e.g., with any and all mutations that you and your partner choose).  As potential parents would you prefer to spend your savings on college tuition for a natural child or on realizing a genetically engineered offspring who then has to make  their own way? Why? (2-3 sentences)
 
 ### (Q5)Sequencing and Synthesis technologies (0 pts)
 
