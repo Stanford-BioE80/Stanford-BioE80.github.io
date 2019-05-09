@@ -73,8 +73,11 @@ Helpful resources:[link1](https://www.nature.com/news/how-dna-could-store-all-th
 
 **Q.3.** The following [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002168) estimates that there are about 5.3 x 10^37 bases of DNA in the biosphere.  Given the increasing trends in productivity of sequencing (see slide-2 from class on Wednesday). In what century can a team of 10 sequence 5.3 x 10^37 bases in a month?
 
+![Carlson Curves](/assets/images/PSET6_Crlson_Productivity.png
+ "Productivity of DNA Sequencing and Synthesis")
+
 <figure>
-<a href="/assets/images/PSET6_Carlson_Productivity.png"><img src="/assets/images/PSET6_Carlson_Productivity.png"></a>
+<a href="/assets/images/PSET6_Crlson_Productivity.png"><img src="/assets/images/PSET6_Crlson_Productivity.png"></a>
 </figure>
 **Figure-1:** Carlson Curves.
 
@@ -100,10 +103,6 @@ What is the size, shape, and color of the colony? What is the narrowest classifi
 As sequencing has become cheaper and more accessible, we can now generate huge datasets of sequences. Because of this, we no longer have to rely on culturing microorganisms (ie: growing them on a plate in the lab) to know what’s there. We can take a sample, break open the cells to extract DNA and sequence all of the DNA that is present.  
 
 In [this paper](https://www.nature.com/articles/nature13786), a group sequenced several skin samples from the human body. Below, you can see a table of the top 15 most abundant bacteria (classified at the genus level) for one healthy individual’s left palm, given as a % relative abundance (ie: 100 would be a pure culture of 1 single organism). The relative abundance of a sample from that same individual’s right palm is also given. 
-
-<figure>
-<a href="/assets/images/PSET6_Carlson_Productivity.png"><img src="/assets/images/PSET6_Carlson_Productivity.png"></a>
-</figure>
 
 ![Table of Relative Abundance](/assets/images/Microbes_PalmSample_Table.png
  "Relative Abundance of Microbes on Individual's Left and Right Palm")
