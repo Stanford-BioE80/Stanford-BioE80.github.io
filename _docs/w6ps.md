@@ -73,6 +73,11 @@ Helpful resources:[link1](https://www.nature.com/news/how-dna-could-store-all-th
 
 **Q.3.** The following [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002168) estimates that there are about 5.3 x 10^37 bases of DNA in the biosphere.  Given the increasing trends in productivity of sequencing (see slide-2 from class on Wednesday). In what century can a team of 10 sequence 5.3 x 10^37 bases in a month?
 
+<figure>
+<a href="/assets/images/PSET6_Carlson_Productivity.png"><img src="/assets/images/PSET6_Carlson_Productivity.png"></a>
+</figure>
+**Figure-1:** Carlson Curves.
+
 ![Carlson Curves](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/assets/images/PSET6_Carlson_Productivity.png
  "Productivity in DNA Sequencing and Synthesis")
  
@@ -96,7 +101,11 @@ As sequencing has become cheaper and more accessible, we can now generate huge d
 
 In [this paper](https://www.nature.com/articles/nature13786), a group sequenced several skin samples from the human body. Below, you can see a table of the top 15 most abundant bacteria (classified at the genus level) for one healthy individual’s left palm, given as a % relative abundance (ie: 100 would be a pure culture of 1 single organism). The relative abundance of a sample from that same individual’s right palm is also given. 
 
-![Table of Relative Abundance](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/assets/images/Microbes_PalmSample_Table.png
+<figure>
+<a href="/assets/images/PSET6_Carlson_Productivity.png"><img src="/assets/images/PSET6_Carlson_Productivity.png"></a>
+</figure>
+
+![Table of Relative Abundance](/assets/images/Microbes_PalmSample_Table.png
  "Relative Abundance of Microbes on Individual's Left and Right Palm")
  
 **Q.4.d.** Take a look at this data and compare it to what you saw on your plates. Write down two observations that you find interesting about this data. 
@@ -112,7 +121,8 @@ In [this paper](https://www.nature.com/articles/nature13786), a group sequenced 
 When dealing with microbes, a common strategy to identify what microbes are present is to look at a biomarker on their DNA that is present in all bacteria. For this to work, the biomarker must contain regions that are highly similar to each other as well as variable regions that can be used to identify specific types of bacteria.  For an overview of the most commonly used taxonomic marker, a sequence from the small subunit of the ribosome (16S rRNA), see Wikipedia: https://en.wikipedia.org/wiki/16S_ribosomal_RNA 
 
 Here are two reviews about the skin microbiome:
-[Link 1](https://www.nature.com/articles/nrmicro.2017.157#references)
+[Link 1](https://www.nature.com/articles/nrmicro.2017.157)
+
 [Link 2](https://www.nature.com/articles/nrmicro2537)
 
 Feel free to reach out if you’re interested in the human microbiome or other microbiomes in general! We’d be happy to direct you to additional resources.
