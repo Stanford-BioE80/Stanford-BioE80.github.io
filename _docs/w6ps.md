@@ -73,7 +73,7 @@ Helpful resources:[link1](https://www.nature.com/news/how-dna-could-store-all-th
 
 **Q.3.** The following [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002168) estimates that there are about 5.3 x 10^37 bases of DNA in the biosphere.  Given the increasing trends in productivity of sequencing (see slide-2 from class on Wednesday). In what century can a team of 10 sequence 5.3 x 10^37 bases in a month?
 
-![Carlson Curves](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/assets/images/PSET6 Carlson_Productivity.png
+![Carlson Curves](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/assets/images/PSET6_Carlson_Productivity.png
  "Productivity in DNA Sequencing and Synthesis")
  
 ## (Q4) Meet your Microbes (40 pts)
@@ -103,11 +103,9 @@ In [this paper](https://www.nature.com/articles/nature13786), a group sequenced 
 
 **Q.4.e.** In class, we mentioned four genera that are likely to be found on your plates: *Staphylococcus*, *Corynebacterium*, *Acinetobacter*, and *Pseudomonas*. What is the combined relative abundance of these types of bacteria for this individual’s left palm? Is this number surprising to you? Why or why not?
 
+**Q.4.f.** What are two advantages to using a sequencing approach to identify microbes? What are two advantages to culturing organisms? 
 
-Q.b. When would you want to use sequencing to identify microbes? When would you want to culture an organism? (Alternatively ask: What are two advantages to using a sequencing approach to identify microbes? What are two advantages to culturing organisms?)
-
-Q.c. Look up one of these microbes. Include a picture and a short paragraph (3-4 sentences) about what is known about this microbe. A picture can take the form of an image of a colony on a plate or a microscope-based image, including a SEM. Make sure to include your source(s).
-
+**Q.4.e** Look up one of these microbes. Include a picture and a short paragraph (3-4 sentences) about what is known about this microbe. A picture can take the form of an image of a colony on a plate or a microscope-based image, including a SEM. Make sure to include your source(s).
 
 **Additional Resources for microbial sequencing of skin microbiome:**
 
@@ -119,11 +117,11 @@ Here are two reviews about the skin microbiome:
 
 Feel free to reach out if you’re interested in the human microbiome or other microbiomes in general! We’d be happy to direct you to additional resources.
 
+## Final Notes 
 
+This week you learned about tools and technologies that enable DNA read and write. As part of your core bioengineering skills you should be able to describe how these technologies work. You also learned about the non-trivial speed of development in these technologies and the various ramifications of this development.
 
-**Final Notes:** This week you learned about tools and technologies that enable DNA read and write. As part of your core bioengineering skills you should be able to describe how these technologies work. You also learned about the non-trivial speed of development in these technologies and the various ramifications of this development.
-
-Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
+**Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?**
 
 
 ## Extra learning (100% optional):
