@@ -41,7 +41,7 @@ Next, please skim the 2018 NY Times article, “As D.I.Y. Gene Editing Gains Pop
 
 First, please skim the essay by John Maynard Keynes, "Economic Possibilities for Our Grandchildren"
 
-Link: www.econ.yale.edu/smith/econ116a/keynes1.pdf
+[Link](www.econ.yale.edu/smith/econ116a/keynes1.pdf)
 
 **Q.5.  What was the state of the global economy when Keynes published his essay?**
 
@@ -51,7 +51,7 @@ Link: www.econ.yale.edu/smith/econ116a/keynes1.pdf
 
 Second, please study in detail the paragraph in Tom Jefferson’s letter to John Adams, sent 28 October 1813, that starts with the text, "With respect to Aristocracy we should further consider that…”
 
-Link: https://founders.archives.gov/documents/Adams/99-02-02-6189
+[Link-2](https://founders.archives.gov/documents/Adams/99-02-02-6189)
 
 **Q.8.  What is the significance of land to Jefferson in his argument here?**
 
@@ -66,13 +66,13 @@ _______________________________________________________________________
 
 Three final items for the week!  First, familiarize yourself with Jacobellis v. Ohio, 378 U.S. 184 (1964) by skimming the material online here:
 
-https://en.wikipedia.org/wiki/Jacobellis_v._Ohio
+[Link-1](https://en.wikipedia.org/wiki/Jacobellis_v._Ohio)
 
 **Q.11.  What is Justice Potter Stewart most known for regarding his opinion in this case?** 
 
 Second, familiarize yourself with Brandenburg v. Ohio, 395 U.S. 444 (1969) by skimming the material online here:
 
-https://en.wikipedia.org/wiki/Brandenburg_v._Ohio
+[Link-2](https://en.wikipedia.org/wiki/Brandenburg_v._Ohio)
 
 **Q.12. According to this case, what conditions must all be met in order to make certain speech or acts illegal?**
 
