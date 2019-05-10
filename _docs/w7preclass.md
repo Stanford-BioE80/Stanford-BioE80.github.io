@@ -52,6 +52,8 @@ Second, please study in detail the paragraph in Tom Jefferson’s letter to John
 
 <a href="https://founders.archives.gov/documents/Adams/99-02-02-6189" target="_blank">https://founders.archives.gov/documents/Adams/99-02-02-6189</a>
 
+[https://founders.archives.gov/documents/Adams/99-02-02-6189](https://founders.archives.gov/documents/Adams/99-02-02-6189)
+
 **Q.7.  What is the significance of land to Jefferson in his argument here?**
 
 **Q.8.  What does Jefferson argue is required for all to have an interest in law and order?**
