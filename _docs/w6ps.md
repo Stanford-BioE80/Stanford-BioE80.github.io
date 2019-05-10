@@ -151,7 +151,3 @@ Please include quantitative reasoning in your answer.
 
 **5.d.** Where would you use an Illumina sequencing machine instead of a minION sequencing machine?
 and vice versa?
-
-Test pdf: www.econ.yale.edu/smith/econ116a/keynes1.pdf
-
-<a href="http://www.econ.yale.edu/smith/econ116a/keynes1.pdf" target="_blank">http://www.econ.yale.edu/smith/econ116a/keynes1.pdf</a>
