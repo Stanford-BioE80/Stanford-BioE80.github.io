@@ -3,43 +3,85 @@ title: "Week 7 Preclass "
 permalink: 
 ---
 
-
 ## Cultural Flourishing (Citizenship & Humanity)
 
-Please read and consider the below before start of each class.
-The questions given are only study questions not homework to be graded.
-Talk about it all with your classmates, friends, or TAs, as you like.
+This week we will build on the concept of an emerging networked biology by asking and exploring a non-technical question:  What culture do we wish for?  Stated differently, as biology and bioengineering continue to undergo both quantitative and qualitative change, what will it mean to flourish as both individuals and as a collective society?  What might be needed in order to realize such flourishing?  
+
+Our pre-class materials delve into tools and approaches that are used to structure relationships among people.  
+Such tools are typically the domain of the political scientist, philosopher, lawyer, economist, writer, and so on. Thus, in introducing you to such approaches here, we aim to connect bioengineering to a broader context within which bioengineering occurs.  
 
 _______________________________________________________________________
 
-## Preclass for Monday and Wednesday
+## Preclass for Monday 
 
-(1) Briefly study the "Bioeconomy Dashboard: Economic Metrics” [link](http://www.bioeconomycapital.com/bioeconomy-dashboard/)
+In getting started please familiarize yourself with the thinking of Hobbes and Rousseau.  
 
-**Q.1. What fraction of the US domestic economy is now due to genetic engineering?** 
+Both explored tradeoffs between individual rights and the formation of collective government (i.e., the social contract):  
 
-**Q.2. Is this aspect of the economy increasing or decreasing over time?**
+Briefly introduce yourself to Hobbes’ thinking regarding the formation of government via the four 
+paragraphs that start with, "In Leviathan, Hobbes set out his 
+doctrine of the foundation ofstatesand legitimate governments..."
+[linkhttps://en.wikipedia.org/wiki/Thomas_Hobbes#Leviathan)
 
-(2) Skim the recent New York Times article, "As D.I.Y. Gene Editing Gains Popularity, ‘Someone Is Going to Get Hurt’”
-[link-2](https://www.nytimes.com/2018/05/14/science/biohackers-gene-editing-virus.html)
+Similarly introduce yourself to Rousseau's thinking by studying the eight paragraphs that begin with, 
+"Rousseau's text is divided into four main parts..."
+[link Rousseau](https://en.wikipedia.org/wiki/Discourse_on_Inequality#Argument)
+
+**Q.1. How do Rousseau’s assumptions about human nature differ from Hobbes’?** 
+
+**Q.2. How might such assumptions lead to differences in terms of how people are organized, or organize themselves?**
+
+Next, please skim the 2018 NY Times article, “As D.I.Y. Gene Editing Gains Popularity, ‘Someone Is Going to Get Hurt’”
 
 **Q.3. Do you think bioengineers should be licensed?**
 
-(3) Briefly introduce yourself to Hobbes’ thinking regarding the formation of government via the four 
-paragraphs that start with, "In Leviathan, Hobbes set out his 
-doctrine of the foundation ofstatesand legitimate governments..." [link-3](https://en.wikipedia.org/wiki/Thomas_Hobbes#Leviathan)
-
-(4) Similarly introduce yourself to Rousseau's thinking by studying the eight paragraphs that begin with, 
-"Rousseau's text is divided into four main parts..." [link-4](https://en.wikipedia.org/wiki/Discourse_on_Inequality#Argument)
-
 **Q.4. How do Rousseau’s assumptions about human nature differ from Hobbes’?** 
 
-**Q.5. How might such assumptions lead to differences in terms of how people are organized, or organize themselves?**
+## Preclass for Wednesday
+
+First, please skim the essay by John Maynard Keynes, "Economic Possibilities for Our Grandchildren"
+
+Link: www.econ.yale.edu/smith/econ116a/keynes1.pdf
+
+**Q4.  What was the state of the global economy when Keynes published his essay?**
+
+**Q5.  Who are Keynes “grandchildren” and what does Keynes conclude regarding their future economic prospects?**
+
+**Q6.  Did Keynes' prediction come true?**
+
+Second, please study in detail the paragraph in Tom Jefferson’s letter to John Adams, sent 28 October 1813, that starts with the text, "With respect to Aristocracy we should further consider that…”
+
+Link: https://founders.archives.gov/documents/Adams/99-02-02-6189
+
+**Q7.  What is the significance of land to Jefferson in his argument here?**
+
+**Q8.  What does Jefferson argue is required for all to have an interest in law and order?**
+
+**Q9.  What is the equivalent of land in 2019?  For the rest of the 21st century?**
 
 _______________________________________________________________________
 
 ## Preclass for Friday
 
-To prepare for the in-class Gene drives discussion please briefly review the following: 
-[Gene Drives](https://wyss.harvard.edu/media-post/crispr-cas9-gene-drives/), and
-[Gene Drives FAQ](https://wyss.harvard.edu/faqs-gene-drives/)
+
+Three final items for the week!  First, familiarize yourself with Jacobellis v. Ohio, 378 U.S. 184 (1964) by skimming the material online here:
+
+https://en.wikipedia.org/wiki/Jacobellis_v._Ohio
+
+**Q10.  What is Justice Potter Stewart most known for regarding his opinion in this case?** 
+
+Second, familiarize yourself with Brandenburg v. Ohio, 395 U.S. 444 (1969) by skimming the material online here:
+
+https://en.wikipedia.org/wiki/Brandenburg_v._Ohio
+
+**Q11. According to this case, what conditions must all be met in order to make certain speech or acts illegal?**
+
+Third and lastly, please read the one-page essay, She Unnames Them, by Ursula Le Guin, available online here and here:
+
+lchc.ucsd.edu/mca/Mail/xmcamail.2013_01.dir/pdf4gQ1dofjT0.pdf
+
+https://www.newyorker.com/magazine/1985/01/21/she-unnames-them
+
+**Q12. Who is the protagonist?**
+
+**Q13. What does it mean to unname a species?**
