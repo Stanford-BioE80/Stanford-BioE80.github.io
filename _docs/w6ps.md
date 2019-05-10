@@ -91,7 +91,7 @@ In [this paper](https://www.nature.com/articles/nature13786), a group sequenced 
 
 **Q.3.f.** What are two advantages to using a sequencing approach to identify microbes? What are two advantages to culturing organisms in lab (growing them on a plate or in a liquid flask)? 
 
-**Q.3.g.** Look up one of these microbes from the table. Include a picture and a short paragraph (3-4 sentences) about what is known about this microbe. A picture can take the form of an image of a colony on a plate or a microscope-based image, including a SEM. Make sure to include your source(s).
+**Q.3.g.** Look up one of these microbes from the table using an internet search. On your pset, include a picture and a short paragraph (3-4 sentences) about what is known about this microbe. A picture can take the form of an image of a colony on a plate or a microscope-based image, including a SEM. Make sure to include your source(s).
 
 **Additional Resources for microbial sequencing of skin microbiome:**
 
