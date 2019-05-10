@@ -81,8 +81,8 @@ docs:
         url: /docs/w4ps/
       - title: "Week 5 PS"
         url: /docs/w5ps/
-      #- title: "Week 6 PS"
-      #  url: /docs/w6ps/
+      - title: "Week 6 PS"
+        url: /docs/w6ps/
       #- title: "Week 7 PS"
       #  url: /docs/w7ps/
       #- title: "Week 8 PS"
@@ -102,3 +102,5 @@ docs:
         url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w4
       - title: "Week 5 CS"
         url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w5
+      - title: "Week 6 CS"
+        url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w6
