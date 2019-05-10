@@ -65,19 +65,19 @@ _______________________________________________________________________
 
 Three final items for the week!  First, familiarize yourself with Jacobellis v. Ohio, 378 U.S. 184 (1964) by skimming the material online here:
 
-[Link-1: Jacobellis_v._Ohio](https://en.wikipedia.org/wiki/Jacobellis_v._Ohio)
+[Link-1: Jacobellis v. Ohio](https://en.wikipedia.org/wiki/Jacobellis_v._Ohio)
 
 **Q.10.  What is Justice Potter Stewart most known for regarding his opinion in this case?** 
 
 Second, familiarize yourself with Brandenburg v. Ohio, 395 U.S. 444 (1969) by skimming the material online here:
 
-[Link-2: Brandenburg_v._Ohio](https://en.wikipedia.org/wiki/Brandenburg_v._Ohio)
+[Link-2: Brandenburg v. Ohio](https://en.wikipedia.org/wiki/Brandenburg_v._Ohio)
 
 **Q.11. According to this case, what conditions must all be met in order to make certain speech or acts illegal?**
 
 Third and lastly, please read the one-page essay, She Unnames Them, by Ursula Le Guin, available online here and here:
 
-[She unnames them](https://www.newyorker.com/magazine/1985/01/21/she-unnames-them)
+[Link-3: She unnames them](https://www.newyorker.com/magazine/1985/01/21/she-unnames-them)
 
 lchc.ucsd.edu/mca/Mail/xmcamail.2013_01.dir/pdf4gQ1dofjT0.pdf
 
