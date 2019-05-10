@@ -50,7 +50,6 @@ First, please skim the essay by John Maynard Keynes, "Economic Possibilities for
 
 Second, please study in detail the paragraph in Tom Jefferson’s letter to John Adams, sent 28 October 1813, that starts with the text, "With respect to Aristocracy we should further consider that…”
 
-https://founders.archives.gov/documents/Adams/99-02-02-6189
 <a href="https://founders.archives.gov/documents/Adams/99-02-02-6189" target="_blank">https://founders.archives.gov/documents/Adams/99-02-02-6189</a>
 
 **Q.7.  What is the significance of land to Jefferson in his argument here?**
@@ -80,7 +79,7 @@ Third and lastly, please read the one-page essay, She Unnames Them, by Ursula Le
 
 [Link-3: She unnames them](https://www.newyorker.com/magazine/1985/01/21/she-unnames-them)
 
-<a href="lchc.ucsd.edu/mca/Mail/xmcamail.2013_01.dir/pdf4gQ1dofjT0.pdf" target="_blank">lchc.ucsd.edu/mca/Mail/xmcamail.2013_01.dir/pdf4gQ1dofjT0.pdf</a>
+<a href="hTest" target="_blank">http://lchc.ucsd.edu/mca/Mail/xmcamail.2013_01.dir/pdf4gQ1dofjT0.pdf</a>
 
 **Q.12. Who is the protagonist?**
 
