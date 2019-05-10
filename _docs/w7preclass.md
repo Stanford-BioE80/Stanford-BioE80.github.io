@@ -21,7 +21,7 @@ Both explored tradeoffs between individual rights and the formation of collectiv
 Briefly introduce yourself to Hobbes’ thinking regarding the formation of government via the four 
 paragraphs that start with, "In Leviathan, Hobbes set out his 
 doctrine of the foundation ofstatesand legitimate governments..."
-[linkhttps://en.wikipedia.org/wiki/Thomas_Hobbes#Leviathan)
+[link Hobbes](https://en.wikipedia.org/wiki/Thomas_Hobbes#Leviathan)
 
 Similarly introduce yourself to Rousseau's thinking by studying the eight paragraphs that begin with, 
 "Rousseau's text is divided into four main parts..."
