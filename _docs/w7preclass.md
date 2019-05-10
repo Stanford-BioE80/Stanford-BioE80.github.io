@@ -79,7 +79,7 @@ Third and lastly, please read the one-page essay, She Unnames Them, by Ursula Le
 
 [Link-3: She unnames them](https://www.newyorker.com/magazine/1985/01/21/she-unnames-them)
 
-<a href="hTest" target="_blank">http://lchc.ucsd.edu/mca/Mail/xmcamail.2013_01.dir/pdf4gQ1dofjT0.pdf</a>
+<a href="http://lchc.ucsd.edu/mca/Mail/xmcamail.2013_01.dir/pdf4gQ1dofjT0.pdf" target="_blank">pdf</a>
 
 **Q.12. Who is the protagonist?**
 
