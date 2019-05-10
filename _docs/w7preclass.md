@@ -75,7 +75,7 @@ Second, familiarize yourself with Brandenburg v. Ohio, 395 U.S. 444 (1969) by sk
 
 **Q.11. According to this case, what conditions must all be met in order to make certain speech or acts illegal?**
 
-Third and lastly, please read the one-page essay, She Unnames Them, by Ursula Le Guin, available online here and here:
+Third and lastly, please read the one-page essay, She Unnames Them, by Ursula Le Guin, available from either links: 
 
 [Link-3: She unnames them](https://www.newyorker.com/magazine/1985/01/21/she-unnames-them)
 
