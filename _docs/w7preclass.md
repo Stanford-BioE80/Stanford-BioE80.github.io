@@ -50,8 +50,6 @@ First, please skim the essay by John Maynard Keynes, "Economic Possibilities for
 
 Second, please study in detail the paragraph in Tom Jefferson’s letter to John Adams, sent 28 October 1813, that starts with the text, "With respect to Aristocracy we should further consider that…”
 
-<a href="https://founders.archives.gov/documents/Adams/99-02-02-6189" target="_blank">https://founders.archives.gov/documents/Adams/99-02-02-6189</a>
-
 [https://founders.archives.gov/documents/Adams/99-02-02-6189](https://founders.archives.gov/documents/Adams/99-02-02-6189)
 
 **Q.7.  What is the significance of land to Jefferson in his argument here?**
