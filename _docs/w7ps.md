@@ -4,49 +4,50 @@ permalink: /docs/w7ps/
 2018: Week 8
 ---
 
-**DUE:** Next Friday start of class via Canvas.
+**DUE:** Next Friday (May 24) beginning of class.
 
-**NOTE:** 
-- All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
-- Please turn in your completed problem sets as an electronic copy via Canvas.
-- Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations).
+**NOTES:**
+  - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
+  - Please turn in your completed problem sets as an electronic copy via Gradescope.
+  - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations) and include units.
 
 ## (Q1)  Rousseau and Hobbes (15 Points)
 
-1.a. How do Rousseau’s assumptions about human nature differ from Hobbes’? (Max 50 words, 5 points)
+**Q.1.a.** How do Rousseau’s assumptions about human nature differ from Hobbes’? (2 bullet points)
  
-1.b. Do you think those practicing bioengineering should be licensed? Also, who gets to decide?
+**Q.1.b.** Do you think those practicing bioengineering should be licensed? Also, who gets to decide?
 In the context of bioengineering, how the assumptions from part A could lead to differences regarding 
 how people are organized, or organize themselves. 
 Note: In this question, we are looking for a clear and logical argument that uses the assumptions from 1.a. 
-(100 words, 10 points)
+(3-4 Sentences )
 
 ## (Q2) Insulin and Access (30 Points)
 
-2.a. Examine these resources and briefly answer the following: What are theglobal trends of the disease? 
-How affordable (and accessible) is insulin currently? (bullet points)
+**Q.2.a.**  Examine these resources and briefly answer the following: 
+
+What are the global trends of diabetes? 
+How affordable (and accessible) is insulin currently? (3 bullet points)
 
 - WHO Diabetes: [resource-1](https://www.who.int/en/news-room/fact-sheets/detail/diabetes)
-
 
 - Insulin Access and Affordability Working Group at 
 Hearing of Senate Special Committee on Aging:[resource-2](http://www.diabetes.org/newsroom/press-releases/2018/insulin-affordability-white-paper-release.html)
 
-
 - PDB 101 - Diabetes Mellitus timeline:[resource-3](http://pdb101.rcsb.org/global-health/diabetes-mellitus/about/timeline)
 
-2.b. Examine the structure of insulin from [link](http://pdb101.rcsb.org/motm/14How) is human insulin different from pig insulin? Examine the structure of designer insulins from [link-2](http://pdb101.rcsb.org/motm/194) Pick either long-acting or fast-acting insulins. What changes to the protein made these designerproteins (e.g., long-acting or fast-acting) possible? (bullet points)
+**Q.2.b.**   Examine the structure of insulin from [link](http://pdb101.rcsb.org/motm/14How) is human insulin different from pig insulin? 
 
-2.c. Examine the following resources: 
+**Q.2.c.** Examine the structure of designer insulins from [link-2](http://pdb101.rcsb.org/motm/194) Pick either long-acting or fast-acting insulins. What changes to the protein made these designer proteins (e.g., long-acting or fast-acting) possible? (bullet points)
+
+**Q.2.d.** Examine the following resources: 
 
 First, skim the article titled: “Why is There No Generic Insulin? Historical Origins of a Modern Problem.” [link](https://www.nejm.org/doi/full/10.1056/NEJMms1411398)
 
 Next, the link to an open source project for making insulin: [link](http://openinsulin.org/)
 
+Is it ok for the DIY bioengineers to create their own insulin? Use the Rousseau and Hobbes discussion to argue for your position? (3-4 sentences)
 
-Is it ok for the DIY bioengineers to create their own insulin? Use the Rousseau and Hobbesdiscussion to argue for your position? (2 to 3 sentences)
-
-Extra resources:
+Extra resources for Insulin and Access 
 1. https://www.gene.com/stories/cloning-insulin
 2. http://clinchem.aaccjnls.org/content/48/12/2270.long#sec-18
 3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3714061/
