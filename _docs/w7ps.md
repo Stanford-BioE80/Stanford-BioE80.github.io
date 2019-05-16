@@ -31,9 +31,9 @@ How affordable (and accessible) is insulin currently? (3 bullet points)
 - WHO Diabetes: [resource-1](https://www.who.int/en/news-room/fact-sheets/detail/diabetes)
 
 - Insulin Access and Affordability Working Group at 
-Hearing of Senate Special Committee on Aging:[resource-2](http://www.diabetes.org/newsroom/press-releases/2018/insulin-affordability-white-paper-release.html)
+Hearing of Senate Special Committee on Aging: [resource-2](http://www.diabetes.org/newsroom/press-releases/2018/insulin-affordability-white-paper-release.html)
 
-- PDB 101 - Diabetes Mellitus timeline:[resource-3](http://pdb101.rcsb.org/global-health/diabetes-mellitus/about/timeline)
+- PDB 101 - Diabetes Mellitus timeline: [resource-3](http://pdb101.rcsb.org/global-health/diabetes-mellitus/about/timeline)
 
 **Q.2.b.**   Examine the structure of insulin from [link](http://pdb101.rcsb.org/motm/14How) is human insulin different from pig insulin? 
 
