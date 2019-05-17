@@ -48,9 +48,13 @@ Next, the link to an open source project for making insulin: [link](http://openi
 Is it ok for the DIY bioengineers to create their own insulin? Use the Rousseau and Hobbes discussion to argue for your position? (3-4 sentences)
 
 Extra resources for Insulin and Access 
-1. https://www.gene.com/stories/cloning-insulin
-2. http://clinchem.aaccjnls.org/content/48/12/2270.long#sec-18
-3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3714061/
+
+1. [link-1: Cloning insulin](https://www.gene.com/stories/cloning-insulin)
+
+2. [link-2: History of insulin](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3714061/)
+
+3. [link-3: Insulin: Discovery and Controversy](http://clinchem.aaccjnls.org/content/48/12/2270.long#sec-18)
+
 
 ## (Q3) Gene Drive (30 points)
 
