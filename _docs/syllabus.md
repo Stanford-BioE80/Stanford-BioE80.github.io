@@ -160,7 +160,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ----------- | ----------- | -------|
 | Mon 13 May  | 320-105     | Why do people work to solve problems via bioengineering? |
 | Wed 15 May  | 320-105     | Citizenship & Humanity - Hobbes vs Hobbyist |
-| Fri 17 May  | SC 112/132  | Gene Drives **(PSET 7)** |
+| Fri 17 May  | 320-105  | Citizenship & Humanity **(PSET 7)** |
 
 **Lead Instructor**:  Drew
 
