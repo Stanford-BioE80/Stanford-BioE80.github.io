@@ -66,8 +66,6 @@ docs:
         url: /docs/w8inclass/
       - title: "Week 9 Preclass"
         url: /docs/w9preclass/
-      - title: "Week 9 Inclass"
-        url: /docs/w9inclass/
 
   - title: Problem Sets
     children:
@@ -104,3 +102,8 @@ docs:
         url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w5
       - title: "Week 6 CS"
         url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w6
+
+  - title: Final Project
+    children:
+      - title: "Instructions"
+        url: /docs/final_project_instructions/

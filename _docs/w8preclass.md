@@ -46,7 +46,7 @@ NOTE: if you have a hard time finding or playing the video upload to Canvas, you
 
 ### Case-2: Blinking Square
 
-We've also uploaded a second video, titled w8_preclass_video_2.mov, which depicts single blinking square (100μmx100μm) containing about approximately 5,000 cells. Please watch it.
+We've also uploaded a second [videos to Canvas](https://canvas.stanford.edu/courses/98999/files/folder/Course%20Materials/w8_preclass), titled w8_preclass_video_2.mov, which depicts single blinking square (100μmx100μm) containing about approximately 5,000 cells. Please watch it.
 
 NOTE: if you have a hard time finding or playing the video upload to Canvas, you can find it in [the original paper](https://www.nature.com/articles/nature08753). You can also use the paper as a reference in answering the questions below.
 
