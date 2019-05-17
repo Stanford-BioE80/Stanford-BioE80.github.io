@@ -10,7 +10,7 @@ Class projects will be submitted to a dropbox link that will be shared at a late
 
 We will host your projects on the class website.
 
-## Final Project Rubric (15% of grade)
+# Final Project Rubric (15% of grade)
 
 **Team Rules - 6pts**
 
@@ -34,7 +34,7 @@ You will NOT need to do a formal presentation or report in class.   Your final p
 **Please also see the example at the bottom.**  Please, please ask us if you have any questions.   
 
 
-### GRADING
+## GRADING
 
 
 **Team Rules** -- graded as part of Project Activity 1
@@ -46,7 +46,7 @@ You will NOT need to do a formal presentation or report in class.   Your final p
 **Team Work** -- we will share a link via Canvas after the project are submitted so that each team can determine their team-work score.
 
 
-### Final Deliverable 
+## Final Deliverable 
 
 
 **CLARITY - 7 pts**
