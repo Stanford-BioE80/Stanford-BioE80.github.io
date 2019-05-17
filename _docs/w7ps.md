@@ -55,13 +55,20 @@ Extra resources for Insulin and Access
 
 3. [link-3: Insulin: Discovery and Controversy](http://clinchem.aaccjnls.org/content/48/12/2270.long#sec-18)
 
+## (Q3) Cultural Flourishing
 
-## (Q3) Gene Drive (30 points)
+Select one of the cases that were presented in class on Friday.
 
-As we discussed on Friday because gene drives could impact natural ecosystems they are currently developed under strict biosafety controls (e.g., physical containment). Public discussions on whether, how, and when it might be appropriate to release a gene drive into thewild are still ongoing. Here, you will consider examples that can be used to examine thepotential impact of releasing a gene drive into wild ecosystems.
+**Q.3.a.** Which case did you select?
 
-3.a. In the real world, gene drives might not always work correctly.  For example, in a recentexperiment, penetrance of a gene drive in a laboratory population of Drosophila (aka, fruit flies) was only 94.5%. Why might a gene drive might not always work perfectly well? (bullet points)
+**Q.3.b.** For your case, what you wish to have happen or develop over time.  What is your desired outcome?
 
-3.b. Would there be any practical difference between the impact of a gene drive on a populationof wild rabbits versus a population of long-lived tortoises? Why or why not?
+**Q.3.c.** Which cultural concepts might apply or be relevant?
 
-3.c. Please consider the “Pink Chicken Project” via https://pinkchickenproject.com/. Did you order an egg? (Y/N).  If you wished to stop this project what would you do? (2-3 sentences)
+**Q.3.d.**  Which skills may be usefull in navigating or advancing the situation presented to your desired outcome?
+
+**Q.3.e.**  Put all of the above together into a draft plan (into a paragraph) for causing the future you wish for to come true or at least be more likely to come true?
+
+**Your questions or concerns** Do you have any unanswered questions or concerns (from this week, past weeks, or general BIOE) that you would like to share with us?
+
+
