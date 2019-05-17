@@ -26,19 +26,19 @@ Note: In Q.1.b., we are looking for a clear and logical argument that uses the a
 
 Examine these resources and briefly answer the following: 
 
-- WHO Diabetes: [resource-1](https://www.who.int/en/news-room/fact-sheets/detail/diabetes)
+- WHO Diabetes: [Resource-1](https://www.who.int/en/news-room/fact-sheets/detail/diabetes)
 
 - Insulin Access and Affordability Working Group at 
-Hearing of Senate Special Committee on Aging: [resource-2](http://www.diabetes.org/newsroom/press-releases/2018/insulin-affordability-white-paper-release.html)
+Hearing of Senate Special Committee on Aging: [Resource-2](http://www.diabetes.org/newsroom/press-releases/2018/insulin-affordability-white-paper-release.html)
 
 **Q.2.a.** What are the global trends of diabetes? (bullet points)
 
 **Q.2.b.** How affordable (and accessible) is insulin currently? (bullet points)
 
 Examine two additional resources: 
-First, skim the article titled: “Why is There No Generic Insulin? Historical Origins of a Modern Problem.” [resource-3](https://www.nejm.org/doi/full/10.1056/NEJMms1411398)
+First, skim the article titled: “Why is There No Generic Insulin? Historical Origins of a Modern Problem.” [Resource-3](https://www.nejm.org/doi/full/10.1056/NEJMms1411398)
 
-Next, skim the link to an open source project for making insulin: [resource-4](http://openinsulin.org/)
+Next, skim the link to an open source project for making insulin: [Resource-4](http://openinsulin.org/)
 
 **Q.2.c.**  Is it ok for the DIY bioengineers to create their own insulin? Use the Rousseau and Hobbes discussion to argue for your position? (4-5 sentences)
 
@@ -48,7 +48,7 @@ You can use these extra resources if  you like to learn more about this topic:
 
 2. [link-2: History of insulin](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3714061/)
 
-3. [link-3: Insulin: Discovery and Controversy](http://clinchem.aaccjnls.org/content/48/12/2270.long#sec-18)
+3. [link-3: Insulin Discovery and controversy](http://clinchem.aaccjnls.org/content/48/12/2270.long#sec-18)
 
 
 ## (Q3) Cultural Flourishing (40 Points)
@@ -68,5 +68,4 @@ Select one of the four cases that were presented in class on Friday.
 **Q.3.f.** If resources are needed for your plan, be sure to mention what they are and where they come from? (1-2 sentences)
 
 **Your questions or concerns** Do you have any unanswered questions or concerns (from this week, past weeks, or general BIOE) that you would like to share with us?
-
 
