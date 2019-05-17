@@ -36,9 +36,9 @@ Hearing of Senate Special Committee on Aging: [resource-2](http://www.diabetes.o
 **Q.2.b.** How affordable (and accessible) is insulin currently? (bullet points)
 
 Examine two additional resources: 
-First, skim the article titled: “Why is There No Generic Insulin? Historical Origins of a Modern Problem.” [link](https://www.nejm.org/doi/full/10.1056/NEJMms1411398)
+First, skim the article titled: “Why is There No Generic Insulin? Historical Origins of a Modern Problem.” [resource-3](https://www.nejm.org/doi/full/10.1056/NEJMms1411398)
 
-Next, skim the link to an open source project for making insulin: [link](http://openinsulin.org/)
+Next, skim the link to an open source project for making insulin: [resource-4](http://openinsulin.org/)
 
 **Q.2.c.**  Is it ok for the DIY bioengineers to create their own insulin? Use the Rousseau and Hobbes discussion to argue for your position? (4-5 sentences)
 
