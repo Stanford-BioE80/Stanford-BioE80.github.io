@@ -11,7 +11,7 @@ permalink: /docs/w7ps/
   - Please turn in your completed problem sets as an electronic copy via Gradescope.
   - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations) and include units.
 
-## (Q1)  Rousseau and Hobbes (20 Points)
+## (Q1)  Rousseau and Hobbes (30 Points)
 
 **Q.1.a.** How do Rousseau’s assumptions about human nature differ from Hobbes’? (2 bullet points)
  
@@ -55,15 +55,15 @@ Extra resources for Insulin and Access
 
 3. [link-3: Insulin: Discovery and Controversy](http://clinchem.aaccjnls.org/content/48/12/2270.long#sec-18)
 
-## (Q3) Cultural Flourishing
+## (Q3) Cultural Flourishing (40 Points)
 
-Select one of the cases that were presented in class on Friday.
+Select one of the four cases that were presented in class on Friday.
 
 **Q.3.a.** Which case did you select?
 
-**Q.3.b.** For your case, what you wish to have happen or develop over time.  What is your desired outcome?
+**Q.3.b.** For your case, what you wish to happen or develop over time.  What is your desired outcome? 
 
-**Q.3.c.** Which cultural concepts might apply or be relevant?
+**Q.3.c.** Which cultural concepts might apply or be relevant to your case?
 
 **Q.3.d.**  Which skills may be usefull in navigating or advancing the situation presented to your desired outcome?
 
