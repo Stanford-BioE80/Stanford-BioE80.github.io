@@ -10,17 +10,17 @@ Please read and consider the below before start of class on Monday.
 The questions given are only study questions not homework to be graded.
 Talk about it all with your classmates, friends, or TAs, as you like.
 
-## Preclass for Monday 
+## Preclass for Monday
 
 ### Introduction - Diffusion Happens
 
 Welcome to the first pre-class material for Diffusion and Patterning.
-The examples here will prepare you (and provide you with a mindset and a feeling) before the the class towards 
+The examples here will prepare you (and provide you with a mindset and a feeling) before the the class towards
 the following goals:
 
 **Goal-1:** You will be able to recognize that diffusion is everywhere in biology and beyond.
 
-**Goal-2:** You will be able to describe the mechanism behind diffusion (microscopically and macroscopically). 
+**Goal-2:** You will be able to describe the mechanism behind diffusion (microscopically and macroscopically).
 Stated differently, you will be able to describe what does it mean that diffusion happens.
 
 **Goal-3:** You will be able to describe the role and application of diffusion in engineering living matter.
@@ -28,14 +28,11 @@ Stated differently, you will be able to describe what does it mean that diffusio
 Let's briefly learn about application of diffusion in engineering living matter with an interesting example of
 **Blinking Squares** ...
 
-### Case-1: Blinking Squares 
+### Case-1: Blinking Squares
 
-Here is a videos of 500 blinking squares. 
-Each square is about 100μmx100μm and there are 25 μm gaps between each square. 
-Each square contains about 5,000 bacterial cells. 
+We've uploaded two [videos to Canvas](https://canvas.stanford.edu/courses/98999/files/folder/Course%20Materials/w8_preclass) of some blinking squares. Please see w8_preclass_video_1.mov, which shows 500 blinking squares. Each square is about 100μmx100μm and there are 25 μm gaps between each square. Each square contains about 5,000 bacterial cells.
 
-Take a look at this follwing paper and watch the video titled ():
-[source](https://www.nature.com/articles/nature10722)
+NOTE: if you have a hard time finding or playing the video upload to Canvas, you can find it in [the original paper](https://www.nature.com/articles/nature10722) in the Supplementary Material (Sup Movie 1). You can also use the paper as a reference in answering the questions below.
 
 **Q.1. What do you observe?**
 
@@ -47,12 +44,11 @@ Take a look at this follwing paper and watch the video titled ():
 
 **Q.5. Can autonomous agents synchronize their behavior, and if so how?**
 
-
 ### Case-2: Blinking Square
 
-Take a look at this follwing paper and watch the video titled ():
-[source-2](https://www.nature.com/articles/nature08753)
-Here is a videos of a single blinking square (100μmx100μm) containing about approximately 5,000 cells.
+We've also uploaded a second video, titled w8_preclass_video_2.mov, which depicts single blinking square (100μmx100μm) containing about approximately 5,000 cells. Please watch it.
+
+NOTE: if you have a hard time finding or playing the video upload to Canvas, you can find it in [the original paper](https://www.nature.com/articles/nature08753). You can also use the paper as a reference in answering the questions below.
 
 **Q.6. What do you observe?**
 
@@ -64,14 +60,16 @@ Here is a videos of a single blinking square (100μmx100μm) containing about ap
 
 Diffusion is everywhere in living matter and beyond. We encounter diffusion routinely in our daily lives.
 
-**Diffusion** is a spontaneous net movement of matter (e.g., molecules, atoms) from regions of high concentration to a region of low concentration. Stated differently, diffusion is a transfer of mass that causes the distribution of molecules, or atoms to be more uniform in space as time evolves. 
+**Diffusion** is a spontaneous net movement of matter (e.g., molecules, atoms) from regions of high concentration to a region of low concentration. Stated differently, diffusion is a transfer of mass that causes the distribution of molecules, or atoms to be more uniform in space as time evolves.
 
 **Q.9. Can you think about everyday examples of diffusion in your life?**
 
 
-### Is this Diffusion? 
+### Is this Diffusion?
 
 Take a look at the following [video](https://www.youtube.com/watch?v=5JuEomRki_M)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5JuEomRki_M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Q.10. Is this diffusion? why or why not? How can you tell?**
 
@@ -90,11 +88,11 @@ Next we will build on both ideas.E.g,. how can state (i.e., memory) be used to c
 
 We'll start by drawing again upon the preclass from Monday(i.e., the bacterial blinking oscillators) and end by working through a challenge of how to program the growth an arm-like structure.
 
-Please ponder how cells can act... I.e., the various primary functions that cells can "execute" or carry out. 
+Please ponder how cells can act... I.e., the various primary functions that cells can "execute" or carry out.
 By combining spontaneous physical processes starting from diffusion with programmed cellular functions, both natural and engineered biological systems can realize non-trivial behaviors over both space and time. More specifically:
 
-### (1) Cells can grow and divide. 
-I.e., one cell can become two and so on. 
+### (1) Cells can grow and divide.
+I.e., one cell can become two and so on.
 [Cell Division - Exponential](https://www.youtube.com/watch?v=9x23n4zBOU8&feature=youtu.be)
 
 ### (2) Cells can move.
@@ -114,8 +112,8 @@ E.g., here's a type of "pulse" in gene expression generated across many cells du
 I.e., one type of cell can become another type of cell, in response to signals or even spontaneously.E.g., here are bacterial cells infected with virus realizing different cell-fate outcomes.
 [Bacteriophage lambda lysis and lysogeny](https://www.youtube.com/watch?v=sLkZ9FPHJGM&feature=youtu.be)
 
-### (5) Cells can undergo programmed cell death 
-I.e., cells can die. 
+### (5) Cells can undergo programmed cell death
+I.e., cells can die.
 [Apoptosis](https://www.youtube.com/watch?v=WkATnXv9rsQ)
 
 Taken together these functions can be used to realize incredible outcomes.E.g., watch this old-time movie of a frog egg becoming a frog.
@@ -126,10 +124,10 @@ Taken together these functions can be used to realize incredible outcomes.E.g., 
 
 ____________________________________________________________
 
-## Preclass for Friday: Dancing Droplets 
+## Preclass for Friday: Dancing Droplets
 
-As part of a group you and your team will explore and experience programing the behavior of simple 
-systems in space and time. 
+As part of a group you and your team will explore and experience programing the behavior of simple
+systems in space and time.
 
 To get started please spend ~5 minutes watching these two videos:
 
