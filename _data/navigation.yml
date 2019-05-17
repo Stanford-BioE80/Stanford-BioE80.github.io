@@ -102,7 +102,9 @@ docs:
         url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w5
       - title: "Week 6 CS"
         url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w6
-
+      - title: "Week 7 CS"
+        url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w7
+        
   - title: Final Project
     children:
       - title: "Instructions"
