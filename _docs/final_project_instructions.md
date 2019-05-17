@@ -1,11 +1,9 @@
 ---
-title: "Final Project Instructions!"
-permalink: /docs/final_project_instructions.md
+title: "BIOE80 Final Project Instructions"
+permalink: /docs/final_project_instructions
 last_modified_at: 2019 May 17
 toc: true
 ---
-
-# BIOE80 Final Project Instructions
 
 Class projects will be submitted to a dropbox link that will be shared at a later date (stay tuned) via Canvas! 
 
