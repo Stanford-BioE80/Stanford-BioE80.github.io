@@ -65,7 +65,7 @@ Select one of the four cases that were presented in class on Friday.
 
 **Q.3.e.**  Put all of the above together into a draft plan that might cause the future you wish for to come true or at least be more likely to come true? (1 paragraph, max. of 200 words) 
 
-**Q.3.f.** If resources are needed for your plan, be sure to mention what they are and where do they come from? (1-2 sentences)
+**Q.3.f.** If resources are needed for your plan, be sure to mention what they are and where they come from? (1-2 sentences)
 
 **Your questions or concerns** Do you have any unanswered questions or concerns (from this week, past weeks, or general BIOE) that you would like to share with us?
 
