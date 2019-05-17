@@ -19,7 +19,7 @@ permalink: /docs/w7ps/
 In the context of bioengineering, how the assumptions from part Q.1.a could lead to differences regarding 
 how people are organized, or organize themselves. (4-5 sentences)
 
-Note: In this question, we are looking for a clear and logical argument that uses the assumptions from Q.1.a 
+Note: In Q.1.b., we are looking for a clear and logical argument that uses the assumptions from Q.1.a.
 
 
 ## (Q2) Insulin and Access (30 Points)
@@ -57,7 +57,7 @@ Select one of the four cases that were presented in class on Friday.
 
 **Q.3.a.** Which case did you select?
 
-**Q.3.b.** For your case, what do you wish to happen or develop over time.  What is your desired outcome? (1-2 sentences)
+**Q.3.b.** For your case, what do you wish to happen or develop over time?  What is your desired outcome? (2-3 sentences)
 
 **Q.3.c.** For your case, which *cultural concepts* may be useful in navigating or advancing the situation presented to your desired outcome? 
 
