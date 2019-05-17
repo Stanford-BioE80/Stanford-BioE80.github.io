@@ -5,6 +5,7 @@ last_modified_at: 2019 May 17
 toc: true
 ---
 
+
 Class projects will be submitted to a dropbox link that will be shared at a later date (stay tuned) via Canvas! 
 
 We will host your projects on the class website.
@@ -35,6 +36,7 @@ You will NOT need to do a formal presentation or report in class.   Your final p
 
 ### GRADING
 
+
 **Team Rules** -- graded as part of Project Activity 1
 
 **Brainstorming** -- graded as part of Project Activity 1
@@ -45,6 +47,7 @@ You will NOT need to do a formal presentation or report in class.   Your final p
 
 
 ### Final Deliverable 
+
 
 **CLARITY - 7 pts**
 
@@ -57,7 +60,6 @@ You will NOT need to do a formal presentation or report in class.   Your final p
 - Is the presentation self-explanatory?
 
 - Limited use of jargon
-
 
 **EMPATHY FOR AUDIENCE - 10 pts**
 
@@ -94,6 +96,7 @@ You will NOT need to do a formal presentation or report in class.   Your final p
 **Reflection Document to Help Address Above**
 
 To help you earn all the credit you deserve for each of these four topics please also turn in four paragraphs detailing exactly how you addressed each topic within the context of your project (max. of 200 words per paragraph).  
+
 
 **Does the above not make enough sense?  That’s reasonable.  Let’s consider a specific example to help advance your thinking:**
 
