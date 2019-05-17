@@ -52,27 +52,18 @@ You will NOT need to do a formal presentation or report in class.   Your final p
 **CLARITY - 7 pts**
 
 - Is the topic clear?
-
 - Is there a clear and cohesive message directed at your specific audience? 
-
 - Data, images, plots, if any, are easy to follow and are clearly labeled 
-
 - Is the presentation self-explanatory?
-
 - Limited use of jargon
 
 **EMPATHY FOR AUDIENCE - 10 pts**
 
 - Is the intended audience obvious?
-
 - Why should the audience care about this topic/find it relevant or useful?
-
 - Are the messages appropriate for the target audience? Is it sensitive to the audience? 
-
 - Will the audience be engaged by the presentation? 
-
 - Is the medium in the service of the audience and topic?
-
 - Does the project serve the stated audience? 
 
 **SCIENCE & TECHNOLOGY - 10 pts**
