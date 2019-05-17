@@ -11,7 +11,7 @@ permalink: /docs/w7ps/
   - Please turn in your completed problem sets as an electronic copy via Gradescope.
   - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations) and include units.
 
-## (Q1)  Rousseau and Hobbes (15 Points)
+## (Q1)  Rousseau and Hobbes (20 Points)
 
 **Q.1.a.** How do Rousseau’s assumptions about human nature differ from Hobbes’? (2 bullet points)
  
@@ -54,10 +54,10 @@ Extra resources for Insulin and Access
 
 ## (Q3) Gene Drive (30 points)
 
-As we discussed on Friday because gene drives could impact natural ecosystems they arecurrently developed under strict biosafety controls (e.g., physical containment). Publicdiscussions on whether, how, and when it might be appropriate to release a gene drive into thewild are still ongoing. Here, you will consider examples that can be used to examine thepotential impact of releasing a gene drive into wild ecosystems.
+As we discussed on Friday because gene drives could impact natural ecosystems they are currently developed under strict biosafety controls (e.g., physical containment). Public discussions on whether, how, and when it might be appropriate to release a gene drive into thewild are still ongoing. Here, you will consider examples that can be used to examine thepotential impact of releasing a gene drive into wild ecosystems.
 
 3.a. In the real world, gene drives might not always work correctly.  For example, in a recentexperiment, penetrance of a gene drive in a laboratory population of Drosophila (aka, fruit flies) was only 94.5%. Why might a gene drive might not always work perfectly well? (bullet points)
 
 3.b. Would there be any practical difference between the impact of a gene drive on a populationof wild rabbits versus a population of long-lived tortoises? Why or why not?
 
-3.c. Please consider the “Pink Chicken Project” via https://pinkchickenproject.com/. Did you order an egg? (Y/N).  If you wished to stop this project what would you do? (50 words)
+3.c. Please consider the “Pink Chicken Project” via https://pinkchickenproject.com/. Did you order an egg? (Y/N).  If you wished to stop this project what would you do? (2-3 sentences)
