@@ -69,19 +69,14 @@ You will NOT need to do a formal presentation or report in class.   Your final p
 **SCIENCE & TECHNOLOGY - 10 pts**
 
 - Is any science or engineering represented technically correct?
-
 - Do you reference two or more independent, reputable sources? 
-
 - Is clear guidance provided for how an interested audience member could learn more, on their ownn
-
 - Is the relevance or connection to bioengineering clearly articulated?
 
 **SIZZLE FACTOR - 3 pts**
 
 - Is the project appealing and engaging? 
-
 - Does the audience want to know more after engaging with this material?
-
 - Is the execution quality high? (e.g., not a first draft, but polished work)
 
 **Reflection Document to Help Address Above**
