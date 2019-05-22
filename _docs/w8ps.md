@@ -64,7 +64,7 @@ Next, let’s estimate the time it takes for a protein to diffuse spontaneously 
 (iii) HeLa cell with R≈20 μm, and
 (iv) A neuronal cell axon with R≈1 cm.
 
-**2.d.** What does the the diffusion time for the axon suggests to you? 
+**2.e.** What does the the diffusion time for the axon suggests to you? 
 
 This question is from the [Cell Biology by the Numbers](http://book.bionumbers.org/what-are-the-time-scales-for-diffusion-in-cells/)
 
@@ -76,7 +76,7 @@ Take a look at the photo of the system in action. Note the edge detection in the
 
 **3.a.** What do you observe?  (1-2 sentences) For example, why is there more pigment inside the corners of the square, or inside the bottom left angle of Alfred’s portrait? 
 
-(Note: If you study the paper you can see how the authors use the **Reaction-Diffusion Model** to quantitatively describe and verify their engineered system)
+(Note: If you study the paper you can see how the authors use the Reaction-Diffusion Model to quantitatively describe and verify the Bacterial edge detection system)
 
 ## (Q4)  Dancing Droplets (40 pts)
 
