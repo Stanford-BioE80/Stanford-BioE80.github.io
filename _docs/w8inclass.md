@@ -16,11 +16,11 @@ systems in space and time.
 Our specific goal is linked to gaining experience and asking questions about this week’s fundamental bioengineering 
 concepts, including:
 
-— How simple actions can lead to complex behaviors,
+How simple actions can lead to complex behaviors,
 
-— How patterns and behavior can be encoded implicitly or across a distributed system,
+How patterns and behavior can be encoded implicitly or across a distributed system,
 
-— How external physical forces can interact with simple agents to realize shape and form.
+How external physical forces can interact with simple agents to realize shape and form.
 
 To explore these concepts we are challenging you to realize three types of behaviors that illustrate the three modes 
 of patterning.
@@ -48,7 +48,7 @@ We have prepared the following solutions of propylene glycol and water (% v/v)
 30% (Purple), 
 15% (Teal), 
 5% (Orange), 
-2.5% (Pink)
+2.5% (Pink).
 
 A few notes on the glass slides and cleanliness:
 
@@ -72,7 +72,6 @@ Ask questions or ask for help as needed!
 
 When you feel ready...
 
-
 **Three Challenge**
 
 ### Challenge 1.( ~ 5 minutes)
@@ -82,7 +81,7 @@ Can you get one droplet to chase another along a curved path between two points?
 Can you get one droplet to follow a defined pathwithoutusing the black sharpie, only by placing other droplets in the field of play? How few “control” droplets can you use?
 
 ### Challenge 3. (All remaining time)
-By only placing droplets in a confined initial region (i.e., like the stump of a hapless newt), can you get a droplet to eject and follow a defined path (again, all without placing any droplets elsewhere in the field)?
+By only placing droplets in a confined initial region, can you get a droplet to eject and follow a defined path (again, all without placing any droplets elsewhere in the field)?
 
 Note: You may choose to take pictures to help you answer the problem set questions. 
 
@@ -97,7 +96,3 @@ These questions will also appear shortly on PSET (here they are in advance):
 — To what extent were you able to realize increasingly autonomous behavior?
 
 — How good do we have to become at implementing these different frames of reference in order to engineer living matter?
-
-Be great and have a wonderful weekend!
-
-Team 80
