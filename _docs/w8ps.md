@@ -13,7 +13,7 @@ permalink: /docs/w8ps/
 - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations and units)
 
 
-## (Q1) Spatial GOOP (0 pts)
+## (Q1) Spatial GOOP (20 pts)
 
 Two DNA devices have been engineered for use in GOOP (Figure, below).  Device A expresses protein A in the absence of protein B.  Device B expresses protein B in the presence of protein A.  Device A can also make GFP.  Each device is placed in a distinct reservoir within a micro-scale fluidic channel. Fresh GOOP (i.e., cell-free extract) is supplied from one end of the channel.   Using various channel lengths experimenters are testing a genetic system made from the two devices. 
 
@@ -31,7 +31,7 @@ Two DNA devices have been engineered for use in GOOP (Figure, below).  Device A 
 </figure>
 
 
-## (Q2) Diffusion, Diffusion constant, and Diffusion time (30 pts)
+## (Q2) Diffusion, Diffusion constant, and Diffusion time (25 pts)
 
  In the class you were introduced to diffusion both qualitatively.
  In this question you will additionally explore diffusion quantitativly. 
@@ -69,7 +69,7 @@ Next, let’s estimate the time it takes for a protein to diffuse spontaneously 
 
 This question is from the [Cell Biology by the Numbers](http://book.bionumbers.org/what-are-the-time-scales-for-diffusion-in-cells/)
 
-## (Q3) Bacterial Edge Detection (10)
+## (Q3) Bacterial Edge Detection (15)
 
 We talked about engineered *E.coli* which detects lightearlier in the quarter.  Building on earlier [work](https://www.nature.com/articles/nature04405) first published in 2005, Jeff Tabor and colleagues eventually demonstrated abacterial edge detection system. In their system a bacterial lawn (i.e., a uniform layer of identically engineered bacteria growing on a plate) detect a light-encoded image.  The bacteriaare initially all the same but, depending on whether they are exposed to light or not, send or receive small molecule-encoded signals that diffuse across the light/dark boundary. Only bacteria positioned at the boundary between light and dark express an enzyme that results in formationof a dark pigment (HINT: see Figure on next page and also the primary [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775486/) article).
 
