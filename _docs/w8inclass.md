@@ -91,7 +91,7 @@ These questions will also appear shortly on PSET (here they are in advance):
 
 — If you have two different droplets why do they chase each other? What other behaviors have you observed?
 
-— Why does the sharpie marker create a physical barrier?
+— Why does the sharpie marker create a physical barrier and how do the droplets respond to it?
 
 — To what extent were you able to realize increasingly autonomous behavior?
 
