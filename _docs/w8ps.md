@@ -38,9 +38,9 @@ Two DNA devices have been engineered for use in GOOP (Figure, below).  Device A 
  
 First let's warm up:
  
-Diffusion coefficient is described by the following equation: D=kTB/6πνa
+Diffusion coefficient is described by the following equation: D=k<sub>B</sub>T/6πνa
  
- - D is Boltzmann's constant (1.3807 x 10 ^-23 J/K), 
+ - k<sub>B</sub>is Boltzmann's constant (1.3807 x 10 ^-23 J/K), 
  - T is the temperature (K) of the surrounding medium ,
  - ν is viscosity of surrounding medium (NxS/m^2), 
  - “a” is a measure of length (radius of a sphere approximating the molecule).  
