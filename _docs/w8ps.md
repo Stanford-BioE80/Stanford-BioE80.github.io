@@ -12,7 +12,6 @@ permalink: /docs/w8ps/
 - Please turn in your completed problem sets as an electronic copy via via Gradescope.
 - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations and units)
 
-**Goals:** 
 
 ## (Q1) Spatial GOOP (0 pts)
 
@@ -59,8 +58,11 @@ Next, let’s estimate the time it takes for a protein to diffuse spontaneously 
 **2.c.** Calculate the times it takes for the protein (~30 kDa GFP) with a diffusion constant D=30 µm^2/s to diffuse across four different cell types: 
 
 (i) *E.coli* with R≈1 μm, 
+
 (ii)  Yeast cell with R≈10 μm, 
+
 (iii) HeLa cell with R≈20 μm, and
+
 (iv) A neuronal cell axon with R≈1 cm.
 
 **2.d.** What does the the diffusion time for the axon suggests to you? 
