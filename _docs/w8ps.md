@@ -108,7 +108,7 @@ The following link takes you to a paper titled [Life at Low Reynolds Number](htt
 *The following links* are **explorables** that can help you explore and build an intuition aboutpatterns and pattern formation.  We hope that you take some time and examine them on your own:
 
 
-(1) Fireflies and Patterns: http://ncase.me/fireflies/
+(1) [Fireflies and Patterns](http://ncase.me/fireflies)
 
 
 (2) Diffusion limited aggregation: http://rocs.hu-berlin.de/explorables/explorables/dla/
