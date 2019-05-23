@@ -112,7 +112,6 @@ The following link takes you to a paper titled [Life at Low Reynolds Number](htt
 
 (2) [Explorables](http://www.complexity-explorables.org/explorables/)
 
-(3) [Diffusion limited aggregation](http://rocs.hu-berlin.de/explorables/explorables/dla/)
 
 **Your questions**
 Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
