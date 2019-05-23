@@ -84,8 +84,6 @@ Take a look at the photo of the system in action. Note the edge detection in the
 
 **3.b.** Using concepts from this week, why is there more pigment inside the corners of the square, or inside the bottom left angle of Alfred’s portrait? 
 
-(Note: If you study the paper you can see how the authors use the Reaction-Diffusion Model to quantitatively describe and verify the Bacterial edge detection system)
-
 ## (Q4)  Dancing Droplets (40 pts)
 
 On Friday you participated in the Dancing Droplets activity.  Use pictures, diagrams, or drawings as appropriate. 
