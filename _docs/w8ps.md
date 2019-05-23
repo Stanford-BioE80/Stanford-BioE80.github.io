@@ -14,16 +14,32 @@ permalink: /docs/w8ps/
 
 **Goals:** 
 
+## (Q1) Spatial GOOP (0 pts)
+
+Two DNA devices have been engineered for use in GOOP (Figure, below).  Device A expresses protein A in the absence of protein B.  Device B expresses protein B in the presence of protein A.  Device A can also make GFP.  Each device is placed in a distinct reservoir within a micro-scale fluidic channel. Fresh GOOP (i.e., cell-free extract) is supplied from one end of the channel.   Using various channel lengths experimenters are testing a genetic system made from the two devices. 
+
+**1.a.**  By studying the diagram in Figure 1.B, describe the expected relationships and behavior of the system.  
+(2-3 sentences max)
+
+**1.b.** Fig. 1.C shows two spatial arrangements of the genetic system. In the top arrangement device A is 50 µm away from device B. In the lower arrangement device A is 150 µm away from device B. The time responses for each arrangement is measured by GFP production from device A as presented below.  Does “trace-1” come from the 50 µm or 150 µm arrangement? 
+
+
+**1.c.** Explain your choice, use appropriate equation(s). (Hint: think about diffusion)
+
+<figure>
+<a href="/assets/images/Spatial GOOP.png"><img src="/assets/images/Spatial GOOP.png"></a>
+<figcaption><b>Figure 1</b>. Spatial GOOP .</figcaption>
+</figure>
 
 
 ## (Q2) Diffusion, Diffusion constant, and Diffusion time (30 pts)
 
- In the class material you were introduced to diffusion both qualitatively and quantitatively.
- In this question you will use these concepts for simple estimations. 
+ In the class you were introduced to diffusion both qualitatively.
+ In this question you will additionally explore diffusion quantitativly. 
  
- First let's warm up:
+First let's warm up:
  
-A diffusion coefficient is quantitatively described by the following equation: D=kTB/6πνa
+Diffusion coefficient is described by the following equation: D=kTB/6πνa
  
  - D is Boltzmann's constant (1.3807 x 10 ^-23 J/K), 
  - T is the temperature (K) of the surrounding medium ,
@@ -53,7 +69,12 @@ This question is from the [Cell Biology by the Numbers](http://book.bionumbers.o
 
 ## (Q3) Bacterial edge detection (10)
 
-We talked about engineered *E.coli* to s"ee light" earlier in the quarter.  Building on [work](https://www.nature.com/articles/nature04405) first published in 2005, Jeff Tabor and colleagues eventually demonstrated abacterial edge detection system. In their system a bacterial lawn (i.e., a uniform layer of identically engineered bacteria growing on a plate) detect a light-encoded image.  The bacteriaare initially all the same but, depending on whether they are exposed to light or not, send or receive small molecule-encoded signals that diffuse across the light/dark boundary. Only bacteria positioned at the boundary between light and dark express an enzyme that results in formationof a dark pigment (HINT: see Figure on next page and also the primary [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775486/) article).
+We talked about engineered *E.coli* which detects lightearlier in the quarter.  Building on earlier [work](https://www.nature.com/articles/nature04405) first published in 2005, Jeff Tabor and colleagues eventually demonstrated abacterial edge detection system. In their system a bacterial lawn (i.e., a uniform layer of identically engineered bacteria growing on a plate) detect a light-encoded image.  The bacteriaare initially all the same but, depending on whether they are exposed to light or not, send or receive small molecule-encoded signals that diffuse across the light/dark boundary. Only bacteria positioned at the boundary between light and dark express an enzyme that results in formationof a dark pigment (HINT: see Figure on next page and also the primary [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775486/) article).
+
+<figure>
+<a href="/assets/images/pset8_fig.2.png"><img src="/assets/images/pset8_fig.2.png"></a>
+<figcaption><b>Figure 2</b>. Spatial GOOP .</figcaption>
+</figure>
 
 Take a look at the photo of the system in action. Note the edge detection in the case of asquare or Alfred Hitchcock’s portrait.
 
@@ -65,11 +86,13 @@ Take a look at the photo of the system in action. Note the edge detection in the
 
 On Friday you participated in the Dancing Droplets activity.  Use pictures, diagrams, or drawings as appropriate. 
 
-4.a. If you have two different droplets why do they chase each other? What other behaviors have you observed?
+**4.a.** If you have two different droplets why do they chase each other? What other behaviors have you observed?
 
-4.b. To what extent were you able to realize increasingly autonomous behavior? (Include photos)
+**4.b.** Why does the sharpie marker create a physical barrier and how do the droplets respond to it?
 
-4.c. How good do we have to become at implementing these different frames of reference in order to engineer living matter?
+**4.c.** To what extent were you able to realize increasingly autonomous behavior? (Include photos from each challenge)
+
+**4.d.** How good do we have to become at implementing these different frames of reference in order to engineer living matter?
 
 **Final Notes:**  you explored the intersection of physics and living matter. You explore ddiffusion, and how to use diffusion to engineer  both *temporary* and *permanent* pattern viacell states and functions. You further explored biased random walks and how cells move and find resources.
 
@@ -97,19 +120,3 @@ Here is the link to the https://www.nature.com/articles/nature03461
 Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
 Additional questions 
-## (Q) Spatial GOOP (0 pts)
-
-Two DNA devices have been engineered for use in GOOP (Figure, below).  Device A expresses protein A in the absence of protein B.  Device B expresses protein B in the presence of protein A.  Device A can also make GFP.  Each device is placed in a distinct reservoir within a micro-scale fluidic channel. Fresh GOOP (i.e., cell-free extract) is supplied from one end of the channel.   Using various channel lengths experimenters are testing a genetic system made from the two devices. 
-
-**a.**  By studying the diagram in Figure 1.B, describe the expected relationships and behavior of the system.  
-(2-3 sentences max)
-
-**b.** Fig. 1.C shows two spatial arrangements of the genetic system. In the top arrangement device A is 50 µm away from device B. In the lower arrangement device A is 150 µm away from device B. The time responses for each arrangement is measured by GFP production from device A as presented below.  Does “trace-1” come from the 50 µm or 150 µm arrangement? 
-
-
-** c.** Explain your choice, use appropriate equation(s). (Hint: think about diffusion)
-
-<figure>
-<a href="/assets/images/Spatial GOOP.png"><img src="/assets/images/Spatial GOOP.png"></a>
-<figcaption><b>Figure 1</b>. Spatial GOOP .</figcaption>
-</figure>
