@@ -98,7 +98,6 @@ On Friday you participated in the Dancing Droplets activity.  Use pictures, diag
 
 **Extra credit: (5 pts)**  Make your own dancing droplet video (30 to 60 seconds) with your own choice of background music.
 
-**Final Notes:**  you explored the intersection of physics and living matter. You explore ddiffusion, and how to use diffusion to engineer  both *temporary* and *permanent* pattern viacell states and functions. You further explored biased random walks and how cells move and find resources.
 
 **Your questions**
 Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
