@@ -96,3 +96,5 @@ These questions will also appear shortly on PSET (here they are in advance):
 — To what extent were you able to realize increasingly autonomous behavior?
 
 — How good do we have to become at implementing these different frames of reference in order to engineer living matter?
+
+— Extra credit:  Make your own dancing droplet video (30 to 60 seconds) with your own choice of background music.
