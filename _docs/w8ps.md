@@ -107,12 +107,12 @@ Do you have any unanswered questions (from this week, past weeks, or general BIO
 
 The following link takes you to a paper titled [Life at Low Reynolds Number](https://www2.gwu.edu/~phy21bio/Reading/Purcell_life_at_low_reynolds_number.pdf) that examines physics at the scale of a bacteria.  The following link takes you to a digital copy of a great book titled [The Machinery of life](https://searchworks.stanford.edu/view/11568895) which can help you with the concepts we have covered both this week and in previous weeks.
 
-*The following links* are **explorables** that can help you explore and build an intuition aboutpatterns and pattern formation.  We hope that you take some time and examine them on your own:
+*The following links* are **explorables** that can help you explore and build an intuition about patterns and pattern formation.  We hope that you take some time and examine them on your own:
 
 
 (1) [Fireflies and Patterns](http://ncase.me/fireflies)
 
-(2) [Explorables](http://www.complexity-explorables.org/explorables/)
+(2) [Explorables Collection ](http://www.complexity-explorables.org/explorables/)
 
 
 **Your questions**
