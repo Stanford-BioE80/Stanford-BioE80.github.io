@@ -37,5 +37,5 @@ impossible  until recently? Give two or three examples.**
 working on right now, given that he announced JCVI3.0 to the world back in 2016?**
 ____________________________________________________________
 
-## No Preclass Reading for Friday
+### Preclass reading for Friday will be updated 
 
