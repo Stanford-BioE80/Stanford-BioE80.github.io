@@ -74,16 +74,16 @@ When you feel ready...
 
 **Three Challenge**
 
-### Challenge 1.( ~ 5 minutes)
+### Challenge 1.( ~ 5-7 minutes)
 Can you get one droplet to chase another along a curved path between two points? (Hint: Sharpie)
 
-### Challenge 2. (~10 minutes)
+### Challenge 2. (~ 10-12 minutes)
 Can you get one droplet to follow a defined pathwithoutusing the black sharpie, only by placing other droplets in the field of play? How few “control” droplets can you use?
 
 ### Challenge 3. (All remaining time)
 By only placing droplets in a confined initial region, can you get a droplet to eject and follow a defined path (again, all without placing any droplets elsewhere in the field)?
 
-Note: You may choose to take pictures to help you answer the problem set questions. 
+Note: Take pictures to help you answer the problem set questions. 
 
 *** QUESTIONS ***
 
