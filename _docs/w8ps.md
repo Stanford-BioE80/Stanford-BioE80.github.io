@@ -34,7 +34,7 @@ Two DNA devices have been engineered for use in GOOP (Figure, below).  Device A 
 ## (Q2) Diffusion, Diffusion constant, and Diffusion time (25 pts)
 
  In the class you were introduced to diffusion both qualitatively.
- In this question you will additionally explore diffusion quantitativly.
+ In this question you will additionally explore diffusion quantitatively.
 
 First let's warm up:
 
@@ -71,14 +71,14 @@ This question is from the [Cell Biology by the Numbers](http://book.bionumbers.o
 
 ## (Q3) Bacterial Edge Detection (15)
 
-We talked about engineered *E.coli* which detects lightearlier in the quarter.  Building on earlier [work](https://www.nature.com/articles/nature04405) first published in 2005, Jeff Tabor and colleagues eventually demonstrated abacterial edge detection system. In their system a bacterial lawn (i.e., a uniform layer of identically engineered bacteria growing on a plate) detect a light-encoded image.  The bacteriaare initially all the same but, depending on whether they are exposed to light or not, send or receive small molecule-encoded signals that diffuse across the light/dark boundary. Only bacteria positioned at the boundary between light and dark express an enzyme that results in formationof a dark pigment (HINT: see Figure on next page and also the primary [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775486/) article).
+We talked about engineered *E.coli* which detects light earlier in the quarter.  Building on earlier [work](https://www.nature.com/articles/nature04405) first published in 2005, Jeff Tabor and colleagues eventually demonstrated a bacterial edge detection system. In their system a bacterial lawn (i.e., a uniform layer of identically engineered bacteria growing on a plate) detect a light-encoded image. The bacteria are initially all the same but, depending on whether they are exposed to light or not, send or receive small molecule-encoded signals that diffuse across the light/dark boundary. Only bacteria positioned at the boundary between light and dark express an enzyme that results in formation of a dark pigment (HINT: see Figure on next page and also the primary [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775486/) article).
 
 <figure>
 <a href="/assets/images/pset8_fig.2.png"><img src="/assets/images/pset8_fig.2.png"></a>
 <figcaption><b>Figure 2</b>. Bacterial edge detection.</figcaption>
 </figure>
 
-Take a look at the photo of the system in action. Note the edge detection in the case of asquare or Alfred Hitchcock’s portrait.
+Take a look at the photo of the system in action. Note the edge detection in the case of a square or Alfred Hitchcock’s portrait.
 
 **3.a.** What do you observe?  (1-2 sentences)
 
