@@ -96,7 +96,7 @@ On Friday you participated in the Dancing Droplets activity.  Use pictures, diag
 
 **4.d.** How good do we have to become at implementing these different frames of reference (3 challenges) in order to engineer living matter?
 
-**Extra credit: (5 pts)**  Make your own dancing droplet video (30 to 60 seconds) with your own choice of background music.
+**Extra credit: (5 pts)**  Make your own dancing droplet video (30 to 60 seconds) with your own choice of background music. Submit your file on Canvas (under Discussions -> Dancing Droplets). Note that the rest of your problem set should be submitted on Gradescope. This part only will be submitted through Canvas.
 
 
 **Your questions**
