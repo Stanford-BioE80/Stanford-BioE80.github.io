@@ -1,5 +1,5 @@
 ---
-title: "Week 8 Problem setslass"
+title: "Week 8 Problem Set"
 permalink: /docs/w8ps/
 2018: Week 4
 ---
@@ -15,12 +15,12 @@ permalink: /docs/w8ps/
 
 ## (Q1) Spatial GOOP (20 pts)
 
-Two DNA devices have been engineered for use in GOOP (Figure, below).  Device A expresses protein A in the absence of protein B.  Device B expresses protein B in the presence of protein A.  Device A can also make GFP.  Each device is placed in a distinct reservoir within a micro-scale fluidic channel. Fresh GOOP (i.e., cell-free extract) is supplied from one end of the channel.   Using various channel lengths experimenters are testing a genetic system made from the two devices. 
+Two DNA devices have been engineered for use in GOOP (Figure, below).  Device A expresses protein A in the absence of protein B.  Device B expresses protein B in the presence of protein A.  Device A can also make GFP.  Each device is placed in a distinct reservoir within a micro-scale fluidic channel. Fresh GOOP (i.e., cell-free extract) is supplied from one end of the channel.   Using various channel lengths experimenters are testing a genetic system made from the two devices.
 
 **1.a.**  By studying the diagram in Figure 1.B, describe the expected relationships and behavior of the system.  
 (2-3 sentences max)
 
-**1.b.** Fig. 1.C shows two spatial arrangements of the genetic system. In the top arrangement device A is 50 µm away from device B. In the lower arrangement device A is 150 µm away from device B. The time responses for each arrangement is measured by GFP production from device A as presented below.  Does “trace-1” come from the 50 µm or 150 µm arrangement? 
+**1.b.** Fig. 1.C shows two spatial arrangements of the genetic system. In the top arrangement device A is 50 µm away from device B. In the lower arrangement device A is 150 µm away from device B. The time responses for each arrangement is measured by GFP production from device A as presented below.  Does “trace-1” come from the 50 µm or 150 µm arrangement?
 
 
 **1.c.** Explain your choice, use appropriate equation(s). (Hint: think about diffusion)
@@ -34,38 +34,38 @@ Two DNA devices have been engineered for use in GOOP (Figure, below).  Device A 
 ## (Q2) Diffusion, Diffusion constant, and Diffusion time (25 pts)
 
  In the class you were introduced to diffusion both qualitatively.
- In this question you will additionally explore diffusion quantitativly. 
- 
+ In this question you will additionally explore diffusion quantitativly.
+
 First let's warm up:
- 
+
 Diffusion coefficient is described by the following equation: D=k<sub>B</sub>T/6πηa
- 
- - k<sub>B</sub> is Boltzmann's constant (1.3807 x 10 ^-23 J/K), 
+
+ - k<sub>B</sub> is Boltzmann's constant (1.3807 x 10 ^-23 J/K),
  - T is the temperature (K) of the surrounding medium ,
- - η is viscosity of surrounding medium (N x s / m^2), 
+ - η is viscosity of surrounding medium (N x s / m^2),
  - “a” is a measure of length (radius of a sphere approximating the molecule).  
- 
+
  **2.a.** Using above determine the units for diffusion coefficient? (show your work)
- 
+
 You learn that the diffusion coefficient for a protein (~30 kDa GFP) in water is about 100 µm^2/s.
 The diffusion constant for the same protein is in the cytoplasm of a eukaryotic cell is only 30 µm^2/s.
 
 **2.b.** Intuitively do these numbers make sense? (Yes or No) Why? (Bullet points)
 
-Next, let’s estimate the time it takes for a protein to diffuse spontaneously across different types of cells 
+Next, let’s estimate the time it takes for a protein to diffuse spontaneously across different types of cells
 (diffusion time τ). We will use the formula τ = R^2/6D, where R is the traverse distance.
 
-**2.c.** Calculate the times it takes for the protein (~30 kDa GFP) with a diffusion constant D=30 µm^2/s to diffuse across four different cell types: 
+**2.c.** Calculate the times it takes for the protein (~30 kDa GFP) with a diffusion constant D=30 µm^2/s to diffuse across four different cell types:
 
-(i) *E.coli* with R≈1 μm, 
+(i) *E.coli* with R≈1 μm,
 
-(ii)  Yeast cell with R≈10 μm, 
+(ii)  Yeast cell with R≈10 μm,
 
 (iii) HeLa cell with R≈20 μm, and
 
 (iv) A neuronal cell axon with R≈1 cm.
 
-**2.d.** What does the the diffusion time for the axon suggests to you? 
+**2.d.** What does the the diffusion time for the axon suggests to you?
 
 This question is from the [Cell Biology by the Numbers](http://book.bionumbers.org/what-are-the-time-scales-for-diffusion-in-cells/)
 
@@ -80,13 +80,13 @@ We talked about engineered *E.coli* which detects lightearlier in the quarter.  
 
 Take a look at the photo of the system in action. Note the edge detection in the case of asquare or Alfred Hitchcock’s portrait.
 
-**3.a.** What do you observe?  (1-2 sentences) 
+**3.a.** What do you observe?  (1-2 sentences)
 
-**3.b.** Using concepts from this week, why is there more pigment inside the corners of the square, or inside the bottom left angle of Alfred’s portrait? 
+**3.b.** Using concepts from this week, why is there more pigment inside the corners of the square, or inside the bottom left angle of Alfred’s portrait?
 
 ## (Q4)  Dancing Droplets (40 pts)
 
-On Friday you participated in the Dancing Droplets activity.  Use pictures, diagrams, or drawings as appropriate. 
+On Friday you participated in the Dancing Droplets activity.  Use pictures, diagrams, or drawings as appropriate.
 
 **4.a.** If you have two different droplets why do they chase each other? What other behaviors have you observed?
 
