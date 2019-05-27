@@ -29,7 +29,7 @@ Available online via: [Could Genetically Modified Mosquitoes Save Hawaii’s End
 
 *Self-study Questions:*
 
-**Q.4. How do mosquitoes contribute to the extinction of native Hawaiin birds?**  
+**Q.4. How do mosquitoes contribute to the extinction of native Hawaiian birds?**  
 
 **Q.5. Why are there mosquitos on Hawaii?**   
 
