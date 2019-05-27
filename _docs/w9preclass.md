@@ -14,7 +14,7 @@ Please read and consider the below before start of class. The questions given ar
 Available online via: [George the Snail, Believed to Be the Last of His Species, Dies at 14 in Hawaii](https://www.nytimes.com/2019/01/10/science/snail-dead-george-species.html)  
 (And, also shared as a .PDF file via email)
 
-*Self-study Questions*
+*Self-study Questions:*
 
 **Q.1. What fraction of Hawaiian snail species have gone extinct in the last several hundred years?**  
 
@@ -28,7 +28,7 @@ Available online via: [George the Snail, Believed to Be the Last of His Species,
 Available online via: [Could Genetically Modified Mosquitoes Save Hawaii’s Endangered Birds?](https://www.newyorker.com/news/daily-comment/could-genetically-modified-mosquitoes-save-hawaiis-endangered-birds)   
 (And, also shared as a .PDF file via email)
 
-*Self-study Questions*
+*Self-study Questions:*
 
 **Q.4. How do mosquitoes contribute to the extinction of native Hawaiin birds?**  
 
@@ -37,7 +37,7 @@ Available online via: [Could Genetically Modified Mosquitoes Save Hawaii’s End
 (3) Please consider the video introduction to *“gene drives”* available here:[What's a gene drive?](https://youtu.be/KgvhUPiDdq8)   
 Please pay special attention to the 2.5 minutes of material starting around 30 seconds into the video.   
 
-*Self-study Questions* 
+*Self-study Questions:* 
 
 **Q.6. What is a gene drive?**
 
@@ -52,4 +52,4 @@ Please pay special attention to the 2.5 minutes of material starting around 30 s
 [See](https://youtu.be/KgvhUPiDdq8?t=98) (Hint — listen for when the narrator exclaims, “…also contained a little bit of code…”)   
 
 
-## Preclass for  Friday will be updated 
+## Preclass for Friday will be updated 
