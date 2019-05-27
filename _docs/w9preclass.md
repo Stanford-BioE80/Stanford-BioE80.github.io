@@ -11,7 +11,7 @@ Please read and consider the below before start of class. The questions given ar
    
 (1) Please read the brief article, *"George the Snail, Believed to Be the Last of His Species, Dies at 14 in Hawaii.”*
 
-Available online [via](https://www.nytimes.com/2019/01/10/science/snail-dead-george-species.html)  
+Available online via: [George the Snail, Believed to Be the Last of His Species, Dies at 14 in Hawaii](https://www.nytimes.com/2019/01/10/science/snail-dead-george-species.html)  
 (And, also shared as a .PDF file via email)
 
 **Self-study Questions**
@@ -25,7 +25,7 @@ Available online [via](https://www.nytimes.com/2019/01/10/science/snail-dead-geo
 
 (2) Please skim the article by our own Michael Specter, *“Could Genetically Modified Mosquitoes Save Hawaii’s Endangered Birds?”*  
 
-Available online [via](https://www.newyorker.com/news/daily-comment/could-genetically-modified-mosquitoes-save-hawaiis-endangered-birds)   
+Available online via: [Could Genetically Modified Mosquitoes Save Hawaii’s Endangered Birds?](https://www.newyorker.com/news/daily-comment/could-genetically-modified-mosquitoes-save-hawaiis-endangered-birds)   
 (And, also shared as a .PDF file via email)
 
 **Self-study Questions**
