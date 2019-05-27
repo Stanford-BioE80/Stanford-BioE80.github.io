@@ -33,7 +33,7 @@ Available online via: [Could Genetically Modified Mosquitoes Save Hawaii’s End
 
 **Q.5. Why are there mosquitos on Hawaii?**   
 
-(3) Please consider the video introduction to *“gene drives”* available here:[What's a gene drive?](https://youtu.be/KgvhUPiDdq8)   
+(3) Please consider the video introduction to *“gene drives”* available here: [What's a gene drive?](https://youtu.be/KgvhUPiDdq8)   
 Please pay special attention to the 2.5 minutes of material starting around 30 seconds into the video.   
 
 *Self-study Questions:* 
