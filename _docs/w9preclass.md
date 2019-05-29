@@ -69,7 +69,7 @@ How to read a research paper:
 
 STOP HERE REGARDLESS AND DECIDE IF YOU HAVE MORE TIME TO SPEND ON THE PAPER
 
-(6-10) If you are spending more time on the paper the next thing to do if to find the main weakness or limitation of the work.  This requires much more effort, beyond scope of Intro to BIOE.
+(6-10) If you are spending more time on the paper the next thing to do is to find the main weakness or limitation of the work. Finding the main weakness requires much more effort, beyond scope of Intro to BIOE.
 
 **Papers** 
 
