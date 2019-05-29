@@ -53,6 +53,8 @@ Please pay special attention to the 2.5 minutes of material starting around 30 s
 
 ## Preclass for Friday 
 
+A specific skill we wish you to learn or improve is how to quickly and effectively benefit from research reports that appear routinely on the “front lines” of bioengineering.  To gain or improve your research manuscript analysis skills please study the two papers listed below.  NOTE — we are not asking you to read these papers.  Rather, simply apply the first five points as noted below.  Your two objectives are to see if you can identify the main claim in the paper (only by skimming and thinking about the title and the abstract) and then to see if you can determine where in the paper the evidence is presented that supports the main claim (only by skimming and thinking about what is presented in the figures or illustrations).  Please practice the method outlined below before class on Friday on the two papers given here.
+
 How to read a research paper:
 
 (0) DO NOT SIT DOWN AND READ THE ENTIRE PAPER.  STOP.  DO WHAT FOLLOWS INSTEAD.
