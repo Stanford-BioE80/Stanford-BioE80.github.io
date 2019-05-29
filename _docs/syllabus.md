@@ -178,18 +178,18 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 **Lead Teaching assistants**: Jon and Marcos
 
-## Week 9: If we can construct a genome then why can't we build an organism?   
+## Week 9: Natural Flourishin
 
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
 | Mon 27 May  | No class    | Memorial Day |
-| Wed 29 May  | 320-105     | How to parse a research paper on the frontiers of bioengineering. |
-| Fri 31 May  | 320-105     | Why is humpty dumpty more than just a nursery rhyme? **(PSET 9)** |
+| Wed 29 May  | 320-105     | What is the relationship between bioengineering & biodiversity? |
+| Fri 31 May  | 320-105     | How to parse a research paper  **(No PSET 9)** |
 
 **Lead Instructor**: Jan and Drew
 
 
-## Week 10: Natural Flourishing
+## Week 10: Wrapping Up
 
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
