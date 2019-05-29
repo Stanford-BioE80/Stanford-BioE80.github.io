@@ -178,7 +178,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 **Lead Teaching assistants**: Jon and Marcos
 
-## Week 9: Natural Flourishin
+## Week 9: Natural Flourishing
 
 | Day         | Location    | Title  |
 | ----------- | ----------- | -------|
