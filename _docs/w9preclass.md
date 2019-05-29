@@ -51,4 +51,29 @@ Please pay special attention to the 2.5 minutes of material starting around 30 s
 [See](https://youtu.be/KgvhUPiDdq8?t=98) (Hint — listen for when the narrator exclaims, “…also contained a little bit of code…”)   
 
 
-## Preclass for Friday will be updated 
+## Preclass for Friday 
+
+How to read a research paper:
+
+(0) DO NOT SIT DOWN AND READ THE ENTIRE PAPER.  STOP.  DO WHAT FOLLOWS INSTEAD.
+
+(1) Read the title.  Does it make any sense?  Note words you don’t understand.
+
+(2) Read the abstract.  Find the single most apparent or remarkable claim.  
+
+(3) If you fail to find any main claim from the abstract don’t bother reading the paper.
+
+(4) Skim the figures, looking for evidence in support of the main claim.
+
+(5) If you can’t find clear and apparent evidence in support of the main claim stop spending time on the paper.
+
+STOP HERE REGARDLESS AND DECIDE IF YOU HAVE MORE TIME TO SPEND ON THE PAPER
+
+(6-10) If you are spending more time on the paper the next thing to do if to find the main weakness or limitation of the work.  This requires much more effort, beyond scope of Intro to BIOE.
+
+**Papers** 
+
+1. [A CRISPR-Cas9 gene drive system targeting female reproduction in the malaria mosquito vector *Anopheles
+gambiae*](https://www.nature.com/articles/nbt.3439)
+
+2. [Identification of an infectious progenitor for the multiple-copy HERV-K human endogenous retroelements](https://genome.cshlp.org/content/16/12/1548.long)
