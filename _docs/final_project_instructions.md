@@ -29,11 +29,10 @@ Your target audience should expect to spend not more than 5 minutes experiencing
 
 Please turn in your final project **not later than 5p on Thursday 6 June.  Early submissions are welcome.** 
 
-Submit your file here: 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnMXH5TqqG8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Submit your files (here)<https://stanford.app.box.com/upload-widget/view/v07q2jtmj9cp70art97sv3pi29jy2fcm/78086321240?fr=%3A%3FDECF4E%3A%40%3FDl!%3D62D6Ta_DF3%3E%3AETa_2%3D%3DTa_7%3A%3D6DTa_7%40CTa_J%40FCTa_7%3A%3F2%3DTa_AC%40%3B64ETarTa_%3A%3F4%3DF5%3A%3F8Ta_E96Ta_AC%40%3B64ETa_2%3F5Ta_2Ta_C67%3D64E%3A%40%3FTa_5%404F%3E6%3FE%5DTa_%7B236%3DTa_2%3D%3DTa_7%3A%3D6DTa_H%3AE9Ta_J%40FCTa_8C%40FATa_%3FF%3E36CTarTa_%3A6TbpTa_vC%40FA0%600u%3A%3F2%3D!C%40%3B64E%5D%3E%40GTarTa_vC%40FA0%600%2367%3D64E%3A%40%3F%5D5%404%5DUE%3AE%3D6l%24F3%3E%3AETa_u%3A%3D6WDXTa_E%40Ta_qx~tTa_g_Ta_u%3A%3F2%3DTa_!C%40%3B64EDU%3ADs6D4C%3AAE%3A%40%3Fu%3A6%3D5%249%40H%3Fl%60U%3ADt%3E2%3A%3D%236BF%3AC65l%60>: 
 
 <script src="https://stanford.app.box.com/upload-widget/embed.js?folderID=78086321240&height=420&instructions=Please%20submit%20all%20files%20for%20your%20final%20project%2C%20including%20the%20project%20and%20a%20reflection%20document.%20Label%20all%20files%20with%20your%20group%20number%2C%20ie%3A%20Group_1_FinalProject.mov%2C%20Group_1_Reflection.doc.&isDescriptionFieldShown=1&isEmailRequired=1&title=Submit%20File(s)%20to%20BIOE%2080%20Final%20Projects&token=v07q2jtmj9cp70art97sv3pi29jy2fcm&width=385" type="text/javascript"></script>
+
 
 You will NOT need to do a formal presentation or report in class.   Your final project takes the place of a final exam (i.e., there is no final exam for this course).
 
