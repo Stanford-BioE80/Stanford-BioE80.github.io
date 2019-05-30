@@ -27,7 +27,9 @@ Your team’s final project deliverable should be a “presentation” in a form
 
 Your target audience should expect to spend not more than 5 minutes experiencing your project. 
 
-Please turn in your final project **not later than 5p on Thursday 6 June.  Early submissions are welcome.**
+Please turn in your final project **not later than 5p on Thursday 6 June.  Early submissions are welcome.** 
+
+Submit your file here: <script src="https://stanford.app.box.com/upload-widget/embed.js?folderID=78086321240&height=420&instructions=Please%20submit%20all%20files%20for%20your%20final%20project%2C%20including%20the%20project%20and%20a%20reflection%20document.%20Label%20all%20files%20with%20your%20group%20number%2C%20ie%3A%20Group_1_FinalProject.mov%2C%20Group_1_Reflection.doc.&isDescriptionFieldShown=1&isEmailRequired=1&title=Submit%20File(s)%20to%20BIOE%2080%20Final%20Projects&token=v07q2jtmj9cp70art97sv3pi29jy2fcm&width=385" type="text/javascript"></script>
 
 You will NOT need to do a formal presentation or report in class.   Your final project takes the place of a final exam (i.e., there is no final exam for this course).
 
