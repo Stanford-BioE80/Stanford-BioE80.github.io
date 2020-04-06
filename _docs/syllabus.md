@@ -5,75 +5,68 @@ last_modified_at:
 toc: true
 ---
 
-## BIOE/ENGR.80 - Spring 2019
+## BIOE/ENGR.80 - Spring 2020
 
 **_Introduction to Bioengineering (Engineering Living Matter)_**
 
-Students successfully completing BIOE/ENGR.80 should have a working understanding for how to approach the systematic engineering of living systems to benefit all people and the planet. More specifically, our three main goals for the quarter are (1) to help you learn ways of thinking about engineering living matter, (2) to empower you to explore and do bioengineering starting from DNA, and (3) for you to become more capable of learning and explaining bioengineering to yourself and others, including discussing the broader ramifications of engineering the living world.  
+Students successfully completing BIOE/ENGR.80 should have a working understanding for how to approach the systematic engineering of living systems to benefit all people and the planet. More specifically our three main goals for the quarter are: (1) to help you learn ways of thinking about engineering living matter, (2) to empower you to explore and do bioengineering starting from DNA, and (3) for you to become more capable of learning about and discussing bioengineering with others, including the broader ramifications of engineering the living world.
 
 ### When
 
-1 April to 5 June 2019
+6 April to 10 June 2020
 
-MWF, 1:30-2:20p, Lectures & Activities
+MWF, 1:30-2:20p, Lectures & Activities via Zoom
 
 ### Where
 
-Classroom (most Mondays and Wednesdays): Building 320 Room 105
+Zoom: [https://stanford.zoom.us/j/861034342?pwd=NkVXNUcwNVBKb1RCWnk3aTVydWJFQT09](https://stanford.zoom.us/j/861034342?pwd=NkVXNUcwNVBKb1RCWnk3aTVydWJFQT09)
 
-Activity Space (most Fridays): Shriram Center Rooms 112 & 132
 
 ### Instructors
 
-Prof. Drew Endy; Office Hours Mon 10a and by appointment @ Shriram 252; [endy@stanford.edu](mailto:endy@stanford.edu)
+Course Lead, Prof. Drew Endy; Office Hours MWF 2:20-3p (after class) and by appointment via [endy@stanford.edu](mailto:endy@stanford.edu) (can also schedule by emailing [marc4@stanford.edu](mailto:endy@stanford.edu))
 
-Prof. Jan Liphardt; Office Hours Mon 10a & Fri 3p @ Shriram 005; [jan.liphardt@stanford.edu](mailto:jan.liphardt@stanford.edu)
+Co-Instructor, Dr. Siavash Ahrar; Office Hours TBD; [sahrar@stanford.edu](mailto:sahrar@stanford.edu)
 
-### Head Teaching Assistant
-
-Brandon Walker; Office Hours Thu 4:30p @ Shriram Tea Room; [bmwalk@stanford.edu](mailto:bmwalk@stanford.edu)
+Co-Instructor, Prof. Michael Specter; Office Hours TBD; [specterm@stanford.edu](mailto:specterm@stanford.edu)
 
 ### Teaching Assistants
 
-Kaisha Benjamin; Office Hours 10a Wed @ Shriram Tea Room; [kaisha@stanford.edu](mailto:kaisha@stanford.edu)
+Lead TA, Jon Calles; Office Hours TBD; [jecalles@stanford.edu](mailto:jecalles@stanford.edu)
 
-Jon Calles; Office Hours 3p Wed @ Shriram 252; [jecalles@stanford.edu](mailto:jecalles@stanford.edu])
+Lead Grader, Nicolai Ostberg; Office Hours TBD; [nostberg@stanford.edu](mailto:nostberg@stanford.edu)
 
-Alex Ferris; Office Hours 2:30p Mon @ Shriram Tea Room; [acferris@stanford.edu](mailto:acferris@stanford.edu)
+Lead Student Liaison, Naomi Pacalin; Office Hours TBD; [npacalin@stanford.edu](mailto:npacalin@stanford.edu)
 
-Alexis Seymour; Office Hours 10a Tue @ McCullough 211; [aseymour@stanford.edu](mailto:aseymour@stanford.edu)
+Lead Content Editor, Julisia Chau; Office Hours TBD; [jhchau@stanford.edu](mailto:jhchau@stanford.edu)
 
-Marcos Torres; Office Hours 3:30p Tue @ Shriram Tea Room; [marcostorres@stanford.edu](mailto:marcostorres@stanford.edu)
+Digital Infrastructure Lead; Brianna Chrisman; Office Hours TBD; [briannac@stanford.edu](mailto:briannac@stanford.edu)
 
-### Education Fellows
-
-Dr. Siavash Ahrar; Office Hours 1:30p Thu @ Shriram Tea Room; [sahrar@stanford.edu](mailto:sahrar@stanford.edu)
-
-Dr. Veronica Brand; Office Hours 1:30p Thu @ Shriram Tea Room; [vrangel@stanford.edu](mailto:vrangel@stanford.edu)
-
-### Teaching Staff
-
-Michael Specter; Office Hours Thu 1:30p @ Shriram Tea Room; [specterm@stanford.edu](mailto:specterm@stanford.edu])
+Digital Front-End Lead; Victor Tieu; Office Hours TBD; [vtieu@stanford.edu](mailto:vtieu@stanford.edu)
 
 ### Grading
 
-In-Class Puzzles (15%); 1-2 per week; lowest 2 dropped including absences; based on pre-class materials
+The course is designed to operate on a S/NC basis.  To earn a S grade a student must satisfy the following two conditions:
+ 
+(1)	Earn an average grade of 70% or above on the PSETS.
 
-Problem Sets (70%); lowest 1 dropped including absences
+(2)	Earn a cumulative grade of 70% or above on the Final Project (team-based).
 
-Final Project (15%); group activity
+Please note your lowest PSET grade will be dropped from your PSET average.
+
+Please also note that we will offer quizzes throughout the quarter that will accrue points.  You can apply your cumulative quiz points to reduce the threshold for (1) and (2) to as low as 60% given sufficient quiz points.
 
 ### Key Dates
 
-1 April 2019; first class
+6 April 2020; first class
 
-24 May 2019; deadline to request change of grading basis or withdraw
+25 May 2020; no class
 
-5 June 2019; last class
+10 June 2020; last class
 
 ### Honor Code
 
-We expect you will uphold Stanford's Honor Code. Discussion among peers and with the teaching staff is strongly encouraged. All submitted work must be completed individually unless explicitly noted otherwise.
+We expect you will uphold Stanford’s Honor Code. Discussion among peers and with the teaching staff is strongly encouraged. All submitted work must be completed individually unless explicitly noted otherwise.
 
 
 ### Students with Documented Disabilities:
@@ -84,122 +77,87 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 ## Week 1: Why are you here? Why engineer biology? What's unique about living matter?
 
-| Day         | Location    | Title  |
-| ----------- | ----------- | -------|
-| Mon 1 April | 320-105     |Hello; course mechanics; initial questions; opening tour; Future impacts of bioengineering |
-| Wed 3 April | 320-105     | What's special about living matter? Show me the evidence - papers! |
-| Fri 5 April | SC 112/132  |Make your foldscope; embrace nature **(PSET 1)** |
-
-**Lead Instructors**: Drew and Jan
-
-**Lead Teaching assistants**: Alexis and Brandon
-
-## Week 2: How do design, build, and test tools work to support bioengineering?
-
-| Day          | Location    | Title  |
-| -----------  | ----------- | -------|
-| Mon 8 April  | 320-105     | How do engineers engineer with, of, and for biology? |
-| Wed 10 April | 320-105     | How will engineers engineer biology? |
-| Fri 12 April | SC 112/132  | Make with Mushrooms **(PSET 2)** |
-
-**Lead Instructor**: Drew
-
-**Lead Teaching assistants**: Marcos and Brandon
-
-## Week 3: Abstraction as a tool for managing complexity in bioengineering
-
-| Day          | Location   | Title  |
-| ------------ | ---------- | -------|
-| Mon 15 April | 320-105    | How to implement Boolean logic in DNA? |
-| Wed 17 April | 320-105    | How to architect arbitrary genetic systems? |
-| Fri 19 April | SC 112/132 | GOOP and Abstraction **(PSET 3)** |
-
-**Lead Instructor**:  Drew
-
-**Lead Teaching assistant**: Jon and Kaisha
-
-## Week 4: Human Health and Flourishing
-
-| Day          | Location    | Title  |
-| ------------ | ----------- | -------|
-| Mon 22 April | 320-105     | What will you die of?|
-| Wed 24 April | 320-105    | Health in 2030 |
-| Fri 26 April | 320-105| Brainstorming (Project Activity) **(PSET 4)** |
-
-**Lead Instructor**:  Jan
-
-**Lead Teaching assistants**: Alex and Alexis
-
-## Week 5: Evolution as an algorithm; Evolution as a service
-
-| Day         | Location    | Title  |
-| ----------- | ----------- | -------|
-| Mon 29 April| 320-105     | What is evolution from an engineering perspective?|
-| Wed 01 May  | 320-105     | How to use and change evolution? |
-| Fri 03 May  | 320-105  |  Project Activity **(PSET 5)** |
-
-**Lead Instructor**:  Jan
-
-**Lead Teaching assistants**: Kaisha and Jon
-
-## Week 6: What arises from DNA read/write trends that will matter for the rest of our lives?
-
-| Day         | Location    | Title  |
-| ----------- | ----------- | -------|
-| Mon 06 May  | 320-105     | How much better can DNA synthesis get? So what? |
-| Wed 08 May  | 320-105     | What happens as genetic material becomes equivalent to information? |
-| Fri 10 May  | SC 112/132  | Meet your Microbes **(PSET 6)** |
-
- **Lead Instructor**:  Drew
-
-**Lead Teaching assistants**: Alex and Alexis
-
-## Week 7: Cultural Flourishing (Citizenship & Humanity)
-
-| Day         | Location    | Title  |
-| ----------- | ----------- | -------|
-| Mon 13 May  | 320-105     | Why do people work to solve problems via bioengineering? |
-| Wed 15 May  | 320-105     | Citizenship & Humanity - Hobbes vs Hobbyist |
-| Fri 17 May  | 320-105  | Citizenship & Humanity **(PSET 7)** |
-
-**Lead Instructor**:  Drew
-
-**Lead Teaching assistants**: Alex and Marcos
-
-## Week 8: Something from "nothing." Why do molecules move? How do patterns grow?
-
-| Day         | Location    | Title  |
-| ----------- | ----------- | -------|
-| Mon 20 May  | 320-105     | Molecular diffusion, what is it and why does it matter to bioengineering?|
-| Wed 22 May  | 320-105     | Patterns via development; e.g., could you grow an arm? |
-| Fri 24 May  | SC 112/132  | Dancing droplets; "programming" autonomous objects **(PSET 8)** |
-
- **Lead Instructor**:  Jan
-
-**Lead Teaching assistants**: Jon and Marcos
-
-## Week 9: Natural Flourishing
-
-| Day         | Location    | Title  |
-| ----------- | ----------- | -------|
-| Mon 27 May  | No class    | Memorial Day |
-| Wed 29 May  | 320-105     | What is the relationship between bioengineering & biodiversity? |
-| Fri 31 May  | 320-105     | How to parse a research paper  **(No PSET 9)** |
-
-**Lead Instructor**: Jan and Drew
+| Day         | Title  |
+| ----------- | -------|
+| Mon 6 April | Why engineering biology? |
+| Wed 8 April | What makes living matter unique? |
+| Fri 10 April| Tools for seeing biology (FOLDSCOPE) |
 
 
-## Week 10: Wrapping Up
+## Week 2: How do we design, build, and test tools work to support bioengineering?
 
-| Day         | Location    | Title  |
-| ----------- | ----------- | -------|
-| Mon 3 June  | 320-105     | Introduction to Bioengineers (Other People) |
-| Wed 5 June  | 320-105     | Introduction to Bioengineering (You & What's Ahead) |
-| Thu 6 June  | NA     | Projects Due - 5p   |
-
-**Lead Instructors**: Jan and Drew
+| Day         | Title  |
+| ----------- | -------|
+| Mon 13 April | How do engineering engineer with, of, and for biology? |
+| Wed 15 April | Designing a molecule |
+| Fri 17 April | Designing a genetic program |
 
 
+## Week 3: How can we use principles of system engineering in the context of genetics?
+
+| Day         | Title  |
+| ----------- | -------|
+| Mon 20 April | Engineered abstractions in living matter – synthetic genetic logic |
+| Wed 22 April | Engineered abstractions in living matter – generic system architecture  |
+| Fri 24 April | Team Project – Framestorm/Brainstorm plus Teams Rule(s) |
+
+## Week 4: How has the central dogma of biology pushed foward the field of bioengineering? 
+
+| Day         | Title  |
+| ----------- | -------|
+| Mon 27 April | DNA synthesis past, present, and future  |
+| Wed 29 April | Interconvertibility of genetic matter and information |
+| Fri 1 May | Team Project – Story Spine plus Project Priorities |
+
+## Week 5: 
+| Day         | Title  |
+| ----------- | -------|
+| Mon 27 May | |
+| Wed 29 May |  |
+| Fri 1 May |  |
+
+## Week 6: 
+
+| Day         | Title  |
+| ----------- | -------|
+| Mon 27 May |  |
+| Wed 29 May |  |
+| Fri 1 May |  |
+
+## Week 5:
+
+| Day         | Title  |
+| ----------- | -------|
+| Mon 27 May |   |
+| Wed 29 May |  |
+| Fri 1 May |  |
+
+## Week 7: 
+
+| Day         | Title  |
+| ----------- | -------|
+| Mon 25 May | No class  |
+| Wed 27 May |  |
+| Fri 29 May |  |
+
+## Week 5: 
+
+| Day         | Title  |
+| ----------- | -------|
+| Mon 1 June |  |
+| Wed 3 June |  |
+| Fri 5 June |  |
+
+## Week 8:
+
+| Day         | Title  |
+| ----------- | -------|
+| Mon 8 June |  |
+| Wed 10 June | |
+
+
+
+<!--
 ## BIOE/ENGR.80 Roadmap - 2019
 
 <figure class="half">
@@ -210,4 +168,5 @@ Students who may need an academic accommodation based on the impact of a disabil
 </figure>
 
 ## Extra Resources
-[David Goodsell (2009): The Machinery of Life](https://link.springer.com/book/10.1007%2F978-0-387-84925-6)
+[David Goodsell (2009): The Machinery of Life](https://link.springer.com/book/10.1007%2F978-0-387-84925-6) 
+-->
