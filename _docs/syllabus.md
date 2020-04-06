@@ -112,9 +112,9 @@ Students who may need an academic accommodation based on the impact of a disabil
 ## Week 5: 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 27 May | |
-| Wed 29 May |  |
-| Fri 1 May |  |
+| Mon 27 May |  |
+| Wed 29 May |   |
+| Fri 1 May |   |
 
 ## Week 6: 
 
@@ -124,7 +124,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Wed 29 May |  |
 | Fri 1 May |  |
 
-## Week 5:
+## Week 7:
 
 | Day         | Title  |
 | ----------- | -------|
@@ -132,7 +132,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Wed 29 May |  |
 | Fri 1 May |  |
 
-## Week 7: 
+## Week 8: 
 
 | Day         | Title  |
 | ----------- | -------|
@@ -140,7 +140,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Wed 27 May |  |
 | Fri 29 May |  |
 
-## Week 5: 
+## Week 9: 
 
 | Day         | Title  |
 | ----------- | -------|
@@ -148,7 +148,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Wed 3 June |  |
 | Fri 5 June |  |
 
-## Week 8:
+## Week 10:
 
 | Day         | Title  |
 | ----------- | -------|
