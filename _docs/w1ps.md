@@ -1,24 +1,26 @@
 ---
 title: "Week 1 Problem Set"
 permalink: /docs/w1ps/
-last_modified_at: Feb.20.2019
+
 toc: true
 ---
 
-**DUE:** Next Friday (April.12th), beginning of class (1:30 pm).
+**DUE:** Next Friday (April.17th), beginning of class (1:30 pm).
 
 **NOTES:** 
-  - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
-  - Please turn in your completed problem sets as an electronic copy via Canvas. 
-  - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations)
-  
+  - Given the unique circumstance of Spring 2020, we ask you to do your best to maximize your learning. These problem sets are an opportunity to assess your learning, identify gaps, reflect on what you have learned, and determine what you wish to learn next. 
+  - Problem sets must be completed individually unless plainly noted otherwise.
+  - Please turn in your completed problem sets as an electronic copy via Gradescope. Please indicate the boundaries of each question.  
+  - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations with appropriate units).
 
-**GOAL:** To help you reflect on the implications of engineering living matter.  To help you prepare for the quarter by thinking about your goals for the class. Finally, to help get you started on your journey as an explorer or maker in bioengineering.
+**GOAL:** To help you reflect on the implications of engineering living matter. To help you prepare for the quarter by thinking about your goals for the class. Finally, to help get you started on your journey as an explorer or maker in bioengineering.
 
-## (Q1) Three words to describe a Bioengineer (5 pts)
+## (Q1) Three words to describe a Bioengineer (10 pts)
 
-In class on Monday, 4/1, we asked you to imagine a Bioengineer, sketch that person, and describe them with three words. What three words did you use to describe a bioengineer? Please don't censor yourself and use the original words from the activity (unless you missed it--then come up with three words!). At the end of the course, you'll have a chance to pick three new words.  
-
+Imagine a Bioengineer. Sketch that person as best as you can, on a piece of paper or digitally. 
+Share the sketch here.  Describe them with three words. Include your sketch and three words in your submission. 
+At the end of the course, you’ll have a chance to pick three new words. 
+ 
 ## (Q2) The impact of Bioengineering (35 pts)
 
 After the first week of the class, a friend asks you about bioengineering. Your friend is specifically interested in the impact of bioengineering on humanity and civilization so far. You think back to the three examples provided in the pre-class reading (e.g., polio vaccine) and decide to draw upon those in formulating your own example. 
