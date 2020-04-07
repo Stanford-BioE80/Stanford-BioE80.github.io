@@ -29,8 +29,6 @@ Co-Instructor, Dr. Siavash Ahrar; Office Hours Tue 11:30-12:30, Sat 09:30 AM-10:
 
 Co-Instructor, Prof. Michael Specter; Office Hours Wed 16:00-17:00; [specterm@stanford.edu](mailto:specterm@stanford.edu)
 
-All office hours are in PST.
-
 ### Teaching Assistants
 
 Jon Calles; Office Hours Sun 13:00-15:00; [jecalles@stanford.edu](mailto:jecalles@stanford.edu)
@@ -44,6 +42,8 @@ Julisia Chau; Office Hours Mon 09:00-10:00; [jhchau@stanford.edu](mailto:jhchau@
 Brianna Chrisman; Office Hours Wed 07:00-08:00; [briannac@stanford.edu](mailto:briannac@stanford.edu)
 
 Victor Tieu; Office Hours Mon 20:00-21:00; [vtieu@stanford.edu](mailto:vtieu@stanford.edu)
+
+If the schedule does not work well for you, please contact us on Piazza with suggestions on how we can better accommodate your circumstances. All times in PST.
 
 ### Grading
 
