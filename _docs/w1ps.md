@@ -53,7 +53,10 @@ Additional resources: Bionumbers is an excellent source for biological numbers [
 3.a. First, estimate the volume of an E. coli cell by approximating the cell as a rectangular box 2 um x 1 um x 1 um.  Next, estimate the cell volume by approximating the cell as a spherocylinder, as shown in Figure 1.  How different are these two approximations?   Go to the following [page](https://bionumbers.hms.harvard.edu/bionumber.aspx?&id=100004&ver=20). How does your estimation compare with the measured values? 
 (Optional practice: convert the volume to Liters instead of m^3)
 
-** figure-1 goes here**
+<figure>
+<a href="/assets/images/w1pc_ringspot.png"><img src="/assets/images/w1ps"></a>
+<figcaption><b>Figure 1</b>. E. coli is shaped like a rod, which we can approximate as a spherocylinder: a cylinder with hemispherical caps. (Of note, MG1655 is a strain derived from a lineage of E. coli variants that was originally isolated from a diphtheria patient at the Palo Alto hospital in 1922.)</figcaption>
+</figure>
 
 **For the rest of this problem, use your first estimate using a rectangular approximation.**
  

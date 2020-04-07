@@ -111,50 +111,51 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Fri 1 May | Team Project – Story Spine plus Project Priorities |
 
 ## Week 5: 
+
 | Day         | Title  |
 | ----------- | -------|
-| Mon 4 May   |     |
-| Wed 6 May |   |
-| Fri 8 May |   |
+| Mon 4 May | TBD |
+| Wed 5 May | TBD |
+| Fri 6 May | TBD |
 
 ## Week 6: 
 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 11 May |  |
-| Wed 13 May |  |
-| Fri 15 May |  |
+| Mon 11 May | TBD |
+| Wed 13 May | TBD |
+| Fri 15 May | TBD |
 
 ## Week 7:
 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 18 May |   |
-| Wed 20 May |  |
-| Fri 22 May |  |
+| Mon 18 May | TBD |
+| Wed 20 May | TBD |
+| Fri 22 May | TBD |
 
 ## Week 8: 
 
 | Day         | Title  |
 | ----------- | -------|
 | Mon 25 May | No class  |
-| Wed 27 May |  |
-| Fri 29 May |  |
+| Wed 27 May | TBD |
+| Fri 29 May | TBD |
 
 ## Week 9: 
 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 1 June |  |
-| Wed 3 June |  |
-| Fri 5 June |  |
+| Mon 1 June | TBD |
+| Wed 3 June | TBD |
+| Fri 5 June | TBD |
 
 ## Week 10:
 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 8 June |  |
-| Wed 10 June | |
+| Mon 8 June | TBD |
+| Wed 10 June | TBD |
 
 
 
