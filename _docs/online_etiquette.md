@@ -13,7 +13,7 @@ The impacts of the COVID19 emergency are stressful to all students in a variety 
 Please approach all communications with fellow students with empathy, compassion, and respect. 
 
 ## Class Website 
-The class website (https://stanford-bioe80.github.io/docs/introduction/) will be the main resource for course content, including syllabus, lecture videos, pre-class readings, and assignments.
+The class website (this website, https://stanford-bioe80.github.io/docs/introduction/) will be the main resource for course content, including syllabus, lecture videos, pre-class readings, and assignments.
 
 ## Canvas
 Major announcements will be posted on Canvas. Grades will be posted on Canvas. Quizzes will be taken on Canvas.
