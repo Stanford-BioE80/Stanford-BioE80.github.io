@@ -52,9 +52,8 @@ Note for each calculation: Share your answers to two significant figures and pro
 
 <figure>
 <a href="/assets/images/w1ps.png"><img src="/assets/images/w1ps.png"></a>
-<figcaption><b>Figure 1</b>. *E. coli* is shaped like a rod, which we can approximate as a spherocylinder: a cylinder with hemispherical caps. (Of note, MG1655 is a strain derived from a lineage of E. coli variants that was originally isolated from a diphtheria patient at the Palo Alto hospital in 1922.)</figcaption>
+<figcaption><b>Figure 1</b>.E. coli is shaped like a rod, which we can approximate as a spherocylinder: a cylinder with hemispherical caps. (Of note, MG1655 is a strain derived from a lineage of E. coli variants that was originally isolated from a diphtheria patient at the Palo Alto hospital in 1922.)</figcaption>
 </figure>
-
 
 
 **For the rest of this problem, use your first estimate using a rectangular approximation.**
