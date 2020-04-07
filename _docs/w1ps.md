@@ -48,8 +48,20 @@ Note for each calculation: Share your answers to two significant figures and pro
 (Additional resources: Bionumbers is an excellent source for biological numbers [link](https://bionumbers.hms.harvard.edu/search.aspx) . 
 “Cell Biology by the Numbers” is a great book on estimation problems in biology You can get a free copy of the draft version [here](http://book.bionumbers.org/)
 
+*Escherichia coli* is well-studied bacteria considered to be representative of how bacterial systems work generally (i.e., a ‘model’ organism). *E. coli* is also easy to grow in the lab and divides rapidly (about 20 mins) . As a result, *E. coli* is frequently used in bioengineering.
 
+3.a. First, estimate the volume of an E. coli cell by approximating the cell as a rectangular box 2 um x 1 um x 1 um.  Next, estimate the cell volume by approximating the cell as a spherocylinder, as shown in Figure 1.  How different are these two approximations?   Go to the following [page](https://bionumbers.hms.harvard.edu/bionumber.aspx?&id=100004&ver=20). How does your estimation compare with the measured values? 
+(Optional practice: convert the volume to Liters instead of m^3)
 
+** figure-1 goes here**
+
+**For the rest of this problem, use your first estimate using a rectangular approximation.**
+ 
+3.b. The mean diameter of a typical protein protein (assume a sphere shape) is roughly 4 nm. What is the upper bound on how many proteins could fit inside an *E. coli* cell? 
+
+3.c. The mean volume of a DNA base pair is 10^-27 m^3. What is the upper bound on how many DNA base pairs could fit inside an *E. coli* cell?
+
+3.d. Take a look at the estimated/measured numbers of proteins and DNA in an E. coli cell from figure-6.a of the following [link](http://book.bionumbers.org/the-geography-of-the-cell/). What is the ratio of the upper bound numbers to the estimated numbers? (present your results in a table) Are you surprised by these (the upper bound vs actual) numbers? Why or why not?
 
 ## (Q4) What's Unique About Living Matter? (10 pts)
 
@@ -61,4 +73,4 @@ Revisit the [video](https://youtu.be/NpZ3PXTnxdw) describing the unique properti
 
 **Your questions** Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
-**(Extra credit - 5 points)** Submit a photo you have taken to the Foldscope community via [Microcosmos Foldscope](http://microcosmos.foldscope.com/). If you provide proof of participation (to be turned in the same day with the pset - e.g. screenshot) you will receive 5 extra points. 
+
