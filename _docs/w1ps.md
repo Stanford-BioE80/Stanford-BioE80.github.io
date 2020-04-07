@@ -54,9 +54,10 @@ Additional resources: Bionumbers is an excellent source for biological numbers [
 (Optional practice: convert the volume to Liters instead of m^3)
 
 <figure>
-<a href="/assets/images/w1pc_ringspot.png"><img src="/assets/images/w1ps"></a>
+<a href="/assets/images/w1ps.png"><img src="/assets/images/w1ps.png"></a>
 <figcaption><b>Figure 1</b>. E. coli is shaped like a rod, which we can approximate as a spherocylinder: a cylinder with hemispherical caps. (Of note, MG1655 is a strain derived from a lineage of E. coli variants that was originally isolated from a diphtheria patient at the Palo Alto hospital in 1922.)</figcaption>
 </figure>
+
 
 **For the rest of this problem, use your first estimate using a rectangular approximation.**
  
