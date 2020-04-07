@@ -102,7 +102,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Wed 22 April | Analysis and design of molecules  |
 | Fri 24 April | Analysis and design a genetic systems |
 
-## Week 4: 
+## Week 4: Engineering Abstraction
 
 | Day         | Title  |
 | ----------- | -------|
@@ -122,40 +122,40 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 11 May | TBD |
-| Wed 13 May | TBD |
-| Fri 15 May | TBD |
+| Mon 11 May | Molecular diffusion and spontaneous behaviors |
+| Wed 13 May | Activity – Dancing droplets |
+| Fri 15 May | Programming morphogenesis (could you grow an arm?) |
 
 ## Week 7:
 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 18 May | TBD |
-| Wed 20 May | TBD |
-| Fri 22 May | TBD |
+| Mon 18 May | Team Project – Future thinking |
+| Wed 20 May | Evolution as an algorithm |
+| Fri 22 May | Evolution as a service |
 
 ## Week 8: 
 
 | Day         | Title  |
 | ----------- | -------|
 | Mon 25 May | No class  |
-| Wed 27 May | TBD |
-| Fri 29 May | TBD |
+| Wed 27 May | Putting it all together – engineering with, of, & for biology |
+| Fri 29 May | Team Project – Working session|
 
 ## Week 9: 
 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 1 June | TBD |
-| Wed 3 June | TBD |
-| Fri 5 June | TBD |
+| Mon 1 June | Bioengineering futures related to planet health |
+| Wed 3 June | Bioengineering futures related to human health|
+| Fri 5 June | Team Project – Working session |
 
 ## Week 10:
 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 8 June | TBD |
-| Wed 10 June | TBD |
+| Mon 8 June | Bioengineering futures related to political health |
+| Wed 10 June | Closing discussion and charge |
 
 
 
