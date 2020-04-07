@@ -114,9 +114,9 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 4 May | TBD |
-| Wed 5 May | TBD |
-| Fri 6 May | TBD |
+| Mon 4 May | DNA synthesis past, present, and future  |
+| Wed 5 May | Interconvertibility of genetic matter and information |
+| Fri 6 May | Team Project – Story spine plus project priorities |
 
 ## Week 6: 
 
