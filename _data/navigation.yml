@@ -42,7 +42,7 @@ docs:
     children:
       - title: "Week 1 Readings"
         url: /docs/w1readings/
-      - title: "Week 1 Inclass"
+      - title: "Week 1 In-Class"
         url: /docs/w1inclass/
       #- title: "Week 2 Preclass"
       #  url: /docs/w2preclass/
