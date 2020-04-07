@@ -87,6 +87,10 @@ Briefly read the following paper or preprint: “Enabling community-based metrol
 
 5.c. What did you find the most interesting idea, fact, conclusion from the abstract of the paper? (From the abstract, figure, or conclusion)
 
+5.d. In your own words, describe the significance of the paper?   Do you have any criticisms?  How can it improve?  What can be done next?  (3-4 sentences)
+
+Note for 5.d:  We wish for you to think about these types of questions as you read any paper.  We are looking for your thought process as opposed to a "correct answer."
+
 **Your questions** Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
 ## Additional Learning Resource: 
