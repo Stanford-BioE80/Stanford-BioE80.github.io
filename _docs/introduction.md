@@ -7,7 +7,7 @@ toc: true
 
 **_Introduction to Bioengineering (Engineering Living Matter)_**
 
-Students successfully completing BIOE/ENGR.80 will have a working understanding for how to approach the systematic engineering of living systems to benefit all people and the planet. Our three main goals for the quarter are (1) to help you learn ways of thinking about engineering living matter, (2) to empower you to explore and do bioengineering starting from DNA, and (3) for you to become more capable of learning and explaining bioengineering to yourself and others, including discussing the broader ramifications of engineering the living world. 
+Students successfully completing BIOE/ENGR.80 will have a working understanding for how to approach the systematic engineering of living systems to benefit all people and the planet. Our three main goals for the quarter are (1) to help you learn ways of thinking about engineering living matter, (2) to empower you to explore and do bioengineering starting from DNA, and (3) for you to become more capable of learning and explaining bioengineering to yourself and others, including discussing the broader ramifications of engineering the living world. (4) Specific to Spring 2020, in the time of COVID-19 and at the dawn of a decade, we also aim to enable you to devise and express your wishes for bioengineering as might be made true by or before 2030, and to develop practical plans for making you wishes real.
 
 ### How does our class work?
 
