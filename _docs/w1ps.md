@@ -21,13 +21,20 @@ Imagine a Bioengineer. Sketch that person as best as you can, on a piece of pape
 Share the sketch here.  Describe them with three words. Include your sketch and three words in your submission. 
 At the end of the course, you’ll have a chance to pick three new words. 
  
-## (Q2) The impact of Bioengineering (35 pts)
+## (Q2) Three words to describe a Bioengineer (20 pts)
 
-After the first week of the class, a friend asks you about bioengineering. Your friend is specifically interested in the impact of bioengineering on humanity and civilization so far. You think back to the three examples provided in the pre-class reading (e.g., polio vaccine) and decide to draw upon those in formulating your own example. 
+After the first week of the class, a friend asks you about bioengineering. Your friend is specifically interested in the impact of bioengineering on humanity and civilization so far. 
+Think back / review the three examples provided in the pre-class reading (e.g., polio vaccine).
 
-2.a. Create your own brief example on the impact of bioengineering today. Keep your answer between 150-200 words and include up to 3 key references in support of your new example; references can be websites or any citable source. (30 pts)
+2.a. Create your own brief example (similar to the 3 examples from the reading) on the impact of bioengineering today. 
 
-2.b. Do you have any unanswered questions based on your own example from or from the examples given in class that remain unanswered? Share your most interesting or difficult question; just one question, please. (5 pts)
+Notes: Keep your answer to 1 paragraph. Include 2 to 3 key references in support of your new example (i.e., papers, reports, websites). Figures are optional.
+
+2.b. Now think about the future. What future do you wish to realize?  What roles can bioengineering play in realizing this future?  How would you define “success”?  Do you have any questions on how to realize this future?  What trends, tools, policies, and technologies could help you realize this future? (Please keep your answer to 1 paragraph)
+
+Notes: Keep your answer to 1 paragraph.
+
+**Comments:** Our aim is to enable you to begin to identify, organize, and communicate the topics that you are excited about.  Last year, initial efforts from this question helped guide students in identifying their final project. 
 
 ## (Q3) Foldscope Activity (50 pts)
 
