@@ -6,12 +6,10 @@ toc: true
 
 Link to course materals from Week-1 class. 
 
-# Monday April 6, 2020
+# Day 1: April 6, 2020
 
-[Lecture Notes](/w1_notes.pdf)
+[Class Slides](/Stanford_BIOE80_Day1_06April20.pdf)
 
-Course Video: To be uploaded to canvas shortly.
-
-Course Audio: To be uploaded to canvas shortly.
+[Course Audio/Video](https://canvas.stanford.edu/courses/115648/files/folder/6%20April%202020%20-%20Audio%20Video)
 
 
