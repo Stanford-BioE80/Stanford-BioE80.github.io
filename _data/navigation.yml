@@ -40,7 +40,7 @@ docs:
         url: /docs/online_etiquette/
   - title: Class Materials
     children:
-      - title: "Week 1 Reading"
+      - title: "Week 1 Readings"
         url: /docs/w1readings/
       - title: "Week 1 Inclass"
         url: /docs/w1inclass/
