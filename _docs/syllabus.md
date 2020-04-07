@@ -82,7 +82,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ----------- | -------|
 | Mon 6 April | Why engineering biology? |
 | Wed 8 April | What makes living matter unique? |
-| Fri 10 April| Tools for seeing biology (FOLDSCOPE) |
+| Fri 10 April| How to read a bioengineering research paper  |
 
 
 ## Week 2: How do we design, build, and test tools work to support bioengineering?
