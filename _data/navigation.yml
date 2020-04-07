@@ -30,12 +30,12 @@ foo:
 docs:
   - title: Getting Started
     children:
-      - title: "Welcome"
+      - title: "Home"
         url: /docs/introduction/
       - title: "Syllabus"
         url: /docs/syllabus/
-      - title: "Site HowTo"
-        url: /docs/site_howto/
+      #- title: "Site HowTo"
+      #  url: /docs/site_howto/
       - title: "Online Etiquette"
         url: /docs/online_etiquette/
   - title: Class Materials
@@ -90,8 +90,8 @@ docs:
       #- title: "Week 9 PS"
       #  url: /docs/w9ps/
 
-  - title: Class Slides
-    children:
+ # - title: Class Slides
+ #   children:
       #- title: "Week 1 CS"
       #  url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w1
       #- title: "Week 2 CS"
