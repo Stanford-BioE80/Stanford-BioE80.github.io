@@ -112,7 +112,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 ## Week 5: 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 27 May |  |
+| Mon 27 May |   |
 | Wed 29 May |   |
 | Fri 1 May |   |
 
