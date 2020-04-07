@@ -5,7 +5,7 @@ toc: true
 ---
 ## Why are you here? Why engineer biology? What's unique about living matter?
 
-Please read and consider the below. Monday's materials can be skimmed following Monday's class.  Wednesday's and Friday's materials should be studied before class.  The questions given are only study questions not homework to be graded. Talk about it with your classmates, friends, or TAs, as you like.
+Please read and consider the below. Monday's materials can be skimmed following Monday's class.  Wednesday's and Friday's materials should be studied before class.  The questions given are only study questions not homework to be graded. Talk about anything your find interesting with your classmates, friends, or TAs, as you like, using Piazza or email the instructors!
 
 ## Post-class readings from Monday
 
@@ -116,11 +116,11 @@ ________________________________________________
 
 **What's Unique About Living Matter?**
 
-Here you will learn and think about what makes living matter such a unique material when compared to inert matter when considering its properties and capabilities.
+Here you will learn and think about what makes living matter such a unique material when compared to inert matter by considering the specific and distinctive properties and capabilities of biological stuff from an engineers perspective.
 
 **Goal:** After watching the following video you should be able to explain the properties of living matter that make it more effective at solving many engineering challenges compared to inert matter.
 
-You can watch [this video](https://youtu.be/NpZ3PXTnxdw) from Prof. Liphardt detailing the unique properties of living matter (Lecture on Wednesday). Write down any questions you have so you can ask your peers, TA's, and professors in class or office hours.
+You can watch [this video](https://youtu.be/NpZ3PXTnxdw) from Stanford Bioengineering Prof. Jan Liphardt detailing the unique properties of living matter. Write down any questions you have so you can ask your peers, TA's, and professors in class or office hours.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NpZ3PXTnxdw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -136,7 +136,7 @@ You can watch [this video](https://youtu.be/NpZ3PXTnxdw) from Prof. Liphardt det
 ________________________________________________
 ## Preclass for Friday 
 
-A specific skill we wish you to learn or improve is how to quickly and effectively benefit from research reports that appear routinely on the “front lines” of bioengineering.  To gain or improve your research manuscript analysis skills please study the two papers listed below.  NOTE — we are not asking you to read these papers.  Rather, simply apply the first five points as noted below.  Your two objectives are to see if you can identify the main claim in the paper (only by skimming and thinking about the title and the abstract) and then to see if you can determine where in the paper the evidence is presented that supports the main claim (only by skimming and thinking about what is presented in the figures or illustrations).  Please practice the method outlined below before class on Friday on the two papers given here.
+A specific skill we wish you to learn or improve is how to quickly and effectively benefit from research reports that appear routinely on the “front lines” of bioengineering.  To gain or improve your research manuscript analysis skills please study the two papers listed below.  NOTE — we are not asking you to read these papers.  Rather, simply apply the first five points as noted below.  Your two objectives are to see if you can identify the main claim in the paper (only by skimming and thinking about the title and the abstract) and then to see if you can determine *where* in the paper the evidence is presented that supports the main claim (only by skimming and thinking about what is presented in the figures or illustrations).  Please practice the method outlined below before class on Friday on the two papers given here.
 
 How to read a research paper:
 
