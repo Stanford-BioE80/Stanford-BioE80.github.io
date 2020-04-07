@@ -26,7 +26,7 @@ At the end of the course, you’ll have a chance to pick three new words.
 After the first week of the class, a friend asks you about bioengineering. Your friend is specifically interested in the impact of bioengineering on humanity and civilization so far. 
 Think back / review the three examples provided in the pre-class reading (e.g., polio vaccine).
 
-2.a. Create your own brief example (similar to the 3 examples from the reading) on the impact of bioengineering today. 
+2.a. Create your own brief example (similar to the 3 examples from the reading) and describe an existing application, concept on the impact of bioengineering today.
 
 Notes: Keep your answer to 1 paragraph. Include 2 to 3 key references in support of your new example (i.e., papers, reports, websites). Figures are optional.
 
