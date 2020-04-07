@@ -1,7 +1,6 @@
 ---
 title: "Week 1 Readings"
-permalink: /docs/w1preclass/
-last_modified_at: Feb.28.19
+permalink: /docs/w1readings/
 toc: true
 ---
 ## Why are you here? Why engineer biology? What's unique about living matter?
