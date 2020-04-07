@@ -1,21 +1,18 @@
 ---
-title: "Week 1 Preclass"
+title: "Week 1 Readings"
 permalink: /docs/w1preclass/
 last_modified_at: Feb.28.19
 toc: true
 ---
 ## Why are you here? Why engineer biology? What's unique about living matter?
 
-Please read and consider the below before the start of each class. The questions given are only study questions not homework to be graded. Talk about it with your classmates, friends, or TAs, as you like.
+Please read and consider the below. Monday's materials can be skimmed following Monday's class.  Wednesday's and Friday's materials should be studied before class.  The questions given are only study questions not homework to be graded. Talk about it with your classmates, friends, or TAs, as you like.
 
-## Preclass for Monday
-
-Before you begin please take the following survey
-[link](https://docs.google.com/forms/d/e/1FAIpQLSd44EFOfp4YVpeXG0l5wwAQxEWWvRkQ-xzoMbrZ9EbaAL2WrA/viewform?usp=sf_link)
+## Post-class readings from Monday
 
 ### What has been the impact of engineering interacting with biology?
 
-Here you will examine the role that bioengineering, with a core emphasis on living matter, has had on the world. Stated differently, we ask: Why has bioengineering mattered?
+Here you will review the role that bioengineering, with a core emphasis on living matter, has already had in the world. Stated differently, we ask: Why has bioengineering mattered?
 
 **Goal 1:** After considering the following examples you should be able to describe example impacts of bioengineering on humanity and civilization to this day.
 
@@ -104,7 +101,7 @@ If you are excited about the ringspot resistant papaya and want to learn more, f
 
 ### Summary
 
-In the pre-class material you examined the cases highlighting the impact and role of bioengineering, broadly defined, in society. First, you examined the role and development of a transformative technology, the microscope, that opened opportunities and vistas previously inconceivable. From this you examined, what **tools and technologies** do we want coupled with biology? Next, you examined development of a life saving vaccine for polio (an example for engineering with biology). Here you examined what **cultures** do we want coupled with bioengineering? Finally, you learned more about the Rainbow Papaya as a case for engineering of biology. Here you began to examine what **futures** we wish to realize via bioengineering? And who gets to decide?
+In Day 1's post-class material you reviewed representative cases highlighting the impact and role of bioengineering, broadly defined, in society. First, you examined the role and development of a transformative technology, the microscope, that opened opportunities and vistas previously inconceivable. From this you examined, what **tools and technologies** do we want coupled with biology? Next, you examined development of a life saving vaccine for polio (an example for engineering with biology). Here you examined what **cultures** do we want coupled with bioengineering? Finally, you learned more about the Rainbow Papaya as a case for engineering of biology. Here you began to examine what **futures** we wish to realize via bioengineering? And who gets to decide?
 
 ### Additional References:
 
