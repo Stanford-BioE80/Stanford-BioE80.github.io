@@ -38,7 +38,7 @@ Notes: Keep your answer to 1 paragraph.
 
 ## (Q3)  Approximate and rapid numerical estimates (30 pts)
 
-Often, bioengineers encounter a new biological system for which they have no intuition. How can we build intuition such that we have a better understanding of what is physically possible in a new system? As an example, let’s say you wanted to ferment potatoes with wild yeast to make rubbing alcohol. How much alcohol could you make per potato? Or, let’s say you wanted to know how many E. coli cells fit on the head of a pin. These problems don’t seem important on their own, but the process of thinking about and answering them makes it easier to tackle the harder problems in Bioengineering.
+Often, bioengineers encounter a new biological system for which they have no intuition. How can we build intuition such that we have a better understanding of what is physically possible in a new system? As an example, let’s say you wanted to ferment potatoes with wild yeast to make rubbing alcohol. How much alcohol could you make per potato? Or, let’s say you wanted to know how many *E. coli* cells fit on the head of a pin. These problems don’t seem important on their own, but the process of thinking about and answering them makes it easier to tackle the harder problems in Bioengineering.
 Fermi problems are order-of-magnitude estimation problems that try to roughly answer such complicated questions. We do so by using a series of simpler estimations, often using physical principles that are either widely known or easy to guess. Before knowing how many cells can live on a pin, we first need to estimate the size of a single cell and the size of the head of a pin.
 
 Fermi problems are tools invented by physicists to build quantitative intuition for new or unintuitive systems, which have then been adopted broadly in almost every field that needs quantitative intuition building. Bioengineers use Fermi problems to determine the feasibility of an idea or better understand a new system. Most of these estimates are rough: they are designed to give you a broad, order of magnitude intuition for the living matter. Thus keep in mind that the exactly correct number could be different. 
@@ -52,7 +52,7 @@ Note for each calculation: Share your answers to two significant figures and pro
 
 <figure>
 <a href="/assets/images/w1ps.png"><img src="/assets/images/w1ps.png"></a>
-<figcaption><b>Figure 1</b>. E. coli is shaped like a rod, which we can approximate as a spherocylinder: a cylinder with hemispherical caps. (Of note, MG1655 is a strain derived from a lineage of E. coli variants that was originally isolated from a diphtheria patient at the Palo Alto hospital in 1922.)</figcaption>
+<figcaption><b>Figure 1</b>. *E. coli* is shaped like a rod, which we can approximate as a spherocylinder: a cylinder with hemispherical caps. (Of note, MG1655 is a strain derived from a lineage of E. coli variants that was originally isolated from a diphtheria patient at the Palo Alto hospital in 1922.)</figcaption>
 </figure>
 
 
