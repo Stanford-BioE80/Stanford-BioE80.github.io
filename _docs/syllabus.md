@@ -113,9 +113,9 @@ Students who may need an academic accommodation based on the impact of a disabil
 ## Week 5: 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 4 May   |   TBD  |
-| Wed 6 May |  TBD |
-| Fri 8 May | TBD  |
+| Mon 4 May | TBD |
+| Wed 6 May | TBD |
+| Fri 8 May | TBD |
 
 ## Week 6: 
 
@@ -129,9 +129,9 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 18 May | TBD  |
-| Wed 20 May |TBD  |
-| Fri 22 May | TBD|
+| Mon 18 May | TBD |
+| Wed 20 May | TBD |
+| Fri 22 May | TBD |
 
 ## Week 8: 
 
@@ -153,8 +153,8 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 8 June |  TBD|
-| Wed 10 June |TBD |
+| Mon 8 June | TBD |
+| Wed 10 June | TBD |
 
 
 
