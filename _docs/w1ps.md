@@ -85,4 +85,10 @@ Briefly read the following paper or preprint: “Enabling community-based metrol
 
 **Your questions** Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
+## Additional Learning Resource: 
+
+There are tools for helping you keep track of and manage your library of paper. For example here is a link to a  free and useful resource: [Zotero](https://www.zotero.org/) 
+The takeaway here is to make sure you have a system in place for managing your paper.
+
+Biology refresher:  If you need additional learning materials or refresher for biology you can start by going through the first 3 chapters (It is very brief don't worry) of The Machinery of Life by David S. Goodsell.  An electronic copy of the book is available from Stanford Library and you should be able to access from [here](https://stanford.idm.oclc.org/login?url=https://link.springer.com/book/10.1007%2F978-0-387-84925-6)
 
