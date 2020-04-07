@@ -21,28 +21,29 @@ MWF, 1:30-2:20p, Lectures & Activities via Zoom
 
 Zoom: [https://stanford.zoom.us/j/861034342?pwd=NkVXNUcwNVBKb1RCWnk3aTVydWJFQT09](https://stanford.zoom.us/j/861034342?pwd=NkVXNUcwNVBKb1RCWnk3aTVydWJFQT09)
 
-
 ### Instructors
 
-Course Lead, Prof. Drew Endy; Office Hours MWF 2:20-3p (after class) and by appointment via [endy@stanford.edu](mailto:endy@stanford.edu) (can also schedule by emailing [marc4@stanford.edu](mailto:endy@stanford.edu))
+Course Lead, Prof. Drew Endy; Office Hours (PST) Mon/Wed/Fri 14:20-15:00 (after class) (after class) and by appointment via [endy@stanford.edu](mailto:endy@stanford.edu) (can also schedule by emailing [marc4@stanford.edu](mailto:endy@stanford.edu))
 
-Co-Instructor, Dr. Siavash Ahrar; Office Hours TBD; [sahrar@stanford.edu](mailto:sahrar@stanford.edu)
+Co-Instructor, Dr. Siavash Ahrar; Office Hours Tue 11:30-12:30, Sat 09:30 AM-10:30; [sahrar@stanford.edu](mailto:sahrar@stanford.edu)
 
-Co-Instructor, Prof. Michael Specter; Office Hours TBD; [specterm@stanford.edu](mailto:specterm@stanford.edu)
+Co-Instructor, Prof. Michael Specter; Office Hours Wed 16:00-17:00; [specterm@stanford.edu](mailto:specterm@stanford.edu)
+
+All office hours are in PST.
 
 ### Teaching Assistants
 
-Lead TA, Jon Calles; Office Hours TBD; [jecalles@stanford.edu](mailto:jecalles@stanford.edu)
+Jon Calles; Office Hours Sun 13:00-15:00; [jecalles@stanford.edu](mailto:jecalles@stanford.edu)
 
-Lead Grader, Nicolai Ostberg; Office Hours TBD; [nostberg@stanford.edu](mailto:nostberg@stanford.edu)
+Nicolai Ostberg; Office Hours  Fri 14:30-15:30; [nostberg@stanford.edu](mailto:nostberg@stanford.edu)
 
-Lead Student Liaison, Naomi Pacalin; Office Hours TBD; [npacalin@stanford.edu](mailto:npacalin@stanford.edu)
+Naomi Pacalin; Office Hours Thu 17:00-18:00; [npacalin@stanford.edu](mailto:npacalin@stanford.edu)
 
-Lead Content Editor, Julisia Chau; Office Hours TBD; [jhchau@stanford.edu](mailto:jhchau@stanford.edu)
+Julisia Chau; Office Hours Mon 09:00-10:00; [jhchau@stanford.edu](mailto:jhchau@stanford.edu)
 
-Digital Infrastructure Lead; Brianna Chrisman; Office Hours TBD; [briannac@stanford.edu](mailto:briannac@stanford.edu)
+Brianna Chrisman; Office Hours Wed 07:00-08:00; [briannac@stanford.edu](mailto:briannac@stanford.edu)
 
-Digital Front-End Lead; Victor Tieu; Office Hours TBD; [vtieu@stanford.edu](mailto:vtieu@stanford.edu)
+Victor Tieu; Office Hours Mon 20:00-21:00; [vtieu@stanford.edu](mailto:vtieu@stanford.edu)
 
 ### Grading
 
@@ -112,25 +113,25 @@ Students who may need an academic accommodation based on the impact of a disabil
 ## Week 5: 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 27 May |  |
-| Wed 29 May |   |
-| Fri 1 May |   |
+| Mon 4 May   |     |
+| Wed 6 May |   |
+| Fri 8 May |   |
 
 ## Week 6: 
 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 27 May |  |
-| Wed 29 May |  |
-| Fri 1 May |  |
+| Mon 11 May |  |
+| Wed 13 May |  |
+| Fri 15 May |  |
 
 ## Week 7:
 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 27 May |   |
-| Wed 29 May |  |
-| Fri 1 May |  |
+| Mon 18 May |   |
+| Wed 20 May |  |
+| Fri 22 May |  |
 
 ## Week 8: 
 
