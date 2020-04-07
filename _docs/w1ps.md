@@ -58,9 +58,9 @@ Note for each calculation: Share your answers to two significant figures and pro
 
 **For the rest of this problem, use your first estimate using a rectangular approximation.**
  
-3.b. The mean diameter of a typical protein protein (assume a sphere shape) is roughly 4 nm. What is the upper bound on how many proteins could fit inside an *E. coli* cell? 
+3.b. The mean diameter of a typical protein protein (assume a sphere shape) is roughly 4 nm. What is the upper bound on how many proteins could fit inside an *E. coli* cell? (Assume there is nothing else inside the cell)
 
-3.c. The mean volume of a DNA base pair is 10^-27 m^3. What is the upper bound on how many DNA base pairs could fit inside an *E. coli* cell?
+3.c. The mean volume of a DNA base pair is 10^-27 m^3. What is the upper bound on how many DNA base pairs could fit inside an *E. coli* cell? (Assume there is nothing else inside the cell)
 
 3.d. Take a look at the estimated/measured numbers of proteins and DNA in an E. coli cell from figure-6.a of the following [link](http://book.bionumbers.org/the-geography-of-the-cell/). What is the ratio of the upper bound numbers to the estimated numbers? (present your results in a table) Are you surprised by these (the upper bound vs actual) numbers? Why or why not?
  
