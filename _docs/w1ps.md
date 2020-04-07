@@ -45,7 +45,7 @@ Fermi problems are tools invented by physicists to build quantitative intuition 
 
 Note for each calculation: Share your answers to two significant figures and provide units where appropriate. Show your work. You should only need simple math and arithmetic; a couple of lines of work at most. 
 
-(Additional resources: Bionumbers is an excellent source for biological numbers [link](https://bionumbers.hms.harvard.edu/search.aspx) . 
+Additional resources: Bionumbers is an excellent source for biological numbers [link](https://bionumbers.hms.harvard.edu/search.aspx). 
 “Cell Biology by the Numbers” is a great book on estimation problems in biology You can get a free copy of the draft version [here](http://book.bionumbers.org/)
 
 *Escherichia coli* is well-studied bacteria considered to be representative of how bacterial systems work generally (i.e., a ‘model’ organism). *E. coli* is also easy to grow in the lab and divides rapidly (about 20 mins) . As a result, *E. coli* is frequently used in bioengineering.
@@ -71,6 +71,24 @@ Revisit the [video](https://youtu.be/NpZ3PXTnxdw) describing the unique properti
 
 4.b. After watching the video, what did you find most surprising? (2-3 sentences) 
 
+## (Q5) Reading research papers (X pts)
+
+Research papers serve as a primary source of information for many fields. One of the goals for BIOE/ENGR. 80 is to start to familiarize you with scientific literature. 
+
+Briefly read the following paper or preprint: “Enabling community-based metrology for wood-degrading fungi” available from: [link](https://fungalbiolbiotech.biomedcentral.com/articles/10.1186/s40694-020-00092-2)
+
+5.a. In your own words, what is the primary claim of the paper? Take a look at the abstract (1-2 sentences)
+
+5.b. In your own words, what are the primary evidence in support of the claim? Take a look at the figures)? (1-2 sentences)
+
+5.c. What did you find the most interesting idea, fact, conclusion from the abstract of the paper? (From the abstract, figure, or conclusion)
+
 **Your questions** Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
+## Additional Learning Resource: 
+
+There are tools for helping you keep track of and manage your library of paper. For example here is a link to a  free and useful resource: [Zotero](https://www.zotero.org/) 
+The takeaway here is to make sure you have a system in place for managing your paper.
+
+Biology refresher:  If you need additional learning materials or refresher for biology you can start by going through the first 3 chapters (It is very brief don't worry) of The Machinery of Life by David S. Goodsell.  An electronic copy of the book is available from Stanford Library and you should be able to access from [here](https://stanford.idm.oclc.org/login?url=https://link.springer.com/book/10.1007%2F978-0-387-84925-6)
 
