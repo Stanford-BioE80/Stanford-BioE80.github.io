@@ -85,30 +85,30 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Fri 10 April| How to read a bioengineering research paper  |
 
 
-## Week 2: How do we design, build, and test tools work to support bioengineering?
+## Week 2: 
 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 13 April | How do engineering engineer with, of, and for biology? |
-| Wed 15 April | Designing a molecule |
-| Fri 17 April | Designing a genetic program |
+| Mon 13 April | People health (what do people need of bioengineers?) |
+| Wed 15 April | Planet health (what does everything else “need”?) |
+| Fri 17 April | Political health (what does it mean to engineer biology at social scales)  |
 
 
 ## Week 3: How can we use principles of system engineering in the context of genetics?
 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 20 April | Engineered abstractions in living matter – synthetic genetic logic |
-| Wed 22 April | Engineered abstractions in living matter – generic system architecture  |
-| Fri 24 April | Team Project – Framestorm/Brainstorm plus Teams Rule(s) |
+| Mon 20 April | Activity – Tools for seeing biology (Foldscope) |
+| Wed 22 April | Analysis and design of molecules  |
+| Fri 24 April | Analysis and design a genetic systems |
 
-## Week 4: How has the central dogma of biology pushed foward the field of bioengineering? 
+## Week 4: 
 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 27 April | DNA synthesis past, present, and future  |
-| Wed 29 April | Interconvertibility of genetic matter and information |
-| Fri 1 May | Team Project – Story Spine plus Project Priorities |
+| Mon 27 April | Engineering abstraction in living matter – synthetic genetic logic |
+| Wed 29 April | Engineering abstraction in living matter – generic system architecture |
+| Fri 1 May | Team Project – Framestorm/brainstorm plus teams rule(s) |
 
 ## Week 5: 
 
