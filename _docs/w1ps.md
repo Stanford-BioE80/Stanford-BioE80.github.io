@@ -36,83 +36,20 @@ Notes: Keep your answer to 1 paragraph.
 
 **Comments:** Our aim is to enable you to begin to identify, organize, and communicate the topics that you are excited about.  Last year, initial efforts from this question helped guide students in identifying their final project. 
 
-## (Q3) Foldscope Activity (50 pts)
+## (Q3)  Approximate and rapid numerical estimates (20 pts)
 
-3.a. Did you show up on Friday, build your Foldscope, and have a TA check it? (5 pts)
+Often, bioengineers encounter a new biological system for which they have no intuition. How can we build intuition such that we have a better understanding of what is physically possible in a new system? As an example, let’s say you wanted to ferment potatoes with wild yeast to make rubbing alcohol. How much alcohol could you make per potato? Or, let’s say you wanted to know how many E. coli cells fit on the head of a pin. These problems don’t seem important on their own, but the process of thinking about and answering them makes it easier to tackle the harder problems in Bioengineering.
+Fermi problems are order-of-magnitude estimation problems that try to roughly answer such complicated questions. We do so by using a series of simpler estimations, often using physical principles that are either widely known or easy to guess. Before knowing how many cells can live on a pin, we first need to estimate the size of a single cell and the size of the head of a pin.
 
-3.b. Complete and submit the foldscope post class question "Explorer or Maker" (Max 150 words). (45 pts)
+Fermi problems are tools invented by physicists to build quantitative intuition for new or unintuitive systems, which have then been adopted broadly in almost every field that needs quantitative intuition building. Bioengineers use Fermi problems to determine the feasibility of an idea or better understand a new system. Most of these estimates are rough: they are designed to give you a broad, order of magnitude intuition for the living matter. Thus keep in mind that the exactly correct number could be different. 
 
-### Explorer or Maker - Step 1
+Note for each calculation: Share your answers to two significant figures and provide units where appropriate. Show your work. You should only need simple math and arithmetic; a couple of lines of work at most. 
 
-The following is an exercise carefully designed by Tom Knight to help you understand if you are more interested in science or engineering.  There is no right answer and all types are welcome in the course!  Rather, what you experience via the following can help you (and us) understand how you most like to work and learn.  I.e., what follows is analogous to learning which foot you prefer to put forward on a skateboard, surfboard, or snowboard (right of left), or whether you prefer to throw with your right or left hand, etc.
+(Additional resources: Bionumbers is an excellent source for biological numbers [link](https://bionumbers.hms.harvard.edu/search.aspx) . 
+“Cell Biology by the Numbers” is a great book on estimation problems in biology You can get a free copy of the draft version [here](http://book.bionumbers.org/)
 
-Relax… take a deep breath… imagine the following situation… You've spent hours assembling a box that, once finished, is supposed to turn on a light bulb when a button is pushed. You place your finished box on your workshop table and press the button... BANG!  A loud POP and then smoke pours from the device while the bulb stays dark. At this very instant do you exclaim (choose one):
 
-DARN!!! 		COOL!!!
 
-Why did you pick your choice? 
-
-### Explorer or Maker - Step 2
-
-Relax again. Close your eyes and look inside yourself. Relax some more. Might you want to be an Explorer of the Unknown?  Or, a Maker of New Things? Choose one path to follow for now. Note: You must only focus on one path for now so that you can really push yourself in the context of this activity. Use your answer to Step 1 to think about your choice. 
-
-  If you picked DARN!!!  please go to the Maker step.
-  
-  If you picked  COOL!!! please go to the Explorer step.
-
-### Explorer or Maker - Step 3
-
-If you are an Explorer then please go to the Explorer Step
-
-If you are a Maker then please go to the Maker Step
-
-### Explore or Maker - Step 4.  Welcome Explorers!
-
-You have been granted the status, "biologically curious explorer of the microcosmic universe!" Your job is to explore objects, mysteries, and open questions that relate to the microscopic world. Your spaceship is the powerful “Foldscope” a field microscope that  you built with your own hands.
-
-Firstly, you have to ask a question in the realm of micro-cosmos, an original question. It does not matter if somebody has answered it 100 years ago or if science does not know how to begin to think about it. Choose a question that can be explored with microscale observations. Such as - how many cells thick is a leaf, how do hairs split, do insects also have blood cells, what does insect skin look like, what mold is growing in my fridge, what grows in a drop of pond water... You get the idea. Your goal is to go on a journey to find an answer by just looking as yourself, without any other aids.
-
-Now based on your emerging  question, go out of your comfort zone and collect samples. These samples could give you the diversity of answers you might be looking for. 
-
-To complete this activity, over the next few days prepare and submit an entry  following the detailed submission instructions provided Friday. Consider including responses to the four items below. **(Make sure to include photos with descriptions)**
-
-A. What question did I ask? Or what range of questions? What did I see as a result?
-
-B. What did I actually do?
-
-C. A great image or data to support your findings and conclusions.
-
-D. Your concluding thoughts or open questions.
-
-Your entry should be in a form where an 8-10 year old anywhere in the world could study your findings & actually replicate your work.
-
-### Explore or Maker - Step 5. Welcome Makers!
-
-You have been granted the status, "biologically empowered tinkerer of the microcosmic universe!" Your job is to explore nature, searching for tiny objects that might be useful either as inspiration, or as bits and pieces that might be directly reused to make something. Your spaceship is the powerful “Foldscope” a field microscope that you built with your own hands.
-
-Firstly, you have to learn to explore various realms of microcosmos. It does not matter if somebody has searched the same space 100 years ago or if engineers do not know how to begin to think about the tiny things you find.
-
-Hunt the patterns, solutions, and objects that can be explored with microscale observations. Such as how do plants transport water, how do grasshoppers hop without barrel rolling, how does a spider make a web, where do leaves go… You get the idea.
-
-Your goal is to go on a journey to find the answer yourself, without any other aids.
-
-Now based on your explorations, go out of your comfort zone and collect samples. Lots and lots of samples that could give you the diversity of answers you might be looking for.
-
-We will take a sample collection trip during class on Friday for people to learn how to ask questions related to outdoor environments.
-
-To complete this activity, over the next few days prepare and submit
-
-an entry following the detailed instructions provided on Friday.  Consider including responses to the four items below. **(Make sure to include photos with descriptions)**
-
-1. What useful biological object or potential inspiration from nature did I find?
-
-2. How did I actually find it ?
-
-3. A great image or data to support your findings and conclusions.
-
-4. Your concluding thoughts or open questions.
-
-Your entry should be in a form where an 8-10 year old anywhere in the world could study your findings & actually replicate your work.
 
 ## (Q4) What's Unique About Living Matter? (10 pts)
 
