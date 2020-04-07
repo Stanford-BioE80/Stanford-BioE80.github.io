@@ -6,7 +6,7 @@ toc: true
 ---
 
 ## Summary 
-Due to the shift in remote learning due to the COVID19 emergency, BIOE/ENGR 80 will be using several online learning and communication platforms this quarter. In order to promote the best possible learning for all students in the class under these circumstances, it is important to adhere to a shared set of expectations and guidelines for the use of each online platform. This document outlines the various online learning platforms that will be used by BIOE/ENGR 80 this quarter and lays out the expectations and guidelines for their use. We are excited and look forward to engaging and communicating with you throughout the course. 
+Due to the shift in remote learning due to the COVID19 emergency, BIOE/ENGR.80 will be using several online learning and communication platforms this quarter. In order to promote the best possible learning for all students in the class under these circumstances, it is important to adhere to a shared set of expectations and guidelines for the use of each online platform. This document outlines the various online learning platforms that will be used by BIOE/ENGR.80 this quarter and lays out the expectations and guidelines for their use. We are excited and look forward to engaging and communicating with you throughout the course. 
 
 ## General Guidelines
 The impacts of the COVID19 emergency are stressful to all students in a variety of different ways. 
@@ -28,5 +28,5 @@ Zoom will be used for lectures and office hours. Zoom chat will be available dur
 Piazza (https://piazza.com/class/k8kvf0kfg5q3vl?cid=6) is a platform where students can ask questions relating to course content and academic class material, including material from the lectures, assignments, and final projects, as well as logistical or administrative questions about the class. TAs will monitor Piazza to answer questions in a timely manner.  Students can also answer questions (peer feedback are welcomed and valued). The teaching team will share a weekly FAQ (highlighting questions from office hours etc.) at the end of each week.  Private Piazza posts can be used to communicate privately to TAs about assignments and other matters.
 
 ## Email
-Please use email as a last resort mode of communication. If possible, please communicate with the teaching team via one of the above modes of communication. Please include “BIOE/ENGR-80” as part of the email subject. 
+Please use email as a last resort mode of communication. If possible, please communicate with the teaching team via one of the above modes of communication. Please include “BIOE/ENGR.80” as part of the email subject. 
 
