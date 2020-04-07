@@ -134,67 +134,32 @@ You can watch [this video](https://youtu.be/NpZ3PXTnxdw) from Prof. Liphardt det
 **Q.4. What did you find most surprising?**
 
 ________________________________________________
-## Preclass for Friday
+## Preclass for Friday 
 
-### Self-Assessment - Maker or Explorer
+A specific skill we wish you to learn or improve is how to quickly and effectively benefit from research reports that appear routinely on the “front lines” of bioengineering.  To gain or improve your research manuscript analysis skills please study the two papers listed below.  NOTE — we are not asking you to read these papers.  Rather, simply apply the first five points as noted below.  Your two objectives are to see if you can identify the main claim in the paper (only by skimming and thinking about the title and the abstract) and then to see if you can determine where in the paper the evidence is presented that supports the main claim (only by skimming and thinking about what is presented in the figures or illustrations).  Please practice the method outlined below before class on Friday on the two papers given here.
 
-Imagine that you spend hours assembling a device (a box) that, once finished, is supposed to power a light bulb when a button is pushed. You place your finished construction on your workshop table and press the button... POOF! Smoke pours from the device but the bulb remains dark. Do you exclaim (choose one):
+How to read a research paper:
 
-          DARN!!! 	COOL!!!
+(0) DO NOT SIT DOWN AND READ THE ENTIRE PAPER.  STOP.  DO WHAT FOLLOWS INSTEAD.
 
-Why did you pick your choice? Remember your answer for the class on Friday.
+(1) Read the title.  Does it make any sense?  Note words you don’t understand.
 
-### Uyutengsu Teaching Lab Safety Video
+(2) Read the abstract.  Find the single most apparent or remarkable claim.  
 
-Friday's class will be held in the Uyutengsu Teaching Lab in Shriram. Before you enter the lab space, the Uyutengsu Lab team requires you to watch [this brief safety video](https://youtu.be/COLocny5G7g).
+(3) If you fail to find any main claim from the abstract don’t bother reading the paper.
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://youtu.be/COLocny5G7g" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+(4) Skim the figures, looking for evidence in support of the main claim.
 
-Additionally, you will be required to take the following STARS training courses on [Axess](https://axess.sahr.stanford.edu/):
-- EHS-4200: General Safety and Emergency Preparedness
-- EHS-PROG-4875: Life Sciences Research; includes the following 3 trainings
-  - EHS-1500: Biosafety
-  - EHS-1900: Chemical Safety
-  - EHS-2200: Compressed Gas Safety
+(5) If you can’t find clear and apparent evidence in support of the main claim stop spending time on the paper.
 
-Once you've completed these online courses, take screenshots verifying that you have completed these courses. You will need to include them in the [Uyutengsu Lab Safety Form](https://uytengsuteachinglab.stanford.edu/safety-information/safety-form).
+STOP HERE REGARDLESS AND DECIDE IF YOU HAVE MORE TIME TO SPEND ON THE PAPER
 
-Additional information regarding the lab space can be found on the [Uyutengsu Teaching Lab website](https://uytengsuteachinglab.stanford.edu/).
-### Foldscope
+(6-10) If you are spending more time on the paper the next thing to do is to find the main weakness or limitation of the work. Finding the main weakness requires much more effort, beyond scope of Intro to BIOE.
 
-In the activity on Friday you will be making your own Foldscope (engineering for living matter similar to Anton van Leeuwenhoek)  and use it to explore and discover the world around you. You will be going outside during class so wear appropriate shoes and jacket.
+**Papers** 
 
-Watch the following videos to prepare for the foldscope activity.
+1. [A CRISPR-Cas9 gene drive system targeting female reproduction in the malaria mosquito vector *Anopheles
+gambiae*](https://www.nature.com/articles/nbt.3439)
 
-* Dr. Manu Prakash's vision for the [paper microscope back in 2012](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437).
+2. [Identification of an infectious progenitor for the multiple-copy HERV-K human endogenous retroelements](https://genome.cshlp.org/content/16/12/1548.long)
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
-* Instructions for how to [build the foldscope](https://www.youtube.com/watch?v=RvZRO36IRYY). You will be doing this in class.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvZRO36IRYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* **Recommended:** Instructions for how to [insert a microscope slide](https://youtu.be/IQzdc_UB6T8).
-
-* **Recommended:** Instructions for how to use the [foldscope with a smartphone](https://www.youtube.com/watch?v=LpeJUbs32VU).
-
-### Resources
-
-Full URL of links from above:
-
-[1] [https://www.youtube.com/watch?v=NpZ3PXTnxdw](https://www.youtube.com/watch?v=NpZ3PXTnxdw)
-
-[2] [https://youtu.be/COLocny5G7g](https://youtu.be/COLocny5G7g)
-
-[3] [https://axess.sahr.stanford.edu/](https://axess.sahr.stanford.edu/)
-
-[4] [https://uytengsuteachinglab.stanford.edu/safety-information/safety-form](https://uytengsuteachinglab.stanford.edu/safety-information/safety-form)
-
-[5] [https://uytengsuteachinglab.stanford.edu/](https://uytengsuteachinglab.stanford.edu/)
-
-[6] [https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437)
-
-[7] [https://www.youtube.com/watch?v=LpeJUbs32VU](https://www.youtube.com/watch?v=LpeJUbs32VU)
-
-[8] [https://youtu.be/IQzdc_UB6T8](https://youtu.be/IQzdc_UB6T8)
-
-[9] [https://www.youtube.com/watch?v=RvZRO36IRYY](https://www.youtube.com/watch?v=RvZRO36IRYY)
