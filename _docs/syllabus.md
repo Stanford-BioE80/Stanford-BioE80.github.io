@@ -111,11 +111,12 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Fri 1 May | Team Project – Story Spine plus Project Priorities |
 
 ## Week 5: 
+
 | Day         | Title  |
 | ----------- | -------|
 | Mon 4 May | TBD |
-| Wed 6 May | TBD |
-| Fri 8 May | TBD |
+| Wed 5 May | TBD |
+| Fri 6 May | TBD |
 
 ## Week 6: 
 
