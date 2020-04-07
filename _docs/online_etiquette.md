@@ -38,7 +38,7 @@ Piazza is a platform where students can ask questions relating only to course co
 We will have a BIOE 80 Slack workspace. Please **DO NOT** use Slack for course content or lecture material questions. These questions should be posted on Piazza. Communications in Slack should fall into the following categories:
 * Social conversation and interactions between students
 * Communications between group members for the final project
-* Text-only office hours. Because Zoom may be inaccessible for some students, we will offer some TA offers as text-only via Slack. We will have a “Text-only office hours” channel that will be staffed by a TA during the scheduled office hour time posted on Canvas. We do not guarantee that messages sent to this channel outside of the scheduled office hour time will be answered.
+* Text-only office hours. If needed and because Zoom may be inaccessible for some students, we will consider offering text-only office hours via Slack. We will have a “Text-only office hours” channel that will be staffed by a TA during the scheduled office hour time posted on Canvas. We do not guarantee that messages sent to this channel outside of the scheduled office hour time will be answered.
 
 ## Email
 Please use email as a last resort mode of communication. If possible, please communicate with the teaching team via one of the above modes of communication. Please include “BIOE-80” as part of the email subject.  
