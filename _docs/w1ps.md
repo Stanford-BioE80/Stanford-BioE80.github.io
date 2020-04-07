@@ -98,5 +98,5 @@ Note for 5.d:  We wish for you to think about these types of questions as you re
 There are tools for helping you keep track of and manage your library of paper. For example here is a link to a  free and useful resource: [Zotero](https://www.zotero.org/) 
 The takeaway here is to make sure you have a system in place for managing your paper.
 
-Biology refresher-1:  If you need additional learning materials or refresher for biology you can start by going through the first 3 chapters (It is very brief don't worry) of The Machinery of Life by David S. Goodsell.  An electronic copy of the book is available from Stanford Library and you should be able to access from [here](https://stanford.idm.oclc.org/login?url=https://link.springer.com/book/10.1007%2F978-0-387-84925-6)
+Biology refresher-1:  If you need additional learning materials or a refresher for biology, you can start by going through the first 3 chapters (It is a brief reading - don't worry) of The Machinery of Life by David S. Goodsell.  An electronic copy of the book is available from Stanford Library, and you should be able to access it from [here](https://stanford.idm.oclc.org/login?url=https://link.springer.com/book/10.1007%2F978-0-387-84925-6).  If you have Biology questions, please ask us via Piazza or during the office hours. 
 
