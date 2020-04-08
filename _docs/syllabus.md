@@ -17,7 +17,7 @@ Students successfully completing BIOE/ENGR.80 should have a working understandin
 
 MWF, 1:30-2:20p, Lectures & Activities via Zoom
 
-### Where
+### Where (Class & Office Hours, same link)
 
 Zoom: [https://stanford.zoom.us/j/861034342?pwd=NkVXNUcwNVBKb1RCWnk3aTVydWJFQT09](https://stanford.zoom.us/j/861034342?pwd=NkVXNUcwNVBKb1RCWnk3aTVydWJFQT09)
 
