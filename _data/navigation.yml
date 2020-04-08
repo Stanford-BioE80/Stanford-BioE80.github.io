@@ -34,8 +34,6 @@ docs:
         url: /docs/introduction/
       - title: "Syllabus"
         url: /docs/syllabus/
-      #- title: "Site HowTo"
-      #  url: /docs/site_howto/
       - title: "Online Etiquette"
         url: /docs/online_etiquette/
   - title: Class Materials
@@ -44,30 +42,38 @@ docs:
         url: /docs/w1readings/
       - title: "Week 1 In-Class"
         url: /docs/w1inclass/
-      #- title: "Week 2 Preclass"
+      #- title: "Week 2 Readings"
       #  url: /docs/w2preclass/
       #- title: "Week 2 In-Class"
       #  url: /docs/w2inclass/
-      #- title: "Week 3 Preclass"
+      #- title: "Week 3 Readings"
       #  url: /docs/w3preclass/
       #- title: "Week 3 In-Class"
       #  url: /docs/w3inclass/
-      #- title: "Week 4 Preclass"
+      #- title: "Week 4 Readings"
       #  url: /docs/w4preclass/
-      #- title: "Week 5 Preclass"
+      #- title: "Week 4 In-Class"
+      #  url: /docs/w2inclass/
+      #- title: "Week 5 Readings"
       #  url: /docs/w5preclass/
       #- title: "Week 5 In-Class"
       #  url: /docs/w5inclass/
-      #- title: "Week 6 Preclass"
+      #- title: "Week 6 Readings"
       #  url: /docs/w6preclass/
-      #- title: "Week 7 Preclass"
+      #- title: "Week 6 In-Class"
+      #  url: /docs/w6inclass/
+      #- title: "Week 7 Readings"
       #  url: /docs/w7preclass/
-      #- title: "Week 8 Preclass"
+      #- title: "Week 7 In-Class"
+      #  url: /docs/w7inclass/
+      #- title: "Week 8 Readings"
       #  url: /docs/w8preclass/
-      #- title: "Week 8 Inclass"
+      #- title: "Week 8 In-Class"
       #  url: /docs/w8inclass/
-      #- title: "Week 9 Preclass"
+      #- title: "Week 9 Readings"
       #  url: /docs/w9preclass/
+      #- title: "Week 9 In-Class"
+      #  url: /docs/w9inclass/
 
   - title: Problem Sets
     children:
@@ -89,29 +95,6 @@ docs:
       #  url: /docs/w8ps/
       #- title: "Week 9 PS"
       #  url: /docs/w9ps/
-
- # - title: Class Slides
- #   children:
-      #- title: "Week 1 CS"
-      #  url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w1
-      #- title: "Week 2 CS"
-      #  url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w2
-      #- title: "Week 3 CS"
-      #  url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w3
-      #- title: "Week 4 CS"
-      #  url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w4
-      #- title: "Week 5 CS"
-      #  url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w5
-      #- title: "Week 6 CS"
-      #  url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w6
-      #- title: "Week 7 CS"
-      #  url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w7
-      #- title: "Week 8 CS"
-      #  url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w8
-      #- title: "Week 9 CS"
-      #  url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w9
-      #- title: "Week 10 CS"
-      #  url: https://github.com/Stanford-BioE80/materials/tree/master/class_slides/w10
 
   - title: Final Project
     children:
