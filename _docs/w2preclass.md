@@ -56,7 +56,7 @@ Later we will also talk about [**Gene-Drives**](https://wyss.harvard.edu/media-p
 ______________________________________________________
 ## Preclass for Wednesday
 
-### Planet health (what does everything else “need”?
+### Planet health (what does everything else “need”?)
 **Extinction of Species and Bioengineering**
 
 In the 1960s, 2300 Northern White Rhinos lived in the wild. 
@@ -80,7 +80,7 @@ White-nose syndrome (WSN) is a disease affecting hibernating bats. White-nose sy
 
 **Q.3. Could bioengineering help us eliminate factors accelerating ecosystem damage or change?**
 
-Briefly familiarize yourself with the following project [revive&restore](https://reviverestore.org/projects/woolly-mammoth/).  As you see, the project seeks to 'De-Extinct' and revive woolly mammoths using genetic engineering and cloning.
+Briefly familiarize yourself with the following project [Revive & Restore](https://reviverestore.org/projects/woolly-mammoth/).  As you see, the project seeks to 'De-Extinct' and revive woolly mammoths using genetic engineering and cloning.
 
 **Q.4. What challenges might the bioengineers face in reviving woolly mammoths?**
 
@@ -90,9 +90,12 @@ Briefly familiarize yourself with the following project [revive&restore](https:/
 
 *Optional reading: 
 [De-Extinction Debate: Should We Bring Back the Woolly Mammoth?](https://e360.yale.edu/features/the_case_for_de-extinction_why_we_should_bring_back_the_woolly_mammoth). and [The Living Planet Index](https://livingplanetindex.org/projects?main_page_project=AboutTheIndex&home_flag=1)
-______________________________________________________
-## Preclass for Friday 
+
 Looking ahead to Friday's class and if you would like a thought-provoking essay by Ursula K. Le Guin, please find [She Unnames Them](http://lchc.ucsd.edu/mca/Mail/xmcamail.2013_01.dir/pdf4gQ1dofjT0.pdf)
+______________________________________________________
+## Preclass for Friday 	
+
+### Political health(what does it mean to engineer biology at social scales)
 
 In getting started please familiarize yourself with the thinking of Hobbes and Rousseau.  
 
