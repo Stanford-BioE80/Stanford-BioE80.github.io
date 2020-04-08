@@ -4,12 +4,13 @@ permalink: /docs/w2preclass/
 
 toc: true
 ---
-## Human Health and Flourishing
+## People, Planet, & Political Health
 Please read and consider the below before the start of each class.
 The questions are study-questions and not homework to be graded.
  Talk about anything you find interesting with your classmates, friends, or TAs, as you like, using Piazza or email the instructors!
 
 ## Preclass for Monday
+### People health (what do people need of bioengineers?)
 The intersection of Bioengineering and human health is an active and exciting area of research. 
 To better discuss the role that bioengineering can play -in addressing challenges in human health- briefly skim the following, The Burden of Disease and the Changing Task of Medicine, available from [link-1](https://www.nejm.org/doi/full/10.1056/NEJMp1113569) and also a summary of the same material from [link-2](https://www.businessinsider.com/leading-causes-of-death-from-1900-2010-2012-6?op=1).  
 
@@ -53,8 +54,9 @@ Interview with Dr. Jay Keasling ' whose work led to the industrial production of
 Later we will also talk about [**Gene-Drives**](https://wyss.harvard.edu/media-post/crispr-cas9-gene-drives/) as a potential solution to address diseases such as malaria. If you have time and wish to get a start on learning about Gene-Drives, check out this article [The Perils and Promises of Gene-Drive Technology](https://www.newyorker.com/news/daily-comment/the-perils-and-promises-of-gene-drive-technology) by Michael Specter.
 
 ______________________________________________________
-## Preclass for Monday
+## Preclass for Wednesday
 
+### Planet health (what does everything else “need”?
 **Extinction of Species and Bioengineering**
 
 In the 1960s, 2300 Northern White Rhinos lived in the wild. 
@@ -78,9 +80,19 @@ White-nose syndrome is a disease affecting hibernating bats. White-nose syndrome
 
 **Q.3. Could bioengineering help us eliminate factors accelerating ecosystem damage or change?**
 
-**Q.4. Could bioengineering help us establish life somewhere else (e.g., Mars)? If yes, who should decide?**
+Briefly familiarize yourself with the following project [revive&restore](https://reviverestore.org/projects/woolly-mammoth/).  As you see, the project seeks to 'De-Extinct' and revive woolly mammoths using genetic engineering and cloning.
 
-Briefly familiarize yourself with the following project [revive&restore](https://reviverestore.org/projects/woolly-mammoth/).  
+**Q.4. What challenges might the bioengineers face in reviving woolly mammoths?**
+
+**Q.5.If successful what challenges the woolly mammoths might face?**
+
+**Q.6. Could bioengineering help us establish life somewhere else (e.g., Mars)? If yes, who should decide?**
+
+*Optional reading: 
+[De-Extinction Debate: Should We Bring Back the Woolly Mammoth?](https://e360.yale.edu/features/the_case_for_de-extinction_why_we_should_bring_back_the_woolly_mammoth).*
+
+Looking ahead to Friday's class and if you would like a thought-provoking essay by Ursula K. Le Guin, please find She [Unnames Them](http://lchc.ucsd.edu/mca/Mail/xmcamail.2013_01.dir/pdf4gQ1dofjT0.pdf)
+
 
 ______________________________________________________
 # Ignore needs to move (Week-2 of 2019)
