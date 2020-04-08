@@ -90,8 +90,50 @@ Briefly familiarize yourself with the following project [revive&restore](https:/
 
 *Optional reading: 
 [De-Extinction Debate: Should We Bring Back the Woolly Mammoth?](https://e360.yale.edu/features/the_case_for_de-extinction_why_we_should_bring_back_the_woolly_mammoth). and [The Living Planet Index](https://livingplanetindex.org/projects?main_page_project=AboutTheIndex&home_flag=1)
-
+______________________________________________________
+## Preclass for Friday 
 Looking ahead to Friday's class and if you would like a thought-provoking essay by Ursula K. Le Guin, please find [She Unnames Them](http://lchc.ucsd.edu/mca/Mail/xmcamail.2013_01.dir/pdf4gQ1dofjT0.pdf)
+
+In getting started please familiarize yourself with the thinking of Hobbes and Rousseau.  
+
+Both explored tradeoffs between individual rights and the formation of collective government (i.e., the social contract):  
+
+Briefly introduce yourself to Hobbes’ thinking regarding the formation of government via the four 
+paragraphs that start with, "In Leviathan, Hobbes set out his 
+doctrine of the foundation ofstatesand legitimate governments..."
+[link Hobbes](https://en.wikipedia.org/wiki/Thomas_Hobbes#Leviathan)
+
+Similarly introduce yourself to Rousseau's thinking by studying the eight paragraphs that begin with, 
+"Rousseau's text is divided into four main parts..."
+[link Rousseau](https://en.wikipedia.org/wiki/Discourse_on_Inequality#Argument)
+
+**Q.1. How do Rousseau’s assumptions about human nature differ from Hobbes’?** 
+
+**Q.2. How might such assumptions lead to differences in terms of how people are organized, or organize themselves?**
+
+Next, please skim the 2018 NY Times article, [“As D.I.Y. Gene Editing Gains Popularity, ‘Someone Is Going to Get Hurt’”](https://www.nytimes.com/2018/05/14/science/biohackers-gene-editing-virus.html)
+
+**Q.3. Do you think bioengineers should be licensed?**
+
+please next skim the essay by John Maynard Keynes, "Economic Possibilities for Our Grandchildren"
+
+<a href="http://www.econ.yale.edu/smith/econ116a/keynes1.pdf" target="_blank">http://www.econ.yale.edu/smith/econ116a/keynes1.pdf</a>
+
+**Q.4.  What was the state of the global economy when Keynes published his essay?**
+
+**Q.5.  Who are Keynes “grandchildren” and what does Keynes conclude regarding their future economic prospects?**
+
+**Q.6.  Did Keynes' prediction come true?**
+
+Second, please study in detail the paragraph in Tom Jefferson’s letter to John Adams, sent 28 October 1813, that starts with the text, "With respect to Aristocracy we should further consider that…”
+
+[https://founders.archives.gov/documents/Adams/99-02-02-6189](https://founders.archives.gov/documents/Adams/99-02-02-6189)
+
+**Q.7.  What is the significance of land to Jefferson in his argument here?**
+
+**Q.8.  What does Jefferson argue is required for all to have an interest in law and order?**
+
+**Q.9.  What is the equivalent of land in 2019?  For the rest of the 21st century?**
 
 ______________________________________________________
 # Ignore needs to move (Week-2 of 2019)
