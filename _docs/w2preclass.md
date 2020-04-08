@@ -11,13 +11,13 @@ The questions are study-questions and not homework to be graded.
 
 ## Preclass for Monday
 The intersection of Bioengineering and human health is an active and exciting area of research. 
-To better discuss the role that bioengineering can play in addressing future challenges in health care and medicine first briefly familiarize your self with the article, The Burden of Disease and the Changing Task of Medicine, available from [link-1](https://www.nejm.org/doi/full/10.1056/NEJMp1113569) and also a summary of the same material from [link-2](https://www.businessinsider.com/leading-causes-of-death-from-1900-2010-2012-6?op=1).  
+To better discuss the role that bioengineering can play -in addressing challenges in human health- briefly skim the following, The Burden of Disease and the Changing Task of Medicine, available from [link-1](https://www.nejm.org/doi/full/10.1056/NEJMp1113569) and also a summary of the same material from [link-2](https://www.businessinsider.com/leading-causes-of-death-from-1900-2010-2012-6?op=1).  
 
 **Q.1. What is the definition of 'burden of disease'?**
 
-**Q.2. How has the burden of disease changed over time?**
+**Q.2. How has the burden of disease for various diseases changed over time?**
 
-Next, familiarize yourself with some background information on malaria from the following links:
+Next, familiarize yourself with some background information on malaria from the two links:
 
 1. [WHO - 10 facts on Malaria](https://www.who.int/features/factfiles/malaria/en/)
 
@@ -34,7 +34,7 @@ The Nobel Prize in Physiology or Medicine 2015 to Youyou Tu for her discoveries 
 [Optional Link-1](https://www.nobelprize.org/uploads/2018/06/press-29.pdf)
 [Optional Link-2](https://www.nobelprize.org/prizes/medicine/2015/summary/)
 
-One approach to address the challenges associated with malaria is to produce drugs, or key ingredients of a medication, via engineered organisms (example engineered yeast).  See optional link for a primary research paper [High-level semi-synthetic production of the potent antimalarial artemisinin](https://www.nature.com/articles/nature12051).  
+One approach to address malaria with bioengineering is to produce drugs, or key ingredients of a medication, via engineered organisms (example engineered yeast).  See optional link for a primary research paper [High-level semi-synthetic production of the potent antimalarial artemisinin](https://www.nature.com/articles/nature12051).  
 
 Now take a look at the following articles describing the reaction of the market to Synthetic biology's first malaria drug.
 
@@ -42,9 +42,9 @@ Now take a look at the following articles describing the reaction of the market 
 
 **Q.6. What was the only source of artemisinin before synthetic production?**
 
-**Q.7. What were the challenges that the synthetic production faced ?**
+**Q.7. What were the challenges that the synthetic drug faced ?**
 
-**Q.8. What steps could have prevented some of those challenges?  **
+**Q.8. What steps could have prevented some of those challenges? **
 
 Optional reading:  
 Interview with Dr. Jay Keasling ' whose work led to the industrial production of this important drug in yeast using synthetic biology.'
