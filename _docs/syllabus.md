@@ -43,7 +43,7 @@ Brianna Chrisman; Office Hours Wed 07:00-08:00; [briannac@stanford.edu](mailto:b
 
 Victor Tieu; Office Hours Mon 20:00-21:00; [vtieu@stanford.edu](mailto:vtieu@stanford.edu)
 
-If the schedule does not work well for you, please contact us on Piazza with suggestions on how we can better accommodate your circumstances. All times in PST.
+If the schedule does not work well for you, please contact us on Piazza with suggestions on how we can better accommodate your circumstances. All times in PST. Office hours are held on the same [zoom link](https://stanford.zoom.us/j/861034342?pwd=NkVXNUcwNVBKb1RCWnk3aTVydWJFQT09) as class.
 
 ### Grading
 
