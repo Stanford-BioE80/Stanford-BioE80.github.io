@@ -76,7 +76,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 [Office of Accessible Education site](https://oae.stanford.edu/)
 
-## Week 1: Why are you here? Why engineer biology? What's unique about living matter?
+## Week 1: Getting Started
 
 | Day         | Title  |
 | ----------- | -------|
@@ -85,7 +85,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Fri 10 April| How to read a bioengineering research paper  |
 
 
-## Week 2: 
+## Week 2: People, Planet, & Political Health
 
 | Day         | Title  |
 | ----------- | -------|
@@ -94,7 +94,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Fri 17 April | Political health (what does it mean to engineer biology at social scales)  |
 
 
-## Week 3: How can we use principles of system engineering in the context of genetics?
+## Week 3:  Analysis & Design of Molecules & Genetic Systems
 
 | Day         | Title  |
 | ----------- | -------|
@@ -102,7 +102,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Wed 22 April | Analysis and design of molecules  |
 | Fri 24 April | Analysis and design a genetic systems |
 
-## Week 4: Engineering Abstraction
+## Week 4: Engineering Abstraction in Biology
 
 | Day         | Title  |
 | ----------- | -------|
@@ -110,7 +110,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Wed 29 April | Engineering abstraction in living matter – generic system architecture |
 | Fri 1 May | Team Project – Framestorm/brainstorm plus teams rule(s) |
 
-## Week 5: 
+## Week 5: DNA Reading & Writing
 
 | Day         | Title  |
 | ----------- | -------|
@@ -118,7 +118,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Wed 5 May | Interconvertibility of genetic matter and information |
 | Fri 6 May | Team Project – Story spine plus project priorities |
 
-## Week 6: 
+## Week 6: From Diffusion to Programmed Development
 
 | Day         | Title  |
 | ----------- | -------|
@@ -126,7 +126,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Wed 13 May | Activity – Dancing droplets |
 | Fri 15 May | Programming morphogenesis (could you grow an arm?) |
 
-## Week 7:
+## Week 7: Evolution as Tool for Engineering
 
 | Day         | Title  |
 | ----------- | -------|
@@ -134,7 +134,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Wed 20 May | Evolution as an algorithm |
 | Fri 22 May | Evolution as a service |
 
-## Week 8: 
+## Week 8: Bioengineering with, of, and for Biology
 
 | Day         | Title  |
 | ----------- | -------|
@@ -142,7 +142,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Wed 27 May | Putting it all together – engineering with, of, & for biology |
 | Fri 29 May | Team Project – Working session|
 
-## Week 9: 
+## Week 9: Bioengineering Futures
 
 | Day         | Title  |
 | ----------- | -------|
@@ -150,7 +150,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Wed 3 June | Bioengineering futures related to human health|
 | Fri 5 June | Team Project – Working session |
 
-## Week 10:
+## Week 10: Bioengineering Futures & Charge to Class
 
 | Day         | Title  |
 | ----------- | -------|
