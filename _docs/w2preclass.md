@@ -13,7 +13,7 @@ The questions are study-questions and not homework to be graded.
 The intersection of Bioengineering and human health is an active and exciting area of research. 
 To better discuss the role that bioengineering can play -in addressing challenges in human health- briefly skim the following, The Burden of Disease and the Changing Task of Medicine, available from [link-1](https://www.nejm.org/doi/full/10.1056/NEJMp1113569) and also a summary of the same material from [link-2](https://www.businessinsider.com/leading-causes-of-death-from-1900-2010-2012-6?op=1).  
 
-**Q.1. What is the definition of 'burden of disease'?**
+**Q.1. What is the definition of burden of disease?**
 
 **Q.2. How has the burden of disease for various diseases changed over time?**
 
@@ -27,12 +27,12 @@ Next, familiarize yourself with some background information on malaria from the 
 
 **Q.4. How is malaria diagnosed and treated?**  
 
-**Q.5. What are the challenges associated with 'drug resistance'? **
+**Q.5. What are the challenges associated with 'drug resistance'?**
 
-Optional reading:  
+*Optional reading:  
 The Nobel Prize in Physiology or Medicine 2015 to Youyou Tu for her discoveries concerning a novel therapy against Malaria
-[Optional Link-1](https://www.nobelprize.org/uploads/2018/06/press-29.pdf)
-[Optional Link-2](https://www.nobelprize.org/prizes/medicine/2015/summary/)
+[Optional Link-1](https://www.nobelprize.org/uploads/2018/06/press-29.pdf),
+[Optional Link-2](https://www.nobelprize.org/prizes/medicine/2015/summary/)*
 
 One approach to address malaria with bioengineering is to produce drugs, or key ingredients of a medication, via engineered organisms (example engineered yeast).  See optional link for a primary research paper [High-level semi-synthetic production of the potent antimalarial artemisinin](https://www.nature.com/articles/nature12051).  
 
@@ -44,13 +44,13 @@ Now take a look at the following articles describing the reaction of the market 
 
 **Q.7. What were the challenges that the synthetic drug faced ?**
 
-**Q.8. What steps could have prevented some of those challenges? **
+**Q.8. What steps could have prevented some of those challenges?**
 
-Optional reading:  
+*Optional reading:  
 Interview with Dr. Jay Keasling ' whose work led to the industrial production of this important drug in yeast using synthetic biology.'
 [Optional Link-3](https://www.twistbioscience.com/company/blog/dr-jay-keasling)
 
-Later we will also talk about [**Gene-Drives**](https://wyss.harvard.edu/media-post/crispr-cas9-gene-drives/) as a potential solution to address diseases such as malaria. If you have time and wish to get a start on learning about Gene-Drives, check out this article [The Perils and Promises of Gene-Drive Technology](https://www.newyorker.com/news/daily-comment/the-perils-and-promises-of-gene-drive-technology) by Michael Specter. 
+Later we will also talk about [**Gene-Drives**](https://wyss.harvard.edu/media-post/crispr-cas9-gene-drives/) as a potential solution to address diseases such as malaria. If you have time and wish to get a start on learning about Gene-Drives, check out this article [The Perils and Promises of Gene-Drive Technology](https://www.newyorker.com/news/daily-comment/the-perils-and-promises-of-gene-drive-technology) by Michael Specter.*
 
 ______________________________________________________
 # Ignore needs to move (Week-2 of 2019)
