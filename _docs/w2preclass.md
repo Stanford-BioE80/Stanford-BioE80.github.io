@@ -91,7 +91,7 @@ Briefly familiarize yourself with the following project [revive&restore](https:/
 *Optional reading: 
 [De-Extinction Debate: Should We Bring Back the Woolly Mammoth?](https://e360.yale.edu/features/the_case_for_de-extinction_why_we_should_bring_back_the_woolly_mammoth).*
 
-Looking ahead to Friday's class and if you would like a thought-provoking essay by Ursula K. Le Guin, please find She [Unnames Them](http://lchc.ucsd.edu/mca/Mail/xmcamail.2013_01.dir/pdf4gQ1dofjT0.pdf)
+Looking ahead to Friday's class and if you would like a thought-provoking essay by Ursula K. Le Guin, please find [She Unnames Them](http://lchc.ucsd.edu/mca/Mail/xmcamail.2013_01.dir/pdf4gQ1dofjT0.pdf)
 
 
 ______________________________________________________
