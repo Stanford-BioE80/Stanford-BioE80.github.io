@@ -66,13 +66,13 @@ By the 1990s, their population was estimated to be a few dozens. In 2008, they w
 
 Excessive hunting mostly caused the mass of extinction of rhinos. Despite its devastating effects, excessive hunting and poaching is not the only (or the primary cause of) extinction of the species and rapid loss of biodiversity. 
 
-Climate change and Moving species around the world (due to human movement) are other significant factors causing the extinction of species. 
+**Climate change** and **Moving species** around the world (due to human movement) are other significant factors causing the extinction of species. Let's focus on moving species for now. 
 
 While this seems ordinary, we routinely (intentionally or otherwise) move species around the globe at a rapid rate. Moving species around the world can often bring together two species that have never encountered one another and have evolved along distinct evolutionary paths. 
 
 This introduction can have a distributive and devastating effect. For example, the intentional introduction of Pacific rats to New Zealand had a devastating impact on the population of many flightless birds that had no previous predators. Another example is the introduction of pathogens, e.g., fungal diseases. For example, White-nose syndrome devastated the population of bats in northern America and led the Panamanian Golden Frog to extinction in the wild. 
 
-White-nose syndrome is a disease affecting hibernating bats. White-nose syndrome is a disease affecting hibernating bats.Many laboratories and state and federal biologists are investigating the cause of the bat deaths. A fungus discovered in 2008, Pseudogymnoascus destructans, or pd, (formerly Geomyces destructans), has been demonstrated to cause WNS. Scientists are investigating the dynamics of fungal infection and transmission, and searching for a way to control it. [source-4](https://www.whitenosesyndrome.org/about-white-nose-syndrome)
+White-nose syndrome (WSN) is a disease affecting hibernating bats. White-nose syndrome is a disease affecting hibernating bats. Many laboratories and state and federal biologists are investigating the cause of the bat deaths. A fungus discovered in 2008, Pseudogymnoascus destructans, or pd, (formerly Geomyces destructans), has been demonstrated to cause WNS. Scientists are investigating the dynamics of fungal infection and transmission, and searching for a way to control it. [white nose syndrome](https://www.whitenosesyndrome.org/about-white-nose-syndrome)
 
 **Q.1. Could bioengineering help us revive and restore extinct species? If yes, how?**
 
@@ -84,15 +84,14 @@ Briefly familiarize yourself with the following project [revive&restore](https:/
 
 **Q.4. What challenges might the bioengineers face in reviving woolly mammoths?**
 
-**Q.5.If successful what challenges the woolly mammoths might face?**
+**Q.5. If successful-  what challenges the woolly mammoths might face?**
 
 **Q.6. Could bioengineering help us establish life somewhere else (e.g., Mars)? If yes, who should decide?**
 
 *Optional reading: 
-[De-Extinction Debate: Should We Bring Back the Woolly Mammoth?](https://e360.yale.edu/features/the_case_for_de-extinction_why_we_should_bring_back_the_woolly_mammoth).*
+[De-Extinction Debate: Should We Bring Back the Woolly Mammoth?](https://e360.yale.edu/features/the_case_for_de-extinction_why_we_should_bring_back_the_woolly_mammoth). and [The Living Planet Index](https://livingplanetindex.org/projects?main_page_project=AboutTheIndex&home_flag=1)
 
 Looking ahead to Friday's class and if you would like a thought-provoking essay by Ursula K. Le Guin, please find [She Unnames Them](http://lchc.ucsd.edu/mca/Mail/xmcamail.2013_01.dir/pdf4gQ1dofjT0.pdf)
-
 
 ______________________________________________________
 # Ignore needs to move (Week-2 of 2019)
