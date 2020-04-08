@@ -5,7 +5,7 @@ toc: true
 ---
 ## Why are you here? Why engineer biology? What's unique about living matter?
 
-Please read and consider the below. Monday's materials can be skimmed following Monday's class.  Wednesday's and Friday's materials should be studied before class.  The questions given are only study questions not homework to be graded. Talk about anything your find interesting with your classmates, friends, or TAs, as you like, using Piazza or email the instructors!
+Please read and consider the below. Monday's materials can be skimmed following Monday's class.  Wednesday's and Friday's materials should be studied before class.  The questions given are only study questions not homework to be graded. Talk about anything you find interesting with your classmates, friends, or TAs, as you like, using Piazza or email the instructors!
 
 ## Post-class readings from Monday
 
