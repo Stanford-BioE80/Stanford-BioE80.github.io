@@ -1,10 +1,59 @@
 ---
 title: "Week 2 Preclass"
 permalink: /docs/w2preclass/
-last_modified_at: Feb.20.2019
+
 toc: true
 ---
+## Human Health and Flourishing
+Please read and consider the below before the start of each class.
+The questions are study-questions and not homework to be graded.
+ Talk about anything you find interesting with your classmates, friends, or TAs, as you like, using Piazza or email the instructors!
 
+## Preclass for Monday
+The intersection of Bioengineering and human health is an active and exciting area of research. 
+To better discuss the role that bioengineering can play in addressing future challenges in health care and medicine first briefly familiarize your self with the article, The Burden of Disease and the Changing Task of Medicine, available from [link-1](https://www.nejm.org/doi/full/10.1056/NEJMp1113569) and also a summary of the same material from [link-2](https://www.businessinsider.com/leading-causes-of-death-from-1900-2010-2012-6?op=1).  
+
+**Q.1. What is the definition of 'burden of disease'?**
+
+**Q.2. How has the burden of disease changed over time?**
+
+Next, familiarize yourself with some background information on malaria from the following links:
+
+1. [WHO - 10 facts on Malaria](https://www.who.int/features/factfiles/malaria/en/)
+
+2. [CDC- Malaria](https://www.cdc.gov/parasites/malaria/index.html)
+
+**Q.3. What causes malaria? and how is malaria spread?**
+
+**Q.4. How is malaria diagnosed and treated?**  
+
+**Q.5. What are the challenges associated with 'drug resistance'? **
+
+Optional reading:  
+The Nobel Prize in Physiology or Medicine 2015 to Youyou Tu for her discoveries concerning a novel therapy against Malaria
+[Optional Link-1](https://www.nobelprize.org/uploads/2018/06/press-29.pdf)
+[Optional Link-2](https://www.nobelprize.org/prizes/medicine/2015/summary/)
+
+One approach to address the challenges associated with malaria is to produce drugs, or key ingredients of a medication, via engineered organisms (example engineered yeast).  See optional link for a primary research paper [High-level semi-synthetic production of the potent antimalarial artemisinin](https://www.nature.com/articles/nature12051).  
+
+Now take a look at the following articles describing the reaction of the market to Synthetic biology's first malaria drug.
+
+[Synthetic biology's first malaria drug meets market resistance](https://www.nature.com/news/synthetic-biology-s-first-malaria-drug-meets-market-resistance-1.19426?WT.ec_id=NEWS-20160225&spMailingID=50779167&spUserID=MzcwMzk3NDYwODcS1&spJobID=863136582&spReportId=ODYzMTM2NTgyS0)
+
+**Q.6. What was the only source of artemisinin before synthetic production?**
+
+**Q.7. What were the challenges that the synthetic production faced ?**
+
+**Q.8. What steps could have prevented some of those challenges?  **
+
+Optional reading:  
+Interview with Dr. Jay Keasling ' whose work led to the industrial production of this important drug in yeast using synthetic biology.'
+[Optional Link-3](https://www.twistbioscience.com/company/blog/dr-jay-keasling)
+
+Later we will also talk about [**Gene-Drives**](https://wyss.harvard.edu/media-post/crispr-cas9-gene-drives/) as a potential solution to address diseases such as malaria. If you have time and wish to get a start on learning about Gene-Drives, check out this article [The Perils and Promises of Gene-Drive Technology](https://www.newyorker.com/news/daily-comment/the-perils-and-promises-of-gene-drive-technology) by Michael Specter. 
+
+______________________________________________________
+# Ignore needs to move (Week-2 of 2019)
 ## How do design, build, and test tools work to support bioengineering?
 
 Please read and consider the below before start of class. The questions given are only study questions not homework to be answered. Talk about it all with your classmates, friends, or TAs, as you like.
