@@ -95,7 +95,7 @@ Looking ahead to Friday's class and if you would like a thought-provoking essay 
 ______________________________________________________
 ## Preclass for Friday 	
 
-### Political health(what does it mean to engineer biology at social scales)
+### Political health (what does it mean to engineer biology at social scales?)
 
 In getting started please familiarize yourself with the thinking of Hobbes and Rousseau.  
 
