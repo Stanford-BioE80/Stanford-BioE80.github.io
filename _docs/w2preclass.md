@@ -53,6 +53,36 @@ Interview with Dr. Jay Keasling ' whose work led to the industrial production of
 Later we will also talk about [**Gene-Drives**](https://wyss.harvard.edu/media-post/crispr-cas9-gene-drives/) as a potential solution to address diseases such as malaria. If you have time and wish to get a start on learning about Gene-Drives, check out this article [The Perils and Promises of Gene-Drive Technology](https://www.newyorker.com/news/daily-comment/the-perils-and-promises-of-gene-drive-technology) by Michael Specter.
 
 ______________________________________________________
+## Preclass for Monday
+
+**Extinction of Species and Bioengineering**
+
+In the 1960s, 2300 Northern White Rhinos lived in the wild. 
+By the 1990s, their population was estimated to be a few dozens. In 2008, they were believed to be extinct in the wild. On March 20, 2018, the last male northern white rhinoceros named Sudan died at the Ol Pejeta Conservancy in Kenya. A team of vets put the 45-year-old Sudan to rest when his age-related health complications took a turn for the worse.  Two female rhinos Sudan’s daughter (Najin), and granddaughter (Fatu) are what that is remaining of the northern white rhinos. Northern white rhinoceros were functionally extinct before the death of Sudan. Since neither Najin and are capable of natural reproduction. Currently, the only way to save the northern white is to artificially inseminate their eggs with stored sperm from Sudan and other males, and implant the resulting eggs into females of the closely related southern white rhino. [source-1](https://www.theatlantic.com/science/archive/2018/03/sudan-northern-white-rhino-death/556058/), [source-2](https://time.com/5209390/sudan-rhino-rhinoceros-northern-white/), [source-3](https://www.nytimes.com/2018/03/20/science/rhino-sudan-extinct.html). 
+
+*Optional reading: An Endling is the last known individual of a species or subspecies. Once the endling dies, the species becomes extinct [Optional Link-1:Endling](https://en.wikipedia.org/wiki/Endling), [Optional Link-2: what do you call the last of a species](https://www.newyorker.com/tech/annals-of-technology/what-do-you-call-the-last-of-a-species)*
+
+Excessive hunting mostly caused the mass of extinction of rhinos. Despite its devastating effects, excessive hunting and poaching is not the only (or the primary cause of) extinction of the species and rapid loss of biodiversity. 
+
+Climate change and Moving species around the world (due to human movement) are other significant factors causing the extinction of species. 
+
+While this seems ordinary, we routinely (intentionally or otherwise) move species around the globe at a rapid rate. Moving species around the world can often bring together two species that have never encountered one another and have evolved along distinct evolutionary paths. 
+
+This introduction can have a distributive and devastating effect. For example, the intentional introduction of Pacific rats to New Zealand had a devastating impact on the population of many flightless birds that had no previous predators. Another example is the introduction of pathogens, e.g., fungal diseases. For example, White-nose syndrome devastated the population of bats in northern America and led the Panamanian Golden Frog to extinction in the wild. 
+
+White-nose syndrome is a disease affecting hibernating bats. White-nose syndrome is a disease affecting hibernating bats.Many laboratories and state and federal biologists are investigating the cause of the bat deaths. A fungus discovered in 2008, Pseudogymnoascus destructans, or pd, (formerly Geomyces destructans), has been demonstrated to cause WNS. Scientists are investigating the dynamics of fungal infection and transmission, and searching for a way to control it. [source-4](https://www.whitenosesyndrome.org/about-white-nose-syndrome)
+
+**Q.1. Could bioengineering help us revive and restore extinct species? If yes, how?**
+
+**Q.2.Could bioengineering help us eliminate ( or reduce) invasive species?** 
+
+**Q.3. Could bioengineering help us eliminate factors accelerating ecosystem damage or change?**
+
+**Q.4. Could bioengineering help us establish life somewhere else (e.g., Mars)? If yes, who should decide?**
+
+Briefly familiarize yourself with the following project [revive&restore](https://reviverestore.org/projects/woolly-mammoth/).  
+
+______________________________________________________
 # Ignore needs to move (Week-2 of 2019)
 ## How do design, build, and test tools work to support bioengineering?
 
