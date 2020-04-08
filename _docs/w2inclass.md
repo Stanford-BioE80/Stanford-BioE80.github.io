@@ -1,10 +1,10 @@
 ---
-title: "Week 1 In class"
-permalink: /docs/w1inclass/
+title: "Week 2 In class"
+permalink: /docs/w2inclass/
 toc: true
 ---
 
-Link to course materals from Week 1. 
+Link to course materals from Week 2. 
 
 <!--
 # Day 4: April 13, 2020
