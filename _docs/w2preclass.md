@@ -48,9 +48,9 @@ Now take a look at the following articles describing the reaction of the market 
 
 *Optional reading:  
 Interview with Dr. Jay Keasling ' whose work led to the industrial production of this important drug in yeast using synthetic biology.'
-[Optional Link-3](https://www.twistbioscience.com/company/blog/dr-jay-keasling)
+[Optional Link-3](https://www.twistbioscience.com/company/blog/dr-jay-keasling)*
 
-Later we will also talk about [**Gene-Drives**](https://wyss.harvard.edu/media-post/crispr-cas9-gene-drives/) as a potential solution to address diseases such as malaria. If you have time and wish to get a start on learning about Gene-Drives, check out this article [The Perils and Promises of Gene-Drive Technology](https://www.newyorker.com/news/daily-comment/the-perils-and-promises-of-gene-drive-technology) by Michael Specter.*
+Later we will also talk about [**Gene-Drives**](https://wyss.harvard.edu/media-post/crispr-cas9-gene-drives/) as a potential solution to address diseases such as malaria. If you have time and wish to get a start on learning about Gene-Drives, check out this article [The Perils and Promises of Gene-Drive Technology](https://www.newyorker.com/news/daily-comment/the-perils-and-promises-of-gene-drive-technology) by Michael Specter.
 
 ______________________________________________________
 # Ignore needs to move (Week-2 of 2019)
