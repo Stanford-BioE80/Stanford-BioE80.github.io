@@ -11,8 +11,6 @@ toc: true
 <a href="/assets/images/office_hours.png"><img src="/assets/images/office_hours.png"></a>
 </figure>
 
-![TA Office Hours](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/raw/master/_docs/)
-
 ### Teaching Assistants
 <figure>
 <a href="/assets/images/ta_splash.png"><img src="/assets/images/ta_splash.png"></a>
