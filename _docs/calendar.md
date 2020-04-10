@@ -1,6 +1,6 @@
 ---
 title: "TA Office Hours"
-permalink: /docs/TA_Office_Hours/
+permalink: /docs/calendar/
 last_modified_at:
 toc: true
 ---
