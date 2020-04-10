@@ -77,8 +77,8 @@ docs:
 
   - title: Problem Sets
     children:
-      #- title: "Week 1 PS"
-      #  url: /docs/w1ps/
+      - title: "Week 1 PS"
+        url: /docs/w1ps/
       #- title: "Week 2 PS"
       #  url: /docs/w2ps/
       #- title: "Week 3 PS"
