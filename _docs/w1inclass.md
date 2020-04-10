@@ -12,13 +12,12 @@ Link to course materals from Week 1.
 
 [Class Audio/Video](https://canvas.stanford.edu/courses/115648/files/folder/6%20April%202020%20-%20Audio%20Video)
 
-<!--
+
 # Day 2: April 8, 2020
 
 [Class Slides](https://stanford-bioe80.github.io/docs/Stanford_BIOE80_Day2_08April20.pdf)
 
 [Class Audio/Video](https://canvas.stanford.edu/courses/115648/files/folder/8%20April%202020%20-%20Audio%20Video)
--->
 
 <!--
 # Day 3: April 10, 2020
