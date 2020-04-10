@@ -11,7 +11,6 @@ ASSIGNED: Friday 10 April 2020
 
 DUE: 5:00p Pacific Friday 17 April 2020
 
-[DOWNLOAD PDF](https://stanford-bioe80.github.io/docs/Engr_BioE_80_PSET1.pdf)
 
 **NOTES:**
 
