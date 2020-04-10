@@ -36,6 +36,8 @@ docs:
         url: /docs/syllabus/
       - title: "Online Etiquette"
         url: /docs/online_etiquette/
+      - title: "TA Office Hours"
+        url: /docs/calendar/
   - title: Class Materials
     children:
       - title: "Week 1 Readings"
