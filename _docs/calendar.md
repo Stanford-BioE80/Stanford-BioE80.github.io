@@ -7,10 +7,16 @@ toc: true
 ### Zoom link (same as class)
 [https://stanford.zoom.us/j/861034342?pwd=NkVXNUcwNVBKb1RCWnk3aTVydWJFQT09](https://stanford.zoom.us/j/861034342?pwd=NkVXNUcwNVBKb1RCWnk3aTVydWJFQT09)
 
-![TA Office Hours](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/raw/master/_docs/office_hours.png)
+<figure>
+<a href="/assets/images/office_hours.png"><img src="/assets/images/office_hours.png"></a>
+</figure>
+
+![TA Office Hours](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/raw/master/_docs/)
 
 ### Teaching Assistants
-![Teaching Assistants](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/blob/master/_docs/ta_splash.png)
+<figure>
+<a href="/assets/images/ta_splash.png"><img src="/assets/images/ta_splash.png"></a>
+</figure>
 
 Jon Calles; Office Hours Sun 13:00-15:00; [jecalles@stanford.edu](mailto:jecalles@stanford.edu)
 
