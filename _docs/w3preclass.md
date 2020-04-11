@@ -30,7 +30,7 @@ Despite the tremendous progress in microscopy, modern microscopes (for the most 
 **Q.1. But what if you do not have access to a lab with a microscope?  
 (Wouldn't it be nice to take your microscope with you wherever you go and explore the living matter?**  
 
-**Q.2. How can we as engineers enable all learners, explorers, and makers to have access to tools such as microscopes?**
+**Q.2. How can we -as Bioengineers- enable all learners, explorers, and makers to have access to tools such as microscopes?**
 
 ### Foldscope
 
