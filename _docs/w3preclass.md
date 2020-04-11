@@ -47,6 +47,22 @@ Despite the tremendous progress in microscopy, modern microscopes (for the most 
 
 ### Foldscope
 
+Foldscope is a field-deployable paper origami microscope designed and built here at Stanford by Manu Prakash and his team. 
+
+First, spend 10' and watch the Manu's TED talk on Foldscopes, [video-1](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437)
+
+**Q.3. According to the talk what are the problems with modern microscopes?**
+
+**Q.4. According to the talk what are the relationships between hands on science education tools and global health?**
+
+Next, familiarize yourself with the global community of Foldscope users here at [Microcosmos](https://microcosmos.foldscope.com/)
 
 
 
+
+
+
+If you requested a fo 
+
+
+nstructions for how to [build the foldscope](https://www.youtube.com/watch?v=RvZRO36IRYY). You will be doing this in class.
