@@ -15,6 +15,19 @@ Talk about anything you find interesting with your classmates, friends, or TAs, 
 
 "If you want to know how nature works, (you) looked at it, carefully. Looking at it, that's the way it looks.  You don't like it? Go somewhere else, to another universe where the rules are simpler..." - Richard Feynman [source](https://www.youtube.com/watch?v=eLQ2atfqk2c&t=24m2s)
 
+### Self-Assessment: Maker or Explorer
+
+Imagine that you spend hours assembling a device (a box) that, once finished, is supposed to power a light bulb when a button is pushed. You place your finished construction on your workshop table and press the button... POOF! 
+Smoke pours from the device but the bulb remains dark. 
+
+Do you exclaim (choose one):
+
+          DARN!!! 	COOL!!!
+
+Why did you pick your choice? Remember your answer. 
+
+### Microscopes
+
 Microscopes are a fantastic tool for exploring the beauty of living systems.  
 In week-1's reading, you encountered Van Leeuwenhoek's simple yet powerful microscope.  Since Van Leeuwenhoek's time, building microscopes - that enable us to observe living matter across various scales - have been an ongoing and exciting area research. Microscopes are routinely used by bioengineers to test, quantify, and visualize their engineered systems. 
 For example, you, as part of BIOE.44 (Fundamentals for Engineering Biology Lab), could build a genetic circuit in *E. coli* that produces green fluorescent proteins in response to environmental toxins such as lead or arsenic. Or you can build a genetic clock (oscillator) that expresses fluorescent proteins at predefined time frequencies. For both examples, you could use a fluorescent microscope to see, quantify, and test the operation of your engineered organisms.  
@@ -36,10 +49,4 @@ Despite the tremendous progress in microscopy, modern microscopes (for the most 
 
 
 
-### Self-Assessment - Maker or Explorer
 
-Imagine that you spend hours assembling a device (a box) that, once finished, is supposed to power a light bulb when a button is pushed. You place your finished construction on your workshop table and press the button... POOF! Smoke pours from the device but the bulb remains dark. Do you exclaim (choose one):
-
-          DARN!!! 	COOL!!!
-
-Why did you pick your choice? Remember your answer. 
