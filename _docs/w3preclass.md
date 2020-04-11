@@ -17,11 +17,13 @@ Talk about anything you find interesting with your classmates, friends, or TAs, 
 
 - Richard Feynman [source](https://www.youtube.com/watch?v=eLQ2atfqk2c&t=24m2s)
 
-Microscopes are an essential tool in our ability to learn about living systems.  In week-1's reading, you encountered  Van Leeuwenhoek's simple yet powerful microscope.  Building microscopes that enable us to observe biological systems across various scales have been an ongoing and exciting area of scientific and engineering research.  
+Microscopes are an essential tool for exploring the beauty of living systems.  In week-1's reading, you encountered        Van Leeuwenhoek's simple yet powerful microscope.  Since Van Leeuwenhoek's time, building microscopes - that enable us to observe living matter across various scales - have been an ongoing and exciting area research . Microscopes also enable us to monitor and visualize bioengineered systems. For example, you may build a genetic circuit in *E. coli* that produces green fluorescent proteins (that can be visulized and quantified by a microscope)  when it detects environmental toxins such as lead or arsenic. See BIOE 44: Fundamentals for Engineering Biology Lab.
 
 *Optional reading: 
-Nobel prize in chemistry 2014 for the development of super-resolved fluorescence microscopy [How the optical microscope became a nanoscope](https://www.nobelprize.org/uploads/2018/06/popular-chemistryprize2014.pdf), and [Scientifc Background ](https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2014.pdf).  
-Nobel prize in chemistry 2017 for developing cryo-electron microscopy for the high-resolution structure determinationof biomolecules in solution [They captured life in atomic detail](https://www.nobelprize.org/uploads/2018/06/popular-chemistryprize2017.pdf), and [Scientifc Background ](https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2017.pdf)*
+
+Nobel prize in chemistry 2014, for the development of super-resolved fluorescence microscopy [How the optical microscope became a nanoscope](https://www.nobelprize.org/uploads/2018/06/popular-chemistryprize2014.pdf), and [Scientifc Background ](https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2014.pdf).  
+
+Nobel prize in chemistry 2017, for developing cryo-electron microscopy for the high-resolution structure determinationof biomolecules in solution [They captured life in atomic detail](https://www.nobelprize.org/uploads/2018/06/popular-chemistryprize2017.pdf), and [Scientifc Background ](https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2017.pdf)*
 
 
 ### Self-Assessment - Maker or Explorer
