@@ -13,7 +13,7 @@ Talk about anything you find interesting with your classmates, friends, or TAs, 
 
 ### Activity – Tools for seeing biology (Foldscope)
 
-"If you want to know how nature works, we looked at it, carefully. Looking at it, that's the way it looks. You don't like it? Go somewhere else, to another universe where the rules are simpler..."
+"If you want to know how nature works, (you) looked at it, carefully. Looking at it, that's the way it looks.  You don't like it? Go somewhere else, to another universe where the rules are simpler..."
 
 - Richard Feynman [source]('https://www.youtube.com/watch?v=eLQ2atfqk2c&t=24m2s')
 
