@@ -15,7 +15,7 @@ Talk about anything you find interesting with your classmates, friends, or TAs, 
 
 "If you want to know how nature works, (you) looked at it, carefully. Looking at it, that's the way it looks.  You don't like it? Go somewhere else, to another universe where the rules are simpler..." - Richard Feynman [source](https://www.youtube.com/watch?v=eLQ2atfqk2c&t=24m2s)
 
-### Self-Assessment: Maker or Explorer
+### Self-Assessment: 
 
 Imagine that you spend hours assembling a device (a box) that, once finished, is supposed to power a light bulb when a button is pushed. You place your finished construction on your workshop table and press the button... POOF! 
 Smoke pours from the device but the bulb remains dark. 
@@ -55,14 +55,13 @@ First, spend 10' and watch the Manu's TED talk on Foldscopes, [video-1](https://
 
 **Q.4. According to the talk what are the relationships between hands on science education tools and global health?**
 
-Next, familiarize yourself with the global community of Foldscope users here at [Microcosmos](https://microcosmos.foldscope.com/)
+Next, familiarize yourself with the global community of Foldscope users here at [Microcosmos(https://microcosmos.foldscope.com/)
 
+**Putting your Foldscope together**
 
+If you requested the BIOE.80 Education Kit and have received your Foldscopes follow the video instructions on [Foldscope Tutorials](https://www.foldscope.com/tutorials) or the written instruction inside the Foldscope kit to assemble your microscope. You can also find additional videos on how to use your Foldscope from the website. 
 
+If you didn't ask for a Foldscope, don't worry.  You can still complete the problem set question without one.  
 
-
-
-If you requested a fo 
-
-
-nstructions for how to [build the foldscope](https://www.youtube.com/watch?v=RvZRO36IRYY). You will be doing this in class.
+Build and bring your Foldscope to class on Monday and make sure to remember your answer to the Self-Assessment.  
+Note: In previous years, this would take students between 30'-40'. 
