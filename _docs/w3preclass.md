@@ -19,7 +19,9 @@ Talk about anything you find interesting with your classmates, friends, or TAs, 
 
 Microscopes are an essential tool in our ability to learn about living systems.  In week-1's reading, you encountered  Van Leeuwenhoek's simple yet powerful microscope.  Building microscopes that enable us to observe biological systems across various scales have been an ongoing and exciting area of scientific and engineering research.  
 
-*Optional reading: Nobel prize in chemistry 2014 for the development of super-resolved fluorescence microscopy [How the optical microscope became a nanoscope](https://www.nobelprize.org/uploads/2018/06/popular-chemistryprize2014.pdf), and [Scientifc Background ](https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2014.pdf).  Nobel prize in chemistry 2017 for developing cryo-electron microscopy for the high-resolution structure determinationof biomolecules in solution [They captured life in atomic detail](https://www.nobelprize.org/uploads/2018/06/popular-chemistryprize2017.pdf), and [Scientifc Background ](https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2017.pdf)
+*Optional reading: 
+Nobel prize in chemistry 2014 for the development of super-resolved fluorescence microscopy [How the optical microscope became a nanoscope](https://www.nobelprize.org/uploads/2018/06/popular-chemistryprize2014.pdf), and [Scientifc Background ](https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2014.pdf).  
+Nobel prize in chemistry 2017 for developing cryo-electron microscopy for the high-resolution structure determinationof biomolecules in solution [They captured life in atomic detail](https://www.nobelprize.org/uploads/2018/06/popular-chemistryprize2017.pdf), and [Scientifc Background ](https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2017.pdf)*
 
 
 ### Self-Assessment - Maker or Explorer
