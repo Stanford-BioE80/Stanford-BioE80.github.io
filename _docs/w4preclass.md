@@ -3,7 +3,21 @@ title: "Week 4 Preclass"
 last_modified_at: Feb.20.2019
 toc: true
 ---
+## Preclass for Monday
 
+## Introduction: Abstraction as a tool for managing complexity in bioengineering.
+
+Welcome to the pre-class material for Abstraction as a tool for managing complexity in bioengineering. 
+
+**Goal-1:** After Week-3 you will able to describe the role of abstraction as a tool for helping 
+to managecomplexity in biological systems - with an emphasis on the design step of the engineering cycle.
+
+**Goal-2:** You will also be able to apply abstraction (in the form of black box diagrams) to decompose 
+or synthesize the designs systems that could then be implemented in living matter for example viaengineered 
+(i.e., designer) DNA.
+
+Read the two parts of this free comic book (**Programming DNA** and **Engineered Genetic Devices**)
+ [Adventures in Synthetic Biology](https://openwetware.org/wiki/Adventures)  before the class. 
 ## Preclass for Wednesday
 
 First read the (**Common Signal Carriers**) part from this free comic book [Adventures in Synthetic Biology](https://openwetware.org/wiki/Adventures) before the class. 
