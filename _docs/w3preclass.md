@@ -74,9 +74,7 @@ ________________________________________________________________________________
 Update opening here: On Monday we discussed tools to visulaize living matter. 
 (Notes: Last year we framed the following as part of Design-Build-Test) 
 
-### Example 2 - Molecules, bioengineering and Design-Build-Test
-
-What if, in a few years, you were given $35 million to fund clinical trials of a medicine based on one of your undergraduate bioengineering research projects? For example...
+### Celiac Disease and KumaMax
 
 Celiac disease is an autoimmune disease of the small intestine that is triggered by eating gluten - a protein found in wheat, barley, and rye - and causes damage to the fingerlike projections lining your small intestine (villi) important for nutrient absorption ([figure](https://www.mayoclinic.org/diseases-conditions/celiac-disease/symptoms-causes/syc-20352220)). 
 
