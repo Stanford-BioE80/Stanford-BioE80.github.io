@@ -69,5 +69,16 @@ Do your best to summarize your thoughts in one paragraph.
 
 Note: In Q.3.b., we are looking for a clearly stated and logical argument that uses the stated assumptions from Q.3.a. Use these assumptions, combine them with examples, and describe your position. 
 
+### (Q4) Leadership and Bioengineering (30 Points)
 
+Think about a future (say 2030).  What future you wish to make true, via or in partnership with Bioengineering.
+Perhaps you will start a company that enables long term storage of information encoded in DNA.  Or work on engineered organisms that eat and break down plastics.   Maybe you will work on a De-extension project that seeks to restore our planet's biodiversity.  You get the idea.  
 
+**Q.4.a.**  State the future that you wish to realize? Try your best to be both creative and specific?  
+Find 2 to 3 resources (papers, articles, websites) that support the feasibility, and describe the context of your wish. (Note: Your wish can be the same as your answer to PSET.1's Question.2 or a new wish) 
+
+Next, revisit Dr. Palmer’s testimony from the reading (Transcript from [here](https://www.commerce.senate.gov/services/files/C8F37274-730B-412E-9C9D-9A63839B37C7).  Dr. Palmer offers five recommendations for the Senators to secure future U.S. leadership in the bioeconomy. 
+
+**Q.4.b.** Which recommendation(s) might help you the most in realizing your future? Which recommendation (s) might prevent you from realizing your future? And each case, why?  Given the future you wish to realize, would you have offered a different recommendation? What and why? (Do your best to summarize your thoughts in one paragraph.)
+
+Note: In Q.4 we are looking for your thought process and clear reasoning. Stated differently, we don't have a "correct answer" in mind.  Instead, we wish for you to think deeply.  We want to enable you to improve your written communication skills.  Finally, we wish for you to take steps towards becoming a leader (similar to Dr. Palmer) to be able to direct discussions around bioengineering. 
