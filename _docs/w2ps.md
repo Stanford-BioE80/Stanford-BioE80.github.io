@@ -41,16 +41,16 @@ Not:  For the following estimation questions please show your step by step calcu
 ### (Q2) Fantastic Voyage (20 Points)
 
 In the near future, you and your team are planning to remove an inoperable tumor from the brain of an important scientist. You conclude that the only way that the tumor can be destroyed is to remove it from the inside of the patient's own body. You imagine a submarine that can be shrunk and will carry the team of experts and doctors.            
-Sadly, however, no shrink ray exists in this future [Fantastic Voyage](https://www.imdb.com/title/tt0060397/)
+Sadly, however, a shrink ray does not exist in this future [Fantastic Voyage](https://www.imdb.com/title/tt0060397/)
 
 Instead, you can begin to engineer living matter, microbes or patient's cells that are already small.
 Briefly read the abstract of the paper titled [Acoustic reporter genes for noninvasive imaging of microorganisms in mammalian hosts](https://www.nature.com/articles/nature25021), which enables imaging and control of living matter in mammalian hosts.
 
-**Q.2.a.** In your own words summarize the abstract in 2-3 sentences. What is the main claim of this paper?
+**Q.2.a.** In your own words, summarize the abstract in 2-3 sentences. What is the main claim of this paper?
 
-**Q.2.b.** According to the abstract what is the origin and purpose of the gas-filled protein nanostructures in nature?  
+**Q.2.b.** According to the paper, what is the origin and purpose of the gas-filled protein nanostructures in nature?  
 
-**Q.2.c.** What is a typical size of the gas-filled proteins?  How are the gas-filled proteins visualized in the paper (what technique)?  Can the gas-field proteins be visualized directly via a light microscope (yes/no)? Why? 
+**Q.2.c.** What is the typical size of the gas-filled proteins?  How are the gas-filled proteins visualized in the paper (what technique)?  Can the gas-field proteins be visualized directly via a light microscope (yes/no)? Why? 
 
 **Q.2.d.** Can you think about and describe another application (medical or other) for these engineered microbes (bullet points). 
 
