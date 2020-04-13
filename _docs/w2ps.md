@@ -56,3 +56,18 @@ Briefly read the abstract of the paper titled [Acoustic reporter genes for nonin
 
 **Q.2.e.** In your opinion, what are the paper’s strengths and significance?  What are the paper's shortcomings and deficiencies? How can the paper improve? 
 
+### (Q3) Rousseau and Hobbes (30 Points)
+
+**Q.3.a.** How do Rousseau’s assumptions about human nature differ from Hobbes’? (3 bullet points)
+
+**Q.3.b.** Do you think those practicing bioengineering should be licensed? If yes or no, who gets to decide? 
+
+(As you think about the above question, also consider:  What are the advantages or disadvantages of a license?  Who gets to be licensed? Who decides the rules for the license?  Is there an exam? Where do practitioners go to receive a permit? How the assumptions from Hobbes and Rousseau could lead to differences regarding how people are organized, or organize themselves.)
+
+Craft an answer in response to some or all of the above questions.  
+Do your best to summarize your thoughts in one paragraph.
+
+Note: In Q.3.b., we are looking for a clearly stated and logical argument that uses the stated assumptions from Q.3.a. Use these assumptions, combine them with examples, and describe your position. 
+
+
+
