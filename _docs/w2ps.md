@@ -81,4 +81,4 @@ Next, revisit Dr. Palmer’s testimony from the reading (Transcript from [here](
 
 **Q.4.b.** Which recommendation(s) might help you the most in realizing your future? Which recommendation (s) might prevent you from realizing your future? And each case, why?  Given the future you wish to realize, would you have offered a different recommendation? What and why? (Do your best to summarize your thoughts in one paragraph.)
 
-Note: In Q.4 we are looking for your thought process and clear reasoning. Stated differently, we don't have a "correct answer" in mind.  Instead, we wish for you to think deeply.  We want to enable you to improve your written communication skills.  Finally, we wish for you to take steps towards becoming a leader (similar to Dr. Palmer) to be able to direct discussions around bioengineering. 
+Note: In Q.4 we don't have a "correct answer" in mind.  Instead, we wish for you to think deeply.  We want to enable you to practice your written communication skills.  Finally, we wish for you to take steps towards becoming a leader (similar to Dr. Palmer) to be able to direct discussions around bioengineering. 
