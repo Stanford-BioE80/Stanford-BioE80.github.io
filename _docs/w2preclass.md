@@ -114,7 +114,7 @@ Next, please skim the 2018 NY Times article, [“As D.I.Y. Gene Editing Gains Po
 
 **Q.3. Do you think bioengineers should be licensed?  What most informed your choice?**
 
-Finally, please watch the ~5' video of testimony by bioengineer Dr. Megan Palmer before the US Senate on the topic of "Securing U.S. Leadership in the Bioeconomy" (https://www.commerce.senate.gov/2020/3/securing-u-s-leadership-in-the-bioeconomy).  Please skip directly to the 52:35' timestamp to go directly to Dr. Palmer's testimony.  
+Finally, please watch the [~5' video of testimony by bioengineer Dr. Megan Palmer before the US Senate on the topic of "Securing U.S. Leadership in the Bioeconomy"](https://www.commerce.senate.gov/2020/3/securing-u-s-leadership-in-the-bioeconomy).  Please skip directly to the 52:35' timestamp to go directly to Dr. Palmer's testimony.  
 
 **Q.4. Dr. Palmer offers five recommendations for the Senators.  What are her five recommendations?**
 
