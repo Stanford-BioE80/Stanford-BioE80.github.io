@@ -1,214 +1,143 @@
 ---
-title: "Week 3 Preclass- Abstraction"
+title: "Week 3 Analysis & Design of Molecules & Genetic Systems"
 permalink: /docs/w3preclass/
-last_modified_at: Feb.20.2019
+last_modified_at: 
 2018: "Week 6"
 ---
-
-
-## Abstraction as a tool for managing complexity in bioengineering
-
-Please read and consider the below before start of each class.
-The questions given are only study questions not homework to be graded.
-Talk about it all with your classmates, friends, or TAs, as you like.
+## Analysis & Design of Molecules & Genetic Systems
+Please read and consider the below before the start of each class.
+The questions are study-questions and not homework to be graded.
+Talk about anything you find interesting with your classmates, friends, or TAs, as you like, using Piazza or email the instructors!
 
 ## Preclass for Monday
 
-## Introduction: Abstraction as a tool for managing complexity in bioengineering.
+### Activity – Tools for seeing biology (Foldscope)
 
-Welcome to the pre-class material for Abstraction as a tool for managing complexity in bioengineering. 
+"If you want to know how nature works, (you) looked at it, carefully. Looking at it, that's the way it looks.  You don't like it? Go somewhere else, to another universe where the rules are simpler..." - Richard Feynman [source](https://www.youtube.com/watch?v=eLQ2atfqk2c&t=24m2s)
 
-**Goal-1:** After Week-3 you will able to describe the role of abstraction as a tool for helping 
-to managecomplexity in biological systems - with an emphasis on the design step of the engineering cycle.
+### Self-Assessment: 
 
-**Goal-2:** You will also be able to apply abstraction (in the form of black box diagrams) to decompose 
-or synthesize the designs systems that could then be implemented in living matter for example viaengineered 
-(i.e., designer) DNA.
+Imagine that you spend hours assembling a device (a box) that, once finished, is supposed to power a light bulb when a button is pushed. You place your finished construction on your workshop table and press the button... POOF! 
+Smoke pours from the device but the bulb remains dark. 
 
-Read the two parts of this free comic book (**Programming DNA** and **Engineered Genetic Devices**)
- [Adventures in Synthetic Biology](https://openwetware.org/wiki/Adventures)  before the class. 
+Do you exclaim (choose one):
 
-_______________________________________________________________________
+          DARN!!! 	COOL!!!
 
+Why did you pick your choice? Remember your answer. 
+
+### Microscopes
+
+Microscopes are a fantastic tool for exploring the beauty of living systems.  
+In week-1's reading, you encountered Van Leeuwenhoek's simple yet powerful microscope.  Since Van Leeuwenhoek's time, building microscopes - that enable us to observe living matter across various scales - have been an ongoing and exciting area research. Microscopes are routinely used by bioengineers to test, quantify, and visualize their engineered systems. 
+For example, you, as part of BIOE.44 (Fundamentals for Engineering Biology Lab), could build a genetic circuit in *E. coli* that produces green fluorescent proteins in response to environmental toxins such as lead or arsenic. Or you can build a genetic clock (oscillator) that expresses fluorescent proteins at predefined time frequencies. For both examples, you could use a fluorescent microscope to see, quantify, and test the operation of your engineered organisms.  
+
+*Optional reading: 
+
+Nobel prize in chemistry 2014, for the development of super-resolved fluorescence microscopy [How the optical microscope became a nanoscope](https://www.nobelprize.org/uploads/2018/06/popular-chemistryprize2014.pdf), and [Scientifc Background ](https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2014.pdf).  
+
+Nobel prize in chemistry 2017, for developing cryo-electron microscopy for the high-resolution structure determinationof biomolecules in solution [They captured life in atomic detail](https://www.nobelprize.org/uploads/2018/06/popular-chemistryprize2017.pdf), and [Scientifc Background ](https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2017.pdf)*
+
+Despite the tremendous progress in microscopy, modern microscopes (for the most part) are expensive lab instruments that cannot easily be used or shared outside of labs. 
+
+**Q.1. But what if you do not have access to a lab with a microscope?  
+(Wouldn't it be nice to take your microscope with you wherever you go and explore the living matter?**  
+
+**Q.2. How can we -as Bioengineers- enable all learners, explorers, and makers to have access to tools such as microscopes?**
+
+### Foldscope
+
+Foldscope is a field-deployable paper origami microscope designed and built here at Stanford by Manu Prakash and his team. 
+
+First, spend 10' and watch the Manu's TED talk on Foldscopes, [video-1](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437)
+
+**Q.3. According to the talk what are the problems with modern microscopes?**
+
+**Q.4. According to the talk what are the relationships between hands on science education tools and global health?**
+
+Next, familiarize yourself with the global community of Foldscope users here at [Microcosmos(https://microcosmos.foldscope.com/)
+
+**Putting your Foldscope together**
+
+If you requested the BIOE.80 Education Kit and have received your Foldscopes follow the video instructions on [Foldscope Tutorials](https://www.foldscope.com/tutorials) or the written instruction inside the Foldscope kit to assemble your microscope. You can also find additional videos on how to use your Foldscope from the website. 
+
+If you didn't ask for a Foldscope, don't worry.  You can still complete the problem set question without one.  
+
+Build and bring your Foldscope to class on Monday and make sure to remember your answer to the Self-Assessment.  
+Note: In previous years, this would take students between 30'-40'. 
+
+___________________________________________________________________________________________________
 ## Preclass for Wednesday
 
-First read the (**Common Signal Carriers**) part from this free comic book [Adventures in Synthetic Biology](https://openwetware.org/wiki/Adventures) before the class. 
+### Analysis and design of molecules 
 
-## Example-1:  Bacterial Flash Mob
+Update opening here: On Monday we discussed tools to visulaize living matter. 
+(Notes: Last year we framed the following as part of Design-Build-Test) 
 
-**Write down the DNA sequence** encoding a dynamic bacterial flash mob (see animation below in Figure.1 )
+### Celiac Disease and KumaMax
 
-<figure>
-<a href="/assets/images/w3_IEcolibratorMovie.gif"><img src="/assets/images/w3_IEcolibratorMovie.gif"></a>
-</figure> 
+Celiac disease is an autoimmune disease of the small intestine that is triggered by eating gluten - a protein found in wheat, barley, and rye - and causes damage to the fingerlike projections lining your small intestine (villi) important for nutrient absorption ([figure](https://www.mayoclinic.org/diseases-conditions/celiac-disease/symptoms-causes/syc-20352220)). 
 
-**Figure-1** Bacterial flash mob. Credit to MIT students 2004: Polkadorks. 
+It is estimated that 1% of the US population has celiac disease, but despite increasing attention in the media, almost 83% of those 3 million people remain undiagnosed (NOTE:  Beyond Celiac: What is Celiac Disease?). While misdiagnosis is common, some postulate that this lack of diagnosis (and awareness) can be linked to the limited clinical treatment offerings: currently, the only approved therapy is adherence to a strict gluten-free diet. Avoiding gluten can be difficult when there are hidden sources lurking around us (NOTE:  Medivizor: 300 facts you didn't know about gluten). Further, many who do adhere to a strict gluten-free diet do not see recovery of the small intestinal mucosa.
 
-**Q.1. What is the first base of your DNA program?  A, T, C, or G?  
-(Note: Do not spend more than 100 seconds pondering and answering this question.  Time’s up!).**  
+Recognizing the need for a true therapy, a 2011 undergraduate iGEM team (see igem.org) from the University of Washington began to design a drug that could potentially provide relief. Six years later, that drug (KumaMax) was funded to undergo phase I clinical trials to the tune of $35 million.  To learn more skim the following two websites:
 
-*Figure 1.  Dynamic bacterial flash mob.* 
-A collection of engineered bacteria (black dots)move randomly in two dimensions.One cell activates randomly, turns red, and secretes a diffusing attractant molecule (green circle).All other cells sense and move towards the source of the attractant.After a period of time all cells return to their original stateuntil the process repeats over and again.
+[iGEM Startup PvP Biologics Closes a $35 Million Agreement with Pharmaceutical Company Takeda](https://synbiobeta.com/igem-startup-pvp-biologics-closes-35-million-agreement-pharmaceutical-company-takeda/) 
 
-**Q.2. Why is Q1 a difficult question to answer?**   
-(Hint: Consider the difference between what you do and what must physically occur to use a smartphone to take a photograph and send an image to your best friend via text message.  Are you ever typing 0s and 1s into your phone?  What’s happening instead?)
+[UW iGEM Wiki: Gluten Destruction](http://2011.igem.org/Team:Washington/Celiacs/Background)
 
-One simple-but-powerful and general-purpose approach for organizing engineered systems is shown on the next slide.  Forexample, a computer has a keyboard that receives input via keys (sensors), performs logical operations (computation), andcan output via a display, printer or other device (actuation).  As a second example, a pilot can control a Boeing 787 airplaneby moving the yoke, whose inputs are combined with other inputs collected by additional sensors (e.g., air pressure), andthen a flight computer determines what the actuated flight surfaces on the wings and tail physically do, as controlled by a“fly-by-wire” system.
+**Q.7.** According to the team's website, why had other approaches failed?
 
-Note that our thinking about such systems can quickly become complicated by the details of any one example, but thateach example follows a similar pattern; inputs are received by one or more sensors; so-received information is computedupon as needed via an intermediate process; and finally some action is taken.  Please also note that in more complicatedsystems the output of a system can itself be an input, creating a “loop” or feedback to realize more sophisticated dynamics(e.g., repeating or other dynamically controlled behaviors, such as in the case of the looping bacterial flash mob).
+**Q.8.** What was unique about their approach?
 
-<figure>
-<a href="/assets/images/generic system arch.png"><img src="/assets/images/generic system arch.png"></a>
-<figcaption><b>Figure 2</b>. Generic system architecture.</figcaption>
-</figure>
+**Q.9.** How did they choose their starting enzyme? What key design specification made this a great choice?
 
-A sensor measures environmental properties or inputs  (for example: a keyboard) and transfers this information to a computer (logic unit) to be processed. The results are then transferred to an actuator (e.g., a printer or a display) that can output these results.
+**Q.10.** How did they design their enzyme? What tools did they use?
 
-This same framework can be applied to help manage the engineering of biological systems.Stated differently, the desired behavior of a complicated biological process can be represented at an intermediate level ofabstraction via a simpler-to-understand  “black box” diagram.
+**Q.11.** How did they test their enzyme?
 
-**Q.3. Revisit to the bacterial flash mob and develop a device-level block diagram that would result in the so-shownbehavior.  Label simple sensors, logic blocks, and actuators, as needed.  Connect outputs to inputs (i.e., connectboxes together via ines) where and as required.**  
-(Hint: Only give simple device names (e.g., “coin flip,” “turn red,” etc.);do not describe any biology in any molecular detail).
+**Q.12.** What would you have done differently?
 
-**Key Concept:** What we are practicing via this generic system architecture is called **abstraction**. 
-Abstraction is a tool that allows engineers (and others) to modularize and manage the complexity of a system. Abstraction establishes a level of simplicity at which a person interacts with the system, temporarily hiding more complex details for later consideration, only if and as such details must be considered.  
+This example highlights the power of the DBT framework applied to a bioengineering challenge. The students began with an enzyme that, by correctly navigating a DBT process, they were able to engineer into modified form that could breakdown gluten in the gut.
 
-But, returning to the Bacterial Flash Mob example.
+**Summary**
 
-Now that you have thought about the above questions check out from [Here](https://2006.igem.org/wiki/index.php/IAP2004:Polkadorks)  MIT students solution. 
+In this pre-class activity you were introduced to the engineering cycle: design, build, and test and its application to bioengineering. You utilized a needs finding approach to identify design constraints, and specifications to describe your designs and corresponding tests. You examined the application of this approach to real world challenges. Finally you practiced an application of DBT framework through the Celiac disease case study. In class this week you will be introduced to how to actually design, build and test biomolecules.
 
-<figure>
-<a href="/assets/images/w6pc_the laws of thought.png"><img src="/assets/images/w6pc_the laws of thought.png"></a>
-</figure>
+**Keywords:**
 
-From a different perspective, note how George Boole observed ways in which human language results in a type of abstraction that can be used to organize and link our experiences to actions.  For example: if it is raining AND snowing then bundle up OR if it is warm AND sunny then go the beach.
+**Design-Build-Test Cycle** - A framework that provides structure to the process of engineering a solution to diverse problems.
 
-**Q.4. When we go to actually implement any sensor, computer, or actuator, what exactly is inside the boxes?  Are there actually black boxes inside a cell?  What “wires” connect one box to another?**
+**Design** - Developing a possible solution. Informed by your design specifications. 
 
-These are challenging questions that we will resolve!
+**Needs** - The specific problem you would like to solve. 
 
-______________________________________________________
+**Design Specifications** - How your solution will behave. For example: I'm building a paper plane for the purpose of nudging awake your friend across the room. This plane needs to:
 
-##  Preclass for Friday
-### What is GOOP? (or an introduction to prototyping living matter)
+- Fly straight for 5 feet
+- Be smaller than 4 inches across (to be inconspicuous)
+- Weigh less than one ounce (you don't want to hurt your friend)
+- Be recyclable (because you love the earth)
 
-The teaching team is excited to share with you a unique prototyping platform for engineering living matter:
+**Build** - Making a prototype. I.e., make your design in real life. 
 
-After this introduction you should be able to: 
-Describe what is GOOP and how it works
-Describe the role of prototyping in the engineering cycle 
-Get ready to to apply and use GOOP (apply and build with the central dogma of biology)  
-Be ready to use PyMol to visualize protein structures
- 
-Let’s begin:
+**Test** - Check whether your design, when turned into reality, actually satisfies all of requirements. 
 
-**Q.0.** In preparation for class on Friday, please download PyMol using the following [link](https://pymol.org/2/). PyMol is a molecule visualization toolkit that is heavily used by protein engineers and designers. 
+**Case Study Resources:**
 
-You are now familiar with the engineering cycle of design, build, and test. 
-Until recently our ability to rapidly and robustly build prototypes for the engineering of living matter was somewhat limited. This is in contrast with other fields, where prototyping is a major component. For example, in electrical engineering circuits and systems are either prototyped (with physical components) or simulated. 3D printing is another example of prototyping that you may be familiar with. 
+- [What is Celiac Disease? (Beyond Celiac)](https://www.beyondceliac.org/celiac-disease/what-is-celiac-disease/)
+- [What is Celiac Disease? (Celiac Disease Foundation)](https://celiac.org/celiac-disease/understanding-celiac-disease-2/what-is-celiac-disease/)
+- [Celiac Disease Overview (Mayo Clinic)](https://www.mayoclinic.org/diseases-conditions/celiac-disease/symptoms-causes/syc-20352220)
+- [What I Wish You Knew: Celiac Awareness Month and the Push for More Research](https://www.huffingtonpost.com/entry/what-i-wish-you-knew-celiac-awareness-month-and-the_us_5909e45fe4b084f59b49fe7b)
+- [Celiac Straight Talk: The Podcast](https://www.beyondceliac.org/podcast/)
+- [Celiac disease and non-celiac gluten sensitivity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4596973/#ref1)
+- [FoldIt](http://fold.it/portal/)
+- [A paper they published in 2012](https://pubs-acs-org.stanford.idm.oclc.org/doi/10.1021/ja3094795)
 
-**Q.1** What are the consequences of limited prototyping? Think about an example in engineering living matter and in another engineering field. 
+**Additional Resources:**
 
-Thanks to recent developments in bioengineering, for the first time we have the ability to prototype engineering living matter as part of the class. (We have to emphasize that developing with and creating these prototyping platforms themselves is still an active and exciting area of research in bioengineering.)
+[1] We strongly encourage you to check out this additional resource about creativity and design in the context of modernity titled: "Art, Critique, Design and Our World" by Alexandra Daisy Ginsberg [link](https://vimeo.com/225113974)
 
-### What is GOOP? 
+[2] The Long Now - 10,000 year clock (take a look at the designs considerations for a clock that seeks to keep time for 10,000 years) [link](http://longnow.org/clock/)
 
-On friday you will receive the tubes that contain GOOP: Genetic Objects Operations and Programming mixture. With GOOP you can test your genetic program (similar to genes you ordered during the build class) on a timescale of hours instead of days (to be explained shortly). Your programs or input instructions (designs) are small pieces of (circular) DNA called plasmids. Each plasmid contains the instructions to encode a protein: a type of complex macromolecule that can perform an incredible diversity of tasks. The GOOP in the tube runs your DNA instructions. GOOP is extracted cellular machinery, in this case from E. coli cells, that makes proteins from the DNA inputs needing living cells. The name of the specific material that you have is 
-TX-TL, for transcription-translation. What are transcription and translation? Read on.
 
-
-### The Central Dogma of Biology
-
-At the core of biology is a simple idea, known as the central dogma. For our purpose, we can think of central dogma as a process that transcribes the information encoded in DNA to RNA (transcription), and then translates the information encoded in RNA to form a protein (translation). If you aren’t familiar with the central dogma, check out this video explain how it happens inside a cell (in vivo): Central Dogma. We’ve also listed some additional resources at the end of this document. Figure. 1 describes the overall flows of this process, which is typically from DNA to RNA to protein (with some special exceptions). 
-
-<figure>
-<a href="/assets/images/w2pc_centraldogma.png"><img src="/assets/images/w2pc_centraldogma.png"></a>
-</figure>
-
-
-**Figure-1** An overview of central dogma.
-
-How is this related to GOOP? GOOP lets you to operate this process outside of living cells in a tube (in vitro). In fact, you can think of GOOP as the vertical blue arrows in Figure 1. When you add your plasmid instructions to GOOP and let it sit at room temperature, the GOOP will transcribe your DNA into messenger RNA, and translate it into the encoded proteins. This process will take a number of hours (up to overnight), but you will be able to see the real-time production of your protein product. In comparison, running a plasmid in cells requires a multi-step process that takes multiple days, requires more complex plasmid design, and needs more sophisticated lab equipment (although it does have some advantages, can you think of any?). If you’re interested in the in vivo approach, make sure to check out BIOE 44
-
-**Q.2** What designs (devices, circuits or systems) you would like to build and test with GOOP? 
-
-**Q.3** What do you think are some of the advantages and some of the disadvantages of prototyping living matter in GOOP? 
-
-**Q.4** Why might a certain design work in GOOP and not inside a cell?
-
-**Q.5** Why might some designs work in a cell but not in GOOP?
-
-**Q.6**  In class on Friday, you will be instructed on how to use GOOP to express a fluorescent protein. Please read this web page to get a primer on what Green Fluorescent Protein (GFP) is and how it can be used in bioengineering applications: http://pdb101.rcsb.org/motm/42
-
-
-### General Kit Operation 
-
-
-1. Select the DNA parts you would like to use for each reaction and lay them out. Each part has been pre-measured in its tube.
-
-2. Take the number of reaction tubes you need for the experiment out of the fridge or your insulated envelope.
-
-3. Using the transfer pipettes, suck up each DNA part and transfer it into the appropriate reaction tube.
-- Use a fresh pipette for each part transfer: DNA is a powerful molecule, and cross-contamination of even a tiny amount of one part into the wrong tube could lead to an unexpected outcome.
-- Avoid creating bubbles: don’t squeeze too hard and suck up lots of air, and squeeze air out of the tip of the pipette before you lower it into the reaction mix.
-- It may help to gently stir the reaction with the tip of a pipette once the parts have all been added.
-
-4. If you need to add an input to the reaction—for example, an sample or an inducer—use a transfer pipette to add it as above.
-
-5. Make sure all parts and the reaction mix are together in the bottom of the tube by holding it in your hand, extending your arm up, and rapidly moving it down, kind of like you’re throwing a baseball.
-  - Don’t actually throw the tube.
-  
-6. Let the reactions run at room temperature. Depending on the reaction, you will begin to see visible changes after 6 hours. 
-
-### Safety
-
-Whenever we practise the engineering of living matter, we always want to consider the safety of what we’re doing, how we are doing it, and how it might affect others and the environment. 
-
-In general, GOOP itself is safe because it not living and so cannot replicate, and because it is derived from an organism (E. coli K-12) that is Biosafety Level 1 (BSL-1). BSL-1 organisms are those which are well-characterized and do not cause disease in healthy humans. 
-
-Because GOOP operates genetic programs, some sets of instructions may have additional potential to cause harm: compare DNA encoding a colorful protein to DNA encoding a toxin. We will not supply genetic code that could hurt you, and our GOOP prototyping modules will each contain a section on any specific considerations for that module. There are some proteins that are illegal to make. Also note that there are industry standards for the synthesis of DNA programs: what do you think about this as a means of promoting safety?
-
-Finally, there are several specific instructions for the safe operation of GOOP:
-Don’t eat it!
-Don’t get it in your eyes!
-Dispose of GOOP by closing the tubes and throwing it in the trash.
-
-Contact your TAs if you have any specific questions.
-
-### Conclusion
-
-Congratulations. In this module:
-- You were introduced to the importance of prototyping in the context of engineering living matter.
-- You began to consider how we can use GOOP to apply and build with central dogma without using living cells.
-- You considered the advantages and current challenges associated with cell-free systems such as GOOP.
-- You considered the safety of biological prototyping with regard to yourself and the environment.
-- You downloaded molecular visualization toolkit PyMol
-
-Now you are ready to proceed to the in class activity where you will use GOOP to express your first DNA code. 
-
-### Glossary
-
-**Base** a single unit of DNA or RNA. Also called a base-pair when in double stranded form.
-
-**Cell free** reaction mix a mixture of the cellular machinery, capable of running the central dogma, but without the cells. Usually made by growing up cells and then breaking them open.
-
-**DNA** deoxyribonucleic acid, a polymeric molecule that encodes information. Usually double-stranded, in a characteristic double-helix shape.
-
-**RNA** ribonucleic acid, a polymeric molecule that encodes information and is usually transcribed from DNA.
-Plasmid a small, circular piece of double-stranded DNA. The staple of molecular bioengineering, plasmids can be easily built and added in to cells.
-
-**Protein** a polymer of amino acids, which fold into a complex three-dimensional structure based on the amino acid sequence. The structure of a protein determines its function.
-
-**Enzyme** a protein which catalyzes a chemical reaction.
-
-**Transcription** the process of reading DNA and producing RNA based on the DNA sequence. Transcription is performed by an enzyme complex known as RNA polymerase (RNAP).
-
-**Translation** the process of reading RNA and producing a chain of amino acids, a protein, based on the RNA sequence. 
-
-**TX-TL** (What is GOOP) transcription/translation mix. A special kind of cell free reaction mix that uses the standard E. coli transcription and translation system.
-
-**Central Dogma**
-Khan Academy: Central Dogma https://www.khanacademy.org/science/biology/gene-expression-central-dogma
-Bruce Alberts Molecular Biology of the Cell (2015) Chapter 6
-https://www.ncbi.nlm.nih.gov/books/NBK21054/ (older edition)
-Science Library QH581.2 .M64
-Green Library QH581.2 .M64 (fifth edition)

@@ -36,14 +36,16 @@ docs:
         url: /docs/syllabus/
       - title: "Online Etiquette"
         url: /docs/online_etiquette/
+      - title: "TA Office Hours"
+        url: /docs/calendar/
   - title: Class Materials
     children:
       - title: "Week 1 Readings"
         url: /docs/w1readings/
       - title: "Week 1 In-Class"
         url: /docs/w1inclass/
-      #- title: "Week 2 Readings"
-      #  url: /docs/w2preclass/
+      - title: "Week 2 Readings"
+        url: /docs/w2preclass/
       #- title: "Week 2 In-Class"
       #  url: /docs/w2inclass/
       #- title: "Week 3 Readings"
@@ -77,8 +79,8 @@ docs:
 
   - title: Problem Sets
     children:
-      #- title: "Week 1 PS"
-      #  url: /docs/w1ps/
+      - title: "Week 1 PS"
+        url: /docs/w1ps/
       #- title: "Week 2 PS"
       #  url: /docs/w2ps/
       #- title: "Week 3 PS"

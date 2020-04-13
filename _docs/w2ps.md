@@ -1,203 +1,92 @@
 ---
 title: "Week 2 Problem Set"
 permalink: /docs/w2ps/
-last_modified_at: 2018-11-25T22:21:33-05:00
+last_modified_at: 
 toc: true
 ---
 
-**DUE:** Next Friday(April.19), beginning of class via **Gradescope**. 
+**PSET #2**
 
-**NOTES:** 
-  - All BIOE.80 problem sets must be completed individually unless plainly noted opetherwise.
-  - Please turn in your completed problem sets as an electronic copy via **Gradescope**. 
-  - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations). 
+ASSIGNED: Friday 17 April 2020
 
-**GOALS:** Reflect on the engineering design cycle: Design, Build, and Test (DBT) and its role in Bioengineering. 
+DUE: 5:00p Pacific Friday 24 April 2020
 
-## (Q1) Free Genes Project and MOSIS (20 pts)
 
-Engineering living matter has not yet undergone the same type of decoupling and standardization of different aspects of the design, build, and  test (DBT) cycle that ushered in massive change in other fields (standardization of screws, outsourcing chip fabrication with [MOSIS](https://www.mosis.com/) (Metal Oxide Semiconductor Implementation Service)). People who want to make customized DNA often have to do so own their own, spending months to construct and validate a single piece of a DNA sequence. Recently, with the commercialization of DNA synthesis technologies, it has become possible to order customized genes, but this process is expensive. 
+**NOTES:**
 
-[Free Genes Project](https://biobricks.org/freegenes/) wants to bring ideas of decoupling and the "fabless foundry" to the engineering of DNA.
+- Given the unique circumstance of Spring 2020, we ask you to do your best to maximize your learning. Each problem set is an opportunity to assess your learning, identify gaps, reflect on what you have learned, and determine what you wish to learn next.
+- Problem sets must be completed individually unless stated otherwise.
+- Please turn in your completed problem sets as an electronic copy via Gradescope. Please make sure to clearly indicate the starting and ending boundaries of your answers to each question on Gradescope.
+- Please do not go over any word limits and where appropriate show your work (e.g., calculations with appropriate units).
 
-**Q.1.a.** Visit the Free Genes Project website. Briefly describe how it works. (bullet points)
 
-**Q.1.b.** How is FreeGenes similar to MOSIS?  (one sentence)  
+### (Q1) Artemisinin (20 points)
 
-**Q.1.c.** How is FreeGenes different from MOSIS?  (one sentence)
+Think back to the case study: Production of Artemisinin via yeast
 
-## (Q2) Playing with the Amino Acid Alphabet (10 pts)
+**Q.1.a.** List 3 major lessons from this case study? (3 bullet points)
 
-Proteins are composed of long chains of amino acids. As building blocks, amino acids contain the same backbone and connect in a particular direction: from the N-terminus (amino group) to the C-terminus (carboxyl group). <a title="OpenStax College [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:224_Peptide_Bond-01.jpg"><img width="512" alt="224 Peptide Bond-01" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/224_Peptide_Bond-01.jpg/512px-224_Peptide_Bond-01.jpg"></a> 
+Not:  For the following estimation questions please show your step by step calculations, keep track of units, and clearly state your assumptions. 
 
-Or see Figure 1 in this short [post](https://www.nature.com/scitable/topicpage/protein-structure-14122136).  Because of this, we can number each amino acid in a protein starting with the amino acid at the N-terminus as position 1. When we engineer proteins, it is useful to identify the changes that we made in the amino acid sequence, ie: V298T. This means that at position 298 (ie: the 298th amino acid in the chain), we originally had a Valine (V). We have mutated it so that instead of a Valine, we have swapped in a Threonine (T). These changes do not change the backbone of the amino acid chain. Instead, they change the "R" group, which often has structural and functional consequences.
+**Q.1.b.** The World Health Organization (WHO) estimated that in 2017 there were 219 million cases of malaria [source](https://www.who.int/en/news-room/fact-sheets/detail/malaria). If 3 grams of artemisinin are required per treatment of 1 individual, how many total grams of artemisinin are needed per year?
 
-Let's say we had a 3 amino acid protein with the sequence `CAT`. If we made a C1R mutation, we would now have the sequence `RAT`.
+**Q.1.c.**  Sweet wormwood plants can produce 70 kg of artemisinin/ha land, where ha is a hectare of land.  Use your answer from Q.1.b. to estimate, how many total hectares of land would be needed to produce enough supply of artemisinin to treat all individuals suffering from malaria each year? 
 
-```
-123
-CAT
-RAT
-```
-**Q.2.a.** Using the 20 natural amino acid alphabet, make 5 other English words from our original protein `CAT`. Write out the shorthand changes for each, starting from the original protein. (Hint: get creative. Make as many changes as you'd like. You can even insert amino acids. To add an extra amino acid at the end, designate this as `+4X`, where `+` indicates an addition to the original sequence, `4` indicates the new position, and `X` is your amino acid.) 
+**Q.1.d.**  Producing artemisinin via yeast can yield 25 g of artemisinin/liter. What volume of a reactor do you need to produce enough supply of artemisinin to treat all individuals suffering from malaria each year? Use your answer from Q.1.b.
 
-**Q.2.b.** Let's go back to our original protein. Write out the full amino acid names for `CAT`.
+**Q.1.e.**  Imagine that in the near future, you are the head of the WHO's Malaria Project.  In this future, land usage has become a challenge for the production of artemisinin given the need to grow food. You are presented with the following data: in order to feed the yeast reactor, you need to supply 1.6 kg sugar/liter (which yields 25 g artemisinin/liter). If you can produce 7500 kg sugar from 1 hectare, how many hectares of land would you need to produce enough artemisinin?
 
-**Q.2.c.** Now let's take a look at the first mutation we made: C1R. Below, you can see the chemical structures for each of these amino acids. List 2 differences and give a brief explanation of why those differences might be biologically meaningful. 
+**Q.1.f.**  As the head of the WHO's Malaria Project, would you switch artemisinin production from wormwood to production via yeast?  If yes, please explain why. If not, what would you want to see before considering a switch?  
 
-<a title="Cysteine" href="https://commons.wikimedia.org/wiki/File:L-cysteine-2D-skeletal.png"><img width="128" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/L-cysteine-2D-skeletal.png/512px-L-cysteine-2D-skeletal.png"></a> <a title="Arginine" href="https://commons.wikimedia.org/wiki/File:L-arginine.png"><img width="256" alt="R" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/L-arginine.png/512px-L-arginine.png"></a>
+### (Q2) Fantastic Voyage (20 Points)
 
-**Amino Acid Structures.** Left: Cysteine. Right: Arginine.
+In the near future, you and your team are planning to remove an inoperable tumor from the brain of an important scientist. You conclude that the only way that the tumor can be destroyed is to remove it from the inside of the patient's own body. You imagine a submarine that can be shrunk and will carry the team of experts and doctors.            
+Sadly, however, a shrink ray does not exist in this future [Fantastic Voyage](https://www.imdb.com/title/tt0060397/)
 
+Instead, you can begin to engineer living matter, microbes or patient's cells that are already small.
+Briefly read the abstract of the paper titled [Acoustic reporter genes for noninvasive imaging of microorganisms in mammalian hosts](https://www.nature.com/articles/nature25021), which enables imaging and control of living matter in mammalian hosts.
 
+**Q.2.a.** In your own words, summarize the abstract in 2-3 sentences. What is the main claim of this paper?
 
-## (Q3) Revisiting Design Tools (PyMol) (15 pts)
+**Q.2.b.** According to the paper, what is the origin and purpose of the gas-filled protein nanostructures in nature?  
 
-In this problem, you will use PyMol to visualize green fluorescent protein (GFP). Unlike our 3 amino acid protein in Question 2, GFP is a 238 amino acid protein. For more information about GFP, check out the [Wikipedia page](https://en.wikipedia.org/wiki/Green_fluorescent_protein), or see the resources below.
+**Q.2.c.** What is the typical size of the gas-filled proteins?  How are the gas-filled proteins visualized in the paper (what technique)?  Can the gas-field proteins be visualized directly via a light microscope (yes/no)? Why? 
 
-Check out the website where the GFP structure is housed: [https://www.rcsb.org/structure/1gfl](https://www.rcsb.org/structure/1gfl). Notice that we are looking at a homo-dimer, meaning that 2 identical 238 amino acid chains are in the structure. 
+**Q.2.d.** Can you think about and describe another application (medical or other) for these engineered microbes (bullet points). 
 
-**Q.3.a.** What is the experimental method used to get the structure of the protein? What is the listed resolution of the structure? (bullet points)
+**Q.2.e.** In your opinion, what are the paper’s strengths and significance?  What are the paper's shortcomings and deficiencies? How can the paper improve? 
 
-**Q.3.b.** Add a screenshot of your GFP structure in PyMol showing the "beta barrel" structure of fluorescent proteins. 
+### (Q3) Rousseau and Hobbes (20 Points)
 
-To do so:
+**Q.3.a.** How do Rousseau’s assumptions about human nature differ from Hobbes’? (3 bullet points)
 
-1. Download PyMol from this [Pymol Link]( https://pymol.org/2/) and open PyMol on your laptop or computer. 
+**Q.3.b.** Do you think those practicing bioengineering should be licensed? If yes or no, who gets to decide? 
 
-2. Type in the command “fetch 1gfl” in PyMol. This command downloads the structure of Green Fluorescent Protein (GFP) from the Protein Data Bank (PDB)
+(As you think about the above question, also consider:  What are the advantages or disadvantages of a license?  Who gets to be licensed? Who decides the rules for the license?  Is there an exam? Where do practitioners go to receive a permit? How the assumptions from Hobbes and Rousseau could lead to differences regarding how people are organized, or organize themselves.)
 
-3. In PyMol and take a look at the GFP structure.  Under the menus “H” and “S”  listed near the structure name on the toolbar on the right, click `Hide everything` and `Show cartoon`. 
+Craft an answer in response to some or all of the above questions.  
+Do your best to summarize your thoughts in one paragraph.
 
-4. Take a screenshot of the protein structure to share as part of the problem set.
+Note: In Q.3.b., we are looking for a clearly stated and logical argument that uses the stated assumptions from Q.3.a. Use these assumptions, combine them with examples, and describe your position. 
 
-**Q.3.c.**  Go back to the Protein Data Bank website and find a `.pdb` file for another fluorescent protein. Use PyMol to visualize this second protein. Provide a screenshot and tell us what color the protein fluoresces.
+### (Q4) Leadership and Bioengineering (40 Points)
 
-## (Q4) Making with Mushrooms(35 Points)
+Think about a future (say 2030).  What future you wish to make true, via or in partnership with Bioengineering.
+Perhaps you will start a company that enables long term storage of information encoded in DNA.  Or work on engineered organisms that eat and break down plastics.   Maybe you will work on a De-extension project that seeks to restore our planet's biodiversity.  You get the idea.  
 
-**Q.4.a.** Did you show up on Friday, make your mycelium material object? (Yes / No)
+**Q.4.a.**  State the future that you wish to realize? Try your best to be both creative and specific?  
+Find 2 to 3 resources (papers, articles, websites) that support the feasibility, and describe the context of your wish. (Note: Your wish can be the same as your answer to PSET.1's Question.2 or a new wish) 
 
-**Q.4.b.** Describe in broad terms what processes unique to living matter are enabling building with mushrooms. 
-What are the potential and limitations of making with mushrooms? (bullet points)
+**Q.4.b.** Practice a Framestorm and Futures wheel on your wish? What questions you should ask to best frame your desired future? (3-4 questions)  What would be the direct and indirect future consequences of your wish (draw a map similar to [here](https://en.wikipedia.org/wiki/Futures_wheel)
 
-**Q.4.c.** How is making with mushrooms different from other manufacturing processes such as 3D printing? (bullet points)
+Next, revisit Dr. Palmer’s testimony from the reading (Transcript from [here](https://www.commerce.senate.gov/services/files/C8F37274-730B-412E-9C9D-9A63839B37C7).  Dr. Palmer offers five recommendations for the Senators to secure future U.S. leadership in the bioeconomy. 
 
-**Q.4.d.** Looking forward, we would want to go from creating matter with an inert function (e.g., a chair) to creating matter with biological function (i.e., growing a finger or a heart). What new considerations need to be made? (3-4 sentences, provide drawings or diagrams if helpful)
+**Q.4.C.** Which recommendation(s) might help you the most in realizing your future? Which recommendation(s) might prevent you from realizing your future? And each case, why?  Given the future you wish to realize, would you have offered a different recommendation? What and why? (Do your best to summarize your thoughts in one paragraph.)
 
-## (Q5) Prepare for the Group Project (20 pts)
+Note: In Q.4 we don't have a "correct answer" in mind.  Instead, we wish for you to think deeply.  We want to enable you to practice your written communication skills.  Finally, we wish for you to take steps towards becoming a leader (similar to Dr. Palmer) to be able to direct discussions around bioengineering. 
 
-This question seeks to enable you to prepare for the group formation for the final project.  Specifically, you will prepare an introduction card that you will exchange with your classmates during the group formations to self organize into your group.
 
-First, revisit [Kiva](https://www.kiva.org/about) from the pre-class reading. Note that you can select various sectors (health, food, agriculture, arts, education,  ... ) or locations across the world. [Kiva link-2]( https://www.kiva.org/lend)
+### Additional Learning Resource
 
-**Q.5.a.** Name 3 sectors that are of interest to you? (Also add the 3 sectors [Here](https://docs.google.com/spreadsheets/d/1E5j9kcTJW_ok9W3qxqa5w_umo3dCFoRMR59G6Db9zyk/edit?usp=sharing)
-
-**Q.5.b.** What role, imagined or as yet unimagined, can bioengineering play in addressing the needs in these sectors? (2 to 3 sentences)
-
-**Q.5.c.** Pick a location (ideally a region that you are not familiar with).  What are 3 to 4 specific requests that people from this location have? 
-
-**Q.5.d.**  What role, imagined or as yet unimagined, can bioengineering play in addressing these requests? (2 to 3 sentences).
-
-Provide your answers as part of PSET-2.  
-You will also bring your answers to the class on Week-4 (Friday 26 April) to find teams and begin to brainstorm for your final project.
-
-**Extra Credit (5 points)**
-
-There are several great spots on campus to explore and bioprospect in search of new mushrooms. For this activity you can explore the variety of fungal diversity outside (even the engineering quad has fungi to discover!).
-
-**Please don’t disturb or eat any mushrooms you find for this extra credit.**
-
-Find a mushroom on campus, take a photo of it, and note your location and other characteristics such as the surrounding ecology.  Document your finding by including a paragraph description, your photo, and the location of your find in your PSET submission. 
-
-For more info/inspiration you might check out:
-
-- http://www.namyco.org/photography.php
-
-- https://www.mssf.org/
-
-**Final Note:** This week you explored the concepts behind Design-Build-Test. You also practiced DBT in the context of *Making with Mushrooms* and the decoupled build from design: *The Free Genes Project*. You will explore and practice DBT in many BIOE classes: BIOE 44 (Fundamentals for Engineering Biology Lab), BIOE 123 (Biomedical System Prototyping Lab), and BIOE 141 A and B (Senior Capstone Design).
-
-**Your questions**
-Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
-
-### Additional Resources (Fluorescent Proteins):
-
-1. Fluorescent Proteins and the Story Behind GFP (by Roger Tsien ibiology) [link](https://www.ibiology.org/talks/fluorescent-proteins/)
-
-2. Introduction to Fluorescent Proteins [link](https://www.microscopyu.com/techniques/fluorescence/introduction-to-fluorescent-proteins)
-
-3. Interactive graph describing Fluorescent protein properties [link](http://www.fpvis.org/FP.html)
-
-
-## Extra learning (100% optional):
-
-### (Q.6) When are we 'done'? (0 pts)
-
-A crucial skill is determining when we are ready to exit the DBT cycle (if ever). This can be determined by a number of things, such as access to resources, allotted time, and meeting certain metrics of success. It can be challenging to know when you have found the proper balance of all of these. Luckily, our old friend DBT provides a guide to help with these considerations. That is what the Test part is all about: helping you determine when you have succeeded. 
-
-Let's look at a real example of Test in action. Watch this [video](https://www.youtube.com/watch?v=bvim4rsNHkQ&feature=youtu.be), and answer the following questions.
-
-**Q.6.a.** Are you surprised by the video? Why do you think the company behind this video wanted to share their testing process with the world?  (2 to 3 sentences).
-
-**Q.6.b.** Can you guess what some of the design specifications and testing benchmarks were from the video?  (2 to 3 sentences).
-
-Working from our design specifications and field standards, we can outline an acceptable margin of error. Once we get to a product that is within this range, we can say that we have succeeded and exit the cycle. But this is context, specific.
-
-**Q.6.c.** How would you determine acceptable margins of error in the cases we have seen. Think about the stakeholders (who would be affected by a failure of the product), and how they would be impacted. Which do you think would have a larger margin of error? Why?  (2 to 3 sentences).
-
-1. KumaMax: Creating an oral enzyme therapeutic to treat Celiac Disease
-
-2. MOSIS: Building integrated circuits that are faithful to user-specified design
-
-3. The Free Genes Project: DNA Synthesis
-
-4. Falcon Heavy: Building a privately-funded rocket
-
-By releasing videos of their failed launches, which include detailed annotations of which system failed the SpaceX team is reminding us that success can only be achieved after repeated failures. It is part of the process. They show us how to fail properly. 
-
-### (Q7) Which Sector? (0 pts)
-
-**Q.7.** Go to company websites (3 for the problem set) and determine in which "sector" they are situated (D, B, or T) and what do they do:
-
-**[Twist Biosciences](https://twistbioscience.com/company/about)**
-
-**[Ginkgo Bioworks](https://www.ginkgobioworks.com/)**
-
-**[Antheia](https://antheia.bio/)**
-
-**[Bolt Threads](https://boltthreads.com/)**
-
-### (Q8) MOSIS and KumaMax (0 pts)
-
-[MOSIS](https://www.mosis.com/) (Metal Oxide Semiconductor Implementation Service) is a product of the VLSI revolution that changed the way we make the chips that power all of our electronics today. Before the advent of this shared implementation service, researchers and others looking to prototype and/or fabricate a chip had to be much more personally involved in the process of fabrication. The best results came when you knew someone in the fab facility, and could tailor your design to their skills. Recognizing a need, the clever minds behind MOSIS sought to help lower these barriers to entry (cost, specialized knowledge, and access to a foundry). 
-
-In doing so, they created the "fabless foundry" industry that has helped shape our society today. Watch this [video](https://www.youtube.com/watch?v=d5SEFE_49Ug) made by MOSIS explaining the workflow for using their service. As you do, pay special attention to each step of the workflow, who is involved, and which part of the DBT cycle is shown.
-
-**Q.8.** How does the MOSIS cycle compare (similarities and differences) to the DBT cycle you saw with KumaMax? Fill in the following table to compare and contrast the DBT workflow in each case, highlighting who is responsible for each step, and what tools they use in the completion of this task.
-
-<table>
-  <tr>
-    <td></td>
-    <td>KumaMax</td>
-    <td>Mosis</td>
-  </tr>
-  <tr>
-    <td>Design (Who, How)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Build (Who, How)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Test (Who, How)</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-(Additional Resources: Reminiscences of the VLSI Revolution - Lynn Conway's memoir, see [here](http://ai.eecs.umich.edu/people/conway/Memoirs/VLSI/Lynn_Conway_VLSI_Reminiscences.pdf)) 
-
-
+**Biology refresher-2:** If you would like to review or learn more about the structure of  DNA, use the following resource [link-1](https://explorebiology.org/summary/genetics/the-structure-of-dna).  If you would like to watch brief videos describing transcription (going from DNA to RNA) use:  [video-1](https://explorebiology.org/videos/dna-transcription) and [video-2](https://explorebiology.org/videos/rna-polymerase-transcription) Next, if you need a refresher on amino acids and proteins, use the following resources: [Video: What is a Protein?](http://pdb101.rcsb.org/learn/videos/what-is-a-protein-video) And [Slides](https://cdn.rcsb.org/pdb101/learn/resources/what-is-a-protein/what-is-a-protein-pres.pdf) from PDB101. A review of the above topics will be helpful in understanding the material in the subsequent weeks.  
+In general, [explore biology](https://explorebiology.org/) is a useful resource.
