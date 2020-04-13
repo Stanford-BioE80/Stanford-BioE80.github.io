@@ -82,3 +82,9 @@ Next, revisit Dr. Palmer’s testimony from the reading (Transcript from [here](
 **Q.4.b.** Which recommendation(s) might help you the most in realizing your future? Which recommendation (s) might prevent you from realizing your future? And each case, why?  Given the future you wish to realize, would you have offered a different recommendation? What and why? (Do your best to summarize your thoughts in one paragraph.)
 
 Note: In Q.4 we don't have a "correct answer" in mind.  Instead, we wish for you to think deeply.  We want to enable you to practice your written communication skills.  Finally, we wish for you to take steps towards becoming a leader (similar to Dr. Palmer) to be able to direct discussions around bioengineering. 
+
+
+### Additional Learning Resource
+
+**Biology refresher-2:** If you would like to review or learn more about the structure of  DNA, use the following resource [link-1](https://explorebiology.org/summary/genetics/the-structure-of-dna).  If you would like to watch brief videos describing transcription (going from DNA to RNA) use:  [video-1](https://explorebiology.org/videos/dna-transcription) and [video-2](https://explorebiology.org/videos/rna-polymerase-transcription) Next, if you need a refresher on amino acids and proteins, use the following resources: [Video: What is a Protein?](http://pdb101.rcsb.org/learn/videos/what-is-a-protein-video) And [Slides](https://cdn.rcsb.org/pdb101/learn/resources/what-is-a-protein/what-is-a-protein-pres.pdf) from PDB101. A review of the above topics will be helpful in understanding the material in the subsequent weeks.  
+In general, [explore biology](https://explorebiology.org/) is a useful resource.
