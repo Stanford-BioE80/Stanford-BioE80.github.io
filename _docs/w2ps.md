@@ -30,7 +30,7 @@ Think back to the case study: Production of Artemisinin via yeast
 
 Not:  For the following estimation questions please show your step by step calculations, keep track of units, and clearly state your assumptions. 
 
-**Q.1.c.** The World Health Organization (WHO) estimated that in 2017 there were 219 million cases of malaria [source](https://www.who.int/en/news-room/fact-sheets/detail/malaria). If 3 grams of artemisinin are required per treatment of 1 individual, how many total grams of artemisinin are needed per year?
+**Q.1.c.** The World Health Organization (WHO) estimated that in 2017 there were 219 million cases of malaria [source](https://www.who.int/en/news-room/fact-sheets/detail/malaria). If 3 grams (3 g) of artemisinin are required per treatment of 1 individual, how many total grams of artemisinin are needed per year?
 
 **Q.1.d.**  Sweet wormwood plants can produce 70 kg of artemisinin/ha land, where ha is a hectare of land.  Use your answer from Q.1.b. to estimate, how many total hectares of land would be needed to produce enough supply of artemisinin to treat all individuals suffering from malaria each year? 
 
