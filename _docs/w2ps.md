@@ -26,7 +26,7 @@ Think back to the case study: Production of Artemisinin via yeast
 
 **Q.1.a.** List 3 major lessons from the preclass reading? (bullet points)
 
-**Q.1.b.** List 2-3 questions that can help you frame a solution for adressing Malaria? (bullet points)
+**Q.1.b.** List 2-3 questions that can help you frame a solution for addressing Malaria? (bullet points)
 
 Not:  For the following estimation questions please show your step by step calculations, keep track of units, and clearly state your assumptions. 
 
