@@ -30,11 +30,11 @@ Think back to the case study: Production of Artemisinin via yeast
 
 Not:  For the following estimation questions please show your step by step calculations, keep track of units, and clearly state your assumptions. 
 
-**Q.1.c.** The World Health Organization (WHO) estimated that in 2017 there were 219 million cases of malaria [source](https://www.who.int/en/news-room/fact-sheets/detail/malaria). If 3 grams (3 g) of artemisinin are required per treatment of 1 individual, how many total grams of artemisinin are needed per year?
+**Q.1.c.** The World Health Organization (WHO) estimated that in 2017 there were 219 million cases of [malaria](https://www.who.int/en/news-room/fact-sheets/detail/malaria). If 3 grams (3 g) of artemisinin are required per treatment of 1 individual, how many total grams of artemisinin are needed per year?
 
 **Q.1.d.**  Sweet wormwood plants can produce 70 kg of artemisinin/ha land, where ha is a hectare of land.  Use your answer from Q.1.b. to estimate, how many total hectares of land would be needed to produce enough supply of artemisinin to treat all individuals suffering from malaria each year? 
 
-**Q.1.e.**  Producing artemisinin via yeast can yield 25 g of artemisinin/liter. What volume of a reactor do you need to produce enough supply of artemisinin to treat all individuals suffering from malaria each year? Use your answer from Q.1.c.
+**Q.1.e.**  Producing artemisinin via yeast reactor can yield 25 g of artemisinin/liter. What volume of a reactor do you need to produce enough supply of artemisinin to treat all individuals suffering from malaria each year? Use your answer from Q.1.c.
 
 **Q.1.f.**  Imagine that in the near future, you are the head of the WHO's Malaria Project.  In this future, land usage has become a challenge for the production of artemisinin given the need to grow food. You are presented with the following data: in order to feed the yeast reactor, you need to supply 1.6 kg sugar/liter (which yields 25 g artemisinin/liter). If you can produce 7500 kg sugar from 1 hectare, how many hectares of land would you need to produce enough artemisinin?
 
@@ -52,7 +52,7 @@ Briefly read the abstract of the paper titled [Acoustic reporter genes for nonin
 
 **Q.2.b.** According to the paper, what is the origin and purpose of the gas-filled protein nanostructures in nature?  
 
-**Q.2.c.** What is the typical size of the gas-filled proteins?  How are the gas-filled proteins visualized in the paper (what technique)?  Can the gas-field proteins be visualized directly via a light microscope (yes/no)? Why? 
+**Q.2.c.** What is the typical size of the gas-filled proteins?  How are the gas-filled proteins visualized in the paper (what technique)?  Can the gas-filled proteins be visualized directly via a light microscope (yes/no)? Why? 
 
 **Q.2.d.** Can you think about and describe another application (medical or other) for these engineered microbes (bullet points). 
 
