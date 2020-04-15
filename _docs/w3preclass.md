@@ -73,7 +73,7 @@ Update opening here: On Monday we discussed tools to visulaize living matter.
 
 ### Celiac Disease and KumaMax
 
-Celiac disease is an autoimmune disease of the small intestine that is triggered by eating gluten - a protein found in wheat, barley, and rye - and causes damage to the fingerlike projections lining your small intestine (villi) important for nutrient absorption ([figure](https://www.mayoclinic.org/diseases-conditions/celiac-disease/symptoms-causes/syc-20352220)). 
+Celiac disease is an autoimmune disease of the small intestine that is triggered by eating gluten - a protein found in wheat, barley, and rye - and causes damage to the fingerlike projections lining your small intestine (villi) important for nutrient absorption ([Celiac Disease](https://www.mayoclinic.org/diseases-conditions/celiac-disease/symptoms-causes/syc-20352220)). 
 
 It is estimated that 1% of the US population has celiac disease, but despite increasing attention in the media, almost 83% of those 3 million people remain undiagnosed (NOTE:  Beyond Celiac: What is Celiac Disease?). While misdiagnosis is common, some postulate that this lack of diagnosis (and awareness) can be linked to the limited clinical treatment offerings: currently, the only approved therapy is adherence to a strict gluten-free diet. Avoiding gluten can be difficult when there are hidden sources lurking around us (NOTE:  Medivizor: 300 facts you didn't know about gluten). Further, many who do adhere to a strict gluten-free diet do not see recovery of the small intestinal mucosa.
 
@@ -85,19 +85,22 @@ To learn more skim the following two websites:
 
 [UW iGEM Wiki: Gluten Destruction](http://2011.igem.org/Team:Washington/Celiacs/Background)
 
-**Q.7.** According to the team's website, why had other approaches failed?
+**Q.1. According to the team's website, why had other approaches failed?**
 
-**Q.8.** What was unique about their approach?
+**Q.2. What was unique about their approach?**
 
-**Q.9.** How did they choose their starting enzyme? What key design specification made this a great choice?
+**Q.3. How did they choose their starting enzyme? What key design specification made this a great choice?**
 
-**Q.10.** How did they design their enzyme? What tools did they use?
+**Q.4. How did they design their enzyme? What tools did they use?**
 
-**Q.11.** How did they test their enzyme?
+**Q.5. How did they test their enzyme?**
 
-**Q.12.** What would you have done differently?
+**Q.6. What would you have done differently?**
 
-This example highlights the power of the DBT framework applied to a bioengineering challenge. The students began with an enzyme that, by correctly navigating a DBT process, they were able to engineer into modified form that could breakdown gluten in the gut.
+This example highlights the power of tools that enables us to visulaize and design molecules.  It also highlights the Design-Build-Test Cycle, a framework applied 
+
+
+the DBT to a bioengineering challenge. The students began with an enzyme that, by correctly navigating a DBT process, they were able to engineer into modified form that could breakdown gluten in the gut.
 
 **Summary**
 
