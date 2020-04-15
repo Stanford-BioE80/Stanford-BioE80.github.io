@@ -47,13 +47,13 @@ Despite the tremendous progress in microscopy, modern microscopes (for the most 
 
 [Foldscope](https://journals.plos.org/plosone/article%3Fid=10.1371/journal.pone.0098781) is a field-deployable paper origami microscope designed and built here at Stanford by Manu Prakash and his team. 
 
-First, spend 10' and watch the Manu's TED talk on Foldscopes, [video-1](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437)
+First, spend 10' and watch the Manu's TED talk on Foldscopes, [here](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami#t-545437)
 
 **Q.3. According to Manu, what are the problems with modern microscopes?**
 
 **Q.4. According to Manu, what is the relationship between hands on science education tools and global health?**
 
-Next, familiarize yourself with the global community of Foldscope users here at [Microcosmos(https://microcosmos.foldscope.com/)
+Next, familiarize yourself with the global community of Foldscope users from [Microcosmos(https://microcosmos.foldscope.com/)
 
 **Putting your Foldscope together**
 
@@ -63,7 +63,6 @@ If you didn't ask for a Foldscope, don't worry.  You can still complete the prob
 
 Build and bring your Foldscope to class on Monday and make sure to remember your answer to the Self-Assessment.  
 Note: In previous years, this would take students between 30'-40'. 
-
 ___________________________________________________________________________________________________
 ## Preclass for Wednesday
 
@@ -106,6 +105,8 @@ To learn more skim the following two websites:
 
 KumaMax example highlights the power of tools that enables us to visualize and design molecules. These tools can be used much like any traditional Computer-aided design (CAD) tool  (for example, Onshape). You may have used CAD to create, modify, and 3D print objects. Multiple options are available for a diversity of applications.  For example, you can design and modify biomolecules via [PyMOL](https://pymol.org/2/). [FoldIt](http://fold.it/portal/) is another example that enables all learners to interact with protein folding and advance discovery by playing a game.  There are also tools such as [Cadnano](https://cadnano.org/) simplify the process of designing three-dimensional [DNA origami](https://www.sciencedirect.com/topics/neuroscience/dna-origami).
 
+**Q.7. What are the roles of design and analysis tools in the engineering of biology?**
+
 (Note: The KumaMax example also highlights the utility of Design-Build-Test Cycle (DBT). DBT is a framework that is commonly used in engineering of living matter.)
 
 ## Preclass for Friday
@@ -116,6 +117,3 @@ KumaMax example highlights the power of tools that enables us to visualize and d
 - We strongly encourage you to check out this additional resource about creativity and design in the context of modernity titled: "Art, Critique, Design and Our World" by Alexandra Daisy Ginsberg [link](https://vimeo.com/225113974)
 
 - A comprehensive video series on microscopy from iBiology [resources](https://www.ibiology.org/online-biology-courses/microscopy-series/microscopy-series-table-contents/) 
-
-
-
