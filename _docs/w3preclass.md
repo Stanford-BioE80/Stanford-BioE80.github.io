@@ -69,15 +69,18 @@ ________________________________________________________________________________
 
 ### Analysis and design of molecules 
 
-Update opening here: On Monday we discussed tools to visulaize living matter. 
+On Monday, we discussed microscopes to visualize cells and organisms. You may have also encountered (cryo-electron) microscopes that enable visualization of [biomolecules](https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2017.pdf). Here we discuss tools that will allow computer visualization, analysis, and design of molecules.   
+First, read this case study: 
 
 ### Celiac Disease and KumaMax
 
-Celiac disease is an autoimmune disease of the small intestine that is triggered by eating gluten - a protein found in wheat, barley, and rye - and causes damage to the fingerlike projections lining your small intestine (villi) important for nutrient absorption ([Celiac Disease](https://www.mayoclinic.org/diseases-conditions/celiac-disease/symptoms-causes/syc-20352220)). 
+Celiac disease is an autoimmune disease of the small intestine that is triggered by eating gluten - a protein found in wheat, barley, and rye - and causes damage to the fingerlike projections lining your small intestine (villi) necessary for nutrient absorption ([Celiac Disease](https://www.mayoclinic.org/diseases-conditions/celiac-disease/symptoms-causes/syc-20352220)). 
 
-It is estimated that 1% of the US population has celiac disease, but despite increasing attention in the media, almost 83% of those 3 million people remain undiagnosed (NOTE:  Beyond Celiac: What is Celiac Disease?). While misdiagnosis is common, some postulate that this lack of diagnosis (and awareness) can be linked to the limited clinical treatment offerings: currently, the only approved therapy is adherence to a strict gluten-free diet. Avoiding gluten can be difficult when there are hidden sources lurking around us (NOTE:  Medivizor: 300 facts you didn't know about gluten). Further, many who do adhere to a strict gluten-free diet do not see recovery of the small intestinal mucosa.
+It is estimated that 1% of the US population has celiac disease. Still, despite increasing attention in the media, almost 83% of those 3 million people remain undiagnosed (NOTE:  Beyond Celiac: What is Celiac Disease?). While misdiagnosis is common, some postulate that this lack of diagnosis (and awareness) can be linked to the limited clinical treatment offerings. Currently, the only approved therapy is adherence to a strict gluten-free diet. Avoiding gluten can be difficult when hidden sources are lurking around us (NOTE:  Medivizor: 300 facts you didn't know about gluten). Further, many who do adhere to a strict gluten-free diet do not see a recovery of the small intestinal mucosa. [source-1](https://www.beyondceliac.org/celiac-disease/what-is-celiac-disease/),[source-2](https://www.mayoclinic.org/diseases-conditions/celiac-disease/symptoms-causes/syc-20352220,[source-3(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4596973/#ref1)
+,and [source-4](https://celiac.org/celiac-disease/understanding-celiac-disease-2/what-is-celiac-disease/).
 
-Recognizing the need for a true therapy, a 2011 undergraduate [iGEM](https://igem.org/Main_Page) team  from the University of Washington began to design a drug that could potentially provide relief. Six years later, that drug (KumaMax) was funded to undergo phase I clinical trials to the tune of $35 million.  
+
+Recognizing the need for a true therapy, a 2011 undergraduate [iGEM](https://igem.org/Main_Page) team from the University of Washington began to design a drug that could potentially provide relief. Six years later, that drug (KumaMax) was funded to undergo phase I clinical trials to the tune of $35 million.  
 
 To learn more skim the following two websites:
 
@@ -97,49 +100,20 @@ To learn more skim the following two websites:
 
 **Q.6. What would you have done differently?**
 
-This example highlights the power of tools that enables us to visulaize and design molecules.  It also highlights the Design-Build-Test Cycle, a framework applied 
+(You can also read the [paper](https://pubs-acs-org.stanford.idm.oclc.org/doi/10.1021/ja3094795) that they published in 2012)
 
+### Design Tools
 
-the DBT to a bioengineering challenge. The students began with an enzyme that, by correctly navigating a DBT process, they were able to engineer into modified form that could breakdown gluten in the gut.
+KumaMax example highlights the power of tools that enables us to visualize and design molecules. These tools can be used much like any traditional Computer-aided design (CAD) tool  (for example, Onshape). You may have used CAD to create, modify, and 3D print objects. Multiple options are available for a diversity of applications.  For example, you can design and modify biomolecules via [PyMOL](https://pymol.org/2/). [FoldIt](http://fold.it/portal/) is another example that enables all learners to interact with protein folding and advance discovery by playing a game.  There are also tools such as [Cadnano](https://cadnano.org/) simplify the process of designing three-dimensional [DNA origami](https://www.sciencedirect.com/topics/neuroscience/dna-origami).
 
-**Summary**
+(Note: The KumaMax example also highlights the utility of Design-Build-Test Cycle (DBT). DBT is a framework that is commonly used in engineering of living matter.)
 
-In this pre-class activity you were introduced to the engineering cycle: design, build, and test and its application to bioengineering. You utilized a needs finding approach to identify design constraints, and specifications to describe your designs and corresponding tests. You examined the application of this approach to real world challenges. Finally you practiced an application of DBT framework through the Celiac disease case study. In class this week you will be introduced to how to actually design, build and test biomolecules.
+## Preclass for Friday
 
-**Keywords:**
-
-**Design-Build-Test Cycle** - A framework that provides structure to the process of engineering a solution to diverse problems.
-
-**Design** - Developing a possible solution. Informed by your design specifications. 
-
-**Needs** - The specific problem you would like to solve. 
-
-**Design Specifications** - How your solution will behave. For example: I'm building a paper plane for the purpose of nudging awake your friend across the room. This plane needs to:
-
-- Fly straight for 5 feet
-- Be smaller than 4 inches across (to be inconspicuous)
-- Weigh less than one ounce (you don't want to hurt your friend)
-- Be recyclable (because you love the earth)
-
-**Build** - Making a prototype. I.e., make your design in real life. 
-
-**Test** - Check whether your design, when turned into reality, actually satisfies all of requirements. 
-
-**Case Study Resources:**
-
-- [What is Celiac Disease? (Beyond Celiac)](https://www.beyondceliac.org/celiac-disease/what-is-celiac-disease/)
-- [What is Celiac Disease? (Celiac Disease Foundation)](https://celiac.org/celiac-disease/understanding-celiac-disease-2/what-is-celiac-disease/)
-- [Celiac Disease Overview (Mayo Clinic)](https://www.mayoclinic.org/diseases-conditions/celiac-disease/symptoms-causes/syc-20352220)
-- [What I Wish You Knew: Celiac Awareness Month and the Push for More Research](https://www.huffingtonpost.com/entry/what-i-wish-you-knew-celiac-awareness-month-and-the_us_5909e45fe4b084f59b49fe7b)
-- [Celiac Straight Talk: The Podcast](https://www.beyondceliac.org/podcast/)
-- [Celiac disease and non-celiac gluten sensitivity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4596973/#ref1)
-- [FoldIt](http://fold.it/portal/)
-- [A paper they published in 2012](https://pubs-acs-org.stanford.idm.oclc.org/doi/10.1021/ja3094795)
 
 **Additional Resources:**
 
-[1] We strongly encourage you to check out this additional resource about creativity and design in the context of modernity titled: "Art, Critique, Design and Our World" by Alexandra Daisy Ginsberg [link](https://vimeo.com/225113974)
+- We strongly encourage you to check out this additional resource about creativity and design in the context of modernity titled: "Art, Critique, Design and Our World" by Alexandra Daisy Ginsberg [link](https://vimeo.com/225113974)
 
-[2] The Long Now - 10,000 year clock (take a look at the designs considerations for a clock that seeks to keep time for 10,000 years) [link](http://longnow.org/clock/)
 
 
