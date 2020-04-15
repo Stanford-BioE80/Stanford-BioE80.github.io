@@ -92,3 +92,13 @@ Note: In Q.4 we don't have a "correct answer" in mind.  Instead, we wish for you
 
 **Biology refresher-2:** If you would like to review or learn more about the structure of  DNA, use the following resource [link-1](https://explorebiology.org/summary/genetics/the-structure-of-dna).  If you would like to watch brief videos describing transcription (going from DNA to RNA) use:  [video-1](https://explorebiology.org/videos/dna-transcription) and [video-2](https://explorebiology.org/videos/rna-polymerase-transcription) Next, if you need a refresher on amino acids and proteins, use the following resources: [Video: What is a Protein?](http://pdb101.rcsb.org/learn/videos/what-is-a-protein-video) And [Slides](https://cdn.rcsb.org/pdb101/learn/resources/what-is-a-protein/what-is-a-protein-pres.pdf) from PDB101. A review of the above topics will be helpful in understanding the material in the subsequent weeks.  
 In general, [explore biology](https://explorebiology.org/) is a useful resource.
+
+**Extra learning-1:** Entirely optional videos for all learners that explore useful topics related to this week’s learning.  You are not expected to watch all of these videos.  We simply want to enable you and give you the option of learning more as you wish. 
+
+1.  [Coronaviruses 101: Focus on Molecular Virology](https://www.youtube.com/watch?v=8_bOhZd6ieM&t=) by Britt Glaunsinger
+
+2. [Engineering Microbes to Solve Global Challenges](https://www.ibiology.org/bioengineering/engineering-microbes/) by Jay Keasling
+
+3. [Realizing Synthetic Carbon Dioxide Fixation](https://www.ibiology.org/bioengineering/synthetic-carbon-dioxide-fixation/) by Tobias Erb
+
+4. Synthetic Biology in a Societal Context(https://www.ibiology.org/bioengineering/scientists-society-synthetic-biology-societal-context/) by Emma Frow 
