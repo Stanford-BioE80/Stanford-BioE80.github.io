@@ -115,5 +115,7 @@ KumaMax example highlights the power of tools that enables us to visualize and d
 
 - We strongly encourage you to check out this additional resource about creativity and design in the context of modernity titled: "Art, Critique, Design and Our World" by Alexandra Daisy Ginsberg [link](https://vimeo.com/225113974)
 
+- A comprehensive video series on microscopy from iBiology [resources](https://www.ibiology.org/online-biology-courses/microscopy-series/microscopy-series-table-contents/) 
+
 
 
