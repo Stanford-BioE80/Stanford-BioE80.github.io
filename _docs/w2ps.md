@@ -51,12 +51,11 @@ Briefly read the abstract of the paper titled [Acoustic reporter genes for nonin
 **Q.2.a.** In your own words, summarize the abstract in 2-3 sentences. What is the main claim of this paper?
 
 **Q.2.b.** According to the paper, what is the origin and purpose of the gas-filled protein nanostructures in nature?  
+What is the typical size of the gas-filled proteins?  How are the gas-filled proteins visualized in the paper (what technique)?  Can the gas-filled proteins be visualized directly via a light microscope (yes/no)? Why? 
 
-**Q.2.c.** What is the typical size of the gas-filled proteins?  How are the gas-filled proteins visualized in the paper (what technique)?  Can the gas-filled proteins be visualized directly via a light microscope (yes/no)? Why? 
+**Q.2.c.** Can you think about and describe another application (medical or other) for these engineered microbes (bullet points). 
 
-**Q.2.d.** Can you think about and describe another application (medical or other) for these engineered microbes (bullet points). 
-
-**Q.2.e.** In your opinion, what are the paper’s strengths and significance?  What are the paper's shortcomings and deficiencies? How can the paper improve? 
+**Q.2.d.** In your opinion, what are the paper’s strengths and significance?  What are the paper's shortcomings and deficiencies? How can the paper improve? 
 
 ### (Q3) Rousseau and Hobbes (20 Points)
 
