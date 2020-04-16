@@ -59,7 +59,7 @@ What is the typical size of the gas-filled proteins?  How are the gas-filled pro
 
 ### (Q3) Rousseau and Hobbes (20 Points)
 
-**Q.3.a.** How do Rousseau’s assumptions about human nature differ from Hobbes’? (3 bullet points)
+**Q.3.a.** How do Rousseau’s assumptions about human nature differ from Hobbes’? (2 bullet points)
 
 **Q.3.b.** Do you think those practicing bioengineering should be licensed? If yes or no, who gets to decide? 
 
