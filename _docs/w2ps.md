@@ -80,7 +80,7 @@ Perhaps you will start a company that enables long term storage of information e
 Find 2 to 3 resources (papers, articles, websites) that support the feasibility, and the context of your wish. 
 (Note: Your wish can be the same as your answer to PSET.1's Question.2 or a new wish) 
 
-**Q.4.b.** Practice a Framestorm and Futures wheel on your wish? What questions you should ask to best frame your desired future? (3-4 questions)  What would be the direct and indirect future consequences of your wish (draw a map similar to [here](https://en.wikipedia.org/wiki/Futures_wheel)
+**Q.4.b.** Practice a Framestorm and Futures wheel on your wish? What questions you should ask to best frame your desired future? (3-4 questions)  What would be the direct and indirect future consequences of your wish (draw a map similar to [here](https://en.wikipedia.org/wiki/Futures_wheel))
 
 Next, revisit Dr. Palmer’s testimony from the reading (Transcript from [here](https://www.commerce.senate.gov/services/files/C8F37274-730B-412E-9C9D-9A63839B37C7).  Dr. Palmer offers five recommendations for the Senators to secure future U.S. leadership in the bioeconomy. 
 
