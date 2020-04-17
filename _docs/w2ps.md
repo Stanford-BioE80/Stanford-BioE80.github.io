@@ -57,7 +57,7 @@ What is the typical size of the gas-filled proteins?  How are the gas-filled pro
 
 **Q.2.d.** In your opinion, what are the paper’s strengths and significance?  What are the paper's shortcomings and deficiencies? How can the paper improve? 
 
-### (Q3) Rousseau and Hobbes (20 Points)
+### (Q3) Rousseau and Hobbes (30 Points)
 
 **Q.3.a.** How do Rousseau’s assumptions about human nature differ from Hobbes’? (2 bullet points)
 
@@ -70,20 +70,19 @@ Do your best to summarize your thoughts in one paragraph.
 
 Note: In Q.3.b., we are looking for a clearly stated and logical argument that uses the stated assumptions from Q.3.a. Use these assumptions, combine them with examples, and describe your position. 
 
-### (Q4) Leadership and Bioengineering (40 Points)
+### (Q4) Leadership and Bioengineering (30 Points)
 
-Think about a future (say 2030).  What future you wish to make true, via or in partnership with Bioengineering.
-Perhaps you will start a company that enables long term storage of information encoded in DNA.  Or work on engineered organisms that eat and break down plastics.   Maybe you will work on a De-extension project that seeks to restore our planet's biodiversity.  You get the idea.  
+Consider the following scenario; many people around the world do not have access to safe, essential pain medication.  On the other hand, opioid abuse and addiction to painkillers is a crisis in the United States.  Today it is technically feasible to produce opioids in yeast via a fermentation process [link](https://science.sciencemag.org/content/349/6252/1095)
+But a more difficult question remains.
+What should bioengineers do so that by 2030 all people (8 billion) have responsible access to pain medications?  
 
-**Q.4.a.**  State the future that you wish to realize? Try your best to be both creative and specific.  
-Find 2 to 3 resources (papers, articles, websites) that support the feasibility, and the context of your wish. 
-(Note: Your wish can be the same as your answer to PSET.1's Question.2 or a new wish) 
+**Q.4.a.** Practice a Framestorm, what questions you should ask to best frame your desired future? (5 questions)
 
-**Q.4.b.** Practice a Framestorm and Futures wheel on your wish? What questions you should ask to best frame your desired future? (3-4 questions)  What would be the direct and indirect future consequences of your wish (draw a map similar to [here](https://en.wikipedia.org/wiki/Futures_wheel))
+**Q.4.b.** Practice a Futures wheel, What would be the direct and indirect future consequences of your wish (draw a map similar to [here](https://en.wikipedia.org/wiki/Futures_wheel))
 
 Next, revisit Dr. Palmer’s testimony from the reading (Transcript from [here](https://www.commerce.senate.gov/services/files/C8F37274-730B-412E-9C9D-9A63839B37C7).  Dr. Palmer offers five recommendations for the Senators to secure future U.S. leadership in the bioeconomy. 
 
-**Q.4.C.** Which recommendation(s) might help you the most in realizing your future? Which recommendation(s) might prevent you from realizing your future? And each case, why?  Given the future you wish to realize, would you have offered a different recommendation? What and why? (Do your best to summarize your thoughts in one paragraph.)
+**Q.4.C.** Which recommendation(s) might help you in realizing a responsible access to pain medications? Which recommendation(s) might prevent you from realizing it? Why? Would you have offered a different recommendation? What and why? (Do your best to summarize your thoughts in one paragraph.)
 
 Note: In Q.4 we don't have a "correct answer" in mind.  Instead, we wish for you to think deeply.  We want to enable you to practice your written communication skills.  Finally, we wish for you to take steps towards becoming a leader (similar to Dr. Palmer) to be able to direct discussions around bioengineering. 
 
