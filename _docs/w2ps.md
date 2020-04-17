@@ -14,7 +14,7 @@ DUE: 5:00p Pacific Friday 24 April 2020
 
 **NOTES:**
 
-- Given the unique circumstance of Spring 2020, we ask you to do your best to maximize your learning. Each problem set is an opportunity to assess your learning, identify gaps, reflect on what you have learned, and determine what you wish to learn next.
+- Given the unique circumstances of Spring 2020 we ask you to do your best to maximize your learning. Each problem set is an opportunity to assess your learning, identify gaps, reflect on what you have learned, and determine what you wish to learn next.
 - Problem sets must be completed individually unless stated otherwise.
 - Please turn in your completed problem sets as an electronic copy via Gradescope. Please make sure to clearly indicate the starting and ending boundaries of your answers to each question on Gradescope.
 - Please do not go over any word limits and where appropriate show your work (e.g., calculations with appropriate units).
@@ -22,21 +22,21 @@ DUE: 5:00p Pacific Friday 24 April 2020
 
 ### (Q1) Malaria and Artemisinin (20 points)
 
-Think back to the case study: Production of Artemisinin via yeast
+Think back to the case study: Production of artemisinin via yeast
 
-**Q.1.a.** List 3 major lessons from the preclass reading? (bullet points)
+**Q.1.a.** List three major lessons from the pre-class reading? (bullet points)
 
-**Q.1.b.** List 2-3 questions that can help you frame a solution for addressing Malaria? (bullet points)
+**Q.1.b.** List two to three questions that can help you frame a solution for addressing malaria? (bullet points)
 
-Not:  For the following estimation questions please show your step by step calculations, keep track of units, and clearly state your assumptions. 
+Note:  For the following estimation questions please show your step-by-step calculations, keep track of units, and clearly state your assumptions. 
 
 **Q.1.c.** The World Health Organization (WHO) estimated that in 2017 there were 219 million cases of [malaria](https://www.who.int/en/news-room/fact-sheets/detail/malaria). If 3 grams (3 g) of artemisinin are required per treatment of 1 individual, how many total grams of artemisinin are needed per year?
 
-**Q.1.d.**  Sweet wormwood plants can produce 70 kg of artemisinin/ha land, where ha is a hectare of land.  Use your answer from Q.1.b. to estimate, how many total hectares of land would be needed to produce enough supply of artemisinin to treat all individuals suffering from malaria each year? 
+**Q.1.d.**  Sweet wormwood plants can produce 70 kg of artemisinin/ha land, where ha is a hectare of land.  Using your answer from Q.1.b., estimate how many total hectares of land would be needed to produce enough artemisinin to treat all individuals suffering from malaria each year? 
 
-**Q.1.e.**  Producing artemisinin via yeast reactor can yield 25 g of artemisinin/liter. What volume of a reactor do you need to produce enough supply of artemisinin to treat all individuals suffering from malaria each year? Use your answer from Q.1.c.
+**Q.1.e.**  Producing artemisinin via yeast-based fermentation can yield 25 g of artemisinin/liter. What volume of a reactor do you need to produce enough supply of artemisinin to treat all individuals suffering from malaria each year? Use your answer from Q.1.c.
 
-**Q.1.f.**  Imagine that in the near future, you are the head of the WHO's Malaria Project.  In this future, land usage has become a challenge for the production of artemisinin given the need to grow food. You are presented with the following data: in order to feed the yeast reactor, you need to supply 1.6 kg sugar/liter (which yields 25 g artemisinin/liter). If you can produce 7500 kg sugar from 1 hectare, how many hectares of land would you need to produce enough artemisinin?
+**Q.1.f.**  Imagine that in the near future you are the head of the WHO's Malaria Project.  In this future, land usage has become a challenge for the production of artemisinin given the need to grow food. You are presented with the following data: in order to "feed" the yeast-based brewing process you need to supply 1.6 kg sugar/liter (which yields 25 g artemisinin/liter). If you can produce 7500 kg sugar from 1 hectare, how many hectares of land would you need to produce enough artemisinin?
 
 **Q.1.g.**  As the head of the WHO's Malaria Project, would you switch artemisinin production from wormwood to production via yeast?  If yes, please explain why. If not, what would you want to see before considering a switch?  
 
@@ -73,8 +73,7 @@ Note: In Q.3.b., we are looking for a clearly stated and logical argument that u
 ### (Q4) Leadership and Bioengineering (30 Points)
 
 Consider the following scenario; many people around the world do not have access to safe, essential pain medication.  On the other hand, opioid abuse and addiction to painkillers is a crisis in the United States.  Today it is technically feasible to produce opioids in yeast via a fermentation process [link](https://science.sciencemag.org/content/349/6252/1095)
-But a more difficult question remains.
-What should bioengineers do so that by 2030 all people (8 billion) have responsible access to pain medications?  
+But a more difficult question remains.  What should bioengineers do so that by 2030 all people (8 billion) have responsible access to pain medications?  
 
 **Q.4.a.** Practice a Framestorm, what questions you should ask to best frame your desired future? (5 questions)
 
