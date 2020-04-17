@@ -61,8 +61,7 @@ If you requested the BIOE.80 Education Kit and have received your Foldscopes fol
 
 If you didn't ask for a Foldscope, don't worry.  You can still complete the problem set question without one.  
 
-Build and bring your Foldscope to class on Monday and make sure to remember your answer to the Self-Assessment.  
-Note: In previous years, this would take students between 30'-40'. 
+Make sure to remember your answer to the Self-Assessment.  
 ___________________________________________________________________________________________________
 ## Preclass for Wednesday
 
