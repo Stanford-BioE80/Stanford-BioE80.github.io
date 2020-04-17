@@ -107,12 +107,15 @@ KumaMax example highlights the power of tools that enables us to visualize and d
 **Q.7. What are the roles of design and analysis tools in the engineering of biology?**
 
 (Note: The KumaMax example also highlights the utility of Design-Build-Test Cycle (DBT). DBT is a framework that is commonly used in engineering of living matter.)
-
+___________________________________________________________________________________________________
 ## Preclass for Friday
 
+### Analysis and design a genetic systems
 
+
+___________________________________________________________________________________________________
 **Additional Resources:**
 
 - We strongly encourage you to check out this additional resource about creativity and design in the context of modernity titled: "Art, Critique, Design and Our World" by Alexandra Daisy Ginsberg [link](https://vimeo.com/225113974)
 
-- A comprehensive video series on microscopy from iBiology [resources](https://www.ibiology.org/online-biology-courses/microscopy-series/microscopy-series-table-contents/) 
+- A comprehensive video series on microscopy (includes: fundmentals, tools, and techniques) from iBiology [resources](https://www.ibiology.org/online-biology-courses/microscopy-series/microscopy-series-table-contents/) 
