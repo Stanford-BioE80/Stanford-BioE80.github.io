@@ -67,8 +67,7 @@ ________________________________________________________________________________
 
 ### Analysis and design of molecules 
 
-On Monday, we discussed microscopes to visualize cells and organisms. You may have also encountered (cryo-electron) microscopes that enable visualization of [biomolecules](https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2017.pdf). Here we discuss tools that will allow computer visualization, analysis, and design of molecules.   
-First, read this case study: 
+On Monday, we discussed microscopes to visualize cells and organisms. You may have also encountered (cryo-electron) microscopes that enable visualization of [biomolecules](https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2017.pdf). Here we discuss tools that will allow computer visualization, analysis, and design of molecules. First, read this case study: 
 
 ### Celiac Disease and KumaMax
 
@@ -102,7 +101,7 @@ To learn more skim the following two websites:
 
 ### Design Tools
 
-KumaMax example highlights the power of tools that enables us to visualize and design molecules. These tools can be used much like any traditional Computer-aided design (CAD) tool  (for example, Onshape). You may have used CAD to create, modify, and 3D print objects. Multiple options are available for a diversity of applications.  For example, you can design and modify biomolecules via [PyMOL](https://pymol.org/2/). [FoldIt](http://fold.it/portal/) is another example that enables all learners to interact with protein folding and advance discovery by playing a game.  There are also tools such as [Cadnano](https://cadnano.org/) simplify the process of designing three-dimensional [DNA origami](https://www.sciencedirect.com/topics/neuroscience/dna-origami).
+KumaMax example highlights the power of tools that enables us to visualize and design molecules. These tools can be used much like any traditional computer-aided design (CAD) application. For example, you may have used Onshape (as part of BIOE.123) to create, modify, and 3D print objects. Multiple design tools are available to Bioengineers.  For example, you can design and modify biomolecules via [PyMOL](https://pymol.org/2/). [FoldIt](http://fold.it/portal/) is another example that enables all learners to interact with protein folding and advance discovery via playing a game.  There are also tools such as [Cadnano](https://cadnano.org/) simplify the process of designing three-dimensional [DNA origami](https://www.sciencedirect.com/topics/neuroscience/dna-origami).  As design tools have improved, so has our ability to (rationally) modify and create molecules.   
 
 **Q.7. What are the roles of design and analysis tools in the engineering of biology?**
 
