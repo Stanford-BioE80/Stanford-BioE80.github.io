@@ -120,8 +120,8 @@ ________________________________________________________________________________
 
 - Video lecture: [Synthetic Biology: Principles and Applications](https://www.ibiology.org/bioengineering/introduction-to-synthetic-biology/) by Jan van der Meer.
 
-- Video lecture:[Synthetic Biology and Biological Circuits](https://www.ibiology.org/bioengineering/biological-circuits/) by Timothy Lu.
+- Video lecture: [Synthetic Biology and Biological Circuits](https://www.ibiology.org/bioengineering/biological-circuits/) by Timothy Lu.
 
-- Video lecture:[Programming Living Bacteria](https://www.ibiology.org/bioengineering/genetic-circuits/) by Chris Voigt.
+- Video lecture: [Programming Living Bacteria](https://www.ibiology.org/bioengineering/genetic-circuits/) by Chris Voigt.
 
 - A comprehensive video series on microscopy (includes: fundmentals, tools, and techniques) from iBiology [resources](https://www.ibiology.org/online-biology-courses/microscopy-series/microscopy-series-table-contents/) 
