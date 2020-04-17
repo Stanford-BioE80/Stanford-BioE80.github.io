@@ -53,7 +53,7 @@ First, spend 10' and watch the Manu's TED talk on Foldscopes, [here](https://www
 
 **Q.4. According to Manu, what is the relationship between hands on science education tools and global health?**
 
-Next, familiarize yourself with the global community of Foldscope users from [Microcosmos(https://microcosmos.foldscope.com/)
+Next, familiarize yourself with the global community of Foldscope users from [Microcosmos](https://microcosmos.foldscope.com/)
 
 **Putting your Foldscope together**
 
