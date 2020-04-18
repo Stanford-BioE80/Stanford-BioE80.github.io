@@ -57,7 +57,8 @@ Next, familiarize yourself with the global community of Foldscope users from [Mi
 
 **Putting your Foldscope together**
 
-*We will do this together in class on Monday*
+*We will do this together in class on Monday.*
+
 If you requested the BIOE.80 Education Kit and have received your Foldscopes follow the video instructions on [Foldscope Tutorials](https://www.foldscope.com/tutorials) or the written instruction inside the Foldscope kit to assemble your microscope. You can also find additional videos on how to use your Foldscope from the website.  
 
 If you didn't ask for a Foldscope, don't worry.  You can still complete the problem set question without one.  
