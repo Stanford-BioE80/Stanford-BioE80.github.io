@@ -1,7 +1,7 @@
 ---
 title: "Week 3 Problem set"
 permalink: /docs/w3ps/
-last_modified_at: Feb.20.2019
+last_modified_at: 
 2018: Week 6 
 toc: true
 ---
@@ -52,7 +52,8 @@ Interactive graph describing Fluorescent protein properties [link-3](http://www.
 
 ## (Q2) Foldscope (40 pts)
 
-**2020 Note:** Given the unique circumstance of this quarter and if you don't have access to your own foldscope you can use the photos available from [Microcosmos](https://microcosmos.foldscope.com/) For example, you can use an entry from last year’s BIOE80 class: [link](https://microcosmos.foldscope.com/?p=140485) to complete the questions. 
+**2020 Note:** Given the unique circumstance of this quarter and if you don't have access to your own foldscope you can use the photos available from [Microcosmos](https://microcosmos.foldscope.com/). 
+For example, see an entry from last year’s BIOE80 class: [link](https://microcosmos.foldscope.com/?p=140485).
 
 The following is an exercise carefully designed by Tom Knight to help you understand if you are more interested in science or engineering. There is no right answer and all types are welcome in the course! Rather, what you experience via the following can help you (and us) understand how you most like to work and learn. I.e., what follows is analogous to learning which foot you prefer to put forward on a skateboard, surfboard, or snowboard (right of left), or whether you prefer to throw with your right or left hand, etc.
 
@@ -86,15 +87,32 @@ how to begin to think about it. Choose a question that can be explored with micr
 
 To complete this activity, prepare and submit the following entry (1 paragraph). 
 
-Consider including responses to the following items below. (If you use a photo from microcosmos instead of your own photo make sure to refrence the source)
+Consider including responses to the following items below. (If you use a photo from microcosmos instead of your own photo make sure to refrence the source).
 
 A. What question or what range of questions did you ask? 
 B. What did you see / find as a result? 
-C. A great image or data to support your findings and conclusions (Note for 2020, does not have to be your own)
+C. A great image or data to support your findings and conclusions (Note for 2020, photo does not have to be your own).
 D. Your concluding thoughts or open questions.
 
 
 **Q.2.b.Welcome Makers!**
+
+You have been granted the status, **biologically empowered tinkerer of the microcosmic universe!** Your job is to explore nature, searching for tiny objects that might be useful either as inspiration, or as bits and pieces that might be directly reused to make something. 
+
+Firstly, you have to learn to explore various realms of microcosmos. It does not matter if
+somebody has searched the same space 100 years ago or if engineers do not know how to begin to think about the tiny things you find. Hunt the patterns, solutions, and objects that can be explored with microscale observations. Such as how do plants transport water, how do grasshoppers hop without barrel rolling, how does a spider make a web, where do leaves go… You get the idea.
+
+Your goal is to go on a journey to find the answer yourself, without any other aids. Lots and lots of samples that could give you the diversity of answers you might be looking for.
+
+To complete this activity, prepare and submit the following entry (1 paragraph). 
+
+Consider including responses to the following items below. (If you use a photo from microcosmos instead of your own photo make sure to refrence the source).
+
+A. What useful biological object or potential inspiration from nature did you find?
+B. How and where did these samples were found?
+C. A great image or data to support your findings and conclusions (Note for 2020, photo does not have to be your own).
+D. Your concluding thoughts or open questions.
+
 
 
 
