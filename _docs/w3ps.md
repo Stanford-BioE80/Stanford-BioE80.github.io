@@ -33,7 +33,7 @@ To do so:
 
 5. Click on <Mouse → 1 button viewing> to enable scrolling.
 
-6.Click on <Display → Sequence On> to see the amino acid sequence for GFP.
+6. Click on <Display → Sequence On> to see the amino acid sequence for GFP.
 
 7. Select residues 64-66 SYG and color these residues red. This is the **chromophore** of GFP, the portion of the molecule responsible for the fluorescence.
 
@@ -45,11 +45,29 @@ To do so:
 Would you [like](http://pdb101.rcsb.org/learn/paper-models/green-fluorescent-protein-gfp) to build your own 3D GFP paper model?  Go to the following link and use the instruction and the template to build your own model. If you did make the model please share a photo with us. 
 
 Additional Resources (Fluorescent Proteins):
-Fluorescent Proteins and the Story Behind GFP (by Roger Tsien ibiology) [link](https://www.ibiology.org/talks/fluorescent-proteins/)
-Introduction to Fluorescent Proteins [link](https://www.microscopyu.com/techniques/fluorescence/introduction-to-fluorescent-proteins)
-Interactive graph describing Fluorescent protein properties [link](http://www.fpvis.org/FP.html)
+Fluorescent Proteins and the Story Behind GFP (by Roger Tsien ibiology) [link-1](https://www.ibiology.org/talks/fluorescent-proteins/)
+Introduction to Fluorescent Proteins [link-2](https://www.microscopyu.com/techniques/fluorescence/introduction-to-fluorescent-proteins)
+Interactive graph describing Fluorescent protein properties [link-3](http://www.fpvis.org/FP.html)
+
+
+## (Q2) Foldscope (40 pts)
+
+2020 Note: Given the unique circumstance of this quarter and if you don't have access to your own foldscope you can use the photos available from [micro cosmos](https://microcosmos.foldscope.com/. (For example see the following entry from last year’s BIOE80 class: [link](https://microcosmos.foldscope.com/?p=140485)) ) to complete this question. 
+
+The following is an exercise carefully designed by Tom Knight to help you understand if you are more interested in science or engineering. There is no right answer and all types are welcome in the course! Rather, what you experience via the following can help you (and us) understand how you most like to work and learn. I.e., what follows is analogous to learning which foot you prefer to put forward on a skateboard, surfboard, or snowboard (right of left), or whether you prefer to throw with your right or left hand, etc.
+
+### Self-Assessment: 
+
+Imagine that you spend hours assembling a device (a box) that, once finished, is supposed to power a light bulb when a button is pushed. You place your finished construction on your workshop table and press the button... POOF! 
+Smoke pours from the device but the bulb remains dark. 
+
+Do you exclaim (choose one):
+
+          DARN!!! 	COOL!!!
+
+**Q.2.a.** Why did you pick your choice? (1-2 sentences)
 
 
 
-(QX) Foldscope (30 pts)
+
 
