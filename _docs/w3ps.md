@@ -29,7 +29,7 @@ To do so:
 
 4. **Take a screenshot of the protein structure to share as part of the problem set**
 
-*Extra activity*
+*Extra activity-1*
 
 5. Click on <Mouse → 1 button viewing> to enable scrolling.
 
@@ -40,3 +40,16 @@ To do so:
 8. Render the SYG portion of the protein as ‘sticks’. You should now be able to see the (cyclized) ring of the GFP chromophore. Take a second screenshot of the protein with chromophore highlighted. 
 
 **Q.1.c.**  Go back to the Protein Data Bank website and find a `.pdb` file for another fluorescent protein. Use PyMol to visualize this second protein. Provide a screenshot and tell us what color and wavelength the protein fluoresces.
+
+*Extra and fun activity-2*
+Would you [like](http://pdb101.rcsb.org/learn/paper-models/green-fluorescent-protein-gfp) to build your own 3D GFP paper model?  Go to the following link and use the instruction and the template to build your own model. If you did make the model please share a photo with us. 
+
+Additional Resources (Fluorescent Proteins):
+Fluorescent Proteins and the Story Behind GFP (by Roger Tsien ibiology) [link](https://www.ibiology.org/talks/fluorescent-proteins/)
+Introduction to Fluorescent Proteins [link](https://www.microscopyu.com/techniques/fluorescence/introduction-to-fluorescent-proteins)
+Interactive graph describing Fluorescent protein properties [link](http://www.fpvis.org/FP.html)
+
+
+
+(QX) Foldscope (30 pts)
+
