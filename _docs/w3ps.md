@@ -15,9 +15,9 @@ Check out the website where the GFP structure is housed: [https://www.rcsb.org/s
 
 Note:  Please include figure labels when sharing figures. 
 
-**Q.1.a.** What is the experimental method used to get the structure of the protein? What is the listed resolution of the structure? (bullet points)
+**1.a.** What is the experimental method used to get the structure of the protein? What is the listed resolution of the structure? (bullet points)
 
-**Q.1.b.** Add a screenshot of your GFP structure in PyMol showing the "beta barrel" structure of fluorescent proteins. 
+**1.b.** Add a screenshot of your GFP structure in PyMol showing the "beta barrel" structure of fluorescent proteins. 
 
 To do so:
 
@@ -39,7 +39,7 @@ To do so:
 
 8. Render the SYG portion of the protein as ‘sticks’. You should now be able to see the (cyclized) ring of the GFP chromophore. Take a second screenshot of the protein with chromophore highlighted. 
 
-**Q.1.c.**  Go back to the Protein Data Bank website and find a `.pdb` file for another fluorescent protein. Use PyMol to visualize this second protein. Provide a screenshot and tell us what color and wavelength the protein fluoresces.
+**1.c.**  Go back to the Protein Data Bank website and find a `.pdb` file for another fluorescent protein. Use PyMol to visualize this second protein. Provide a screenshot and tell us what color and wavelength the protein fluoresces.
 
 *Extra activity-2*
 Would you [like](http://pdb101.rcsb.org/learn/paper-models/green-fluorescent-protein-gfp) to build your own 3D GFP paper model?  Go to the following link and use the instruction and the template to build your own model. If you did make the model please share a photo with us. 
@@ -66,7 +66,7 @@ Do you exclaim (choose one):
 
           DARN!!! 	COOL!!!
 
-**Q.2.a.** Why did you pick your choice? (1-2 sentences)
+**2.a.** Why did you pick your choice? (1-2 sentences)
 
 Relax again. Close your eyes and look inside yourself. Relax some more. 
 Might you want to be an Explorer of the Unknown? Or, a Maker of New Things? 
@@ -77,7 +77,7 @@ If you picked DARN!!! please go to the **Maker** step.
 If you picked COOL!!! please go to the **Explorer** step.
 
 
-**Q.2.b.Welcome Explorers!**
+**2.b. Welcome Explorers!**
 
 You have been granted the status, **biologically curious explorer of the microcosmic universe!** Your job is to explore objects, mysteries, and open questions that relate to the microscopic world. Equiped with your own microscope. 
 
@@ -95,7 +95,7 @@ Consider including responses to the following items below. (If you use a photo f
 - Your concluding thoughts or open questions.
 
 
-**Q.2.b.Welcome Makers!**
+**2.b. Welcome Makers!**
 
 You have been granted the status, **biologically empowered tinkerer of the microcosmic universe!** Your job is to explore nature, searching for tiny objects that might be useful either as inspiration, or as bits and pieces that might be directly reused to make something. 
 
@@ -115,7 +115,14 @@ Consider including responses to the following items below. (If you use a photo f
 
 *Extra activity-3: Submit a photo you have taken with Foldscope to [Microcosmos](https://microcosmos.foldscope.com/) and share the link with us here*
 
+## (Q3) KumaMax (10 pts)
 
+In the pre-class material you were introduced to KumaMax designed via the student iGEM project. 
+The following link will take you to the paper that the group published summarizing their efforts, [Computational Design of an α-Gliadin Peptidase](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3526107/)
+
+**3.a.** In your own words, what is the primary claim of the paper? (1-2 sentences)
+
+**3.b.** In your own words, what is the primary evidence in support of the claim? (1-2 sentences)
 
 
 
