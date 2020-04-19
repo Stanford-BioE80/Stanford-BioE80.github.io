@@ -52,7 +52,7 @@ Interactive graph describing Fluorescent protein properties [link-3](http://www.
 
 ## (Q2) Foldscope (40 pts)
 
-2020 Note: Given the unique circumstance of this quarter and if you don't have access to your own foldscope you can use the photos available from [micro cosmos](https://microcosmos.foldscope.com/. (For example see the following entry from last year’s BIOE80 class: [link](https://microcosmos.foldscope.com/?p=140485)) ) to complete this question. 
+**2020 Note:** Given the unique circumstance of this quarter and if you don't have access to your own foldscope you can use the photos available from [Microcosmos](https://microcosmos.foldscope.com/) For example, you can use an entry from last year’s BIOE80 class: [link](https://microcosmos.foldscope.com/?p=140485) to complete the questions. 
 
 The following is an exercise carefully designed by Tom Knight to help you understand if you are more interested in science or engineering. There is no right answer and all types are welcome in the course! Rather, what you experience via the following can help you (and us) understand how you most like to work and learn. I.e., what follows is analogous to learning which foot you prefer to put forward on a skateboard, surfboard, or snowboard (right of left), or whether you prefer to throw with your right or left hand, etc.
 
@@ -66,6 +66,35 @@ Do you exclaim (choose one):
           DARN!!! 	COOL!!!
 
 **Q.2.a.** Why did you pick your choice? (1-2 sentences)
+
+Relax again. Close your eyes and look inside yourself. Relax some more. 
+Might you want to be an Explorer of the Unknown? Or, a Maker of New Things? 
+Choose one path to follow for now. Focus on one path for now so that you can really push yourself in the context of this activity. Use your answer to Step 1 to think about your choice. 
+
+If you picked DARN!!! please go to the **Maker** step. 
+
+If you picked COOL!!! please go to the **Explorer** step.
+
+
+**Q.2.b.Welcome Explorers!**
+
+You have been granted the status, **biologically curious explorer of the microcosmic universe!** Your job is to explore objects, mysteries, and open questions that relate to the microscopic world. Equiped with your own microscope. 
+
+Firstly, you have to ask a question in the realm of micro-cosmos, an original question. 
+It does not matter if somebody has answered it 100 years ago or if science does not know 
+how to begin to think about it. Choose a question that can be explored with microscale observations. Such as - how many cells thick is a leaf, how do hairs split, do insects also have blood cells, what does insect skin look like, what mold is growing in my fridge, what grows in a drop of pond water...You get the idea.  Now based on your emerging  question, collect samples and visulize them with your microscope. 
+
+To complete this activity, prepare and submit the following entry (1 paragraph). 
+
+Consider including responses to the following items below. (If you use a photo from microcosmos instead of your own photo make sure to refrence the source)
+
+A. What question or what range of questions did you ask? 
+B. What did you see / find as a result? 
+C. A great image or data to support your findings and conclusions (Note for 2020, does not have to be your own)
+D. Your concluding thoughts or open questions.
+
+
+**Q.2.b.Welcome Makers!**
 
 
 
