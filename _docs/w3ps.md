@@ -5,126 +5,38 @@ last_modified_at: Feb.20.2019
 2018: Week 6 
 toc: true
 ---
-**DUE:** Next Friday (April.26), beginning of class via Gradescope.
-
-**NOTES:** 
-  - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
-  - Please turn in your completed problem sets as an electronic copy via **Gradescope**. 
-  - Please make sure to not go over the word limits, when appropriate provide figure captions, and show your work (e.g., 
-  calculations). 
-  
-GOAL: Reflect on the role of **Abstraction** as a tool for helping to manage complexity in biological systems.  
-
-## (Q1) Generic System Architecture (10 pts)
-
-In class you encountered the **Generic System Architecture** composed of: 
-
-  - Sensors (to measure properties or inputs), 
-  - Logic Unit (to process information measured via sensors), and 
-  - Actuator (that can act or output the desired result). 
-
-We can apply this same architecture to abstract a diversity of systems.
-For example, imagine yourself riding your bicycle on University Avenue and encountering a stop sign. 
-
-In one scenario you can describe yourself as the system.  In this case, your eyes are the sensor, your brain is the computation unit, and your hands are the actuator (i.e., pressing the levers to stop your bike).  
-
-In another scenario, you can describe your bike as the system.  In this case, the levers are the sensors. There is no computation unit, and the signal is directly transferred via a cable to the brakes (i.e., actuators on the wheels).  
-
-**Q.1.a.** Look around the world from the perspective of an integrated systems engineer. Find an example of an integrated system, either natural or engineered. Submit a photo of the system you found and provide a one line description of the system itself. 
-
-**Q.1.b.** Draw the generic system architecture with appropriate units for your system. Label the input(s) and output(s) to the system. 
-
-## (Q2) GOOP Tube (40 pts)
-
-On Friday you were given two GOOP tubes, one tube of DNA, and one tube of water.
-
-**Q.2.a.** Did you show up on Friday and participate in the activity? (Yes / No) 
-
-**Q.2.b.** When and where did you add the water and DNA to your GOOP tubes? 
-
-**Q.2.c.** Did the GOOP with expression instructions turn green (produce GFP)? How long did it take? (Your grade does not depend on the expression of GFP). 
-
-Include photos of both tubes at the start, mid-way (about 6 hours), and after 12 hours. (Time points don't have to be exact. Simply report when you took the photos.) 
-
-Make sure to provide figure legends for any figures you include. 
-
-**_Please give us feedback. Did you run into any problems?_**
-
-**Q.2.d.** Why might certain designs work in GOOP, but not in a cell?  Vice versa, why might certain designs work in a cell, but not in GOOP? (2-3 sentences) 
-
-**Q.2.e. Revisiting Design Tools (PyMol).**
-
-Add a screenshot of your GFP structure in PyMol with the chromophore highlighted in red (see week-3 in class instructions). Why do you think the structure (barrel structure) might be necessary around the chromophore? (bullet points) 
-
-## (Q3) CHOMP Circuits (15 pts)
-
-Briefly read the abstract from the paper titled: [Programmable protein circuits in living cells](https://science.sciencemag.org/content/361/6408/1252.long). Don't worry if you don't understand most of the words! Try to parse through the abstract to find the main claim. (One of the goals for BIOE/ENGR. 80 is to start to familiarize you with scientific literature. For the abstraction week, we'll start by looking at our first abstract.)
-
-**Q.3.a.** In your own words, what is the primary *claim* of the paper? (1-2 sentences)
-
-**Q.3.b.** Take a look at Figure-1 below  (reporduced from the paper). Briefly describe what are the inputs and the output to this logic device? (Bullet points)
-
-**Q.3.c.** Does the presented logic device (Figure 1) use a *Common Signal Carrier*? Why or Why not? (1-2 sentences)
-
-<figure>
-<a href="/assets/images/Pset3-LogicGate .png"><img src="/assets/images/Pset3-LogicGate .png"></a>
-<figcaption><b>Figure 1</b>. Logic Device diagram of CHOMP circuits.</figcaption>
-</figure>
-
-## (Q4) Navigating the Abstraction Hierarchy (35 pts)
-
-Referring back to class on 15 and 17 April, recall the hierarchy based on the Part (bioparts), Devices, and Systems approach to abstraction. 
-If you need a refresher, please use the following [link](https://parts.igem.org/Abstraction_Hierarchy).
-
-**Q.4.a.**  In your own words provide brief definitions for Parts, Devices, and Systems. (1 sentence each)
-
-Recall from the class that we can use abstraction to help and manage complexity in engineering biological systems. 
-
-**Q.4.b.**  Imagine an engineered living system with a function of your choice.  What does this system do?
- Example engineered bacteria (*E.coli* for example) to detect lead or arsenic and produce a color pigment (red for lead, purple for arsenic) (1-2 sentences)
-
-**Q.4.c.**  Sketch a black box “device-level” systems diagram that would implement your system.  
-
-**Hint:** Your boxes should have simple names, such as “change color,” “detect lead,” “OR,” or whatever human-defined functions are needed and appropriate.  Make sure also to connect each black box device to the others as needed.    
-
-Next, going down the abstraction hierarchy, you need parts.  Where to get parts?  How about a student-produced collection of thousands of DNA parts.  Sure! Go to the [iGEM Parts Registry](http://parts.igem.org/Catalog).  
-
-**Q.4.d.** Find parts that could be used to implement your device.  Share the name of those parts as part of PSET-3.  
-If you can’t find what you need, make a note and move on.
-
-**Q.4.e.**  Sketch how your parts should be organized as DNA elements in relation to one another so that they would implement the function as you desire.  Draw a black box around your parts.  Add inputs and output arrows to the box as appropriate. Are your input and output signals generic or specific to your device?
-
-Note: If you want to learn more  about abstraction, sensors, and actuators in living matter check out **BIOE 44: Fundamentals for Engineering Biology Lab** 
-
-## Extra learning (100% optional):
-
-If you want to explore more: a different type of DNA logic mentioned in class, please check out this video from Prof. Endy on how to to engineer Boolean integrase Logic (BIL) gates based on DNA flipping... 
-[Transcriptors & Boolean Integrase Logic (BIL) gates, explained](https://www.youtube.com/watch?v=ahYZBeP_r5U).
-
-You can learn more about genetic parts to program bacteria from the paper [here](  https://www.sciencedirect.com/science/article/pii/S0958166906001273?via%3Dihub).
-
-### (Q5)  Buggy Bacterial Flash Mob? (0 pts)
  
- Students at MIT are claiming that they have designed a genetic program to realize 
- arepeating bacterial flash mob.  See their work yet again via:
- 
-[Polkadorks, iGEM-2006](https://2006.igem.org/wiki/index.php/IAP2004:Polkadorks)
- 
-In an epic East Coast versus West Coast technology “battle,” some of your colleagues
-are now claiming that the genetic program designed at MIT won’t actually produce the
-so-desired behavior.  Looking only at their proposed “device-level system diagram”...
+## (Q1) Revisiting Design Tools (PyMol) (20 pts)
 
-**5.a**. What do you think?  Will their program work or not?   
+In this problem, you will use PyMol to visualize green fluorescent protein (GFP).
+GFP is a 238 amino acid protein. For more information about GFP, check out the [Wikipedia page](https://en.wikipedia.org/wiki/Green_fluorescent_protein), or see the resources below.
 
-YES or NO (circle one)
+Check out the website where the GFP structure is housed: [https://www.rcsb.org/structure/1gfl](https://www.rcsb.org/structure/1gfl). Notice that we are looking at a homo-dimer, meaning that 2 identical 238 amino acid chains are in the structure. 
 
-**5.b.** Why or why not? (bullet points) 
+Note:  Please include figure labels when sharing figures. 
 
-###  (Q6) Inverters and Ring Oscillator (0 pts)
+**Q.1.a.** What is the experimental method used to get the structure of the protein? What is the listed resolution of the structure? (bullet points)
 
-Imagine that you are a system level **Bioengineer** designing genetic inverters and ring oscillators.
+**Q.1.b.** Add a screenshot of your GFP structure in PyMol showing the "beta barrel" structure of fluorescent proteins. 
 
-**Q.6.a.** Draw a box diagram of a genetic inverter at the *parts & device levels*. Describe the behavior of the genetic inverter. 
-(2-3 sentences and use diagrams and drawings if helpful). 
+To do so:
 
-**Q.6.b.** Imagine that you are building a 3-inverter genetic ring oscillator at the *systems level*. Describe the role of *Common Signal Carriers* in constructing such a system (2-3 sentences and use diagrams and drawings if helpful).  
+1. Download PyMol from this [Pymol Link]( https://pymol.org/2/) and open PyMol on your laptop or computer. 
+
+2. Type in the command “fetch 1gfl” in PyMol. This command downloads the structure of Green Fluorescent Protein (GFP) from the Protein Data Bank (PDB)
+
+3. In PyMol and take a look at the GFP structure.  Under the menus “H” and “S”  listed near the structure name on the toolbar on the right, click `Hide everything` and `Show cartoon`. 
+
+4. **Take a screenshot of the protein structure to share as part of the problem set**
+
+*Extra activity*
+
+5. Click on <Mouse → 1 button viewing> to enable scrolling.
+
+6.Click on <Display → Sequence On> to see the amino acid sequence for GFP.
+
+7. Select residues 64-66 SYG and color these residues red. This is the **chromophore** of GFP, the portion of the molecule responsible for the fluorescence.
+
+8. Render the SYG portion of the protein as ‘sticks’. You should now be able to see the (cyclized) ring of the GFP chromophore. Take a second screenshot of the protein with chromophore highlighted. 
+
+**Q.1.c.**  Go back to the Protein Data Bank website and find a `.pdb` file for another fluorescent protein. Use PyMol to visualize this second protein. Provide a screenshot and tell us what color and wavelength the protein fluoresces.
