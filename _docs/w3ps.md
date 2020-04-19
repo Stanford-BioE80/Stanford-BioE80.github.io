@@ -41,7 +41,7 @@ To do so:
 
 **Q.1.c.**  Go back to the Protein Data Bank website and find a `.pdb` file for another fluorescent protein. Use PyMol to visualize this second protein. Provide a screenshot and tell us what color and wavelength the protein fluoresces.
 
-*Extra and fun activity-2*
+*Extra activity-2*
 Would you [like](http://pdb101.rcsb.org/learn/paper-models/green-fluorescent-protein-gfp) to build your own 3D GFP paper model?  Go to the following link and use the instruction and the template to build your own model. If you did make the model please share a photo with us. 
 
 Additional Resources (Fluorescent Proteins):
@@ -89,10 +89,10 @@ To complete this activity, prepare and submit the following entry (1 paragraph).
 
 Consider including responses to the following items below. (If you use a photo from microcosmos instead of your own photo make sure to refrence the source).
 
-A. What question or what range of questions did you ask? 
-B. What did you see / find as a result? 
-C. A great image or data to support your findings and conclusions (Note for 2020, photo does not have to be your own).
-D. Your concluding thoughts or open questions.
+- What question or what range of questions did you ask? 
+- What did you see / find as a result? 
+- A great image or data to support your findings and conclusions (Note for 2020, photo does not have to be your own).
+- Your concluding thoughts or open questions.
 
 
 **Q.2.b.Welcome Makers!**
@@ -108,11 +108,12 @@ To complete this activity, prepare and submit the following entry (1 paragraph).
 
 Consider including responses to the following items below. (If you use a photo from microcosmos instead of your own photo make sure to refrence the source).
 
-A. What useful biological object or potential inspiration from nature did you find?
-B. How and where did these samples were found?
-C. A great image or data to support your findings and conclusions (Note for 2020, photo does not have to be your own).
-D. Your concluding thoughts or open questions.
+- What useful biological object or potential inspiration from nature did you find?
+- How and where did these samples were found?
+- A great image or data to support your findings and conclusions (Note for 2020, photo does not have to be your own).
+- Your concluding thoughts or open questions.
 
+*Extra activity-3: Submit a photo you have taken with Foldscope to [Microcosmos](https://microcosmos.foldscope.com/) and share the link with us here*
 
 
 
