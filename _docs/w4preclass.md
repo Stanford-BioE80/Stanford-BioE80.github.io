@@ -14,6 +14,8 @@ to manage complexity in biological systems.
 or synthesize the designs systems that could then be implemented in living matter for example viaengineered 
 (i.e., designer) DNA.
 
+(Study note: previous BIOE\ENG.80 students have described this week's material as challenging and time-consuming.)
+
 ## Preclass for Monday
 
 #### Engineering abstraction in living matter – synthetic genetic logic
@@ -28,13 +30,16 @@ According to the comic,
 
 **Q.2  What is the utility of using the Device abstraction to describe the DNA inverter?**
 
-Extra resources:
-**Central Dogma**
-Khan Academy: Central Dogma https://www.khanacademy.org/science/biology/gene-expression-central-dogma
-Bruce Alberts Molecular Biology of the Cell (2015) Chapter 6
-https://www.ncbi.nlm.nih.gov/books/NBK21054/ (older edition)
-(Science Library QH581.2 .M64 - Green Library QH581.2 .M64 (fifth edition))
+Next, briefly study the abstract and figures 1-3 from [Amplifying Genetic Logic Gates](https://science.sciencemag.org/content/340/6132/599/tab-pdf)
 
+**Q.3  what is a the main claim of the paper?** 
+
+Extra resources:
+
+Central Dogma
+- Khan Academy: [Central Dogma](https://www.khanacademy.org/science/biology/gene-expression-central-dogma)
+- Bruce Alberts Molecular Biology of the Cell (2015) [Chapter 6](https://www.ncbi.nlm.nih.gov/books/NBK21054/) 
+- Claude Shannon, [A symbolic analysis of relay and switching circuits](https://dspace.mit.edu/handle/1721.1/11173)
 
 ## Preclass for Wednesday
 
