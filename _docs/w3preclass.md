@@ -9,6 +9,12 @@ Please read and consider the below before the start of each class.
 The questions are study-questions and not homework to be graded.
 Talk about anything you find interesting with your classmates, friends, or TAs, as you like, using Piazza or email the instructors!
 
+## Optional On-Ramping
+We recognize this is an introductory class and many may be unfamiliar with some molecular and cellular biology terms (DNA, protein, transcription, translation, etc.). Those who would like a bit of "on-ramping" to the molecular biology jargon we will be using in class from Week 3 onwards should feel free to look over.
+- [Slides](https://stanford-bioe80.github.io/docs/200419_biomolecules_deck.pdf)
+ from on-ramping office hours
+- [Recording](https://canvas.stanford.edu/courses/115648/files/folder/Optional%20On-Ramping%20-%20Biomolecules%20-%20Audio%20Video) of on-ramping office hours
+
 ## Preclass for Monday
 
 ### Activity – Tools for seeing biology (Foldscope)
