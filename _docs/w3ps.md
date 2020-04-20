@@ -213,14 +213,14 @@ The most probable wavelengths of absorbed and emitted light respectively, are th
     <td>Photon Energy [unit]</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    td></td>
+    <td>Excitation Peak</td>
+    <td>395 nm </td>
+    <td>? [unit]</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    td></td>
+    <td>Emission peak</td>
+    <td>509 nm</td>
+    <td>? [unit]</td>
   </tr>
 </table>
 
