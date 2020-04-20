@@ -124,5 +124,42 @@ The following link will take you to the paper that the group published summarizi
 
 **3.b.** In your own words, what is the primary evidence in support of the claim? (1-2 sentences)
 
+## (Q4) Prepare for the Group Project (10 pts)
 
+
+[Kiva](https://www.kiva.org/about) is a charity that has a unique approach to the alleviation of wants and needs. 
+
+Instead of soliciting donations, Kiva provides a platform for individuals and groups around the world to request loans for their cause, empowering them to build a better future for themselves, their families, and their community.
+
+**Take a few minutes to browse the Kiva website, noting the geographic location of the groups you see and their goals.**
+
+**Q.1.** What is your initial response to the Kiva platform? Do you find anything striking?
+
+Kiva breaks down into different topics, allowing the potential lender to filter by the topic they find the most compelling. Looking at a few of the most common loan requests and we can extract a general structure:
+
+<table>
+  <tr>
+    <td>Campaign...</td>
+    <td>Goal / Use of Loan...</td>
+  </tr>
+  <tr>
+    <td>Cruz Celina, Hùng, Loan</td>
+    <td>Buying materials to build a latrine</td>
+  </tr>
+  <tr>
+    <td>Channy's Group, Sreymai’s Group</td>
+    <td>Buying water filters</td>
+  </tr>
+  <tr>
+    <td>Jane’s Group, Sin Kyoe(2)D Village Group, Zulaykha
+</td>
+    <td>Buying fertilizer, seed</td>
+  </tr>
+  <tr>
+    <td>Kantiembou Group, Dumitru, Glenda, Zhanybek</td>
+    <td>Buying livestock</td>
+  </tr>
+</table>
+
+This focuses on solving problems immediately by providing (consuming) products as they currently exist. In this class, we have the opportunity to step outside the bounds of current offerings by thinking about **designing** and **building better** products that fix unmet **needs**.
 
