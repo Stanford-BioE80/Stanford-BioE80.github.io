@@ -14,7 +14,7 @@ to manage complexity in biological systems.
 or synthesize the designs systems that could then be implemented in living matter for example viaengineered 
 (i.e., designer) DNA.
 
-(Study note: previous BIOE\ENG.80 students have described this week's material as challenging and time-consuming.)
+(Study note: previous BIOE/ENGR.80 students described Engineering Abstraction in Biology as challenging and time-consuming material.)
 
 ## Preclass for Monday
 
@@ -32,14 +32,21 @@ According to the comic,
 
 Next, briefly study the abstract and figures 1-3 from [Amplifying Genetic Logic Gates](https://science.sciencemag.org/content/340/6132/599/tab-pdf)
 
-**Q.3  what is a the main claim of the paper?** 
+**Q.3  What is a the main claim of the paper?** 
+
+**Q.4  What logic-gate devices were demonstrated in this paper?  How were the performances (and digital output) measured?**
+
+Optional video-1 [Transcriptors & Boolean Integrase Logic (BIL) gates, explained](https://www.youtube.com/watch?v=ahYZBeP_r5U&t)
 
 Extra resources:
 
-Central Dogma
-- Khan Academy: [Central Dogma](https://www.khanacademy.org/science/biology/gene-expression-central-dogma)
-- Bruce Alberts Molecular Biology of the Cell (2015) [Chapter 6](https://www.ncbi.nlm.nih.gov/books/NBK21054/) 
+- Khan Academy, [Central Dogma](https://www.khanacademy.org/science/biology/gene-expression-central-dogma)
+- Bruce Alberts Molecular Biology of the Cell (2015)- Central Dogma  [Chapter 6](https://www.ncbi.nlm.nih.gov/books/NBK21054/) 
 - Claude Shannon, [A symbolic analysis of relay and switching circuits](https://dspace.mit.edu/handle/1721.1/11173)
+- [Principles of genetic circuit design](https://www.nature.com/articles/nmeth.2926)
+- [Foundations for engineering biology](https://www.nature.com/articles/nature04342)
+
+_______________________________________________
 
 ## Preclass for Wednesday
 
