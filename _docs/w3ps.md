@@ -184,7 +184,7 @@ The following suggested reading and questions are 100% optional additional. They
 Optional video lectures from [Protein design](https://www.ibiology.org/sessions/session-3-protein-design/) by David Baker 
 
 
-### Q.100. Practice Questions: Physics of Fluorescence (0 pts)
+### Q.EX1. Practice Questions: Physics of Fluorescence (0 pts)
 
 This question is a guide to enable you to learn (or review) some key physics of how fluorescence works. 
 Use the following resources to familiarize youself with physics of fluorescence:
@@ -199,3 +199,28 @@ The following equation relates a photon’s energy to its wavelength:
 - c is the speed of light (in meters per second, m/s), 
 - h is the Planck constant (equal to 6.626×10−34 J-s, with units of energy times second), 
 - and <img src="https://render.githubusercontent.com/render/math?math=\lambda\")is the wavelength of the photon (with units of length, in nanometers, nm). 
+
+**EX.1** What happens to the energy of a photon as the wavelength of light increases? (Extra activity demonstrates to yourself that eV and J are equivalent to each other?)
+
+**EX.2**  If a traveling photon hits a GFP molecule, the probability that the photon gets absorbed by GFP depends on the wavelength of the photon. In a sense, GFP “prefers” photons around a certain energy level. If GFP absorbs a photon, it enters a higher energy excited state for a brief period, then relaxes back to a lower energy state. The absorbed photon’s energy is converted into the jiggling of the GFP molecule, heat that the GFP vents to its environment, and a photon that gets emitted from the GFP. The wavelength of the emitted photon depends on how much energy is converted to jiggling and heat versus how much energy is converted to an emitted photon, which is determined somewhat randomly.
+
+The most probable wavelengths of absorbed and emitted light respectively, are the “excitation” and “emission” peaks. Typical excitation and emission peaks for GFP are reported below. What are the energies of photons typically absorbed and emitted from GFP? 
+
+<table>
+  <tr>
+    <td>GFP</td>
+    <td>Wavelength (nm)</td>
+    <td>Photon Energy [unit]</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    td></td>
+  </tr>
+</table>
+
