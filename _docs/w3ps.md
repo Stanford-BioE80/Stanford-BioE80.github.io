@@ -200,9 +200,9 @@ The following equation relates a photon’s energy to its wavelength:
 - h is the Planck constant (equal to 6.626×10−34 J-s, with units of energy times second), 
 - and <img src="https://render.githubusercontent.com/render/math?math=\lambda\")is the wavelength of the photon (with units of length, in nanometers, nm). 
 
-**EX.1** What happens to the energy of a photon as the wavelength of light increases? (Extra activity demonstrates to yourself that eV and J are equivalent to each other?)
+**EX.1.a** What happens to the energy of a photon as the wavelength of light increases? (Extra activity demonstrates to yourself that eV and J are equivalent to each other?)
 
-**EX.2**  If a traveling photon hits a GFP molecule, the probability that the photon gets absorbed by GFP depends on the wavelength of the photon. In a sense, GFP “prefers” photons around a certain energy level. If GFP absorbs a photon, it enters a higher energy excited state for a brief period, then relaxes back to a lower energy state. The absorbed photon’s energy is converted into the jiggling of the GFP molecule, heat that the GFP vents to its environment, and a photon that gets emitted from the GFP. The wavelength of the emitted photon depends on how much energy is converted to jiggling and heat versus how much energy is converted to an emitted photon, which is determined somewhat randomly.
+**EX.1.b**  If a traveling photon hits a GFP molecule, the probability that the photon gets absorbed by GFP depends on the wavelength of the photon. In a sense, GFP “prefers” photons around a certain energy level. If GFP absorbs a photon, it enters a higher energy excited state for a brief period, then relaxes back to a lower energy state. The absorbed photon’s energy is converted into the jiggling of the GFP molecule, heat that the GFP vents to its environment, and a photon that gets emitted from the GFP. The wavelength of the emitted photon depends on how much energy is converted to jiggling and heat versus how much energy is converted to an emitted photon, which is determined somewhat randomly.
 
 The most probable wavelengths of absorbed and emitted light respectively, are the “excitation” and “emission” peaks. Typical excitation and emission peaks for GFP are reported below. What are the energies of photons typically absorbed and emitted from GFP? 
 
@@ -224,3 +224,8 @@ The most probable wavelengths of absorbed and emitted light respectively, are th
   </tr>
 </table>
 
+**EX.1.c**  What is the difference in the wavelength between the emission and excitation peaks of GFP? What is the difference in energy between photons at these two peaks?
+
+**EX.1.d**  Does it make sense that the wavelength of an emitted photon is longer than the wavelength of an absorbed photon? (Yes/No) Why? (Use the calculated numbers from part B in your answer).
+
+**EX.1.e** You are studying how GFP absorbs and emits light when you notice something odd. Under certain conditions, GFP seems to have a smaller excitation peak around 800 nm. Why might this be the case?
