@@ -193,12 +193,12 @@ Use the following resources to familiarize youself with physics of fluorescence:
 
 The following equation relates a photon’s energy to its wavelength: 
 
-<img src="https://render.githubusercontent.com/render/math?math=E=hc/\lambda\")
+<img src="https://render.githubusercontent.com/render/math?math=E=hc/\lambda\")>
 
 - E is the energy of the photon (in electron volts, eV, or in joules, J), 
 - c is the speed of light (in meters per second, m/s), 
 - h is the Planck constant (equal to 6.626×10−34 J-s, with units of energy times second), 
-- and <img src="https://render.githubusercontent.com/render/math?math=\lambda\")is the wavelength of the photon (with units of length, in nanometers, nm). 
+- and <img src="https://render.githubusercontent.com/render/math?math=\lambda\"> is the wavelength of the photon (with units of length, in nanometers, nm). 
 
 **EX.1.a** What happens to the energy of a photon as the wavelength of light increases? (Extra activity demonstrates to yourself that eV and J are equivalent to each other?)
 
