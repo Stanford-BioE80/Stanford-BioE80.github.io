@@ -174,3 +174,26 @@ This focuses on solving problems immediately by providing (consuming) products a
 **4.e.** What role, imagined or as yet unimagined, can bioengineering play in addressing these requests? (2 to 3 sentences)
 
 (Added to turning in the answers as part of the PSET, have them ready as "introduction cards" to exchange ideas with your future team)
+
+
+
+## Extra resources, learning, and Practice Questions
+
+The following suggested reading and questions are 100% optional additional. They are meant to help you engage with various aspects of the topics that we have covered in each segment based on your interest and level. They are not required as part of your problem sets. But we hope that they enable you to enhance your learning based on your interest.
+
+Optional video lectures from [Protein design](https://www.ibiology.org/sessions/session-3-protein-design/) by David Baker 
+
+
+### Q.100. Practice Questions: Physics of Fluorescence (0 pts)
+
+This question is a guide to enable you to learn (or review) some key physics of how fluorescence works. 
+Use the following resources to familiarize youself with physics of fluorescence:
+[Hyperphysics-link](http://hyperphysics.phy-astr.gsu.edu/hbase/mod5.html)
+[Thermo fisher-link](https://www.thermofisher.com/us/en/home/references/molecular-probes-the-handbook/introduction-to-fluorescence-techniques.html#head1)
+
+The following equation relates a photon’s energy to its wavelength: 
+E=hc/\( \lambda \)
+- E is the energy of the photon (in electron volts, eV, or in joules, J), 
+- c is the speed of light (in meters per second, m/s), 
+- h is the Planck constant (equal to 6.626×10−34 J-s, with units of energy times second), 
+- and \( \lambda \) is the wavelength of the photon (with units of length, in nanometers, nm). 
