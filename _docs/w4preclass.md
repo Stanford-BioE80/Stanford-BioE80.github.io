@@ -5,19 +5,45 @@ toc: true
 ---
 ## Preclass for Monday
 
-## Introduction: Abstraction as a tool for managing complexity in bioengineering.
+### Engineering Abstraction in Biology
 
-Welcome to the pre-class material for Abstraction as a tool for managing complexity in bioengineering. 
+Please read and consider the below before the start of each class. The questions are study-questions and not homework to be graded. Talk about anything you find interesting with your classmates, friends, or TAs, as you like, using Piazza or email the instructors!
 
-**Goal-1:** After Week-3 you will able to describe the role of abstraction as a tool for helping 
-to managecomplexity in biological systems - with an emphasis on the design step of the engineering cycle.
+**Goal-1:** You will able to describe the role of abstraction as a tool for helping 
+to manage complexity in biological systems.
 
 **Goal-2:** You will also be able to apply abstraction (in the form of black box diagrams) to decompose 
 or synthesize the designs systems that could then be implemented in living matter for example viaengineered 
 (i.e., designer) DNA.
 
-Read the two parts of this free comic book (**Programming DNA** and **Engineered Genetic Devices**)
- [Adventures in Synthetic Biology](https://openwetware.org/wiki/Adventures)  before the class. 
+### Preclass for Monday
+
+#### Engineering abstraction in living matter – synthetic genetic logic
+
+Read the first two parts of  [Adventures in Synthetic Biology](http://web.mit.edu/endy/www/scraps/comic/AiSB.vol1.pdf) (**Programming DNA** and **Engineered Genetic Devices**) from the following [where key ideas in designing and realizing biological circuits and systems are discussed (comic book in other [languages](https://openwetware.org/wiki/Adventures))
+
+Biology background, particularly  [Information Transfer in Cells](https://www.nature.com/scitable/ebooks/cntNm-14749010/122996756/) and [Regulation of Transcription and Translation](https://www.nature.com/scitable/ebooks/cntNm-14749010/122996928/) may help you have a richer understanding of the topic discussed in the comic. 
+
+According to the comic,
+
+**Q.1  what is a Gentic device? for example, what is an inverter device?** 
+
+**Q.2  What is the utility of using the Device abstraction to describe the DNA inverter?**
+
+**Q.3  What is the advantage of using a  common signal carrier to construct a system out of devices?  Specifically what common signal carrier is used in the comic?**  
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Preclass for Wednesday
 
 First read the (**Common Signal Carriers**) part from this free comic book [Adventures in Synthetic Biology](https://openwetware.org/wiki/Adventures) before the class. 
