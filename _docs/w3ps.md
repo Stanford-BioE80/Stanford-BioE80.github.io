@@ -229,3 +229,43 @@ The most probable wavelengths of absorbed and emitted light respectively, are th
 **EX.1.d**  Does it make sense that the wavelength of an emitted photon is longer than the wavelength of an absorbed photon? (Yes/No) Why? (Use the calculated numbers from part B in your answer).
 
 **EX.1.e** You are studying how GFP absorbs and emits light when you notice something odd. Under certain conditions, GFP seems to have a smaller excitation peak around 800 nm. Why might this be the case?
+
+### Q.EX.2. Foldscope Engineer (0 pts)
+
+After finishing BIOE.80 you have joined the team that develops Foldscope.
+
+First and briefly familiarize yourself with this open source [scientific paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098781) summarizing various aspects of the Foldscope. Briefly read the abstract and go through the Figures 1-5 and Table-1. 
+
+**EX.2.a** What is the main claim of the paper based on the abstract? What key evidence is provided in support of this claim? (Bullet points.) 
+
+Next, your new manager shares the following equations describing the optical properties of a ball lens from the paper’s supplementary material.
+
+M=250mm/ EFL 
+- M is the magnification, 
+- EFL is Effective focal length, 
+- 250mm is the distance between the lens and where the image forms. 
+
+Additionally: 
+EFL=nr/2(n-1)
+- r is the lens’s radius,
+- n is the index of refraction 
+
+You want to create a figure to communicate to your team the relationship between M as you change the radius of the lens.
+
+Assume the index of refraction for the borosilicate glass lens is n =1.517. 
+Also, assume that you can purchase glass lenses ranging from 150, 250, 400, 750, and 1000 µm in radii. 
+
+**EX.2.b** Using your favorite software/application (e.g., Spreadsheets, Matlab, Python, R, etc.) create two graphs demonstrating the relationship between EFL vs. r, and M vs. r. Make sure to label each figure and each axis with appropriate units. 
+
+**EX.2.c** Next, state your conclusions from these graphs summarizing your findings in 1-2 sentences to the rest of your team.
+
+**EX.2.d** Next, you come across sapphire lenses, with n=1.77. Using the equations above, compare the Magnification of a Sapphire lens against a borosilicate lens. (Hint: Assume that both lenses have the same size)
+
+**EX.2.e** As you are going through this design activity, a team member asks you about the difference between resolution and magnification. First, Describe the difference between resolution and magnification and include your reference(s). 
+(Hint take a look at figure-4.b from the paper, describe the relationship resolution and magnification)
+
+
+
+
+
+
