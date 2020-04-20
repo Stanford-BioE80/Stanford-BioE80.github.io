@@ -193,7 +193,8 @@ Use the following resources to familiarize youself with physics of fluorescence:
 The following equation relates a photon’s energy to its wavelength: 
 
 $
-E=\frac{hc}{\lambda}
+E=
+\frac{hc}{\lambda}
 $
 
 - E is the energy of the photon (in electron volts, eV, or in joules, J), 
