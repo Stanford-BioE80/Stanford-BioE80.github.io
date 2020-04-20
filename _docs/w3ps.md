@@ -161,5 +161,5 @@ Kiva breaks down into different topics, allowing the potential lender to filter 
   </tr>
 </table>
 
-This focuses on solving problems immediately by providing (consuming) products as they currently exist. In this class, we have the opportunity to step outside the bounds of current offerings by thinking about **designing** and **building better** products that fix unmet **needs**.
+This focuses on solving problems immediately by providing (consuming) products as they currently exist. In this class, we have the opportunity to step outside the bounds of current offerings and thinking about **designing** and **building better** solutions that fix unmet **needs**.
 
