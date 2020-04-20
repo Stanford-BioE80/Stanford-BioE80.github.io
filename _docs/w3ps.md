@@ -192,12 +192,18 @@ Use the following resources to familiarize youself with physics of fluorescence:
 
 The following equation relates a photon’s energy to its wavelength: 
 
-<img src="https://render.githubusercontent.com/render/math?math=E=hc/\lambda\")>
+$
+E=\frac{hc}{\lambda}
+$
 
 - E is the energy of the photon (in electron volts, eV, or in joules, J), 
 - c is the speed of light (in meters per second, m/s), 
 - h is the Planck constant (equal to 6.626×10−34 J-s, with units of energy times second), 
-- and <img src="https://render.githubusercontent.com/render/math?math=\lambda\"> is the wavelength of the photon (with units of length, in nanometers, nm). 
+- and 
+$
+\lambda
+$
+is the wavelength of the photon (with units of length, in nanometers, nm). 
 
 **EX.1.a** What happens to the energy of a photon as the wavelength of light increases? (Extra activity demonstrates to yourself that eV and J are equivalent to each other?)
 
@@ -239,13 +245,20 @@ First and briefly familiarize yourself with this open source [scientific paper](
 
 Next, your new manager shares the following equations describing the optical properties of a ball lens from the paper’s supplementary material.
 
-M=250mm/ EFL 
+$
+M=\frac{250mm}{EFL}
+$
+
 - M is the magnification, 
 - EFL is Effective focal length, 
 - 250mm is the distance between the lens and where the image forms. 
 
 Additionally: 
-EFL=nr/2(n-1)
+
+$
+EFL=\frac{nr}{2(n-1)}
+$
+
 - r is the lens’s radius,
 - n is the index of refraction 
 
