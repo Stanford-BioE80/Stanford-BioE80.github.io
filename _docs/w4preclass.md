@@ -18,7 +18,7 @@ or synthesize the designs systems that could then be implemented in living matte
 
 ## Preclass for Monday
 
-#### Engineering abstraction in living matter – synthetic genetic logic
+### Engineering abstraction in living matter – synthetic genetic logic
 
 Read the first two parts of  [Adventures in Synthetic Biology](http://web.mit.edu/endy/www/scraps/comic/AiSB.vol1.pdf) (**Programming DNA** and **Engineered Genetic Devices**) from the following [where key ideas in designing and realizing biological circuits and systems are discussed (comic book in other [languages](https://openwetware.org/wiki/Adventures))
 
@@ -50,11 +50,13 @@ _______________________________________________
 
 ## Preclass for Wednesday
 
+### Engineering abstraction in living matter – generic system architecture
+
 Read the (**Common Signal Carriers**) part from this free comic book [Adventures in Synthetic Biology](https://openwetware.org/wiki/Adventures) before the class. 
 
 **Q.1  What is the advantage of using a  common signal carrier to construct a system out of devices?  Specifically what common signal carrier is used in the comic?**
 
-### Bacterial Flash Mob
+#### Bacterial Flash Mob
 
 **Write down the DNA sequence** encoding a dynamic bacterial flash mob (see animation below in Figure.1 )
 
@@ -109,15 +111,12 @@ These are challenging questions that we will resolve!
 ______________________________________________________
 
 ##  Preclass for Friday
- 
+### Team Project – Framestorm/brainstorm plus teams rule(s)
 
+You have been introduced to Framestorm already.  
 
-
-
-## Preclass for Friday 
-
-Visit the following resources to prepare for an effective brainstorming activity
-
-[I like, I wish, What if](https://dschool-old.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
+Visit the following resources to prepare for a productive brainstorming activity.
 
 [Brainstorming-Method](https://dschool-old.stanford.edu/sandbox/groups/dstudio/wiki/2fced/attachments/660d8/Brainstorming-Method.pdf?sessionID=d07c198d92501ebb3eee4ff3da193b387130fcbf)
+
+Next, briefly examine [I like, I wish, What if](https://dschool-old.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf).  
