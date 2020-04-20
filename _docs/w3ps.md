@@ -6,7 +6,7 @@ last_modified_at:
 toc: true
 ---
  
-## (Q1) Revisiting Design Tools (PyMol) (20 pts)
+## (Q1) Revisiting Design Tools (PyMol) (30 pts)
 
 In this problem, you will use PyMol to visualize green fluorescent protein (GFP).
 GFP is a 238 amino acid protein. For more information about GFP, check out the [Wikipedia page](https://en.wikipedia.org/wiki/Green_fluorescent_protein), or see the resources below.
@@ -124,7 +124,7 @@ The following link will take you to the paper that the group published summarizi
 
 **3.b.** In your own words, what is the primary evidence in support of the claim? (1-2 sentences)
 
-## (Q4) Prepare for the Group Project (X pts)
+## (Q4) Prepare for the Group Project (20 pts)
 
 
 [Kiva](https://www.kiva.org/about) is a charity that has a unique approach to the alleviation of wants and needs. 
@@ -174,7 +174,6 @@ This focuses on solving problems immediately by providing (consuming) products a
 **4.e.** What role, imagined or as yet unimagined, can bioengineering play in addressing these requests? (2 to 3 sentences)
 
 (Added to turning in the answers as part of the PSET, have them ready as "introduction cards" to exchange ideas with your future team)
-
 
 
 ## Extra resources, learning, and Practice Questions
@@ -263,9 +262,3 @@ Also, assume that you can purchase glass lenses ranging from 150, 250, 400, 750,
 
 **EX.2.e** As you are going through this design activity, a team member asks you about the difference between resolution and magnification. First, Describe the difference between resolution and magnification and include your reference(s). 
 (Hint take a look at figure-4.b from the paper, describe the relationship resolution and magnification)
-
-
-
-
-
-
