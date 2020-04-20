@@ -124,7 +124,7 @@ The following link will take you to the paper that the group published summarizi
 
 **3.b.** In your own words, what is the primary evidence in support of the claim? (1-2 sentences)
 
-## (Q4) Prepare for the Group Project (10 pts)
+## (Q4) Prepare for the Group Project (X pts)
 
 
 [Kiva](https://www.kiva.org/about) is a charity that has a unique approach to the alleviation of wants and needs. 
@@ -133,7 +133,9 @@ Instead of soliciting donations, Kiva provides a platform for individuals and gr
 
 **Take a few minutes to browse the Kiva website, noting the geographic location of the groups you see and their goals.**
 
-**Q.1.** What is your initial response to the Kiva platform? Do you find anything striking?
+Note that you can select various sectors (health, food, agriculture, arts, education, … ) or locations across the world.
+
+**4.a.** What is your initial response to the Kiva platform? (1-2 sentences)
 
 Kiva breaks down into different topics, allowing the potential lender to filter by the topic they find the most compelling. Looking at a few of the most common loan requests and we can extract a general structure:
 
@@ -163,3 +165,12 @@ Kiva breaks down into different topics, allowing the potential lender to filter 
 
 This focuses on solving problems immediately by providing (consuming) products as they currently exist. In this class, we have the opportunity to step outside the bounds of current offerings and thinking about **designing** and **building better** solutions that fix unmet **needs**.
 
+**4.b.** Name 3 sectors that are of interest to you? 
+
+**4.c.** What role, imagined or as yet unimagined, can bioengineering play in addressing the needs in these sectors? (2 to 3 sentences)
+
+**4.d.** Pick a location (ideally a region that you are not familiar with). What are 3 to 4 specific requests that people from this location have?
+
+**4.e.** What role, imagined or as yet unimagined, can bioengineering play in addressing these requests? (2 to 3 sentences)
+
+(Added to turning in the answers as part of the PSET, have them ready as "introduction cards" to exchange ideas with your future team)
