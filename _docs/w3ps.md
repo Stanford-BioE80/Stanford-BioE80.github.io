@@ -115,16 +115,18 @@ Consider including responses to the following items below. (If you use a photo f
 
 *Extra activity-3: Submit a photo you have taken with Foldscope to [Microcosmos](https://microcosmos.foldscope.com/) and share the link with us here*
 
-## (Q3) KumaMax (10 pts)
+## (Q3) Papers: KumaMax & Repressilator (20 pts)
 
 In the pre-class material you were introduced to KumaMax designed via the student iGEM project. 
 The following link will take you to the paper that the group published summarizing their efforts, [Computational Design of an α-Gliadin Peptidase](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3526107/)
 
-**3.a.** In your own words, what is the primary claim of the paper? (1-2 sentences)
+**3.a.** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? (2-3 sentences)
 
-**3.b.** In your own words, what is the primary evidence in support of the claim? (1-2 sentences)
+Next, visit the famous Repressilator paper[A synthetic oscillatory network of transcriptional regulators](https://www.nature.com/articles/35002125).
 
-## (Q4) Prepare for the Group Project (20 pts)
+**3.b.** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? (2-3 sentences) 
+
+## (Q4) Prepare for the Group Project (10 pts)
 
 
 [Kiva](https://www.kiva.org/about) is a charity that has a unique approach to the alleviation of wants and needs. 
