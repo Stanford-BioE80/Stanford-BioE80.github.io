@@ -113,9 +113,9 @@ Consider including responses to the following items below. (If you use a photo f
 - A great image or data to support your findings and conclusions (Note for 2020, photo does not have to be your own).
 - Your concluding thoughts or open questions.
 
-*Extra activity-3: Submit a photo you have taken with Foldscope to [Microcosmos](https://microcosmos.foldscope.com/) and share the link with us here*
+*Extra activity-3: Submit a photo you have taken with Foldscope to [Microcosmos](https://microcosmos.foldscope.com/) and share the link with us as part of PSET*
 
-## (Q3) Papers: KumaMax & Repressilator (20 pts)
+## (Q3) Papers: KumaMax & Repressilator (15 pts)
 
 In the pre-class material you were introduced to KumaMax designed via the student iGEM project. 
 The following link will take you to the paper that the group published summarizing their efforts, [Computational Design of an α-Gliadin Peptidase](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3526107/)
@@ -124,11 +124,11 @@ The following link will take you to the paper that the group published summarizi
 
 Next, visit the famous Repressilator paper[A synthetic oscillatory network of transcriptional regulators](https://www.nature.com/articles/35002125).
 
-**3.b.** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? (2-3 sentences) 
+**3.b.** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? In your own words, describe how does the Repressilator work?  (3-4 sentences) 
 
 *Extra reading: A review titled, [Synchronous long-term oscillations in a synthetic gene circuit](https://www.nature.com/articles/nature19841)
 
-## (Q4) Prepare for the Group Project (10 pts)
+## (Q4) Prepare for the Group Project (15 pts)
 
 
 [Kiva](https://www.kiva.org/about) is a charity that has a unique approach to the alleviation of wants and needs. 
