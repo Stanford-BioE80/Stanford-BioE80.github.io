@@ -220,7 +220,7 @@ $
 
 - E is the energy of the photon (in electron volts, eV, or in joules, J), 
 - c is the speed of light (in meters per second, m/s), 
-- h is the Planck constant (equal to 6.626×10−34 J-s, with units of energy times second), 
+- h is the Planck constant (equal to 6.626×10−34 Jxs, with units of energy times second), 
 - and 
 $
 \lambda
