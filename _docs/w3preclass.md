@@ -120,9 +120,35 @@ ________________________________________________________________________________
 
 ### Analysis and design a genetic systems
 
-Post Pending (17 April 2020)
+Apply parse paper tool to this paper…
 
-___________________________________________________________________________________________________
+[A synthetic oscillatory network of transcriptional regulators](https://www.nature.com/articles/35002125)
+
+**Q.1.  The living cells have been engineered with a synthetic genetic system that results in an oscillating dynamical system (biomolecule levels go up and down, repeatedly, over time).  At the level of biomolecules, what is causing the oscillation to occur?**
+
+**Q.2. what is the most important claim and main evidence in support of this claim?**
+
+**Q.3. Looking at Figure 2, are all cells oscillation together (i.e., turning bright in synch. with one another)?  Why not?**
+
+Next, apply parse paper tool to this paper…
+
+[Determination of cell fate selection during phage lambda infection](https://www.pnas.org/content/105/52/20705.full)
+
+**Q.4. what is the most important claim and main evidence in support of this claim?**
+
+Watch this [video](https://www.youtube.com/watch?v=sLkZ9FPHJGM&feature=youtu.be)
+
+In the movie cells infected with virus turn green… 
+
+**Q.5. According to the authors, why do some cells infected with virus break open, releasing new progeny virus into the environment, whereas other infected cells survive?**
+
+**Q.6. How does your answer to the preceding question change or inform your thinking about why the “repressilator” goes out of phase with itself, at the single cell level?**
+
+Additional reading,
+- [Repressilator](https://en.wikipedia.org/wiki/Repressilator), 
+- [Lambda_phage](https://en.wikipedia.org/wiki/Lambda_phage)
+
+_________________________________________________________________________________________________
 
 **Additional Resources:**
 
