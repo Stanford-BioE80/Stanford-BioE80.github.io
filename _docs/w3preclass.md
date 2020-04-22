@@ -146,7 +146,7 @@ In the movie cells infected with virus turn green…
 
 Additional reading,
 - [Repressilator](https://en.wikipedia.org/wiki/Repressilator), 
-- [Lambda_phage](https://en.wikipedia.org/wiki/Lambda_phage)
+- [Lambda phage](https://en.wikipedia.org/wiki/Lambda_phage)
 
 _________________________________________________________________________________________________
 
