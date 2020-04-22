@@ -40,6 +40,7 @@ To do so:
 8. Render the SYG portion of the protein as ‘sticks’. You should now be able to see the (cyclized) ring of the GFP chromophore. Take a second screenshot of the protein with chromophore highlighted. 
 
 **1.c.**  Go back to the Protein Data Bank website and find a `.pdb` file for another fluorescent protein. Use PyMol to visualize this second protein. Provide a screenshot and tell us what color and wavelength the protein fluoresces.
+Briefly compare the similarity/ differences in the structure of the two fluorescent proteins (yours vs. GFP).
 
 *Extra activity-2*
 Would you [like](http://pdb101.rcsb.org/learn/paper-models/green-fluorescent-protein-gfp) to build your own 3D GFP paper model?  Go to the following link and use the instruction and the template to build your own model. If you did make the model please share a photo with us. 
@@ -87,13 +88,12 @@ how to begin to think about it. Choose a question that can be explored with micr
 
 To complete this activity, prepare and submit the following entry (1 paragraph). 
 
-Consider including responses to the following items below. (If you use a photo from microcosmos instead of your own photo make sure to refrence the source).
+Consider including responses to the following items below. (If you use a photo from microcosmos instead of your own photo make sure to reference the source).
 
 - What question or what range of questions did you ask? 
 - What did you see / find as a result? 
 - A great image or data to support your findings and conclusions (Note for 2020, photo does not have to be your own).
 - Your concluding thoughts or open questions.
-
 
 **2.b. Welcome Makers!**
 
@@ -106,7 +106,7 @@ Your goal is to go on a journey to find the answer yourself, without any other a
 
 To complete this activity, prepare and submit the following entry (1 paragraph). 
 
-Consider including responses to the following items below. (If you use a photo from microcosmos instead of your own photo make sure to refrence the source).
+Consider including responses to the following items below. (If you use a photo from microcosmos instead of your own photo make sure to reference the source).
 
 - What useful biological object or potential inspiration from nature did you find?
 - How and where did these samples were found?
