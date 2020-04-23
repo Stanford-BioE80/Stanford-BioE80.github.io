@@ -145,7 +145,7 @@ Next, visit the famous Repressilator paper[A synthetic oscillatory network of tr
 
 **3.c.** are all cells oscillation together (i.e., turning bright in synch. with one another)? Why not? (2-3 sentences) 
 
-*Extra reading: A review titled, [Synchronous long-term oscillations in a synthetic gene circuit](https://www.nature.com/articles/nature19841)
+*Extra reading: A review titled, [Synchronous long-term oscillations in a synthetic gene circuit](https://www.nature.com/articles/nature19841)*
 
 ## (Q4) Prepare for the Group Project (15 pts)
 
