@@ -141,7 +141,9 @@ The following link will take you to the paper that the group published summarizi
 
 Next, visit the famous Repressilator paper[A synthetic oscillatory network of transcriptional regulators](https://www.nature.com/articles/35002125).
 
-**3.b.** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? In your own words, describe how does the Repressilator work?  (3-4 sentences) 
+**3.b.** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? In your own words, describe how does the Repressilator work?  (2-3 sentences) 
+
+**3.c.** are all cells oscillation together (i.e., turning bright in synch. with one another)? Why not? (2-3 sentences) 
 
 *Extra reading: A review titled, [Synchronous long-term oscillations in a synthetic gene circuit](https://www.nature.com/articles/nature19841)
 
@@ -196,7 +198,6 @@ This focuses on solving problems immediately by providing (consuming) products a
 
 (Added to turning in the answers as part of the PSET, have them ready as "introduction cards" to exchange ideas with your future team)
 
-
 ## Extra resources, learning, and Practice Questions
 
 The following suggested reading and questions are 100% optional additional. They are meant to help you engage with various aspects of the topics that we have covered in each segment based on your interest and level. They are not required as part of your problem sets. But we hope that they enable you to enhance your learning based on your interest.
@@ -220,7 +221,7 @@ $
 
 - E is the energy of the photon (in electron volts, eV, or in joules, J), 
 - c is the speed of light (in meters per second, m/s), 
-- h is the Planck constant (equal to 6.626×10−34 Jxs, with units of energy times second), 
+- h is the Planck constant (equal to 6.626×10^−34 J*s, with units of energy times second), 
 - and 
 $
 \lambda
