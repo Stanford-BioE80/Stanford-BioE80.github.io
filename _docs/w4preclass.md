@@ -21,7 +21,7 @@ or synthesize the designs systems that could then be implemented in living matte
 ### Engineering abstraction in living matter – synthetic genetic logic
 
 Read the first two parts from the following comic [Adventures in Synthetic Biology](http://web.mit.edu/endy/www/scraps/comic/AiSB.vol1.pdf) (**Programming DNA** and **Engineered Genetic Devices**)  where key ideas in designing and realizing biological circuits and systems are discussed
-(Same comic book in other[languages](https://openwetware.org/wiki/Adventures))
+(Same comic book in other [languages](https://openwetware.org/wiki/Adventures))
 
 Biology background, particularly  [Information Transfer in Cells](https://www.nature.com/scitable/ebooks/cntNm-14749010/122996756/) and [Regulation of Transcription and Translation](https://www.nature.com/scitable/ebooks/cntNm-14749010/122996928/) may help you have a richer understanding of the topic discussed in the comic. 
 
@@ -116,12 +116,10 @@ These are challenging questions that we will resolve!
 ______________________________________________________
 
 ##  Preclass for Friday
-### Team Project – Framestorm/brainstorm plus c rule(s)
+### Team Project – "I like, I wish, What if" plus "Brainstorming"
 
-You have been introduced to Framestorm already.  
-
-Visit the following two resources to prepare for a productive team activity.
+Visit the following two resources to prepare for a productive in-class team activity:
 
 First, examine [Brainstorming-Method](https://dschool-old.stanford.edu/sandbox/groups/dstudio/wiki/2fced/attachments/660d8/Brainstorming-Method.pdf?sessionID=d07c198d92501ebb3eee4ff3da193b387130fcbf)
 
-Next, briefly examine [I like, I wish, What if](https://dschool-old.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf).  
+Second, briefly examine [I like, I wish, What if](https://dschool-old.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf).  
