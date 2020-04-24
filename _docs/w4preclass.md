@@ -39,6 +39,10 @@ Next, briefly study the abstract and figures 1-3 from [Amplifying Genetic Logic 
 
 Optional video-1 [Transcriptors & Boolean Integrase Logic (BIL) gates, explained](https://www.youtube.com/watch?v=ahYZBeP_r5U&t)
 
+Next, read the following NYtimes article, [Taking Faster and Smarter to New Physical Frontiers](https://www.nytimes.com/2011/12/06/science/drew-endy-better-computing-for-the-things-we-care-about-most.html)
+
+**Q.5 How can we better define and measure the intrinsic worth of computation?**
+
 Extra resources:
 
 - Khan Academy, [Central Dogma](https://www.khanacademy.org/science/biology/gene-expression-central-dogma)
