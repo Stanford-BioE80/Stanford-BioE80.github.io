@@ -136,11 +136,11 @@ The following link will take you to the paper that the group published summarizi
 
 **3.a.** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? (2-3 sentences)
 
-Next, visit the famous Repressilator paper[A synthetic oscillatory network of transcriptional regulators](https://www.nature.com/articles/35002125).
+Next, visit the famous Repressilator paper, [A synthetic oscillatory network of transcriptional regulators](https://www.nature.com/articles/35002125).
 
 **3.b.** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? In your own words, describe how does the Repressilator work?  (2-3 sentences) 
 
-**3.c.** are all cells oscillation together (i.e., turning bright in synch. with one another)? Why not? (2-3 sentences) 
+**3.c.** Are all cells oscillation together (i.e., turning bright in synch. with one another)? Why not? (2-3 sentences) 
 
 *Extra reading: A review titled, [Synchronous long-term oscillations in a synthetic gene circuit](https://www.nature.com/articles/nature19841)*
 
