@@ -18,11 +18,8 @@ DUE: 5:00p Pacific 01 May 2020
 - Problem sets must be completed individually unless stated otherwise.
 - Please turn in your completed problem sets as an electronic copy via Gradescope. Please make sure to clearly indicate the starting and ending boundaries of your answers to each question on Gradescope.
 - Please do not go over any word limits and where appropriate show your work (e.g., calculations with appropriate units).
-- Please type your answers when possible.
+- Please **type** your answers when possible.  
 
-**PSET #3 GOALS:**
-
- 
 ## (Q1) Revisiting Design Tools (PyMol) (30 pts)
 
 In this problem, you will use PyMol to visualize green fluorescent protein (GFP).
