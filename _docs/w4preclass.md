@@ -31,7 +31,7 @@ According to the comic,
 
 **Q.2  What is the utility of using the Device abstraction to describe the DNA inverter?**
 
-Next, briefly study the abstract and figures 1-3 from [Amplifying Genetic Logic Gates](https://science.sciencemag.org/content/340/6132/599/tab-pdf)
+Next, briefly study the abstract and figures 1-3 from [Amplifying Genetic Logic Gates](https://science.sciencemag.org/content/340/6132/599/tab-pdf) (Alternative [link](https://science.sciencemag.org/content/340/6132/599.long)).
 
 **Q.3  What is a the main claim of the paper?** 
 
