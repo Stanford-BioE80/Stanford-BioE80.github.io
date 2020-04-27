@@ -54,8 +54,8 @@ docs:
         url: /docs/w3inclass/
       - title: "Week 4 Readings"
         url: /docs/w4preclass/
-      #- title: "Week 4 In-Class"
-      #  url: /docs/w2inclass/
+      - title: "Week 4 In-Class"
+        url: /docs/w4inclass/
       #- title: "Week 5 Readings"
       #  url: /docs/w5preclass/
       #- title: "Week 5 In-Class"
