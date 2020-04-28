@@ -17,7 +17,7 @@ DUE: 5:00p Pacific 01 May 2020
 - Please turn in your completed problem sets as an electronic copy via Gradescope. Please make sure to clearly indicate the starting and ending boundaries of your answers to each question on Gradescope.
 - Please do not go over any word limits and where appropriate show your work (e.g., calculations with appropriate units).
 - Please **type** your answers when possible.  
--  Please **label** and provide descriptions for the figures. 
+- Please **label** and provide descriptions for the figures. 
 
 
 GOAL: Reflect on the role of **Abstraction** as a tool for helping to manage complexity in biological systems.  
@@ -68,7 +68,6 @@ Briefly read the abstract from the paper titled: [Programmable protein circuits 
 </figure>
 
 ## (Q3) Design (20 pts)
-
 
 
 
