@@ -70,14 +70,17 @@ Briefly read the abstract from the paper titled: [Programmable protein circuits 
 ## (Q3) Unknown genetic circuit (10 pts)
 
 Take a look at the following, genetic circuit.  
+
 **Q.3.a.** What are the circuit input(s) and output(s)?
+
 **Q.3.b.** Complete the following time trace diagram. What happens to the GFP signal after  $\sigma70$ is added to the circuit? 
-**Q.3.c.** describe the behavior of this circuit via a name (e.g., AND gate, NAND gate, Toggle switch)?
 
 <figure>
 <a href="/assets/images/PSET4-2020-FIG1.png"><img src="/assets/images/PSET4-2020-FIG1.png"></a>
 <figcaption><b>Figure 2</b>. Unknown genetic circuit.</figcaption>
 </figure>
+
+**Q.3.c.** Describe the behavior of this circuit via a name (e.g., AND gate, NAND gate, Toggle switch)?
 
 ## Extra resources, learning, and Practice Questions
 
