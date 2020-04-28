@@ -82,6 +82,22 @@ Take a look at the following, genetic circuit.
 
 **Q.3.c.** Describe the behavior of this circuit via a name (e.g., AND gate, NAND gate, Toggle switch)?
 
+## (Q4) Toggle switch (X pts)
+
+The toggle switch is a common network motif that can be implemented as a genetic circuit. Two inputs are used to switch the system between two stable states. A diagram of the gene-regulatory network is shown below.
+
+A transcriptionally represses B, while B transcriptionally represses A. B also represses the reporter molecule C. SM1 is a small molecule that allosterically inhibits repression of B by A, while SM2 is a small molecule that allosterically inhibits repression of A by B.
+
+**Q.4.a**  Describe the overall behavior of the system. What are the inputs? What are the two states? How does the system state respond to the given inputs?
+
+**Q.4.b** Given the following toolkit, label the gene-regulatory network diagram with the corresponding part names. You should choose parts that can work together to achieve the overall system behavior you described in Q.4.a
+- What part did you assign to A?
+- What part did you assign to B? 
+- What part did you assign to C? 
+- What part did you assign to SM1? 
+- What part did you assign to SM2?
+
+
 ## Extra resources, learning, and Practice Questions
 
 The following suggested reading and questions are 100% optional additional. They are meant to help you engage with various aspects of the topics that we have covered in each segment based on your interest and level. They are not required as part of your problem sets. But we hope that they enable you to enhance your learning based on your interest.
