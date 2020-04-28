@@ -92,11 +92,47 @@ A transcriptionally represses B, while B transcriptionally represses A. B also r
 
 **Q.4.b** Given the following toolkit, label the gene-regulatory network diagram with the corresponding part names. You should choose parts that can work together to achieve the overall system behavior you described in Q.4.a
 - What part did you assign to A?
-- What part did you assign to B? 
-- What part did you assign to C? 
-- What part did you assign to SM1? 
+- What part did you assign to B?
+- What part did you assign to C?
+- What part did you assign to SM1?
 - What part did you assign to SM2?
 
+<table>
+  <tr>
+    <td> **Part name** </td>
+    <td> **Description** </td>
+  </tr>
+  <tr>
+    <td>tetR</td>
+    <td>Repressor from the tet operon</td>
+  </tr>
+  <tr>
+    <td>tetO</td>
+    <td>Operator from the tet operon</td>
+  </tr>
+  <tr>
+    <td>doxycycline (dox)</td>
+    <td>Small molecule that binds to tetR</td>
+  </tr>
+  <tr>
+    <td>lacI</td>
+    <td>Repressor from the *lac* operon</td>
+  </tr>
+  <tr>
+    <td>lacO</td>
+    <td>Operator from the *lac* operon</td>
+  </tr>
+  <tr>
+    <td>IPTG</td>
+    <td>Small molecule that binds to lacI</td>
+  </tr>
+  <tr>
+    <td>GFP</td>
+    <td>Green fluorescent protein</td>
+  </tr>
+</table>
+
+**Q.4.c** Use the toolkit and the DNA templates below to implement the toggle switch according to your labeled gene-regulatory network from Q.4.b.
 
 ## Extra resources, learning, and Practice Questions
 
