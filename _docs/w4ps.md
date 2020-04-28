@@ -74,6 +74,11 @@ Take a look at the following, genetic circuit.
 **Q.3.b.** Complete the following time trace diagram. What happens to the GFP signal after  $\sigma70$ is added to the circuit? 
 **Q.3.c.** describe the behavior of this circuit via a name (e.g., AND gate, NAND gate, Toggle switch)?
 
+<figure>
+<a href="/assets/images/PSET4-2020-FIG1.png"><img src="/assets/images/PSET4-2020-FIG1.png"></a>
+<figcaption><b>Figure 2</b>. Unknown genetic circuit.</figcaption>
+</figure>
+
 ## Extra resources, learning, and Practice Questions
 
 The following suggested reading and questions are 100% optional additional. They are meant to help you engage with various aspects of the topics that we have covered in each segment based on your interest and level. They are not required as part of your problem sets. But we hope that they enable you to enhance your learning based on your interest.
