@@ -4,8 +4,7 @@ permalink: /docs/w4ps/
 last_modified_at: 
 2018: Week 9
 ---
-
-**PSET #3**
+**PSET #4**
 
 ASSIGNED: Friday 01 May 2020
 
@@ -42,7 +41,7 @@ In another scenario, you can describe your bike as the system.  In this case, th
 
 **Q.1.b.** Draw the generic system architecture with appropriate units for your system. Label the input(s) and output(s) to the system. 
 
-**Q.1.c.** Revisit [Acoustic reporter genes for noninvasive imaging of microorganisms in mammalian hosts](https://www.nature.com/articles/nature25021)paper.  Draw a generic system architecture that describes the cells with an acoustic reporter.
+**Q.1.c.** Revisit [Acoustic reporter genes for noninvasive imaging of microorganisms in mammalian hosts](https://www.nature.com/articles/nature25021) paper.  Draw a generic system architecture that describes the cells with an acoustic reporter.
 
 Note: If you want to learn more  about abstraction, sensors, and actuators in living matter check out **BIOE 44: Fundamentals for Engineering Biology Lab** 
 
@@ -68,7 +67,7 @@ Briefly read the abstract from the paper titled: [Programmable protein circuits 
 <figcaption><b>Figure 1</b>. Logic Device diagram of CHOMP circuits.</figcaption>
 </figure>
 
-
+## (Q3) Design (20 pts)
 
 
 
@@ -95,9 +94,6 @@ Next, going down the abstraction hierarchy, you need parts.  Where to get parts?
 If you can’t find what you need, make a note and move on.
 
 **Q.EX1.d.**   Sketch how your parts should be organized as DNA elements in relation to one another so that they would implement the function as you desire.  Draw a black box around your parts.  Add inputs and output arrows to the box as appropriate. Are your input and output signals generic or specific to your device?
-
-
-
 
 ### Q.EX2.  Buggy Bacterial Flash Mob? (0 pts)
  
