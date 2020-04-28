@@ -90,7 +90,7 @@ A transcriptionally represses B, while B transcriptionally represses A. B also r
 
 <figure>
 <a href="/assets/images/PSET4-2020 Q4B .png"><img src="/assets/images/PSET4-2020 Q4B .png"></a>
-<figcaption><b>Figure 1</b>. Toggle switch circuit.</figcaption>
+<figcaption><b>Figure 2</b>. Toggle switch circuit.</figcaption>
 </figure>
 
 **Q.4.a**  Describe the overall behavior of the system. What are the inputs? What are the two states? How does the system state respond to the given inputs?
@@ -140,8 +140,8 @@ A transcriptionally represses B, while B transcriptionally represses A. B also r
 **Q.4.c** Use the toolkit and the DNA templates below to implement the toggle switch according to your labeled gene-regulatory network from Q.4.b.
 
 <figure>
-<a href="/assets/images/PSET4-2020 Q4C .png"><img src="/assets/images/PSET4-2020 Q4C .png"></a>
-<figcaption><b>Figure 1</b>. Implement the toggle switch according to your labeled gene-regulatory network.</figcaption>
+<a href="/assets/images/PSET4-2020 Q4C.png"><img src="/assets/images/PSET4-2020 Q4C.png"></a>
+<figcaption><b>Figure 3</b>. Implement the toggle switch according to your labeled gene-regulatory network.</figcaption>
 </figure>
 
 ## Extra resources, learning, and Practice Questions
