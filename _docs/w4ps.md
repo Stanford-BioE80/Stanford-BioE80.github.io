@@ -1,95 +1,130 @@
 ---
 title: "Week 4 Problem Set"
 permalink: /docs/w4ps/
-last_modified_at: Feb.20.2019
+last_modified_at: 
 2018: Week 9
 ---
 
-**DUE:** Next Friday (May 3) beginning of class.
+**PSET #3**
 
-**NOTES:** 
-  - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
-  - Please turn in your completed problem sets as an electronic copy via Gradescope. 
-  - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations).
+ASSIGNED: Friday 01 May 2020
 
-## (Q1) Health and Flourishing (20 points) 
+DUE: 5:00p Pacific 01 May 2020
 
-Thinking back to the case study on the production of Artemisinin from Wednesday,
+**NOTES:**
 
-**Q.1.a.** What were some of the major lessons from this case study? (2-3 bullet points)
+- Given the unique circumstance of Spring 2020, we ask you to do your best to maximize your learning. Each problem set is an opportunity to assess your learning, identify gaps, reflect on what you have learned, and determine what you wish to learn next.
+- Problem sets must be completed individually unless stated otherwise.
+- Please turn in your completed problem sets as an electronic copy via Gradescope. Please make sure to clearly indicate the starting and ending boundaries of your answers to each question on Gradescope.
+- Please do not go over any word limits and where appropriate show your work (e.g., calculations with appropriate units).
+- Please **type** your answers when possible.  
+-  Please **label** and provide descriptions for the figures. 
 
-**Q.1.b.** The World Health Organization (WHO) estimated that in 2017 there were 219 million cases of malaria [source](https://www.who.int/en/news-room/fact-sheets/detail/malaria). If 3g artemisinin are required per treatment of 1 individual, how many total grams of artemisinin are needed per year?
 
-**Q.1.c.** Sweet wormwood plants can produce 70 kg of artemisinin/ha land, where ha is a hectare of land. How many total hectares of land would be needed to produce enough supply of artemisinin to treat all individuals suffering from malaria each year? Use your answer from Q.1.b. 
+GOAL: Reflect on the role of **Abstraction** as a tool for helping to manage complexity in biological systems.  
 
-**Q.1.d.** Producing artemisinin via yeast can yield 25 g of artemisinin/liter. What volume of a fermentor do you need to produce enough supply of artemisinin to treat all individuals suffering from malaria each year? Use your answer from Q.1.b.
+## (Q1) Generic System Architecture (15 pts)
 
-**Q.1.e.** Imagine that in the near future, you are the head of the WHO's Malaria Project. In this future, land usage has become a challenge for the production of artemisinin given need to grow food. You are presented with the following data: in order to feed the yeast reactor, you need to supply 1.6 kg sugar/liter (which yields 25 g artemisinin/liter). If you can produce 7500 kg sugar from 1 hectare, how many hectares of land would you need to produce enough artemisinin?
+In class you encountered the **Generic System Architecture** composed of: 
 
-**Q.1.f.** As the head of the WHO's Malaria Project, would you make the switch? If yes, please explain why. If not, what would you want to see before considering a switch? 
+  - Sensors (to measure properties or inputs), 
+  - Logic Unit (to process information measured via sensors), and 
+  - Actuator (that can act or output the desired result). 
 
-## (Q2) Fantastic Voyage  (35 Points)
+We can apply this same architecture to abstract a diversity of systems.
+For example, imagine yourself riding your bicycle on University Avenue and encountering a stop sign. 
 
-In the near future, you and your team are planning to remove an inoperable tumor from the brain of an important scientist.  You conclude that the only way that the tumor can be destroyed is to remove it from the inside of the patient's own body. 
-You imagine a submarine that can be shrunk and will carry the team of experts and doctors.  Sadly, however, no shrink ray exists in this future ([Fantastic Voyage](https://www.imdb.com/title/tt0060397/)). 
+In one scenario you can describe yourself as the system.  In this case, your eyes are the sensor, your brain is the computation unit, and your hands are the actuator (i.e., pressing the levers to stop your bike).  
 
-Instead, you can begin to engineer living matter, microbes or patient's cells, that are already small. 
+In another scenario, you can describe your bike as the system.  In this case, the levers are the sensors. There is no computation unit, and the signal is directly transferred via a cable to the brakes (i.e., actuators on the wheels).  
 
-Briefly read the abstract of the paper titled [Acoustic reporter genes for noninvasive imaging of microorganisms in mammalian hosts](https://www.nature.com/articles/nature25021), which enables imaging and control of living matter in mammalian hosts.
+**Q.1.a.** Look around the world from the perspective of an integrated systems engineer. Find an example of an integrated system, either natural or engineered. Submit a photo of the system you found and provide a one line description of the system itself. 
 
-**Q.2.a.** In your own words summarize the abstract in 2-3 sentences. What is the main *claim* of this paper?
+**Q.1.b.** Draw the generic system architecture with appropriate units for your system. Label the input(s) and output(s) to the system. 
 
-**Q.2.b.** According to the abstract what is the origin and purpose of the gas-filled protein nanostructures in nature?
+**Q.1.c.** Revisit [Acoustic reporter genes for noninvasive imaging of microorganisms in mammalian hosts](https://www.nature.com/articles/nature25021)paper.  Draw a generic system architecture that describes the cells with an acoustic reporter.
 
-**Q.2.c.** Think about and describe another application for this system. (2-3 sentences)
+Note: If you want to learn more  about abstraction, sensors, and actuators in living matter check out **BIOE 44: Fundamentals for Engineering Biology Lab** 
 
-Find another example (a research paper or a news article) demonstrating the progress and state of engineering of living matter, microbes or mammalian cells, to detect or combat diseases that are of interest to you.
+## (Q2) CHOMP Circuits (20 pts)
 
-**Q.2.d.** What is the main *claim* of your paper (link and 2-3 sentences)? 
+Referring back to class, recall the hierarchy based on the Part (bioparts), Devices, and Systems approach to abstraction. 
+If you need a refresher, please use the following [link](https://parts.igem.org/Abstraction_Hierarchy).
 
-**Q.2.e.** Why did you select this example ? (1-2 sentences)
+**Q.2.a.**  In your own words provide brief definitions for Parts, Devices, and Systems. (1 sentence each)
 
-## (Q3) Brainstorming Report  (45 pts)
+Briefly read the abstract from the paper titled: [Programmable protein circuits in living cells](https://science.sciencemag.org/content/361/6408/1252.long). 
 
-This part must be completed individually
+**Q.2.b.** n your own words, summarize the abstract in 2-3 sentences. What is the main claim of this paper? (1-2 sentences)
 
-**Q.3.a.**  Did you show up on Friday? (Yes / No)
+**Q.2.c.** What are the primary evidence in support of the claim?(1-2 sentences)
 
-**Q.3.b.**  Were you able to connect with everyone in your group? (Yes / No) Please share their names. 
+**Q.2.d.** Take a look at Figure-1 below  (reporduced from the paper). Briefly describe what are the inputs and the output to this logic device? (Bullet points)
 
-Drawing from your experiences in class Friday, 
+**Q.2.d.** Does the presented logic device (Figure-1) use a *Common Signal Carrier*? Why or Why not? (1-2 sentences)
 
-**Q.3.c.**  What audience and topic did your group identify and write down on the index cards?
+<figure>
+<a href="/assets/images/Pset3-LogicGate .png"><img src="/assets/images/Pset3-LogicGate .png"></a>
+<figcaption><b>Figure 1</b>. Logic Device diagram of CHOMP circuits.</figcaption>
+</figure>
 
-**Q.3.d.**  What audience and topic did your group receive? 
 
-**Q.3.e.** Brainstorming report, based on the audience and topic combination - what mediums did you identify? (name 3 here)
 
-**Q.3.f.** Select two mediums from your group brainstorm list and further explore them individually. In a paragraph describe how the medium serves the audience for a given topic. 
 
-**Your questions or concerns** Do you have any unanswered questions or concerns (from this week, past weeks, or general BIOE) that you would like to share with us?
 
-# Final Project - Group Activity.1 
 
-**NOTES:** 
 
- - Due: Next Friday (May 03) beginning of class.
- - Include your group number and names of your group members.
- - Team Rules is 6 points of your Final Project.
- - Brainstorm is 30 points of your Final Project.
- - Please turn in a single electronic copy of your **Group Activity** via Gradescope. 
+## Extra resources, learning, and Practice Questions
+
+The following suggested reading and questions are 100% optional additional. They are meant to help you engage with various aspects of the topics that we have covered in each segment based on your interest and level. They are not required as part of your problem sets. But we hope that they enable you to enhance your learning based on your interest.
+
+### Q.EX1.Navigating the Abstraction Hierarchy (0 pts)
+
+Recall from the class that we can use abstraction to help and manage complexity in engineering biological systems. 
+
+**Q.EX1.a.**  Imagine an engineered living system with a function of your choice.  What does this system do?
+ Example engineered bacteria (*E.coli* for example) to detect lead or arsenic and produce a color pigment (red for lead, purple for arsenic) (1-2 sentences)
+
+**Q.EX1.b.**  Sketch a black box “device-level” systems diagram that would implement your system.  
+
+**Hint:** Your boxes should have simple names, such as “change color,” “detect lead,” “OR,” or whatever human-defined functions are needed and appropriate.  Make sure also to connect each black box device to the others as needed.    
+
+Next, going down the abstraction hierarchy, you need parts.  Where to get parts?  How about a student-produced collection of thousands of DNA parts.  Sure! Go to the [iGEM Parts Registry](http://parts.igem.org/Catalog).  
+
+**Q.EX1.c.** Find parts that could be used to implement your device.  Share the name of those parts as part of PSET-3.  
+If you can’t find what you need, make a note and move on.
+
+**Q.EX1.d.**   Sketch how your parts should be organized as DNA elements in relation to one another so that they would implement the function as you desire.  Draw a black box around your parts.  Add inputs and output arrows to the box as appropriate. Are your input and output signals generic or specific to your device?
+
+
+
+
+### Q.EX2.  Buggy Bacterial Flash Mob? (0 pts)
  
-**Q.1.** What is your group number?  
+ Students at MIT are claiming that they have designed a genetic program to realize 
+ arepeating bacterial flash mob.  See their work yet again via:
+ 
+[Polkadorks, iGEM-2006](https://2006.igem.org/wiki/index.php/IAP2004:Polkadorks)
+ 
+In an epic East Coast versus West Coast technology “battle,” some of your colleagues
+are now claiming that the genetic program designed at MIT won’t actually produce the
+so-desired behavior.  Looking only at their proposed “device-level system diagram”...
 
-**Q.2.** Turn in a copy of your team rules. We expect to see between 6 and 10 rules (5 rules < # rules < 11 rules) that you have all agreed upon. (6 points)
+**Q.EX2.a.** What do you think?  Will their program work or not?   
 
-**Q.3.** Brainstorm report: As a group for your project brainstorm: topics, audiences, and methods. 
-Here is our rubric for grading the brainstorming activity:
+YES or NO (circle one)
 
-- Topic (10 points),  2 point per 10 ideas
+**Q.EX2.b.**  Why or why not? (bullet points) 
 
-- Audience (10 points),  2 point per 10 ideas
+### Q.EX3. Inverters and Ring Oscillator (0 pts)
 
-- Method (10 points), 2 point per 10 ideas
+Imagine that you are a system level **Bioengineer** designing genetic inverters and ring oscillators.
 
-Next week we will work on evaluating the ideas.
+**Q.EX3.a.** Draw a box diagram of a genetic inverter at the *parts & device levels*. Describe the behavior of the genetic inverter. 
+
+**Q.EX3.b.** Imagine that you are building a 3-inverter genetic ring oscillator at the *systems level*. Describe the role of *Common Signal Carriers* in constructing such a system (2-3 sentences and use diagrams and drawings if helpful).  
+
+
+
+
+
