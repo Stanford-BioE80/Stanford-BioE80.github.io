@@ -58,7 +58,7 @@ Briefly read the abstract from the paper titled: [Programmable protein circuits 
 
 **Q.2.c.** What are the primary evidence in support of the claim?(1-2 sentences)
 
-**Q.2.d.** Take a look at Figure-1 below  (reporduced from the paper). Briefly describe what are the inputs and the output to this logic device? (Bullet points)
+**Q.2.d.** Take a look at Figure-1 below  (reproduced from the paper). Briefly describe what are the inputs and the output to this logic device? (Bullet points)
 
 **Q.2.e.** Does the presented logic device (Figure-1) use a *Common Signal Carrier*? Why or Why not? (1-2 sentences)
 
@@ -104,8 +104,8 @@ A transcriptionally represses B, while B transcriptionally represses A. B also r
 
 <table>
   <tr>
-    <td> **Part name** </td>
-    <td> **Description** </td>
+    <td> <b>Part name</b> </td>
+    <td> <b>Description</b> </td>
   </tr>
   <tr>
     <td>tetR</td>
