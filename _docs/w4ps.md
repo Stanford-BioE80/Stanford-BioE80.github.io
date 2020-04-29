@@ -137,14 +137,14 @@ A transcriptionally represses B, while B transcriptionally represses A. B also r
   </tr>
 </table>
 
-**Q.4.c** Use the toolkit and the DNA templates below to implement the toggle switch according to your labeled gene-regulatory network from Q.4.b. assets/PSET4-2020 Q4C.png
+**Q.4.c** Use the toolkit and the DNA templates below to implement the toggle switch according to your labeled gene-regulatory network from Q.4.b.
 
 <figure>
 <a href="/assets/PSET4-2020 Q4C.png"><img src="/assets/PSET4-2020 Q4C.png"></a>
 <figcaption><b>Figure 4</b>. Implement the toggle switch according to your labeled gene-regulatory network.</figcaption>
 </figure>
 
-## (Q5)Plants with Genetically Encoded Autoluminescence
+## (Q5) Plants with Genetically Encoded Autoluminescence
 
 First read the abstract of the paper titled [Plants with Genetically Encoded Autoluminescence](https://www.nature.com/articles/s41587-020-0500-9).   
 
