@@ -73,11 +73,27 @@ During sequencing first, the genomic DNA (the DNA that we want to read) is broke
 
 **Q.6. Thinking back to the design, build, and test (DBT) class. What are theconsequences of lowering sequencing cost (both money and time)?**
 
+1. A less than 4 minute video introducing how Agilent builds 60mer oligos using inkjet dispensing.
+[link](https://www.youtube.com/watch?v=eSr5CxAdiww&feature=youtu.be)
+
+**Q.7. How is inkjet printing used to write DNA?**
+
+2. A summary of existing and recent DNA synthesis companies:
+[link](http://www.calinplesa.com/dna-synthesis-companies/)
+
+
+*Optional reading-2[Synthetic DNA Synthesis and Assembly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5204324/)
+
+
 Extra learning: 
+
 Advanced learning-1:  [Next Generation Sequencing](https://www.ibiology.org/techniques/next-generation-sequencing/) video lectures By Eric Chow
 
 Advanced learning-2:[Genome Sequencing for Pathogen Discovery](https://www.ibiology.org/microbiology/genome-sequencing/)
 video lectures Joe DeRisi
+
+An article on difference approaches to DNA synthesis:
+[link](https://www.chemistryworld.com/feature/step-by-step-synthesis-of-dna/3008753.article)
 
 Image Sources:
 1. Carlson Curves [link](https://synbiobeta.com/time-new-dna-synthesis-sequencing-cost-curves-rob-carlson/)
@@ -88,18 +104,7 @@ ____________________________________________________________
 ## Preclass for Wednesday
 Please read and consider the below before start of class on Wednesday
 
-**DNA Synthesis**
 
-1. A less than 4 minute video introducing how Agilent builds 60mer oligos using inkjet dispensing.
-[link](https://www.youtube.com/watch?v=eSr5CxAdiww&feature=youtu.be)
-
-2. A summary of existing and recent DNA synthesis companies:
-[link](http://www.calinplesa.com/dna-synthesis-companies/)
-
-3. A recent article on difference approaches to DNA synthesis:
-[link](https://www.chemistryworld.com/feature/step-by-step-synthesis-of-dna/3008753.article)
-
-If you are short on time just watch the video (i.e., please consider (2) and (3) as nice optional/supplements).
 ____________________________________________________________
 
 ## Preclass Reading for Friday  
