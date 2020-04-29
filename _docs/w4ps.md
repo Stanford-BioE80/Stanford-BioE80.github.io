@@ -67,7 +67,7 @@ Briefly read the abstract from the paper titled: [Programmable protein circuits 
 <figcaption><b>Figure 1</b>. Logic Device diagram of CHOMP circuits.</figcaption>
 </figure>
 
-## (Q3) Unknown genetic circuit (10 pts)
+## (Q3) Unknown genetic circuit (x pts)
 
 Take a look at the following, genetic circuit.  
 
@@ -82,7 +82,7 @@ Take a look at the following, genetic circuit.
 
 **Q.3.c.** Describe the behavior of this circuit via a name (e.g., AND gate, NAND gate, Toggle switch)?
 
-## (Q4) Toggle switch (X pts)
+## (Q4) Toggle switch (x pts)
 
 The toggle switch is a common network motif that can be implemented as a genetic circuit. Two inputs are used to switch the system between two stable states. A diagram of the gene-regulatory network is shown below.
 
@@ -144,6 +144,17 @@ A transcriptionally represses B, while B transcriptionally represses A. B also r
 <figcaption><b>Figure 4</b>. Implement the toggle switch according to your labeled gene-regulatory network.</figcaption>
 </figure>
 
+## (Q5)Plants with Genetically Encoded Autoluminescence
+
+First read the abstract of the paper titled [Plants with Genetically Encoded Autoluminescence](https://www.nature.com/articles/s41587-020-0500-9).   
+
+**Q.5.a.** In your own words, what is the main claim of this paper? (2-3 sentences).
+
+**Q.5.b** How many many watt hours of illumination should we expect from a glowing plant, per day?
+
+
+
+
 ## Extra resources, learning, and Practice Questions
 
 The following suggested reading and questions are 100% optional additional. They are meant to help you engage with various aspects of the topics that we have covered in each segment based on your interest and level. They are not required as part of your problem sets. But we hope that they enable you to enhance your learning based on your interest.
@@ -190,8 +201,3 @@ Imagine that you are a system level **Bioengineer** designing genetic inverters 
 **Q.EX3.a.** Draw a box diagram of a genetic inverter at the *parts & device levels*. Describe the behavior of the genetic inverter. 
 
 **Q.EX3.b.** Imagine that you are building a 3-inverter genetic ring oscillator at the *systems level*. Describe the role of *Common Signal Carriers* in constructing such a system (2-3 sentences and use diagrams and drawings if helpful).  
-
-
-
-
-
