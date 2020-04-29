@@ -54,13 +54,13 @@ If you need a refresher, please use the following [link](https://parts.igem.org/
 
 Briefly read the abstract from the paper titled: [Programmable protein circuits in living cells](https://science.sciencemag.org/content/361/6408/1252.long). 
 
-**Q.2.b.** n your own words, summarize the abstract in 2-3 sentences. What is the main claim of this paper? (1-2 sentences)
+**Q.2.b.** In your own words, summarize the abstract in 2-3 sentences. What is the main claim of this paper? (1-2 sentences)
 
 **Q.2.c.** What are the primary evidence in support of the claim?(1-2 sentences)
 
 **Q.2.d.** Take a look at Figure-1 below  (reporduced from the paper). Briefly describe what are the inputs and the output to this logic device? (Bullet points)
 
-**Q.2.d.** Does the presented logic device (Figure-1) use a *Common Signal Carrier*? Why or Why not? (1-2 sentences)
+**Q.2.e.** Does the presented logic device (Figure-1) use a *Common Signal Carrier*? Why or Why not? (1-2 sentences)
 
 <figure>
 <a href="/assets/images/Pset3-LogicGate .png"><img src="/assets/images/Pset3-LogicGate .png"></a>
@@ -73,7 +73,7 @@ Take a look at the following, genetic circuit.
 
 **Q.3.a.** What are the circuit input(s) and output(s)?
 
-**Q.3.b.** Complete the following time trace diagram. What happens to the GFP signal after  $\sigma70$ is added to the circuit? 
+**Q.3.b.** Complete the following time trace diagram. What happens to the GFP signal after  $\sigma70$ is added to the circuit? Explain your answer. 
 
 <figure>
 <a href="/assets/images/PSET4-2020-FIG1.png"><img src="/assets/images/PSET4-2020-FIG1.png"></a>
