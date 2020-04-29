@@ -150,7 +150,7 @@ First read the abstract of the paper titled [Plants with Genetically Encoded Aut
 
 **Q.5.a.** In your own words, what is the main claim of this paper? (2-3 sentences).
 
-**Q.5.b** How many many watt hours of illumination should we expect from a glowing plant, per day?
+**Q.5.b** How many watt hours of illumination should we expect from a glowing plant, per day?
 
 **Q.5.c** Which logical operation(s) you could use to control when a plant is glowing? (Draw a simple diagram)
 
