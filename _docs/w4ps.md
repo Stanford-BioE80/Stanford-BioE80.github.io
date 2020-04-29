@@ -152,8 +152,9 @@ First read the abstract of the paper titled [Plants with Genetically Encoded Aut
 
 **Q.5.b** How many many watt hours of illumination should we expect from a glowing plant, per day?
 
+**Q.5.c** Which logical operation(s) you could use to control when a plant is glowing? (Draw a simple diagram)
 
-
+**Q.5.d** Which logical operation(s) you could use when and which part of the plant is glowing?  (Draw a simple diagram)
 
 ## Extra resources, learning, and Practice Questions
 
