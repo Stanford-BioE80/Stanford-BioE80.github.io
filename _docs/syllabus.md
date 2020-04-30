@@ -116,7 +116,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ----------- | -------|
 | Mon 4 May | DNA synthesis past, present, and future  |
 | Wed 6 May | Interconvertibility of genetic matter and information |
-| Fri 8 May | Team Project – Story spine plus project priorities |
+| Fri 8 May | Team Project – Project priorities plus Story spine   |
 
 ## Week 6: From Diffusion to Programmed Development
 
@@ -126,21 +126,21 @@ Students who may need an academic accommodation based on the impact of a disabil
 | Wed 13 May | Activity – Dancing droplets |
 | Fri 15 May | Programming morphogenesis (could you grow an arm?) |
 
-## Week 7: Evolution as Tool for Engineering
+## Week 7: Project
 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 18 May | Team Project – Future thinking |
-| Wed 20 May | Evolution as an algorithm |
-| Fri 22 May | Evolution as a service |
+| Mon 18 May | Team Project – Planning |
+| Wed 20 May | Team Project – Story (Play.1) |
+| Fri 22 May | Team Project– Story (Play.2)|
 
-## Week 8: Bioengineering with, of, and for Biology
+## Week 8: Evolution as Tool for Engineering
 
 | Day         | Title  |
 | ----------- | -------|
 | Mon 25 May | No class  |
-| Wed 27 May | Putting it all together – engineering with, of, & for biology |
-| Fri 29 May | Team Project – Working session|
+| Wed 27 May | Evolution as an algorithm |
+| Fri 29 May | Evolution as a service|
 
 ## Week 9: Bioengineering Futures
 
@@ -154,8 +154,8 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 8 June | Bioengineering futures related to political health |
-| Wed 10 June | Closing discussion and charge |
+| Mon 8 June | Closing discussion and charge -1  |
+| Wed 10 June | Closing discussion and charge -2 |
 
 
 
