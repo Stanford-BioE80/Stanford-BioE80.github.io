@@ -22,7 +22,7 @@ DUE: 5:00p Pacific 01 May 2020
 
 GOAL: Reflect on the role of **Abstraction** as a tool for helping to manage complexity in biological systems.  
 
-## (Q1) Generic System Architecture (15 pts)
+## (Q1) Generic System Architecture (25 pts)
 
 In class you encountered the **Generic System Architecture** composed of: 
 
@@ -46,7 +46,7 @@ Hint: Do your best to draw a clear and easy to follow diagram.
 
 Note: If you want to learn more  about abstraction, sensors, and actuators in living matter check out **BIOE 44: Fundamentals for Engineering Biology Lab** 
 
-## (Q2) CHOMP Circuits (20 pts)
+## (Q2) CHOMP Circuits (25 pts)
 
 Referring back to class, recall the hierarchy based on the Part (bioparts), Devices, and Systems approach to abstraction. 
 If you need a refresher, please use the following [link](https://parts.igem.org/Abstraction_Hierarchy).
@@ -69,20 +69,32 @@ Briefly read the abstract from the paper titled: [Programmable protein circuits 
 <figcaption><b>Figure 1</b>. Logic Device diagram of CHOMP circuits.</figcaption>
 </figure>
 
-## (Q3) Plants with Genetically Encoded Autoluminescence
+## (Q3) Plants with Genetically Encoded Autoluminescence (50 pts)
 
 First read the abstract of the paper titled [Plants with Genetically Encoded Autoluminescence](https://www.nature.com/articles/s41587-020-0500-9).   
 
-**Q.3.a.** In your own words, what is the main claim of this paper? (2-3 sentences).
+**Q.3.a.** In your own words, what is the main claim of this paper? (2-3 sentences)
 
-**Q.3.b** How many watt hours of illumination should we expect from a glowing plant, per day?
+**Q.3.b.** In your opinion, what are the paper’s strengths and significance? What are the paper’s shortcomings and deficiencies? How can the paper improve? (2-3 sentences)
 
-**Q.3.c** Your have received a special commission to bioengineer the control program for glowing plants.  
+**Q.3.c** Estimation problem -  Consider engineered plants that would use photosynthesis to produce light via a luminescence system. How many watt hours of illumination should we expect from a glowing plant, per day? What is the potential upper limit?  (Use the following hints)
+
+- First use the [U.S. Solar Radiation Resource Map](https://rredc.nrel.gov/solar/old_data/nsrdb/1961-1990/redbook/atlas/) to look up the average light-energy hitting the surface of the earth (say in California).  Your number should have the unit of watt hours per m^2 per day.
+
+- Next, assume that a plant has a surface area of 1 m^2 and it has 1% photosynthetic efficiency. (This is the fraction of the total energy that gets converted by plants into useful biochemical energy) 
+
+- Finally, assume 5% efficiency for the luminescence system (this is the fraction of the available energy that gets converted into light)
+
+**Q.3.d** Your have received a special commission to bioengineer the control program for glowing plants.  
 Specifically, you need to design an integrated genetic system, built from reuseable genetic devices, that implements the following program:  
   
   - When daylight is NOT present AND only in cells comprising the flower’s stamen filament then plant autoluminscence should be ON. Please note that cells comprising the flower’s stamen filament can be uniquely identified because they contain two active transcription factors, thorny AND slender.  
 
 Draw a system's level diagram tht implements this glowing plant.  
+
+
+*Extra Estimation problem (0 points)*  Let's consider the plants presented in the paper. Paper states that the plant emits lights reaching up to 10^10 photons per minute. Looking at Figure-1.a, you may assume that the emitted light has a wavelength of 525 nm.  How many watt-hours of illumination per day do you expect from a glowing plant presented in the paper?
+(Hints: You will need to use Planck constant and speed of light to calculate a photon's energy for a given wavelength)
 
 ## Extra resources, learning, and Practice Questions
 
@@ -123,22 +135,22 @@ YES or NO (circle one)
 
 **Q.EX2.b.**  Why or why not? (bullet points) 
 
-## (EX2) Unknown genetic circuit (0 pts)
+## (EX3) Unknown genetic circuit (0 pts)
 
 Take a look at the following, genetic circuit.  
 
-**Q.3.a.** What are the circuit input(s) and output(s)?
+**Q.EX3.a.** What are the circuit input(s) and output(s)?
 
-**Q.3.b.** Complete the following time trace diagram. What happens to the GFP signal after  $\sigma70$ is added to the circuit? Explain your answer. 
+**Q.EX3.b.** Complete the following time trace diagram. What happens to the GFP signal after  $\sigma70$ is added to the circuit? Explain your answer. 
 
 <figure>
 <a href="/assets/images/PSET4-2020-FIG1.png"><img src="/assets/images/PSET4-2020-FIG1.png"></a>
 <figcaption><b>Figure 2</b>. Unknown genetic circuit.</figcaption>
 </figure>
 
-**Q.3.c.** Describe the behavior of this circuit via a name (e.g., AND gate, NAND gate, Toggle switch)?
+**Q.EX3.c.** Describe the behavior of this circuit via a name (e.g., AND gate, NAND gate, Toggle switch)?
 
-## (Q4) Toggle switch (0 pts)
+## (EX4) Toggle switch (0 pts)
 
 The toggle switch is a common network motif that can be implemented as a genetic circuit. Two inputs are used to switch the system between two stable states. A diagram of the gene-regulatory network is shown below.
 
@@ -149,9 +161,9 @@ A transcriptionally represses B, while B transcriptionally represses A. B also r
 <figcaption><b>Figure 3</b>. Toggle switch circuit.</figcaption>
 </figure>
 
-**Q.4.a.**  Describe the overall behavior of the system. What are the inputs? What are the two states? How does the system state respond to the given inputs?
+**Q.EX4.a.**  Describe the overall behavior of the system. What are the inputs? What are the two states? How does the system state respond to the given inputs?
 
-**Q.4.b.**  A toolkit of biological parts is shown below:
+**Q.EX4.b.**  A toolkit of biological parts is shown below:
 
 <table>
   <tr>
@@ -195,7 +207,7 @@ Using this toolkit, label the gene-regulatory network diagram with the correspon
 - What part did you assign to SM1?
 - What part did you assign to SM2?
 
-**Q.4.c.**  Use the toolkit and the DNA templates below to implement the toggle switch according to your labeled gene-regulatory network from *Q.4.b*.
+**Q.EX4.c.**   Use the toolkit and the DNA templates below to implement the toggle switch according to your labeled gene-regulatory network from *Q.4.b*.
 
 <figure>
 <a href="/assets/PSET4-2020 Q4C.png"><img src="/assets/PSET4-2020 Q4C.png"></a>
