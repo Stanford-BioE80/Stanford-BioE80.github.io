@@ -26,7 +26,67 @@ This week we will explore **What changes may arise via trends in DNA read and wr
 
 Let’s begin!
 
-## Example 1: Non-invasive prenatal testing
+## DNA literacy -- DNA read
+
+DNA is made up of nucleotides. These nucleotides have four possible bases;
+adenine (A), thymine (T),guanine (G), and cytosine (C). All DNA is made up of sequences of these four bases. Imagine a four key typewriter that is able to type the DNA codes for all of the biodiversity seen on earth. Being able to both **read DNA** (sequencing) and **write DNA** (synthesizing) has and will continue to give bioengineers the ability to design and build with living matter in ways that were hard to imagine very recently.
+
+Let’s delve into how current sequencing technologies work.
+
+Start with this [video](https://www.youtube.com/watch?v=MvuYATh7Y74) that provides background about sequencing and its use to decode the human genome, with a focus on “massively parallel sequencing” (often marketed as “next-generation” sequencing technology). Figure-2, also breaks down the same process described in the video.
+
+<figure>
+<a href="/assets/images/w3pc_NGS.png"><img src="/assets/images/w3pc_NGS.png"></a>
+</figure>
+
+**Figure.2.** "Breakdown of DNA sequencing steps (specifically next generationsequencing). In this approach instead of reading a long sequence of DNA one baseper at a time, the sequence is divided into many pieces (fragments) which are all read simultaneously". [Source](https://www.nature.com/articles/nature24286.pdf)
+
+During sequencing first, the genomic DNA (the DNA that we want to read) is broken into smaller pieces (fragmented). Then a synthetic linker sequence is added to the end ofthe fragments (adaptor) which helps the DNA fragments get attached to a surface on which the sequencing happens (flow cell). Next, the DNA fragments are separated inspace and read individually. Each fragment is amplified (thousands of copies of eachpiece is made) to make sure the correct sequence is detected. To actually read the fragments, pre-labeled nucleotides (nucleotides with color) and enzymes (that incorporate nucleotides into the fragments) are added to the flow cell. As each colored base pair is added to the fragments a new colorful spot is introduced. By taking images from the spots we are able to decode the sequence. Finally, the fragments are stitched together to reveal the original sequence of the genomic DNA. Here is an additional video that describes this process in even more detail [optional link](https://www.youtube.com/watch?v=fCd6B5HRaZ8).
+
+
+*Optional reading-1: [DNA sequencing at 40: past, present and future](https://www.nature.com/articles/nature24286.pdf).*
+
+**Q.1. According to the “How to sequence the human genome” video when was the first human genome sequenced? How long did it take? How much did it cost?**
+
+**Q.2. How much would it cost if you were to sequence the human genome in 2018?**
+
+**Q.3. Thinking back to the design, build, and test (DBT) class. What are theconsequences of lowering sequencing cost (both money and time)?**
+
+## DNA literacy -- DNA write
+
+1. A less than 4 minute video introducing how Agilent builds 60mer oligos using inkjet dispensing.
+[link](https://www.youtube.com/watch?v=eSr5CxAdiww&feature=youtu.be)
+
+**Q.4. How is inkjet printing used to write DNA?**
+
+2. A summary of existing and recent DNA synthesis companies:
+[link](http://www.calinplesa.com/dna-synthesis-companies/)
+
+
+*Optional reading-2[Synthetic DNA Synthesis and Assembly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5204324/)
+
+
+Extra learning: 
+
+Advanced learning-1:  [Next Generation Sequencing](https://www.ibiology.org/techniques/next-generation-sequencing/) video lectures By Eric Chow
+
+Advanced learning-2:[Genome Sequencing for Pathogen Discovery](https://www.ibiology.org/microbiology/genome-sequencing/)
+video lectures Joe DeRisi
+
+An article on difference approaches to DNA synthesis:
+[link](https://www.chemistryworld.com/feature/step-by-step-synthesis-of-dna/3008753.article)
+
+Image Sources:
+
+1. Next-Generation Sequencing: Shendure et al, Nature 2017  [link](https://www.nature.com/articles/nature24286.pdf)
+
+____________________________________________________________
+
+## Preclass for Wednesday
+Please read and consider the below before start of class on Wednesday
+
+
+## Example 1: DNA trends:  Non-invasive prenatal testing
 
 Put yourself in the shoes of a couple who recently discovered they were pregnant, and are worried about genetic disorders in their unborn child (e.g., Down syndrome).
 
@@ -47,63 +107,9 @@ Put yourself in the shoes of a couple who recently discovered they were pregnant
 
 **Q.3. What factors do you think led to exponential cost reduction in DNA sequencing?**
 
-## Example 2: DNA literacy (DNA read)
-
-DNA is made up of nucleotides. These nucleotides have four possible bases;
-adenine (A), thymine (T),guanine (G), and cytosine (C). All DNA is made up of sequences of these four bases. Imagine a four key typewriter that is able to type the DNA codes for all of the biodiversity seen on earth. Being able to both **read DNA** (sequencing) and **write DNA** (synthesizing) has and will continue to give bioengineers the ability to design and build with living matter in ways that were hard to imagine very recently.
-
-Let’s delve into how current sequencing technologies work.
-
-Start with this [video](https://www.youtube.com/watch?v=MvuYATh7Y74) that provides background about sequencing and its use to decode the human genome, with a focus on “massively parallel sequencing” (often marketed as “next-generation” sequencing technology). Figure-2, also breaks down the same process described in the video.
-
-<figure>
-<a href="/assets/images/w3pc_NGS.png"><img src="/assets/images/w3pc_NGS.png"></a>
-</figure>
-
-**Figure.2.** "Breakdown of DNA sequencing steps (specifically next generationsequencing). In this approach instead of reading a long sequence of DNA one baseper at a time, the sequence is divided into many pieces (fragments) which are all read simultaneously". [Source](https://www.nature.com/articles/nature24286.pdf)
-
-During sequencing first, the genomic DNA (the DNA that we want to read) is broken into smaller pieces (fragmented). Then a synthetic linker sequence is added to the end ofthe fragments (adaptor) which helps the DNA fragments get attached to a surface on which the sequencing happens (flow cell). Next, the DNA fragments are separated inspace and read individually. Each fragment is amplified (thousands of copies of eachpiece is made) to make sure the correct sequence is detected. To actually read the fragments, pre-labeled nucleotides (nucleotides with color) and enzymes (that incorporate nucleotides into the fragments) are added to the flow cell. As each colored base pair is added to the fragments a new colorful spot is introduced. By taking images from the spots we are able to decode the sequence. Finally, the fragments are stitched together to reveal the original sequence of the genomic DNA. Here is an additional video that describes this process in even more detail [optional link](https://www.youtube.com/watch?v=fCd6B5HRaZ8).
-
-
-*Optional reading-1: [DNA sequencing at 40: past, present and future](https://www.nature.com/articles/nature24286.pdf).*
-
-**Q.4. According to the “How to sequence the human genome” video when was the first human genome sequenced? How long did it take? How much did it cost?**
-
-**Q.5. How much would it cost if you were to sequence the human genome in 2018?**
-
-**Q.6. Thinking back to the design, build, and test (DBT) class. What are theconsequences of lowering sequencing cost (both money and time)?**
-
-1. A less than 4 minute video introducing how Agilent builds 60mer oligos using inkjet dispensing.
-[link](https://www.youtube.com/watch?v=eSr5CxAdiww&feature=youtu.be)
-
-**Q.7. How is inkjet printing used to write DNA?**
-
-2. A summary of existing and recent DNA synthesis companies:
-[link](http://www.calinplesa.com/dna-synthesis-companies/)
-
-
-*Optional reading-2[Synthetic DNA Synthesis and Assembly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5204324/)
-
-
-Extra learning: 
-
-Advanced learning-1:  [Next Generation Sequencing](https://www.ibiology.org/techniques/next-generation-sequencing/) video lectures By Eric Chow
-
-Advanced learning-2:[Genome Sequencing for Pathogen Discovery](https://www.ibiology.org/microbiology/genome-sequencing/)
-video lectures Joe DeRisi
-
-An article on difference approaches to DNA synthesis:
-[link](https://www.chemistryworld.com/feature/step-by-step-synthesis-of-dna/3008753.article)
 
 Image Sources:
 1. Carlson Curves [link](https://synbiobeta.com/time-new-dna-synthesis-sequencing-cost-curves-rob-carlson/)
-2. Next-Generation Sequencing: Shendure et al, Nature 2017  [link](https://www.nature.com/articles/nature24286.pdf)
-
-____________________________________________________________
-
-## Preclass for Wednesday
-Please read and consider the below before start of class on Wednesday
-
 
 ____________________________________________________________
 
