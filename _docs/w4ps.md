@@ -104,11 +104,11 @@ A transcriptionally represses B, while B transcriptionally represses A. B also r
   </tr>
   <tr>
     <td>tetR</td>
-    <td>Repressor from the tet operon</td>
+    <td>Repressor from the <i>tet</i> operon</td>
   </tr>
   <tr>
     <td>tetO</td>
-    <td>Operator from the tet operon</td>
+    <td>Operator from the <i>tet</i> operon</td>
   </tr>
   <tr>
     <td>doxycycline (dox)</td>
@@ -116,11 +116,11 @@ A transcriptionally represses B, while B transcriptionally represses A. B also r
   </tr>
   <tr>
     <td>lacI</td>
-    <td>Repressor from the *lac* operon</td>
+    <td>Repressor from the <i>lac</i> operon</td>
   </tr>
   <tr>
     <td>lacO</td>
-    <td>Operator from the *lac* operon</td>
+    <td>Operator from the <i>lac</i> operon</td>
   </tr>
   <tr>
     <td>IPTG</td>
