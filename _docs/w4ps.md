@@ -60,7 +60,7 @@ Briefly read the abstract from the paper titled: [Programmable protein circuits 
 
 **Q.2.d.** Take a look at Figure-1 below  (reproduced from the paper). Briefly describe what are the inputs and the output to this logic device? (Bullet points)
 
-**Q.2.e.** Does the presented logic device (Figure-1) use a *Common Signal Carrier*? Why or Why not? (1-2 sentences)
+**Q.2.e.** Does the presented logic device (Figure-1) use a *Common Signal Carrier*?  Why or Why not?  If the logic device does use a *Common Signal Carrier*, what is the common signal carrier? (Bullet points)
 
 <figure>
 <a href="/assets/images/Pset3-LogicGate .png"><img src="/assets/images/Pset3-LogicGate .png"></a>
