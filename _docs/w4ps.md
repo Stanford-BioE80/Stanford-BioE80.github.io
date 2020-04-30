@@ -13,7 +13,7 @@ DUE: 5:00p Pacific 01 May 2020
 **NOTES:**
 
 - Given the unique circumstance of Spring 2020, we ask you to do your best to maximize your learning. Each problem set is an opportunity to assess your learning, identify gaps, reflect on what you have learned, and determine what you wish to learn next.
-- Problem sets must be completed individually unless stated otherwise.
+- Problem sets must be completed individually.  Your answers should be your own work, but you can discuss the questions with other people. Please let us know if you collaborated with other students working on the PSET. 
 - Please turn in your completed problem sets as an electronic copy via Gradescope. Please make sure to clearly indicate the starting and ending boundaries of your answers to each question on Gradescope.
 - Please do not go over any word limits and where appropriate show your work (e.g., calculations with appropriate units).
 - Please **type** your answers when possible.  
@@ -39,9 +39,10 @@ In another scenario, you can describe your bike as the system.  In this case, th
 
 **Q.1.a.** Look around the world from the perspective of an integrated systems engineer. Find an example of an integrated system, either natural or engineered. Submit a photo of the system you found and provide a one line description of the system itself. 
 
-**Q.1.b.** Draw the generic system architecture with appropriate units for your system. Label the input(s) and output(s) to the system. 
+**Q.1.b.** Draw the generic system architecture with appropriate units for your system. Label the input(s) and output(s) to the system. What signals are used as inputs and outputs (Add units if appropriate)?  
+Hint: Do your best to draw a clear and easy to follow diagram. 
 
-**Q.1.c.** Revisit [Acoustic reporter genes for noninvasive imaging of microorganisms in mammalian hosts](https://www.nature.com/articles/nature25021) paper.  Draw a generic system architecture that describes the cells with an acoustic reporter.
+**Q.1.c.** Revisit [Acoustic reporter genes for noninvasive imaging of microorganisms in mammalian hosts](https://www.nature.com/articles/nature25021) paper.  Would you describe the gas vesicle proteins as a sensor, logic, or actuator? Draw a generic system architecture to describe the cell with engineered gas vesicles from the paper -  what are the input(s) and output(s) to this system?  
 
 Note: If you want to learn more  about abstraction, sensors, and actuators in living matter check out **BIOE 44: Fundamentals for Engineering Biology Lab** 
 
@@ -50,7 +51,7 @@ Note: If you want to learn more  about abstraction, sensors, and actuators in li
 Referring back to class, recall the hierarchy based on the Part (bioparts), Devices, and Systems approach to abstraction. 
 If you need a refresher, please use the following [link](https://parts.igem.org/Abstraction_Hierarchy).
 
-**Q.2.a.**  In your own words provide brief definitions for Parts, Devices, and Systems. (1 sentence each)
+**Q.2.a.**  In your own words, provide a 1 sentence definitions for Parts, Devices, and Systems. 
 
 Briefly read the abstract from the paper titled: [Programmable protein circuits in living cells](https://science.sciencemag.org/content/361/6408/1252.long). 
 
@@ -61,6 +62,7 @@ Briefly read the abstract from the paper titled: [Programmable protein circuits 
 **Q.2.d.** Take a look at Figure-1 below  (reproduced from the paper). Briefly describe what are the inputs and the output to this logic device? (Bullet points)
 
 **Q.2.e.** Does the presented logic device (Figure-1) use a *Common Signal Carrier*?  Why or Why not?  If the logic device does use a *Common Signal Carrier*, what is the common signal carrier? (Bullet points)
+(Hint: We defined a Common Signal Carrier in a particular way in the class.)
 
 <figure>
 <a href="/assets/images/Pset3-LogicGate .png"><img src="/assets/images/Pset3-LogicGate .png"></a>
@@ -75,7 +77,12 @@ First read the abstract of the paper titled [Plants with Genetically Encoded Aut
 
 **Q.3.b** How many watt hours of illumination should we expect from a glowing plant, per day?
 
-**Q.3.c** Your have received a special commission to bioengineer the control program for glowing plants.  Specifically, you need to design an integrated genetic system, built from reuseable genetic devices, that implements the following program:  When daylight is NOT present AND only in cells comprising the flower’s stamen filament then plant autoluminscence should be ON.  Please note that cells comprising the flower’s stamen filament can be uniquely identified because they contain two active transcription factors, thorny AND slender.  Draw a system's level diagram tht implements this glowing plant.  
+**Q.3.c** Your have received a special commission to bioengineer the control program for glowing plants.  
+Specifically, you need to design an integrated genetic system, built from reuseable genetic devices, that implements the following program:  
+  
+  - When daylight is NOT present AND only in cells comprising the flower’s stamen filament then plant autoluminscence should be ON. Please note that cells comprising the flower’s stamen filament can be uniquely identified because they contain two active transcription factors, thorny AND slender.  
+
+Draw a system's level diagram tht implements this glowing plant.  
 
 ## Extra resources, learning, and Practice Questions
 
@@ -131,7 +138,7 @@ Take a look at the following, genetic circuit.
 
 **Q.3.c.** Describe the behavior of this circuit via a name (e.g., AND gate, NAND gate, Toggle switch)?
 
-## (Q4) Toggle switch (x pts)
+## (Q4) Toggle switch (0 pts)
 
 The toggle switch is a common network motif that can be implemented as a genetic circuit. Two inputs are used to switch the system between two stable states. A diagram of the gene-regulatory network is shown below.
 
@@ -194,8 +201,3 @@ Using this toolkit, label the gene-regulatory network diagram with the correspon
 <a href="/assets/PSET4-2020 Q4C.png"><img src="/assets/PSET4-2020 Q4C.png"></a>
 <figcaption><b>Figure 4</b>. Implement the toggle switch according to your labeled gene-regulatory network.</figcaption>
 </figure>
-
-
-
-
-
