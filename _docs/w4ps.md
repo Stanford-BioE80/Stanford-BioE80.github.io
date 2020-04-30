@@ -13,12 +13,11 @@ DUE: 5:00p Pacific 01 May 2020
 **NOTES:**
 
 - Given the unique circumstance of Spring 2020, we ask you to do your best to maximize your learning. Each problem set is an opportunity to assess your learning, identify gaps, reflect on what you have learned, and determine what you wish to learn next.
-- Problem sets must be completed individually.  Your answers should be your own work, but you can discuss the questions with other people. Please let us know if you collaborated with other students working on the PSET. 
+- You can discuss the PSET questions with other students. But your answers should be your own work. Please let us know if you collaborated with other students working on the PSET. 
 - Please turn in your completed problem sets as an electronic copy via Gradescope. Please make sure to clearly indicate the starting and ending boundaries of your answers to each question on Gradescope.
 - Please do not go over any word limits and where appropriate show your work (e.g., calculations with appropriate units).
 - Please **type** your answers when possible.  
 - Please **label** and provide descriptions for the figures. 
-
 
 GOAL: Reflect on the role of **Abstraction** as a tool for helping to manage complexity in biological systems.  
 
