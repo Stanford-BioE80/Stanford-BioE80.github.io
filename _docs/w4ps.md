@@ -67,7 +67,56 @@ Briefly read the abstract from the paper titled: [Programmable protein circuits 
 <figcaption><b>Figure 1</b>. Logic Device diagram of CHOMP circuits.</figcaption>
 </figure>
 
-## (Q3) Unknown genetic circuit (x pts)
+## (Q3) Plants with Genetically Encoded Autoluminescence
+
+First read the abstract of the paper titled [Plants with Genetically Encoded Autoluminescence](https://www.nature.com/articles/s41587-020-0500-9).   
+
+**Q.3.a.** In your own words, what is the main claim of this paper? (2-3 sentences).
+
+**Q.3.b** How many watt hours of illumination should we expect from a glowing plant, per day?
+
+**Q.3.c** Your have received a special commission to bioengineer the control program for glowing plants.  Specifically, you need to design an integrated genetic system, built from reuseable genetic devices, that implements the following program:  When daylight is NOT present AND only in cells comprising the flower’s stamen filament then plant autoluminscence should be ON.  Please note that cells comprising the flower’s stamen filament can be uniquely identified because they contain two active transcription factors, thorny AND slender.  Draw a system's level diagram tht implements this glowing plant.  
+
+## Extra resources, learning, and Practice Questions
+
+The following suggested reading and questions are 100% optional additional. They are meant to help you engage with various aspects of the topics that we have covered in each segment based on your interest and level. They are not required as part of your problem sets. But we hope that they enable you to enhance your learning based on your interest.
+
+### Q.EX1.Navigating the Abstraction Hierarchy (0 pts)
+
+Recall from the class that we can use abstraction to help and manage complexity in engineering biological systems. 
+
+**Q.EX1.a.**  Imagine an engineered living system with a function of your choice.  What does this system do?
+ Example engineered bacteria (*E.coli* for example) to detect lead or arsenic and produce a color pigment (red for lead, purple for arsenic) (1-2 sentences)
+
+**Q.EX1.b.**  Sketch a black box “device-level” systems diagram that would implement your system.  
+
+**Hint:** Your boxes should have simple names, such as “change color,” “detect lead,” “OR,” or whatever human-defined functions are needed and appropriate.  Make sure also to connect each black box device to the others as needed.    
+
+Next, going down the abstraction hierarchy, you need parts.  Where to get parts?  How about a student-produced collection of thousands of DNA parts.  Sure! Go to the [iGEM Parts Registry](http://parts.igem.org/Catalog).  
+
+**Q.EX1.c.** Find parts that could be used to implement your device.  Share the name of those parts as part of PSET-3.  
+If you can’t find what you need, make a note and move on.
+
+**Q.EX1.d.**   Sketch how your parts should be organized as DNA elements in relation to one another so that they would implement the function as you desire.  Draw a black box around your parts.  Add inputs and output arrows to the box as appropriate. Are your input and output signals generic or specific to your device?
+
+### Q.EX2.  Buggy Bacterial Flash Mob? (0 pts)
+ 
+ Students at MIT are claiming that they have designed a genetic program to realize 
+ arepeating bacterial flash mob.  See their work yet again via:
+ 
+[Polkadorks, iGEM-2006](https://2006.igem.org/wiki/index.php/IAP2004:Polkadorks)
+ 
+In an epic East Coast versus West Coast technology “battle,” some of your colleagues
+are now claiming that the genetic program designed at MIT won’t actually produce the
+so-desired behavior.  Looking only at their proposed “device-level system diagram”...
+
+**Q.EX2.a.** What do you think?  Will their program work or not?   
+
+YES or NO (circle one)
+
+**Q.EX2.b.**  Why or why not? (bullet points) 
+
+## (EX2) Unknown genetic circuit (0 pts)
 
 Take a look at the following, genetic circuit.  
 
@@ -146,61 +195,7 @@ Using this toolkit, label the gene-regulatory network diagram with the correspon
 <figcaption><b>Figure 4</b>. Implement the toggle switch according to your labeled gene-regulatory network.</figcaption>
 </figure>
 
-## (Q5) Plants with Genetically Encoded Autoluminescence
 
-First read the abstract of the paper titled [Plants with Genetically Encoded Autoluminescence](https://www.nature.com/articles/s41587-020-0500-9).   
 
-**Q.5.a.** In your own words, what is the main claim of this paper? (2-3 sentences).
 
-**Q.5.b** How many watt hours of illumination should we expect from a glowing plant, per day?
 
-**Q.5.c** Which logical operation(s) you could use to control when a plant is glowing? (Draw a simple diagram)
-
-**Q.5.d** Which logical operation(s) you could use when and which part of the plant is glowing?  (Draw a simple diagram)
-
-## Extra resources, learning, and Practice Questions
-
-The following suggested reading and questions are 100% optional additional. They are meant to help you engage with various aspects of the topics that we have covered in each segment based on your interest and level. They are not required as part of your problem sets. But we hope that they enable you to enhance your learning based on your interest.
-
-### Q.EX1.Navigating the Abstraction Hierarchy (0 pts)
-
-Recall from the class that we can use abstraction to help and manage complexity in engineering biological systems. 
-
-**Q.EX1.a.**  Imagine an engineered living system with a function of your choice.  What does this system do?
- Example engineered bacteria (*E.coli* for example) to detect lead or arsenic and produce a color pigment (red for lead, purple for arsenic) (1-2 sentences)
-
-**Q.EX1.b.**  Sketch a black box “device-level” systems diagram that would implement your system.  
-
-**Hint:** Your boxes should have simple names, such as “change color,” “detect lead,” “OR,” or whatever human-defined functions are needed and appropriate.  Make sure also to connect each black box device to the others as needed.    
-
-Next, going down the abstraction hierarchy, you need parts.  Where to get parts?  How about a student-produced collection of thousands of DNA parts.  Sure! Go to the [iGEM Parts Registry](http://parts.igem.org/Catalog).  
-
-**Q.EX1.c.** Find parts that could be used to implement your device.  Share the name of those parts as part of PSET-3.  
-If you can’t find what you need, make a note and move on.
-
-**Q.EX1.d.**   Sketch how your parts should be organized as DNA elements in relation to one another so that they would implement the function as you desire.  Draw a black box around your parts.  Add inputs and output arrows to the box as appropriate. Are your input and output signals generic or specific to your device?
-
-### Q.EX2.  Buggy Bacterial Flash Mob? (0 pts)
- 
- Students at MIT are claiming that they have designed a genetic program to realize 
- arepeating bacterial flash mob.  See their work yet again via:
- 
-[Polkadorks, iGEM-2006](https://2006.igem.org/wiki/index.php/IAP2004:Polkadorks)
- 
-In an epic East Coast versus West Coast technology “battle,” some of your colleagues
-are now claiming that the genetic program designed at MIT won’t actually produce the
-so-desired behavior.  Looking only at their proposed “device-level system diagram”...
-
-**Q.EX2.a.** What do you think?  Will their program work or not?   
-
-YES or NO (circle one)
-
-**Q.EX2.b.**  Why or why not? (bullet points) 
-
-### Q.EX3. Inverters and Ring Oscillator (0 pts)
-
-Imagine that you are a system level **Bioengineer** designing genetic inverters and ring oscillators.
-
-**Q.EX3.a.** Draw a box diagram of a genetic inverter at the *parts & device levels*. Describe the behavior of the genetic inverter. 
-
-**Q.EX3.b.** Imagine that you are building a 3-inverter genetic ring oscillator at the *systems level*. Describe the role of *Common Signal Carriers* in constructing such a system (2-3 sentences and use diagrams and drawings if helpful).  
