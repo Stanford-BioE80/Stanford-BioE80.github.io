@@ -65,6 +65,7 @@ Briefly read the abstract from the paper titled: [Programmable protein circuits 
 **Q.2.d.** Take a look at Figure-1 below  (reproduced from the paper). Briefly describe what are the inputs and the output to this logic device? (Bullet points)
 
 **Q.2.e.** Does the presented logic device (Figure-1) use a *Common Signal Carrier*?  Why or Why not?  If the logic device does use a *Common Signal Carrier*, what is the common signal carrier? (Bullet points)
+
 (Hint: We defined a Common Signal Carrier in a particular way in the class.)
 
 <figure>
@@ -80,7 +81,9 @@ First read the abstract of the paper titled [Plants with Genetically Encoded Aut
 
 **Q.3.b.** In your opinion, what are the paper’s strengths and significance? What are the paper’s shortcomings and deficiencies? How can the paper improve? (2-3 sentences)
 
-**Q.3.c** Estimation problem -  Consider engineered plants that would use photosynthesis to produce light via a luminescence system. How many watt hours of illumination should we expect from a glowing plant, per day? What is the potential upper limit?  (Use the following hints)
+**Q.3.c** Estimation problem -  Consider engineered plants that would use photosynthesis to produce light via a luminescence system. How many watt hours of illumination should we expect from a glowing plant, per day? What is the potential upper limit?  
+
+(Use the following hints)
 
 - First use the [U.S. Solar Radiation Resource Map](https://rredc.nrel.gov/solar/old_data/nsrdb/1961-1990/redbook/atlas/) to look up the average light-energy hitting the surface of the earth (say in California).  Your number should have the unit of watt hours per m^2 per day.
 
@@ -94,7 +97,6 @@ Specifically, you need to design an integrated genetic system, built from reusea
   - When daylight is NOT present AND only in cells comprising the flower’s stamen filament then plant autoluminscence should be ON. Please note that cells comprising the flower’s stamen filament can be uniquely identified because they contain two active transcription factors, thorny AND slender.  
 
 Draw a system's level diagram tht implements this glowing plant.  
-
 
 *Extra Estimation problem (0 points)*  Let's consider the plants presented in the paper. Paper states that the plant emits lights reaching up to 10^10 photons per minute. Looking at Figure-1.a, you may assume that the emitted light has a wavelength of 525 nm.  How many watt-hours of illumination per day do you expect from a glowing plant presented in the paper?
 (Hints: You will need to use Planck constant and speed of light to calculate a photon's energy for a given wavelength)
