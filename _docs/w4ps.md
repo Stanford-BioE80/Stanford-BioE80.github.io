@@ -41,7 +41,11 @@ In another scenario, you can describe your bike as the system.  In this case, th
 **Q.1.b.** Draw the generic system architecture with appropriate units for your system. Label the input(s) and output(s) to the system. What signals are used as inputs and outputs (Add units if appropriate)?  
 Hint: Do your best to draw a clear and easy to follow diagram. 
 
-**Q.1.c.** Revisit [Acoustic reporter genes for noninvasive imaging of microorganisms in mammalian hosts](https://www.nature.com/articles/nature25021) paper.  Would you describe the gas vesicle proteins as a sensor, logic, or actuator? Draw a generic system architecture to describe the cell with engineered gas vesicles from the paper -  what are the input(s) and output(s) to this system?  
+**Q.1.c.** Revisit [Acoustic reporter genes for noninvasive imaging of microorganisms in mammalian hosts](https://www.nature.com/articles/nature25021) paper.  
+
+- Would you describe the gas vesicle proteins as a sensor, logic, or actuator? 
+- Draw a generic system architecture to describe the cells from the paper?
+- What are the input(s) and output(s) to this system?  
 
 Note: If you want to learn more  about abstraction, sensors, and actuators in living matter check out **BIOE 44: Fundamentals for Engineering Biology Lab** 
 
