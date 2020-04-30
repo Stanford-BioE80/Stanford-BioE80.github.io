@@ -43,9 +43,7 @@ Hint: Do your best to draw a clear and easy to follow diagram.
 
 **Q.1.c.** Revisit [Acoustic reporter genes for noninvasive imaging of microorganisms in mammalian hosts](https://www.nature.com/articles/nature25021) paper.  
 
-- Would you describe the gas vesicle proteins as a sensor, logic, or actuator? 
-- Draw a generic system architecture to describe the cells from the paper?
-- What are the input(s) and output(s) to this system?  
+Draw a generic systems architecture for cells from this paper. What are the input(s) and output(s)?  What are the sensors of this system, if any? What are the actuators, if any? Did the authors implement any logic in these cells?
 
 Note: If you want to learn more  about abstraction, sensors, and actuators in living matter check out **BIOE 44: Fundamentals for Engineering Biology Lab** 
 
@@ -81,7 +79,7 @@ First read the abstract of the paper titled [Plants with Genetically Encoded Aut
 
 **Q.3.b.** In your opinion, what are the paper’s strengths and significance? What are the paper’s shortcomings and deficiencies? How can the paper improve? (2-3 sentences)
 
-**Q.3.c** Estimation problem -  Consider engineered plants that would use photosynthesis to produce light via a luminescence system. How many watt hours of illumination should we expect from a glowing plant, per day? What is the potential upper limit?  
+**Q.3.c** Estimation problem - Let’s try and estimate the total amount of light that an engineered plant could make via an engineered luminescence system. How many watt-hours of illumination should we expect from a glowing plant, per day? What is the potential upper limit?
 
 (Use the following hints)
 
