@@ -26,7 +26,7 @@ This week we will explore **What changes may arise via trends in DNA read and wr
 
 Let’s begin!
 
-## DNA literacy -- DNA read
+### DNA literacy -- DNA read
 
 DNA is made up of nucleotides. These nucleotides have four possible bases;
 adenine (A), thymine (T),guanine (G), and cytosine (C). All DNA is made up of sequences of these four bases. Imagine a four key typewriter that is able to type the DNA codes for all of the biodiversity seen on earth. Being able to both **read DNA** (sequencing) and **write DNA** (synthesizing) has and will continue to give bioengineers the ability to design and build with living matter in ways that were hard to imagine very recently.
@@ -52,7 +52,7 @@ During sequencing first, the genomic DNA (the DNA that we want to read) is broke
 
 **Q.3. Thinking back to the design, build, and test (DBT) class. What are theconsequences of lowering sequencing cost (both money and time)?**
 
-## DNA literacy -- DNA write
+### DNA literacy -- DNA write
 
 1. A less than 4 minute video introducing how Agilent builds 60mer oligos using inkjet dispensing.
 [link](https://www.youtube.com/watch?v=eSr5CxAdiww&feature=youtu.be)
@@ -86,7 +86,7 @@ ____________________________________________________________
 Please read and consider the below before start of class on Wednesday
 
 
-## Example 1: DNA trends:  Non-invasive prenatal testing
+### Example 1: DNA trends:  Non-invasive prenatal testing
 
 Put yourself in the shoes of a couple who recently discovered they were pregnant, and are worried about genetic disorders in their unborn child (e.g., Down syndrome).
 
