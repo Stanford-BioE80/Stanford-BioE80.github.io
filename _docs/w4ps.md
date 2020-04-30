@@ -93,14 +93,9 @@ A transcriptionally represses B, while B transcriptionally represses A. B also r
 <figcaption><b>Figure 3</b>. Toggle switch circuit.</figcaption>
 </figure>
 
-**Q.4.a**  Describe the overall behavior of the system. What are the inputs? What are the two states? How does the system state respond to the given inputs?
+**Q.4.a.**  Describe the overall behavior of the system. What are the inputs? What are the two states? How does the system state respond to the given inputs?
 
-**Q.4.b** Given the following toolkit, label the gene-regulatory network diagram with the corresponding part names. You should choose parts that can work together to achieve the overall system behavior you described in Q.4.a
-- What part did you assign to A?
-- What part did you assign to B?
-- What part did you assign to C?
-- What part did you assign to SM1?
-- What part did you assign to SM2?
+**Q.4.b.**  A toolkit of biological parts is shown below:
 
 <table>
   <tr>
@@ -137,7 +132,14 @@ A transcriptionally represses B, while B transcriptionally represses A. B also r
   </tr>
 </table>
 
-**Q.4.c** Use the toolkit and the DNA templates below to implement the toggle switch according to your labeled gene-regulatory network from Q.4.b.
+Using this toolkit, label the gene-regulatory network diagram with the corresponding part names by answering the following questions. (*Note: You should choose parts that can work together to achieve the overall system behavior you described in Q.4.a.*)
+- What part did you assign to A?
+- What part did you assign to B?
+- What part did you assign to C?
+- What part did you assign to SM1?
+- What part did you assign to SM2?
+
+**Q.4.c.**  Use the toolkit and the DNA templates below to implement the toggle switch according to your labeled gene-regulatory network from *Q.4.b*.
 
 <figure>
 <a href="/assets/PSET4-2020 Q4C.png"><img src="/assets/PSET4-2020 Q4C.png"></a>
