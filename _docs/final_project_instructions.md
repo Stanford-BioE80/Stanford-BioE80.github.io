@@ -5,7 +5,7 @@ last_modified_at:
 toc: true
 ---
 
-##FINAL PROJECT INTRODUCTION
+## FINAL PROJECT INTRODUCTION
 
 **Class projects must be submitted electronically via a link that will be shared later! We will host your projects on the class website.
 
@@ -13,13 +13,13 @@ toc: true
 
 Your final project has three major parts: (1) your WISH, (2) your PLAN, and (3) your PLAY.  
 
-##LEARNING GOALs & MOTIVATION
+## LEARNING GOALs & MOTIVATION
 
 Our goal with the group project is to empower you to think about and plan for the future you wish to realize or contribute to.  We aim to enable you to devise and express your **wish** that can be implemented via bioengineering by 2030.  We will help you develop a practical plan for realizing your wish.  Finally, we will ask you to represent your wishes and plans as a story  (specifically, as a 3-act play that you make and record via Zoom with your team).   
 
 Independent of your academic level, whether a first-year or a graduating senior, we hope that the class project will enable you to take steps towards organizing your plans.  As a first-year, the project may help you decide what other courses to take in the future (i.e., serve as a cornerstone to your curriculum).  As a graduating senior, the project may help you reflect on what you have learned and use them in realizing your next steps, and may even serve as the first-draft of a specific plan for what you do next.  
 
-##PROJECT COMPONENTS & POINT ALLOCATIONS
+## PROJECT COMPONENTS & POINT ALLOCATIONS
 
 You and your team will have to complete the following deliverables as part of the project.  Some of the delieverables are do along the way. I.e., not everything is turned in at the end of quarter.
 
