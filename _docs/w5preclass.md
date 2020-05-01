@@ -107,6 +107,11 @@ Put yourself in the shoes of a couple who recently discovered they were pregnant
 
 **Q.3. What factors do you think led to exponential cost reduction in DNA sequencing?**
 
+Humans as individual biological organisms have historically been defined, literally, by a natural reproductive process in which the genetic material of our parents leads to us as individuals, and so on. Increasingly it is becoming apparent that we can assert our intention into the human reproductive process. E.g., about 4% of humans born in the US today arise and arrive via in-vitro fertilization. At the on-campus children's hospital it is now standard practice for the DNA of the fetus to be partially sequenced at 10 weeks post-fertilization in order to screen for various genetic conditions, and this information is used to inform health decisions. Others are now beginning to apply advanced genetic engineering tools to edit genes within viable human embryos - see here for example link.
+
+Next consider the following example:
+
+This link provides the full genome of the 1918 flu that infected up to one third of the world population a century ago: [Flu genome sequenced](https://www.the-scientist.com/?articles.view/articleNo/23462/title/Flu-genome-sequenced/).
 
 Image Sources:
 1. Carlson Curves [link](https://synbiobeta.com/time-new-dna-synthesis-sequencing-cost-curves-rob-carlson/)
