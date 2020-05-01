@@ -12,7 +12,7 @@ Please read and consider the below before start of class on Monday.
 The questions given are only study questions not homework to be graded.
 Talk about it all with your classmates, friends, or TAs, as you like.
 
-## Introduction |DNA read and write past, present, and future
+## Introduction - DNA read and write past, present, and future
 
 This week we will explore **What changes may arise via trends in DNA read and write tools may matter for the rest of our lives?**  We hope you will learn more about the core capacities for accessing and encoding DNA and also consider the quantitative pacing of how these tools are improving. Monday's pre-class material focuses mostly on DNA sequencing, whereas Wednesday's pre-class material focuses on DNA synthesis...
 
@@ -107,7 +107,8 @@ Put yourself in the shoes of a couple who recently discovered they were pregnant
 
 Humans as individual biological organisms have historically been defined, literally, by a natural reproductive process in which the genetic material of our parents leads to us as individuals, and so on. Increasingly it is becoming apparent that we can assert our intention into the human reproductive process. E.g., about 4% of humans born in the US today arise and arrive via in-vitro fertilization. At the on-campus children's hospital it is now standard practice for the DNA of the fetus to be partially sequenced at 10 weeks post-fertilization in order to screen for various genetic conditions, and this information is used to inform health decisions. Others are now beginning to apply advanced genetic engineering tools to edit genes within viable human embryos - see here for example [link](https://www.nature.com/articles/d41586-018-07545-0)
 
-Next, let's consider what happens when information and material become **Interconvertible**.  
+Next, let's consider what happens when information and material become **interconvertible**.  
+
 (Interconversion - a process in which two things are each converted into the other)
 
 Not long ago, to listen to music, you had to have the musicians manipulating the air to make sounds. With the invention of recording, sound could be turned into information and stored in various physical objects (vinyl records, wires, cassette tapes, CDs,...).  Given access to the object and a player,  you could listen to music.  Also, note that each medium quantitatively could store more information.  However, with the introduction of the internet, there was an additional qualitative change. Now music could be shared as information via the network and played (or reconstructed into a physical object CD).
