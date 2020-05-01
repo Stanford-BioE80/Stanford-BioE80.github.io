@@ -23,8 +23,9 @@ Independent of your academic level, whether a first-year or a graduating senior,
 ## Rubric 
 You will have to complete the following deliverables as part of the project.
 
-#### Team rules --- 10 pts
-#### Brainstorm and ideation --- 10 pts
+#### Team rules --- 5 pts
+#### Brainstorm and ideation --- 5 pts
+#### Priority --- 10 pts
 #### Written research and background document --- 20 pts
 #### High-level storyboard --- 20 pts 
 #### Final Recording  --- 30 pts
@@ -48,11 +49,13 @@ Please ask us if you have any questions.
 
 **Brainstorming** -- your list of ideas. 
 
+**Priority** -- you rank order top 5 ideas and select your project choice.  
+
 **Research and background document** -- your background research into the topic, including scientific, technological, policy aspects. More detail soon. The audience for this document is the teaching team. 
 
 **High-level storyboard** -- Early drafts of your play which represents the ideas from your 
 
-**Final Recording** -- a 3 act play that communicates the wish and the solution. 
+**Final Recording** -- A 3 act play that communicates the wish and the solution. 
                     -- Act.1: Realized wish in the future
                     -- Act.2: Crisis 
                     -- Act.3: Journey 
