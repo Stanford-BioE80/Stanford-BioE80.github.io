@@ -62,13 +62,13 @@ During sequencing first, the genomic DNA (the DNA that we want to read) is broke
 2. A summary of existing and recent DNA synthesis companies:
 [link](http://www.calinplesa.com/dna-synthesis-companies/)
 
-*Optional reading-2[Synthetic DNA Synthesis and Assembly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5204324/)
+*Optional reading-2:  [Synthetic DNA Synthesis and Assembly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5204324/)
 
 Extra learning: 
 
-Advanced learning-1:  [Next Generation Sequencing](https://www.ibiology.org/techniques/next-generation-sequencing/) video lectures By Eric Chow
+Advanced learning-1: [Next Generation Sequencing](https://www.ibiology.org/techniques/next-generation-sequencing/) video lectures By Eric Chow
 
-Advanced learning-2:[Genome Sequencing for Pathogen Discovery](https://www.ibiology.org/microbiology/genome-sequencing/)
+Advanced learning-2: [Genome Sequencing for Pathogen Discovery](https://www.ibiology.org/microbiology/genome-sequencing/)
 video lectures Joe DeRisi
 
 An article on difference approaches to DNA synthesis:
@@ -112,7 +112,7 @@ Next, let's consider what happens when information and material become **Interco
 
 Not long ago, to listen to music, you had to have the musicians manipulating the air to make sounds. With the invention of recording, sound could be turned into information and stored in various physical objects (vinyl records, wires, cassette tapes, CDs,...).  Given access to the object and a player,  you could listen to music.  Also, note that each medium quantitatively could store more information.  However, with the introduction of the internet, there was an additional qualitative change. Now music could be shared as information via the network and played (or reconstructed into a physical object CD).
 
-Similar interconversion is now possible for living matter.  With the progress of DNA sequencing and synthesis, now it is possible to read the genome of a given cell in one location-A (Palo Alto), store, and transfer the DNA information to location-B (Boston).  Then DNA information can be resynthesized into a physical object (DNA sequence) from scratch. 
+Similar interconversion is now possible for living matter.  With the progress of DNA sequencing and synthesis, now it is possible to read the genome of a given cell in one location-A (Palo Alto), store, and transfer the DNA information to location-B (Boston).  Then DNA information can be resynthesized into a physical object (DNA polymer) from scratch. 
 
 Interconversion of DNA information into physical DNA can also be used to read the genome of animals, cells, or viruses that have been extinct and reconstruct them from scratch. 
  
