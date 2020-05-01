@@ -49,18 +49,14 @@ You and your team will have to complete the following deliverables as part of th
     
 	  8. How much will it cost?  How long will it take?
 
-***High-level storyboard --- 25 pts***
+***High-level storyboard (25 pts)***
     Act 1 -- Your wish has come  true (key dialog, scene detailsm and mood setting re: your wish being true (i.e., living in the future)) 
     Act 2 -- Despair, challenge, disaster (ditto but re: the most dramatic challenge encountered in making wish true)
     Act 3 -- Path to victory (ditto but re: the most important success realized along the path to success)
 
-***Final Recording of Play's Performance --- 25 pts***
-	 Empathy for audience - 20 %
-	 Clarity - 35 %
-	 Science & technology - 35 %
-	 Sizzle factor - 10%
-
-***Internal team member reviews --- 5 pts***
+***Final Recording of Play's Performance (25 pts)***
+	
+***Internal team member reviews (5 pts)***
 
 There will be additional information and deadlines for each deliverable.
 Briefly, your team’s final recording should be a 9-12 min zoom recording of your play, each Act being 3-4 min long. 
@@ -118,4 +114,12 @@ What do we mean by...
 
 - Is the project appealing and engaging? 
 - Is the execution quality high? (e.g., not a first draft, but polished work)
+
+SANDBOX
+
+ Empathy for audience - 20 %
+	 Clarity - 35 %
+	 Science & technology - 35 %
+	 Sizzle factor - 10%
+
 
