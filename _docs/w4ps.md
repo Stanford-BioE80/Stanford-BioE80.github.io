@@ -45,8 +45,6 @@ Hint: Do your best to draw a clear and easy to follow diagram.
 
 This paper introduces a new class of reporter genes, akin to fluorescent proteins but different.  Intead of taking in one waverlength of light and emitting a different wavelength (e.g., green fluorescent protein) these genes are activated by sound of a particular frequency and scatter the sound waves, creating a signal that can be detected by an ultrasound scanner.  Thus, these genes allow the creation of a new family of actuator devices, wherein a transcription signal and sound are the inputs and scattered sound waves are the output.  Draw a transparent black-box diagram that correctly notes the input and outputs for such an acoustic reporter device.  Please show the exact device boundary between PoPS-source and ribosome binding site for the first open-reading frame (ORF) in the acoustic reporter device.  Please also show the sound and scatter input and output.
 
-Draw a generic systems architecture for cells from this paper. What are the input(s) and output(s)?  What are the sensors of this system, if any? What are the actuators, if any? Did the authors implement any logic in these cells?
-
 Note: If you want to learn more  about abstraction, sensors, and actuators in living matter check out **BIOE 44: Fundamentals for Engineering Biology Lab** 
 
 ## (Q2) CHOMP Circuits (25 pts)
@@ -64,9 +62,7 @@ Briefly read the abstract from the paper titled: [Programmable protein circuits 
 
 **Q.2.d.** Take a look at Figure-1 below  (reproduced from the paper). Briefly describe what are the inputs and the output to this logic device? (Bullet points)
 
-**Q.2.e.** Does the presented logic device (Figure-1) use a *Common Signal Carrier*?  Why or Why not?  If the logic device does use a *Common Signal Carrier*, what is the common signal carrier? (Bullet points)
-
-(Hint: We defined a Common Signal Carrier in a particular way in the class.)
+**Q.2.e.** Does the presented logic device (Figure-1) use a *Common Signal Carrier*?  Why or Why not?  If the logic device does use a *Common Signal Carrier*, what is the common signal carrier? (Bullet points)  (Hint: We define Common Signal Carriers from a very formal engineering perspective in this class; specifically, the output of a device must manifest via exactly the same type of physical variable or process as the input of the device)
 
 <figure>
 <a href="/assets/images/Pset3-LogicGate .png"><img src="/assets/images/Pset3-LogicGate .png"></a>
