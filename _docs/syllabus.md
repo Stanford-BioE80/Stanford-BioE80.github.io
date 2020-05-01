@@ -108,7 +108,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ----------- | -------|
 | Mon 27 April | Engineering abstraction in living matter – synthetic genetic logic |
 | Wed 29 April | Engineering abstraction in living matter – generic system architecture |
-| Fri 1 May | Team Project – "I like, I wish, What if?” plus Team(s) Rule(s)“ |
+| Fri 1 May | Team Project:  Brainstorming + project introduction |
 
 ## Week 5: DNA Reading & Writing
 
