@@ -62,9 +62,7 @@ During sequencing first, the genomic DNA (the DNA that we want to read) is broke
 2. A summary of existing and recent DNA synthesis companies:
 [link](http://www.calinplesa.com/dna-synthesis-companies/)
 
-
 *Optional reading-2[Synthetic DNA Synthesis and Assembly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5204324/)
-
 
 Extra learning: 
 
@@ -85,6 +83,7 @@ ____________________________________________________________
 ## Preclass for Wednesday
 Please read and consider the below before start of class on Wednesday
 
+On Monday, we discussed the technology and science behind DNA sequencing and synthesis.  Today's reading addresses the quantitative and qualitative pace of change and the consequences arising from these changes. 
 
 ### Example 1: DNA trends:  Non-invasive prenatal testing
 
@@ -96,7 +95,6 @@ Put yourself in the shoes of a couple who recently discovered they were pregnant
 
 **Scenario-2:** It is 2020 and in leading-edge children’s hospitals amniocentesis has been replaced by non-invasive prenatal testing (NIPT), previously known as cell free DNA testing. NIPT is based on a simple blood draw that enables determination of geneticdisorders and even the sex of an unborn fetus. The test works because it turns out that there is DNA from the fetus circulating in the pregnant woman’s blood (e.g., if a pregnant woman has Y chromosome DNA in her blood then she is carrying a malefetus). Please watch [video](https://www.youtube.com/watch?v=e86_l_UqecU) about cell free fetal DNA analysis if you want moredetail.
 
-
 <figure>
 <a href="/assets/images/w3pc_CarlsonCurves.png"><img src="/assets/images/w3pc_CarlsonCurves.png"></a>
 </figure>
@@ -107,11 +105,24 @@ Put yourself in the shoes of a couple who recently discovered they were pregnant
 
 **Q.3. What factors do you think led to exponential cost reduction in DNA sequencing?**
 
-Humans as individual biological organisms have historically been defined, literally, by a natural reproductive process in which the genetic material of our parents leads to us as individuals, and so on. Increasingly it is becoming apparent that we can assert our intention into the human reproductive process. E.g., about 4% of humans born in the US today arise and arrive via in-vitro fertilization. At the on-campus children's hospital it is now standard practice for the DNA of the fetus to be partially sequenced at 10 weeks post-fertilization in order to screen for various genetic conditions, and this information is used to inform health decisions. Others are now beginning to apply advanced genetic engineering tools to edit genes within viable human embryos - see here for example link.
+Humans as individual biological organisms have historically been defined, literally, by a natural reproductive process in which the genetic material of our parents leads to us as individuals, and so on. Increasingly it is becoming apparent that we can assert our intention into the human reproductive process. E.g., about 4% of humans born in the US today arise and arrive via in-vitro fertilization. At the on-campus children's hospital it is now standard practice for the DNA of the fetus to be partially sequenced at 10 weeks post-fertilization in order to screen for various genetic conditions, and this information is used to inform health decisions. Others are now beginning to apply advanced genetic engineering tools to edit genes within viable human embryos - see here for example [link](https://www.nature.com/articles/d41586-018-07545-0)
 
+Next, let's consider what happens when information and material become **Interconvertible**.  
+(Interconversion - a process in which two things are each converted into the other)
+
+Not long ago, to listen to music, you had to have the musicians manipulating the air to make sounds. With the invention of recording, sound could be turned into information and stored in various physical objects (vinyl records, wires, cassette tapes, CDs,...).  Given access to the object and a player,  you could listen to music.  Also, note that each medium quantitatively could store more information.  However, with the introduction of the internet, there was an additional qualitative change. Now music could be shared as information via the network and played (or reconstructed into a physical object CD).
+
+Similar interconversion is now possible for living matter.  With the progress of DNA sequencing and synthesis, now it is possible to read the genome of a given cell in one location-A (Palo Alto), store, and transfer the DNA information to location-B (Boston).  Then DNA information can be resynthesized into a physical object (DNA sequence) from scratch. 
+
+Interconversion of DNA information into physical DNA can also be used to read the genome of animals, cells, or viruses that have been extinct and reconstruct them from scratch. 
+ 
 Next consider the following example:
 
 This link provides the full genome of the 1918 flu that infected up to one third of the world population a century ago: [Flu genome sequenced](https://www.the-scientist.com/?articles.view/articleNo/23462/title/Flu-genome-sequenced/).
+
+**Q.4.Should the sequence of the virus be availabele online?**
+
+**Q.5.Who should have access to tools (DNA read and write) for engineering living matter? How (or should) it be controlled?**
 
 Image Sources:
 1. Carlson Curves [link](https://synbiobeta.com/time-new-dna-synthesis-sequencing-cost-curves-rob-carlson/)
