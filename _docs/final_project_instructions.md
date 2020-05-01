@@ -13,7 +13,7 @@ Your final project has three major parts: (1) your WISH, (2) your PLAN, and (3) 
 
 Class projects must be submitted electronically via a link that will be shared later! We will host your projects on the class website.
 
-## LEARNING GOALs & MOTIVATION
+## LEARNING GOALS & MOTIVATION
 
 Our goal with the group project is to empower you to think about and plan for the future you wish to realize or contribute to.  We aim to enable you to devise and express your **wish** that can be implemented via bioengineering by 2030.  We will help you develop a practical plan for realizing your wish.  Finally, we will ask you to represent your wishes and plans as a story  (specifically, as a 3-act play that you make and record via Zoom with your team).   
 
@@ -23,31 +23,31 @@ Independent of your academic level, whether a first-year or a graduating senior,
 
 You and your team will have to complete the following deliverables as part of the project.  Some of the delieverables are do along the way. I.e., not everything is turned in at the end of quarter.
 
-***Team rules --- 6 pts***
+***Team rules (6 pts)***
 
-***Brainstorm and ideation --- 5 pts***
+***Brainstorm and ideation (5 pts)***
 
-***Priority setting and project selection --- 10 pts***
+***Priority setting and project selection (10 pts)***
 
-***Written Project Description--- 24 pts (3 points each)***
+***Written Project Description (24 pts, 3 points per)***
 
 	Answer the following eight questions (adapted from DARPA's Heilmeier Catechism):
   
-    ****1. What are you trying to do? Succintly articulate your wish using absolutely no jargon.****
+    1. What are you trying to do? Succintly articulate your wish using absolutely no jargon.
     
-	  ****2. What's happening today, what is the problem, or what are the limits of current practice?****
+	  2. What's happening today, what is the problem, or what are the limits of current practice?
     
-	  ****3. What is new in your approach and why do you think you will be successful?****
+	  3. What is new in your approach and why do you think you will be successful?
     
-	  ****4. Who cares? If you are successful, what difference will your success make?****
+	  4. Who cares? If you are successful, what difference will your success make?
     
-    ****5. What are the mid-term and final “exams” to check for success?****
+    5. What are the mid-term and final “exams” to check for success?
     
-	  ****6. What is the greatest obstacle to your success?****
+	  6. What is the greatest obstacle to your success?
     
-	  ****7. What could go horribly wrong? What are the risks?****
+	  7. What could go horribly wrong? What are the risks?
     
-	  ****8. How much will it cost?  How long will it take?****
+	  8. How much will it cost?  How long will it take?
 
 ***High-level storyboard --- 25 pts***
     Act 1 -- Your wish has come  true (key dialog, scene detailsm and mood setting re: your wish being true (i.e., living in the future)) 
