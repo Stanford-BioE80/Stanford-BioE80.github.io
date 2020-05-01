@@ -25,22 +25,22 @@ You will have to complete the following deliverables as part of the project.
 #### Team rules --- 5 pts
 #### Brainstorm and ideation --- 5 pts
 #### Priority --- 10 pts
-#### Written research and background document --- 20 pts
- Questions to conside (Modified Heilmeier Catechism)
-  What are you trying to do? Articulate your objectives using absolutely no jargon.
-  How is it done today, and what are the limits of current practice?
-  What is new in your approach and why do you think it will be successful?
-  Who cares? If you are successful, what difference will it make?
-  What are the mid-term and final “exams” to check for success?
-  What is the greatest obstacle?
-  What could go horribly wrong? What are the risks?
-  How much will it cost?  How long will it take?
+#### Written research and background document  --- 20 pts
+	Questions to conside (Modified Heilmeier Catechism)
+  	What are you trying to do? Articulate your objectives using absolutely no jargon.
+	  How is it done today, and what are the limits of current practice?
+	  What is new in your approach and why do you think it will be successful?
+	  Who cares? If you are successful, what difference will it make?
+  	What are the mid-term and final “exams” to check for success?
+	  What is the greatest obstacle?
+	  What could go horribly wrong? What are the risks?
+	  How much will it cost?  How long will it take?
 #### High-level storyboard --- 20 pts 
 #### Final Recording  --- 30 pts
-	Empathy for audience - 20 %
-	Clarity - 35 %
-	Science & technology - 35 %
-	Sizzle factor -10%
+	 Empathy for audience - 20 %
+	 Clarity - 35 %
+	 Science & technology - 35 %
+	 Sizzle factor -10%
 #### Team reviews --- 10 pts
 
 There will be additional information and deadlines for each deliverable.
