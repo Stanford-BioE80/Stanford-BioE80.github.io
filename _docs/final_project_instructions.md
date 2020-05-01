@@ -23,13 +23,13 @@ Independent of your academic level, whether a first-year or a graduating senior,
 
 You and your team will have to complete the following deliverables as part of the project.  Some of the delieverables are do along the way. I.e., not everything is turned in at the end of quarter.
 
-***Team rules (6 pts)***  Due: Fri 15 May 
+***Team rules (6 pts, Due: Fri 15 May)***  
 
-***Brainstorm and ideation (5 pts)***   Due: Fri 15 May 
+***Brainstorm and ideation (5 pts, Due: Fri 15 May)***  
 
-***Priority setting and project selection (10 pts)***  Due: Fri 22 May
+***Priority setting and project selection (10 pts, Due: Fri 22 May)***  
 
-***Written project description (24 pts, 3 points per)***  Due: Fri 29 May
+***Written project description (24 pts, 3 points per, Due: Fri 29 May)***  
 
 Answer the following eight questions (adapted from DARPA's Heilmeier Catechism):
 
@@ -49,7 +49,7 @@ Answer the following eight questions (adapted from DARPA's Heilmeier Catechism):
 
 - How much will it cost?  How long will it take?
 
-***High-level storyboard (15 pts)***  Due: Fri 5 June
+***High-level storyboard (15 pts, Due: Fri 5 June)*** 
 
 - Act 1 -- Your wish has come  true 
   (key dialog, scene detailsm and mood setting re: your wish being true (i.e., living in the future)) 
@@ -60,9 +60,9 @@ Answer the following eight questions (adapted from DARPA's Heilmeier Catechism):
 - Act 3 -- Path to victory 
   (ditto but re: the most important success realized along the path to success)
     
-***Final recording of play's performance (35 pts)***  Due: Thu 11 June
+***Final recording of play's performance (35 pts,  Due: Thu 11 June)***
 	
-***Internal team member reviews (5 pts)***   Due: Thu 11 June
+***Internal team member reviews (5 pts,   Due: Thu 11 June)***
 
 There will be additional information and deadlines for each deliverable.
 Briefly, your team’s final recording should be a 9-12 min zoom recording of your play, each Act being 3-4 min long. 
