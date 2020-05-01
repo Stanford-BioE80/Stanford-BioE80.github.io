@@ -21,7 +21,7 @@ Independent of your academic level, whether a first-year or a graduating senior,
 
 ## PROJECT COMPONENTS & POINT ALLOCATIONS
 
-You and your team will have to complete the following deliverables as part of the project.  Some of the delieverables are do along the way. I.e., not everything is turned in at the end of quarter.
+You and your team will have to complete the following deliverables as part of the project.  Some of the deliverables are due along the way (i.e., not everything is turned in at the end of quarter).
 
 ***Team rules (6 pts, Due: Fri 15 May)***  
 
