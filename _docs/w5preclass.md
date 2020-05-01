@@ -121,7 +121,7 @@ Next consider the following example:
 
 This link provides the full genome of the 1918 flu that infected up to one third of the world population a century ago: [Flu genome sequenced](https://www.the-scientist.com/?articles.view/articleNo/23462/title/Flu-genome-sequenced/).
 
-**Q.4.Should the sequence of the virus be availabele online?**
+**Q.4.Should the sequence of the virus be available online?**
 
 **Q.5.Who should have access to tools (DNA read and write) for engineering living matter? How (or should) it be controlled?**
 
