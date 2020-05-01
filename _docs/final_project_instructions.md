@@ -31,24 +31,6 @@ You and your team will have to complete the following deliverables as part of th
 
 ***Written Project Description (24 pts, 3 points per)***
 
-	Answer the following eight questions (adapted from DARPA's Heilmeier Catechism):
-  
-    - What are you trying to do? Succintly articulate your wish using absolutely no jargon.
-    
-	  - What's happening today, what is the problem, or what are the limits of current practice?
-    
-	  - What is new in your approach and why do you think you will be successful?
-    
-	  - Who cares? If you are successful, what difference will your success make?
-    
-    - What are the mid-term and final “exams” to check for success?
-    
-	  - What is the greatest obstacle to your success?
-    
-	  - What could go horribly wrong? What are the risks?
-    
-	  - How much will it cost?  How long will it take?
-
 ***High-level storyboard (25 pts)***
     Act 1 -- Your wish has come  true (key dialog, scene detailsm and mood setting re: your wish being true (i.e., living in the future)) 
     
@@ -67,61 +49,3 @@ Please turn in your final project **not later than 5p on Thursday 11 June.**
 You will NOT need to do a formal presentation or report in class.   
 
 Please ask us if you have any questions.   
-
-## GRADING RUBRIC AND ADVICE
-
-**Team Rules** -- you and your group decide your rules. 
-
-**Brainstorming** -- your list of ideas. 
-
-**Priority** -- you rank order top 5 ideas and select your project choice.  
-
-**Research and background document** -- your background research into the topic, including scientific, technological, policy aspects. More detail soon. The audience for this document is the teaching team. 
-
-**High-level storyboard** -- Early drafts of your play which represents the ideas from your 
-
-**Final Recording** -- A 3 act play that communicates the wish and the solution. 
-                    -- Act.1: Realized wish in the future
-                    -- Act.2: Crisis 
-                    -- Act.3: Journey 
-                    
-**Team reviews** -- we will share a link via Canvas after the project are submitted so that each team can determine their team-work score.
-
-What do we mean by...
-
-**CLARITY**
-
-- Is the topic clear?
-- Is there a clear and cohesive message directed at your specific audience? 
-- Data, images, plots, if any, are easy to follow and are clearly labeled 
-- Is the presentation self-explanatory?
-- Limited use of jargon
-
-**EMPATHY FOR AUDIENCE**
-
-- Is the intended audience obvious?
-- Why should the audience care about this topic/find it relevant or useful?
-- Are the messages appropriate for the target audience? Is it sensitive to the audience? 
-- Will the audience be engaged by the presentation? 
-- Is the medium in the service of the audience and topic?
-- Does the project serve the stated audience? 
-
-**SCIENCE & TECHNOLOGY**
-
-- Is any science or engineering represented technically correct?
-- Do you reference multiple independent, reputable sources? 
-- Is the relevance or connection to bioengineering clearly articulated?
-
-**SIZZLE FACTOR**
-
-- Is the project appealing and engaging? 
-- Is the execution quality high? (e.g., not a first draft, but polished work)
-
-SANDBOX
-
- Empathy for audience - 20 %
-	 Clarity - 35 %
-	 Science & technology - 35 %
-	 Sizzle factor - 10%
-
-
