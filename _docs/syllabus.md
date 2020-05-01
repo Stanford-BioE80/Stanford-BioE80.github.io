@@ -116,7 +116,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ----------- | -------|
 | Mon 4 May | DNA synthesis past, present, and future  |
 | Wed 6 May | Interconvertibility of genetic matter and information |
-| Fri 8 May | Team Project – Project priorities plus Story spine   |
+| Fri 8 May | Team Project – Project priorities + story spine   |
 
 ## Week 6: From Diffusion to Programmed Development
 
