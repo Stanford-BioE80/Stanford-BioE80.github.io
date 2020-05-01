@@ -7,7 +7,7 @@ toc: true
 
 ## FINAL PROJECT INTRODUCTION
 
-**Your Wish, your Plan, your Play**
+**Your Wish, Your Plan, Your Play**
 
 Your final project has three major parts: (1) your WISH, (2) your PLAN, and (3) your PLAY.  
 
