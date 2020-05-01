@@ -5,26 +5,32 @@ last_modified_at:
 toc: true
 ---
 
+**Final Project Instructions**
+
 Class projects must be submitted electronically via a link that will be shared later! We will host your projects on the class website.
 
-Final Project Instructions
-
-Your Wish, your Plan, your Play 
+**Your Wish, your Plan, your Play**
 
 Your final project has three major parts: (1) your WISH, (2) your PLAN, and (3) your PLAY.  
+
+**LEARNING GOALs & MOTIVATION**
 
 Our goal with the group project is to empower you to think about and plan for the future you wish to realize or contribute to.  We aim to enable you to devise and express your **wish** that can be implemented via bioengineering by 2030.  We will help you develop a practical plan for realizing your wish.  Finally, we will ask you to represent your wishes and plans as a story  (specifically, as a 3-act play that you make and record via Zoom with your team).   
 
 Independent of your academic level, whether a first-year or a graduating senior, we hope that the class project will enable you to take steps towards organizing your plans.  As a first-year, the project may help you decide what other courses to take in the future (i.e., serve as a cornerstone to your curriculum).  As a graduating senior, the project may help you reflect on what you have learned and use them in realizing your next steps, and may even serve as the first-draft of a specific plan for what you do next.  
 
-Rubric 
-You will have to complete the following deliverables as part of the project.
+**PROJECT COMPONENTS & POINT ALLOCATIONS**
 
-Team rules --- 6 pts
-Brainstorm and ideation --- 5 pts
-Priority setting and project selection --- 10 pts
-Written research and background document  --- 24 pts (3 points each)
-	Questions to conside (Modified Heilmeier Catechism)
+You and your team will have to complete the following deliverables as part of the project.  Some of the delieverables are do along the way. I.e., not everything is turned in at the end of quarter.
+
+***Team rules --- 6 pts***
+
+***Brainstorm and ideation --- 5 pts***
+
+***Priority setting and project selection --- 10 pts***
+
+***Written Project Description--- 24 pts (3 points each)***
+	Answer the following eight questions (adapted from DARPA's Heilmeier Catechism):
     1. What are you trying to do? Succintly articulate your wish using absolutely no jargon.
 	  2. What's happening today, what is the problem, or what are the limits of current practice?
 	  3. What is new in your approach and why do you think you will be successful?
@@ -34,18 +40,18 @@ Written research and background document  --- 24 pts (3 points each)
 	  7. What could go horribly wrong? What are the risks?
 	  8. How much will it cost?  How long will it take?
 
-High-level storyboard --- 25 pts
+***High-level storyboard --- 25 pts***
     Act 1 -- Your wish has come  true (key dialog, scene detailsm and mood setting re: your wish being true (i.e., living in the future)) 
     Act 2 -- Despair, challenge, disaster (ditto but re: the most dramatic challenge encountered in making wish true)
     Act 3 -- Path to victory (ditto but re: the most important success realized along the path to success)
 
-Final Recording of Play's Performance --- 25 pts
+***Final Recording of Play's Performance --- 25 pts***
 	 Empathy for audience - 20 %
 	 Clarity - 35 %
 	 Science & technology - 35 %
 	 Sizzle factor - 10%
 
-Internal team member reviews --- 5 pts
+***Internal team member reviews --- 5 pts***
 
 There will be additional information and deadlines for each deliverable.
 Briefly, your team’s final recording should be a 9-12 min zoom recording of your play, each Act being 3-4 min long. 
@@ -55,7 +61,7 @@ You will NOT need to do a formal presentation or report in class.
 
 Please ask us if you have any questions.   
 
-## GRADING
+## GRADING RUBRIC AND ADVICE
 
 **Team Rules** -- you and your group decide your rules. 
 
