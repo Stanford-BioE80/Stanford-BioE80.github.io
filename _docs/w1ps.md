@@ -101,3 +101,6 @@ Do you have any unanswered questions or comments from the first week of class th
 You can make and keep track of your own private library of bioengineering research papers.  Tools can help.  For example here is a link to a free and useful resource: [Zotero](https://www.zotero.org/) The takeaway here is to make sure you have a system in place for managing your resources that support your thinking and problem solving.
 
 Biology refresher-1: If you need additional learning materials or refresher for biology you can start by going through the first three chapters (very brief don&#39;t worry) of The Machinery of Life by David S. Goodsell. An electronic copy of the book is available from Stanford Library and you should be able to access from [here](https://stanford.idm.oclc.org/login?url=https://link.springer.com/book/10.1007%2F978-0-387-84925-6)
+
+
+<sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w1ps.md) for teaching staff <sub><sup>
