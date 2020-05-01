@@ -9,7 +9,7 @@ toc: true
 
 **Your Wish, Your Plan, Your Play**
 
-Your final project has three major parts: (1) your WISH, (2) your PLAN, and (3) your PLAY.  
+Your final project has three major parts: (1) your wish, (2) your plan, and (3) your play.  
 
 Class projects must be submitted electronically via a link that will be shared later! We will host your projects on the class website.
 
