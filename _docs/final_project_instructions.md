@@ -7,11 +7,11 @@ toc: true
 
 ## FINAL PROJECT INTRODUCTION
 
-**Class projects must be submitted electronically via a link that will be shared later! We will host your projects on the class website.
-
 **Your Wish, your Plan, your Play**
 
 Your final project has three major parts: (1) your WISH, (2) your PLAN, and (3) your PLAY.  
+
+Class projects must be submitted electronically via a link that will be shared later! We will host your projects on the class website.
 
 ## LEARNING GOALs & MOTIVATION
 
@@ -30,14 +30,23 @@ You and your team will have to complete the following deliverables as part of th
 ***Priority setting and project selection --- 10 pts***
 
 ***Written Project Description--- 24 pts (3 points each)***
+
 	Answer the following eight questions (adapted from DARPA's Heilmeier Catechism):
+  
     ****1. What are you trying to do? Succintly articulate your wish using absolutely no jargon.****
+    
 	  ****2. What's happening today, what is the problem, or what are the limits of current practice?****
+    
 	  ****3. What is new in your approach and why do you think you will be successful?****
+    
 	  ****4. Who cares? If you are successful, what difference will your success make?****
+    
     ****5. What are the mid-term and final “exams” to check for success?****
+    
 	  ****6. What is the greatest obstacle to your success?****
+    
 	  ****7. What could go horribly wrong? What are the risks?****
+    
 	  ****8. How much will it cost?  How long will it take?****
 
 ***High-level storyboard --- 25 pts***
