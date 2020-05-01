@@ -29,7 +29,7 @@ You and your team will have to complete the following deliverables as part of th
 
 ***Priority setting and project selection (10 pts)***
 
-***Written Project Description (24 pts, 3 points per)***
+***Written project description (24 pts, 3 points per)***
 
 Answer the following eight questions (adapted from DARPA's Heilmeier Catechism):
 
@@ -60,7 +60,7 @@ Answer the following eight questions (adapted from DARPA's Heilmeier Catechism):
 - Act 3 -- Path to victory 
   (ditto but re: the most important success realized along the path to success)
     
-***Final Recording of Play's Performance (35 pts)***
+***Final recording of play's performance (35 pts)***
 	
 ***Internal team member reviews (5 pts)***
 
