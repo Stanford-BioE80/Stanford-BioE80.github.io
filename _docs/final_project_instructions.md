@@ -33,12 +33,19 @@ You and your team will have to complete the following deliverables as part of th
 Answer the following eight questions (adapted from DARPA's Heilmeier Catechism):
 
 -What are you trying to do? Succinctly articulate your wish using absolutely no jargon.
+
 -What's happening today, what is the problem, or what are the limits of current practice?
+
 -What is new in your approach and why do you think you will be successful?
+
 -Who cares? If you are successful, what difference will your success make?
+
 -What are the mid-term and final “exams” to check for success?
+
 -What is the greatest obstacle to your success?
+
 -What could go horribly wrong? What are the risks?
+
 -How much will it cost?  How long will it take?
 
 ***High-level storyboard (25 pts)***
