@@ -66,6 +66,7 @@ Answer the following eight questions (adapted from DARPA's Heilmeier Catechism):
 
 There will be additional information and deadlines for each deliverable.
 Briefly, your team’s final recording should be a 9-12 min zoom recording of your play, each Act being 3-4 min long. 
+
 Please turn in your final project **not later than 5p on Thursday 11 June.** 
 
 You will NOT need to do a formal presentation or report in class.   
