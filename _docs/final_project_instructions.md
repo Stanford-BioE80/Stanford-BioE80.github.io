@@ -5,9 +5,7 @@ last_modified_at:
 toc: true
 ---
 
-Class projects must be submitted electronically via a link that will be shared later! 
-
-We will host your projects on the class website.
+##Class projects must be submitted electronically via a link that will be shared later! We will host your projects on the class website.
 
 # Final Project Instructions
 
