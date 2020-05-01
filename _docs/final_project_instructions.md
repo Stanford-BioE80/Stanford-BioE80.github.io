@@ -30,6 +30,7 @@ You and your team will have to complete the following deliverables as part of th
 ***Priority setting and project selection (10 pts)***
 
 ***Written Project Description (24 pts, 3 points per)***
+
 Answer the following eight questions (adapted from DARPA's Heilmeier Catechism):
 
 -What are you trying to do? Succinctly articulate your wish using absolutely no jargon.
