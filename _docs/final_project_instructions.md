@@ -5,21 +5,21 @@ last_modified_at:
 toc: true
 ---
 
-**Final Project Instructions**
+##FINAL PROJECT INTRODUCTION
 
-Class projects must be submitted electronically via a link that will be shared later! We will host your projects on the class website.
+**Class projects must be submitted electronically via a link that will be shared later! We will host your projects on the class website.
 
 **Your Wish, your Plan, your Play**
 
 Your final project has three major parts: (1) your WISH, (2) your PLAN, and (3) your PLAY.  
 
-**LEARNING GOALs & MOTIVATION**
+##LEARNING GOALs & MOTIVATION
 
 Our goal with the group project is to empower you to think about and plan for the future you wish to realize or contribute to.  We aim to enable you to devise and express your **wish** that can be implemented via bioengineering by 2030.  We will help you develop a practical plan for realizing your wish.  Finally, we will ask you to represent your wishes and plans as a story  (specifically, as a 3-act play that you make and record via Zoom with your team).   
 
 Independent of your academic level, whether a first-year or a graduating senior, we hope that the class project will enable you to take steps towards organizing your plans.  As a first-year, the project may help you decide what other courses to take in the future (i.e., serve as a cornerstone to your curriculum).  As a graduating senior, the project may help you reflect on what you have learned and use them in realizing your next steps, and may even serve as the first-draft of a specific plan for what you do next.  
 
-**PROJECT COMPONENTS & POINT ALLOCATIONS**
+##PROJECT COMPONENTS & POINT ALLOCATIONS
 
 You and your team will have to complete the following deliverables as part of the project.  Some of the delieverables are do along the way. I.e., not everything is turned in at the end of quarter.
 
@@ -31,14 +31,14 @@ You and your team will have to complete the following deliverables as part of th
 
 ***Written Project Description--- 24 pts (3 points each)***
 	Answer the following eight questions (adapted from DARPA's Heilmeier Catechism):
-    1. What are you trying to do? Succintly articulate your wish using absolutely no jargon.
-	  2. What's happening today, what is the problem, or what are the limits of current practice?
-	  3. What is new in your approach and why do you think you will be successful?
-	  4. Who cares? If you are successful, what difference will your success make?
-    5. What are the mid-term and final “exams” to check for success?
-	  6. What is the greatest obstacle to your success?
-	  7. What could go horribly wrong? What are the risks?
-	  8. How much will it cost?  How long will it take?
+    ****1. What are you trying to do? Succintly articulate your wish using absolutely no jargon.****
+	  ****2. What's happening today, what is the problem, or what are the limits of current practice?****
+	  ****3. What is new in your approach and why do you think you will be successful?****
+	  ****4. Who cares? If you are successful, what difference will your success make?****
+    ****5. What are the mid-term and final “exams” to check for success?****
+	  ****6. What is the greatest obstacle to your success?****
+	  ****7. What could go horribly wrong? What are the risks?****
+	  ****8. How much will it cost?  How long will it take?****
 
 ***High-level storyboard --- 25 pts***
     Act 1 -- Your wish has come  true (key dialog, scene detailsm and mood setting re: your wish being true (i.e., living in the future)) 
