@@ -92,9 +92,9 @@ Specifically, you need to design an integrated genetic system, built from reusea
   
   - When daylight is NOT present AND only in cells comprising the flower’s stamen filament then plant autoluminscence should be ON. Please note that cells comprising the flower’s stamen filament can be uniquely identified because they contain two active transcription factors, thorny AND slender.  
 
-Draw a system's level diagram tht implements this glowing plant.  
+Draw a system's level diagram that implements this glowing plant.  
 
-*Extra Estimation problem (0 points)*  Let's consider the plants presented in the paper. Paper states that the plant emits lights reaching up to 10^10 photons per minute. Looking at Figure-1.a, you may assume that the emitted light has a wavelength of 525 nm.  How many watt-hours of illumination per day do you expect from a glowing plant presented in the paper?
+*Extra Estimation problem (0 points)*  Let's consider the specific plants reporterd in the paper. The paper states that the plant emits lights reaching up to 10^10 photons per minute. Looking at Figure-1.a, you may assume that the emitted light has a wavelength of 525 nm.  How many watt-hours of illumination per day do you expect from a glowing plant presented in the paper?
 (Hints: You will need to use Planck constant and speed of light to calculate a photon's energy for a given wavelength)
 
 ## Extra resources, learning, and Practice Questions
