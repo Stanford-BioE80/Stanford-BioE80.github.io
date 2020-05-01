@@ -81,13 +81,13 @@ What do we mean by...
 - Is the medium in the service of the audience and topic?
 - Does the project serve the stated audience? 
 
-**SCIENCE & TECHNOLOGY **
+**SCIENCE & TECHNOLOGY**
 
 - Is any science or engineering represented technically correct?
 - Do you reference multiple independent, reputable sources? 
 - Is the relevance or connection to bioengineering clearly articulated?
 
-**SIZZLE FACTOR **
+**SIZZLE FACTOR**
 
 - Is the project appealing and engaging? 
 - Is the execution quality high? (e.g., not a first draft, but polished work)
