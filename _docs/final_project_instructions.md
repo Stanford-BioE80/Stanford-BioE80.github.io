@@ -49,11 +49,15 @@ Answer the following eight questions (adapted from DARPA's Heilmeier Catechism):
 
 - How much will it cost?  How long will it take?
 
-***High-level storyboard (25 pts)***
-    
-    Act 1 -- Your wish has come  true 
+***High-level storyboard (25 pts)*** 
+
+- Act 1 -- Your wish has come  true 
     (key dialog, scene detailsm and mood setting re: your wish being true (i.e., living in the future)) 
 
+- Act 2 -- Despair, challenge, disaster 
+  (ditto but re: the most dramatic challenge encountered in making wish true)
+    
+    
 ***Final Recording of Play's Performance (25 pts)***
 	
 ***Internal team member reviews (5 pts)***
