@@ -100,5 +100,5 @@ docs:
 
   - title: Final Project
     children:
-      #- title: "Instructions"
-      #  url: /docs/final_project_instructions
+      - title: "Instructions"
+        url: /docs/final_project_instructions
