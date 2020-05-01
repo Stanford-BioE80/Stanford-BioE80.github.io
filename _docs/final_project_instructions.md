@@ -20,7 +20,7 @@ Independent of your academic level, whether a first-year or a graduating senior,
 Rubric 
 You will have to complete the following deliverables as part of the project.
 
-Team rules --- 5 pts
+Team rules --- 6 pts
 Brainstorm and ideation --- 5 pts
 Priority setting and project selection --- 10 pts
 Written research and background document  --- 24 pts (3 points each)
@@ -45,7 +45,7 @@ Final Recording of Play's Performance --- 25 pts
 	 Science & technology - 35 %
 	 Sizzle factor - 10%
 
-Internal team member reviews --- 10 pts
+Internal team member reviews --- 5 pts
 
 There will be additional information and deadlines for each deliverable.
 Briefly, your team’s final recording should be a 9-12 min zoom recording of your play, each Act being 3-4 min long. 
