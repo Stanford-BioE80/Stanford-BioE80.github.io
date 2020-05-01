@@ -10,46 +10,58 @@ Class projects will be submitted to a dropbox link that will be shared at a late
 
 We will host your projects on the class website.
 
-# Final Project Rubric (15% of grade)
+# Final Project 
 
-**Team Rules - 6pts**
+## Your wish, your plan, your play 
 
-**Brainstorming - 30pts**
+Your final project has three major parts.  They are your wish, your plan, and your play.  
 
-**Picking an Audience, Topic, and Medium - 30pts**
+The goal of the final group project is to empower you to think about and plan for a future you wish to realize.  We aim to enable you to devise and express your **wish** that can be implemented via bioengineering by 2030.  We will help you develop a practical\technical plan for realizing your wish.  Finally, we will ask you to represent these wishes and plans as a story  (specifically a 3-act zoom play).   
 
-**Team Work - 4 pts**
+Independent of your academic level, whether a first-year or a graduating senior, we hope that the project will enable you to take steps towards organizing your plans.  As a first-year, the project may help you decide what other courses to take in the future.  As a graduating senior, the project may help you reflect on what you have learned and use them in realizing your next steps.  
 
-**Final Deliverable - 30 pts**
+## Rubric 
+You will have to complete the following deliverables as part of the project.
 
+#### Team rules --- 10 pts
+#### Brainstorm and ideation --- 10 pts
+#### Written research and background document --- 20 pts
+#### High-level storyboard --- 20 pts 
+#### Final Recording  --- 30 pts
+	Empathy for audience - 20 %
+	Clarity - 35 %
+	Science & technology - 35 %
+	Sizzle factor -10%
+#### Team reviews --- 10 pts
 
-Your team’s final project deliverable should be a “presentation” in a format that can be easily shared and experienced by any interested party (e.g., a video, article, recording, podcast, or any other digital artifact). 
+There will be additional information and deadlines for each deliverable.
+Briefly, your team’s final recording should be a 12-15 min zoom recording (play). 
+Please turn in your final project **not later than 5p on Thursday 11 June.** 
 
-Your target audience should expect to spend not more than 5 minutes experiencing your project. 
+You will NOT need to do a formal presentation or report in class.   
 
-Please turn in your final project **not later than 5p on Thursday 6 June.  Early submissions are welcome.** 
-
-You will NOT need to do a formal presentation or report in class.   Your final project takes the place of a final exam (i.e., there is no final exam for this course).
-
-**Please also see the example at the bottom.**  Please, please ask us if you have any questions.   
-
+Please ask us if you have any questions.   
 
 ## GRADING
 
+**Team Rules** -- you and your group decide your rules. 
 
-**Team Rules** -- graded as part of Project Activity 1
+**Brainstorming** -- your list of ideas. 
 
-**Brainstorming** -- graded as part of Project Activity 1
+**Research and background document** -- your background research into the topic, including scientific, technological, policy aspects. More detail soon. The audience for this document is the teaching team. 
 
-**Picking Audience, Topic, & Medium** -- graded as part of Project Activity 2
+**High-level storyboard** -- Early drafts of your play which represents the ideas from your 
 
-**Team Work** -- we will share a link via Canvas after the project are submitted so that each team can determine their team-work score.
+**Final Recording** -- a 3 act play that communicates the wish and the solution. 
+                    -- Act.1: Realized wish in the future
+                    -- Act.2: Crisis 
+                    -- Act.3: Journey 
+                    
+**Team reviews** -- we will share a link via Canvas after the project are submitted so that each team can determine their team-work score.
 
+What do we mean by...
 
-## Final Deliverable 
-
-
-**CLARITY - 7 pts**
+**CLARITY**
 
 - Is the topic clear?
 - Is there a clear and cohesive message directed at your specific audience? 
@@ -57,7 +69,7 @@ You will NOT need to do a formal presentation or report in class.   Your final p
 - Is the presentation self-explanatory?
 - Limited use of jargon
 
-**EMPATHY FOR AUDIENCE - 10 pts**
+**EMPATHY FOR AUDIENCE**
 
 - Is the intended audience obvious?
 - Why should the audience care about this topic/find it relevant or useful?
@@ -66,24 +78,13 @@ You will NOT need to do a formal presentation or report in class.   Your final p
 - Is the medium in the service of the audience and topic?
 - Does the project serve the stated audience? 
 
-**SCIENCE & TECHNOLOGY - 10 pts**
+**SCIENCE & TECHNOLOGY **
 
 - Is any science or engineering represented technically correct?
-- Do you reference two or more independent, reputable sources? 
-- Is clear guidance provided for how an interested audience member could learn more, on their ownn
+- Do you reference multiple independent, reputable sources? 
 - Is the relevance or connection to bioengineering clearly articulated?
 
-**SIZZLE FACTOR - 3 pts**
+**SIZZLE FACTOR **
 
 - Is the project appealing and engaging? 
-- Does the audience want to know more after engaging with this material?
 - Is the execution quality high? (e.g., not a first draft, but polished work)
-
-**Reflection Document to Help Address Above**
-
-To help you earn all the credit you deserve for each of these four topics please also turn in four paragraphs detailing exactly how you addressed each topic within the context of your project (max. of 200 words per paragraph).  
-
-
-**Does the above not make enough sense?  That’s reasonable.  Let’s consider a specific example to help advance your thinking:**
-
-Let’s say you wish to introduce student athletes (primary audience) and others (secondary audiences) to the topic of regenerative medicine.  By what medium might you best reach student athletes?  You can answer this question well by first considering who are student athletes, what do they care about uniquely (compared to a broader generic audience), and where do they spend their time, doing what?  If you can answer these sorts of questions then you have a better chance of developing materials and organizing your materials into a format to produce a final project that actually has a chance of both reaching and informing your target audience.  So, let’s see… what if there was a video message from other student athletes that could play on the big display at Maples Pavilion during time outs in the basketball or volleyball games?  What if there was an animated short or slide show that played on the displays in the weight rooms?  What if the Stanford Band or Dollies developed a new song, dance, or program?  What if you carefully and responsibly edited a team’s hype video to let them know how exciting regenerative medicine and bioengineering can be?  You see!  It’s easy once you think a little bit about your audience and take them seriously! 
