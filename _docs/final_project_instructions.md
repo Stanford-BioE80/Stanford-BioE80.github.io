@@ -31,6 +31,7 @@ You and your team will have to complete the following deliverables as part of th
 
 ***Written Project Description (24 pts, 3 points per)***
 - Answer the following eight questions (adapted from DARPA's Heilmeier Catechism):
+-- What are you trying to do? Succinctly articulate your wish using absolutely no jargon.
 
 ***High-level storyboard (25 pts)***
     Act 1 -- Your wish has come  true (key dialog, scene detailsm and mood setting re: your wish being true (i.e., living in the future)) 
