@@ -155,3 +155,6 @@ While the plate assays (growing bacteria on defined media) and looking at growth
 During the class, you will use the plates that you prepared on Wednesday to examine and classifying the microbes
 that grew on your plates. To prepare for this make sure to take a look at the first page of this
 [link](http://delrio.dcccd.edu/jreynolds/microbiology/2421/lab_manual/colony_morph.pdf)
+
+
+<sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w6preclass.md) for teaching staff <sub><sup>
