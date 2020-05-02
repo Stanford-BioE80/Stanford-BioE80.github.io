@@ -138,3 +138,6 @@ To get started please spend ~5 minutes watching these two videos:
 
 
 And optional reading [Vapour-mediated sensing and motility in two-component droplets](https://www.nature.com/articles/nature14272)
+
+
+<sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w8preclass.md) for teaching staff <sub><sup>
