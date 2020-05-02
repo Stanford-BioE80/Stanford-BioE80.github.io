@@ -100,3 +100,5 @@ In general, [explore biology](https://explorebiology.org/) is a useful resource.
 3. [Realizing Synthetic Carbon Dioxide Fixation](https://www.ibiology.org/bioengineering/synthetic-carbon-dioxide-fixation/) by Tobias Erb
 
 4. [Synthetic Biology in a Societal Context](https://www.ibiology.org/bioengineering/scientists-society-synthetic-biology-societal-context/) by Emma Frow 
+
+<sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w2ps.md) for teaching staff <sub><sup>
