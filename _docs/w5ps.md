@@ -138,3 +138,6 @@ phage (i.e., bacterial viruses [The Bacteriophage Video](https://www.youtube.com
 “The learning curve was steep and unmarked. There were bouts of sepsis — a life-threatening omplication caused by massive infection. Despite improvement, (the) patient’s conditionremained precarious. Doctors discovered that the bacterium eventually developed resistance to the phage, what Schooley would characterize as “the recurring Darwinian dance,” but the team compensated by continually tweaking treatment with new phage strains — some that had derived from sewage — and antibiotics.” [source](https://health.ucsd.edu/news/releases/Pages/2017-04-25-novel-phage-therapy-saves-patient-with-multidrug-resistant-bacterial-infection.aspx)
 
 **Q.7.a.** From the above text and thinking back to what you learned about evolution, what are the challenges associated with implementing Phage therapy?
+
+
+<sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w5ps.md) for teaching staff <sub><sup>
