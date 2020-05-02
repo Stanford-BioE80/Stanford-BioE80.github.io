@@ -214,3 +214,6 @@ Using this toolkit, label the gene-regulatory network diagram with the correspon
 <a href="/assets/PSET4-2020 Q4C.png"><img src="/assets/PSET4-2020 Q4C.png"></a>
 <figcaption><b>Figure 4</b>. Implement the toggle switch according to your labeled gene-regulatory network.</figcaption>
 </figure>
+
+
+<sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w4ps.md) for teaching staff <sub><sup>
