@@ -161,3 +161,6 @@ ________________________________________________________________________________
 - Video lecture: [Programming Living Bacteria](https://www.ibiology.org/bioengineering/genetic-circuits/) by Chris Voigt.
 
 - A comprehensive video series on microscopy (includes: fundmentals, tools, and techniques) from iBiology [resources](https://www.ibiology.org/online-biology-courses/microscopy-series/microscopy-series-table-contents/) 
+
+<sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w3preclass.md) for teaching staff <sub><sup>
+
