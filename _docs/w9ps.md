@@ -55,3 +55,7 @@ Note: A good rule of thumb for the volume of a DNA base pair is that one base pa
 2.d. How much DNA could be packed into an *E. coli* cell, assuming that the whole cellvolume only contains DNA? Why is this number ridiculous? (i.e., the *E. coli* genome issignificantly smaller: why?)
 
 Additional resources: If you like to learn more about various genome sizes please visit this [link](http://book.bionumbers.org/how-big-are-genomes/)
+
+
+
+<sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w9ps.md) for teaching staff <sub><sup>
