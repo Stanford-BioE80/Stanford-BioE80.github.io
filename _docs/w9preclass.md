@@ -79,3 +79,6 @@ STOP HERE REGARDLESS AND DECIDE IF YOU HAVE MORE TIME TO SPEND ON THE PAPER
 gambiae*](https://www.nature.com/articles/nbt.3439)
 
 2. [Identification of an infectious progenitor for the multiple-copy HERV-K human endogenous retroelements](https://genome.cshlp.org/content/16/12/1548.long)
+
+
+<sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w9preclass.md) for teaching staff <sub><sup>
