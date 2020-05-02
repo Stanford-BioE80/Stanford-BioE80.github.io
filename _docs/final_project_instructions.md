@@ -72,3 +72,6 @@ Please turn in your final project **not later than 5p on Thursday 11 June.**
 You will NOT need to do a formal presentation or report in class.   
 
 Please ask us if you have any questions.   
+
+
+<sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/final_project_instructions.md) for teaching staff <sub><sup>
