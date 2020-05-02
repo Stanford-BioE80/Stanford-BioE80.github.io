@@ -153,4 +153,4 @@ Please include quantitative reasoning in your answer.
 and vice versa?
 
 
-<sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w1ps.md) for teaching staff <sub><sup>
+<sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w6ps.md) for teaching staff <sub><sup>
