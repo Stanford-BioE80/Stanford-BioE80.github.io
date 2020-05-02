@@ -125,3 +125,4 @@ Finally, please watch the [~5' video of testimony by bioengineer Dr. Megan Palme
 
 
 ______________________________________________________
+<sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w2preclass.md) for teaching staff <sub><sup>
