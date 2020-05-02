@@ -116,3 +116,6 @@ The following link takes you to a paper titled [Life at Low Reynolds Number](htt
 
 **Your questions**
 Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
+
+
+<sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w8ps.md) for teaching staff <sub><sup>
