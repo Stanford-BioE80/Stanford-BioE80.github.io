@@ -295,3 +295,5 @@ Also, assume that you can purchase glass lenses ranging from 150, 250, 400, 750,
 
 **EX.2.e** As you are going through this design activity, a team member asks you about the difference between resolution and magnification. First, Describe the difference between resolution and magnification and include your reference(s). 
 (Hint take a look at figure-4.b from the paper, describe the relationship resolution and magnification)
+
+<sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w3ps.md) for teaching staff <sub><sup>
