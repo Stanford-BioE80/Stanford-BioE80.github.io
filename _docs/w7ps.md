@@ -69,3 +69,5 @@ Select one of the four cases that were presented in class on Friday.
 
 **Your questions or concerns** Do you have any unanswered questions or concerns (from this week, past weeks, or general BIOE) that you would like to share with us?
 
+
+<sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w7ps.md) for teaching staff <sub><sup>
