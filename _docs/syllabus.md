@@ -172,3 +172,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 ## Extra Resources
 [David Goodsell (2009): The Machinery of Life](https://link.springer.com/book/10.1007%2F978-0-387-84925-6) 
 -->
+
+
+<sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/syllabus.md) for teaching staff <sub><sup>
+
