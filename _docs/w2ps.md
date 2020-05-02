@@ -103,5 +103,3 @@ In general, [explore biology](https://explorebiology.org/) is a useful resource.
 
 <sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w2ps.md) for teaching staff <sub><sup>
 
-
-<sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w2ps.md) for teaching staff <sub><sup>
