@@ -84,3 +84,6 @@ Third and lastly, please read the one-page essay, She Unnames Them, by Ursula Le
 **Q.12. Who is the protagonist?**
 
 **Q.13. What does it mean to unname a species?**
+
+
+<sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w7preclass.md) for teaching staff <sub><sup>
