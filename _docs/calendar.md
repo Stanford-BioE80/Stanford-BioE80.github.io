@@ -7,10 +7,12 @@ toc: true
 ### Zoom link (same as class)
 [https://stanford.zoom.us/j/861034342?pwd=NkVXNUcwNVBKb1RCWnk3aTVydWJFQT09](https://stanford.zoom.us/j/861034342?pwd=NkVXNUcwNVBKb1RCWnk3aTVydWJFQT09)
 
+```
 ### Calendar
 <figure>
 <a href="/assets/images/office_hours.png"><img src="/assets/images/office_hours.png"></a>
 </figure>
+```
 
 ### Teaching Assistants
 <figure>
