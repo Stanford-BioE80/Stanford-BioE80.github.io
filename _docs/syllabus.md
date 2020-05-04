@@ -31,17 +31,17 @@ Co-Instructor, Prof. Michael Specter; Office Hours Wed 16:00-17:00; [specterm@st
 
 ### Teaching Assistants
 
-Jon Calles; Office Hours Sun 13:00-15:00; [jecalles@stanford.edu](mailto:jecalles@stanford.edu)
+Jon Calles; Office Hours Fri 15:00-16:00; [jecalles@stanford.edu](mailto:jecalles@stanford.edu)
 
-Nicolai Ostberg; Office Hours  Fri 14:30-15:30; [nostberg@stanford.edu](mailto:nostberg@stanford.edu)
+Nicolai Ostberg; Office Hours  Fri 15:30-16:30; [nostberg@stanford.edu](mailto:nostberg@stanford.edu)
 
-Naomi Pacalin; Office Hours Thu 17:00-18:00; [npacalin@stanford.edu](mailto:npacalin@stanford.edu)
+Naomi Pacalin; Office Hours Tues 10:00-11:00; [npacalin@stanford.edu](mailto:npacalin@stanford.edu)
 
 Julisia Chau; Office Hours Mon 09:00-10:00; [jhchau@stanford.edu](mailto:jhchau@stanford.edu)
 
-Brianna Chrisman; Office Hours Wed 07:00-08:00; [briannac@stanford.edu](mailto:briannac@stanford.edu)
+Brianna Chrisman; Office Hours Wed 09:00-10:00; [briannac@stanford.edu](mailto:briannac@stanford.edu)
 
-Victor Tieu; Office Hours Mon 20:00-21:00; [vtieu@stanford.edu](mailto:vtieu@stanford.edu)
+Victor Tieu; Office Hours Mon 16:00-17:00; [vtieu@stanford.edu](mailto:vtieu@stanford.edu)
 
 If the schedule does not work well for you, please contact us on Piazza with suggestions on how we can better accommodate your circumstances. All times in PST. Office hours are held on the same [zoom link](https://stanford.zoom.us/j/861034342?pwd=NkVXNUcwNVBKb1RCWnk3aTVydWJFQT09) as class.
 
