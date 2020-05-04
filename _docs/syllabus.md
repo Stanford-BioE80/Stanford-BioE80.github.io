@@ -114,8 +114,8 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 | Day         | Title  |
 | ----------- | -------|
-| Mon 4 May | DNA synthesis past, present, and future  |
-| Wed 6 May | Interconvertibility of genetic matter and information |
+| Mon 4 May | DNA sequencing (read) and synthesis (write), core concepts  |
+| Wed 6 May | DNA read/write strategy, from exponentials to interconvertibility of matter and information |
 | Fri 8 May | Team Project – Project priorities + story spine   |
 
 ## Week 6: From Diffusion to Programmed Development
