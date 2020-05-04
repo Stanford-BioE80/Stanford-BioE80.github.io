@@ -6,13 +6,15 @@ toc: true
 
 Link to course materals from Week 5. 
 
-<!--
+
 # Day 13: May 4, 2020
 
-[Class Slides](https://stanford-bioe80.github.io/docs/Stanford_BIOE80_Day13_06May20.pdf)
+[Class Slides](https://stanford-bioe80.github.io/docs/Stanford_BIOE80_Day13_04May20.pdf)
+
+[Sequencing Slides](https://stanford-bioe80.github.io/docs/Stanford_BIOE80_Day13_04May20_Sequencing.pdf)
 
 [Class Audio/Video](https://canvas.stanford.edu/courses/115648/files/folder/4%20May%202020%20-%20Audio%20Video)
--->
+
 
 <!--
 # Day 14: May 6, 2020
