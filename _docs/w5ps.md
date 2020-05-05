@@ -61,21 +61,81 @@ Helpful resources:
 
 Given the increasing trends in productivity of sequencing. In what century can a team of 10 sequence 5.3 x 10^37 bases in a month?  We will use the information from Carlson Curves to provide a projection. 
 
-To do so you can use the following step by step approach. 
-
 ![Carlson Curves](/assets/images/PSET6_Crlson_Productivity.png
  "Productivity in DNA Sequencing and Synthesis")
  
- - Step.1: Determine the team's productivity given a month (assume 30 days per month).  
+ There are many ways to solve this problem. Your final number will deponds on and is sensetive to your assumptions.  
+ You can use your own method or use the suggested assumptions and steps
+   
+Assumption.1:
+- Let’s assume the trend in sequencing productivity since 2005 will continue.  
+Specifically let’s estimate 2005 productivity 10^7 (bases\ person\day) and let’s estimate 2010 productivity to be 10^10  (bases\ person\day).  We can use these numbers to say every 5 years sequencing productivity will get 1000x better.
 
-$
-productivity= \frac{bases}{\lpersonxday} x \frac{10 person}{\team} x \frac{30day}{\month}
-$
+Assumption.2:
+- From the graph we can estimate our current productivity at 10^11 (bases\ person\day)
 
- - Step.2: Determine inital conditions from the curve.  
- Let's say we assume t=0, 
+Step-1 (you have do some math here):
+- Let’s normalize total DNA: 5.3 x 10^37 bases releative to our team size (10) and the required time (30 days).
+
+$ productivity (bases\ person\day)= \frac{Total DNA}{\(team size x 30 days)}$
+
+ Step-2 (you have do some math here):
+ Construct a function with time as the variabl that relates the productivity rate, current productivity, and normalize total DNA.
+ 
+ $ normalize total DNA(time - #five year periods) = function (time- #five year periods, current productivity, productivity rate) $
  
  
+ 
+ 
+ ## Final Notes 
+
+This week you learned about tools and technologies that enable DNA read and write. As part of your core bioengineering skills you should be able to describe how these technologies work. You also learned about the non-trivial speed of development in these technologies and the various ramifications of this development.
+
+**Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?**
+
+
+## Extra learning (100% optional):
+
+### (Q4) (Nature + Nurture) or (Fab a Family) (0 pts)
+
+Over the past 12 years the price of synthesizing genes has dropped from $4 to $0.04
+per base pair; presume the future price of DNA synthesis will continue to drop two fold every two years.
+
+Meanwhile Stanford’s undergraduate tuition is approximately $50,000 per year up from $25,000 in 2000.  
+Presume Stanford’s tuition will continue to double every 15 years.
+
+**Q.4.a.** If a human genome is 4 billion base pairs long then when will the cost of synthesizing the DNA encoding an entire human genome be roughly the same as the tuition cost associated with attending Stanford for one year?
+
+Hint: Use the facts given. Keep your math simple, and write out the equations (i.e., show your work).
+An approximate answer is fine.
+
+**Q.4.b.**  What would be your estimate if the price of synthesizing genes continue to drop two fold every 2.5 years instead of 2 years (i.e., only a 6-month longer doubling time). An approximate answer is fine.
+
+**Q.4.c.** Given your answer from part (a) presume that you could then design, build, and bring to life a human encoded by a genome that you design (e.g., with any and all mutations that you and your partner choose).  As potential parents would you prefer to spend your savings on college tuition for a natural child or on realizing a genetically engineered offspring who then has to make  their own way? Why? (2-3 sentences)
+
+### (Q5)Sequencing and Synthesis technologies (0 pts)
+
+In the pre-class material you were introduced to a DNA read method commonly referred to as next-generation sequencing (NGS) or massively parallel sequencing. Let’s examine an alternative approach, namely nanopore sequencing.
+
+Watch this [video](https://nanoporetech.com/products/minion)
+
+**5.a.** Describe how Nanopore sequencing works (use bullet points)
+
+MinION is a product that uses Nanopores for sequencing.
+While the error rate with Nanopore technology is between 5-10%. [additional Link](https://f1000research.com/articles/6-760/v1). This tool can be used to sequence and assemble a human genome
+[additional link](https://www.nature.com/articles/nbt.4060).  Now briefly examine the various products sequencing technology from Illumina [link](https://www.illumina.com/systems/sequencing-platforms/comparison-tool.html).
+
+**5.b.** How are NGS and Nanopore sequencing different?
+
+**5.c.** Imagine that the storage of information in DNA from the previous question has become a routine platform.
+You have been hired as a consultant for a library that seeks to store its archive inside the DNA medium.
+Your task is to determine suitable reading platforms. What type of“read technology” would you recommend:
+a sequencer that gives massive simultaneous short reads with very low error,
+or fast readers that reads long sequences with error rates as high as 15 %.
+Please include quantitative reasoning in your answer.  
+
+**5.d.** Where would you use an Illumina sequencing machine instead of a minION sequencing machine?
+and vice versa?
 
  
  
