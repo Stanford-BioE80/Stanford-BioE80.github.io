@@ -8,7 +8,7 @@ last_modified_at:
 
 ASSIGNED: Friday 01 May 2020
 
-DUE: 5:00p Pacific 01 May 2020
+DUE: 5:00p Pacific 08 May 2020
 
 **NOTES:**
 
