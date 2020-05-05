@@ -28,7 +28,7 @@ Given the trends in DNA read and write, consider using DNA as an alternative sto
 
 Helpful numbers:
 
-- Volume of storage facility = 10 million m^3
+- Volume of storage facility = $10x10^6 m^3$
 - Letters per cubic meter of typical government document = 10^9 letters/m^3
 - Volume of a DNA base pair ~ 10^-27 m^3
 
