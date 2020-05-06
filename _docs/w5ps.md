@@ -129,11 +129,12 @@ Hint: Use the facts given. Keep your math simple. Show your work. An approximate
 
 **Q.3.c** Given your answer from part (a) presume that you could then design, build, and bring to life a human encoded by a genome that you design (e.g., with any and all mutations that you and your partner choose).  As potential parents, would you prefer to spend your savings on college tuition for a natural child or on realizing a genetically engineered offspring who then has to make their own way? Why? (2-3 sentences)
  
- ## (Q4) Paper reading activity (30 pts)
+ 
+## (Q4) Paper reading activity (30 pts)
  
 First examine, [Rapid reconstruction of SARS-CoV-2 using a synthetic genomics platform](https://www.nature.com/articles/s41586-020-2294-9_reference.pdf) or [here](https://www.nature.com/articles/s41586-020-2294-9)
  
-**Q.4.a** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? In your own words, describe how does the Repressilator work? (2-3 sentences)
+**Q.4.a** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim?  (2-3 sentences)
  
 **Q.4.b.** What is your reaction and thoughts to this work? What are the benefits and risks of this work? Do the benefits of the paper outweigh its risks?  Should this work be published?  Think back to Rousseau and Hobbes's discussion from Week-2, and consider the interconvertability of DNA as matter and information. (3-4 sentences)
  
