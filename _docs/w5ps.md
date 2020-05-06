@@ -138,18 +138,16 @@ Examine [Rapid reconstruction of SARS-CoV-2 using a synthetic genomics platform]
  
 **Q.4.a** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? In your own words, describe how does the Repressilator work? (2-3 sentences)
  
- **Q.4.b.** Think back to Rousseau and Hobbes discussion from Week-3. Consider the interconvertability of DNA as matter and information.  What is your reaction and thoughts to this work?  Should this work be published? (2-3 sentences)
+ **Q.4.b.** What is your reaction and thoughts to this work?  Should this work be published? Think back to Rousseau and Hobbes discussion from Week-2, and onsider the interconvertability of DNA as matter and information. (~3 sentences)
  
+(We wish to hear your thoughts and we don’t have a “correct answer” in mind. Instead, we wish for you to think deeply and  practice your written communication skills)
  
- What is the role interconvertability of DNA as matter and information in realizing this paper? 
  
  
  
 
-
+ 
  ## Extra learning (100% optional):
-
-
 
 
 ### (Q5)Sequencing and Synthesis technologies (0 pts)
@@ -175,7 +173,3 @@ Please include quantitative reasoning in your answer.
 
 **5.d.** Where would you use an Illumina sequencing machine instead of a minION sequencing machine?
 and vice versa?
-
- 
- 
- Adjust the total sequence for time (assume there are 30 days per month) and team size (10 people).  To do so 
