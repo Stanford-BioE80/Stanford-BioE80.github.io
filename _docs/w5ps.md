@@ -117,10 +117,10 @@ Change t form number of five year periods to years. Add to initial time startin 
 
 ## (Q3) (Nature + Nurture) or (Fab a Family) (20 pts)
 
-Over the past 12 years the price of synthesizing genes has dropped from $4 to $0.04
+Over the past 12 years the price of synthesizing genes has dropped from  4 USD to 0.04 USD
 per base pair. Presume the future price of DNA synthesis will continue to drop two fold every two years.
 
-Meanwhile Stanford’s undergraduate tuition is approximately $50,000 per year up from $25,000 in 2000.  
+Stanford’s undergraduate tuition is approximately 50,000 USD per year up from 25,000 USD in 2000.  
 Presume Stanford’s tuition will continue to double every 15 years.
 
 **Q.3.a** If a human genome is 4 billion base pairs long then when will the cost of synthesizing the DNA encoding an entire human genome be roughly the same as the tuition cost associated with attending Stanford for one year?
