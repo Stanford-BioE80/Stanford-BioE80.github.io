@@ -69,7 +69,6 @@ Diffusion is everywhere in living matter and beyond. We encounter diffusion rout
 
 **Q.9. Can you think about everyday examples of diffusion in your life?**
 
-
 ### Is this Diffusion?
 
 Take a look at the following [video](https://www.youtube.com/watch?v=5JuEomRki_M)
@@ -77,6 +76,8 @@ Take a look at the following [video](https://www.youtube.com/watch?v=5JuEomRki_M
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5JuEomRki_M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Q.10. Is this diffusion? why or why not? How can you tell?**
+
+*Optional reading-3: [Life at Low Reynolds_Number](https://science.curie.fr/wp-content/uploads/2016/04/Purcell_life_at_low_reynolds_number_1977.pdf)*
 
 *Additional Resource*
 
@@ -87,3 +88,146 @@ Khan Academy videos:
 - Diffusion - Membranes and transport [link-2](https://www.youtube.com/watch?v=a_Y9wBQ610o)
 - Diffusion and osmosis Membranes and transport [link-3](https://www.youtube.com/watch?v=aubZU0iWtgI)
 - Fick's law of diffusion and Respiratory system physiology [link-4](https://www.youtube.com/watch?v=Cg4KlmI_acs)
+
+## Preclass for Wednesday: Dancing Droplets
+
+To get started please spend ~5 minutes watching these two videos:
+
+[Dancing Droplets](https://youtu.be/ZMsaH6SY4CY)
+
+Briefly examine: 
+
+- [Vapour-mediated sensing and motility in two-component droplets](https://www.nature.com/articles/nature14272)
+
+- [NYtimes video: the physics of droplets](http://www.nytimes.com/video/science/100000003584880/dancing)
+
+**Here is what we will do in class together on Wednesday**
+
+**Goal** our practical goal is to gain experience programing the behavior of simple systems in space and time. 
+
+We ask, 
+
+- How simple actions can lead to complex behaviors,
+
+- How patterns and behavior can be encoded implicitly or across a distributed system,
+
+- How external physical forces can interact with simple agents to realize shape and form.
+
+To explore these concepts we are challenging you to realize three types of behaviors that illustrate the three modes 
+of patterning.
+
+First, a pattern that you control directly by your own hand marking a path.
+
+Second, a pattern that you control somewhat indirectly, by using spontaneous physical processes to create an external coordinate system.
+
+Third, a pattern that you initiate but that otherwise entirely controls itself via its own autogeneration of a coordinate 
+system.
+
+**MATERIALS & METHODS**
+
+Materials (you have recieved): 
+- 3 cleaned glass slides (side with a black dot is cleaned), 
+- 4 colored solutions, 
+- 4 transfer pipettes 
+
+You will also need a sharpie marker. 
+
+
+We have prepared the following solutions of propylene glycol and water (% v/v)
+
+30% (Purple), 
+15% (Teal), 
+5% (Orange), 
+2.5% (Pink).
+
+A few notes on the glass slides and cleanliness:
+
+To preserve the cleanliness of the slides and help the activity work properly, please do not touch the slide 
+surface with your hands. Hold the slide from the side.  Glass slides have been cleaned with a Plasma cleaning machine; this makes the glass slides both incredibly clean and hydrophilic.
+
+Now, practice by playing with making droplets dance:
+
+- Place the slide on the paper work surface, with the marked treated side facing UP.
+
+- Place small volumes (< 5-10 uL) of varying solutions of propylene glycol and colored water onto the slides 
+using pipettes (use one pipette per color). 
+
+- Observe. The droplets should start moving.
+
+- To gain additional controls over the system, you can draw on the slides with sharpie markers.
+Ask questions or ask for help as needed!
+
+When you feel ready...
+
+**Three Challenge**
+
+### Challenge 1.( ~ 5-7 minutes)
+Can you get one droplet to chase another along a curved path between two points? (Hint: Sharpie)
+
+### Challenge 2. (~ 10-12 minutes)
+Can you get one droplet to follow a defined path withoutusing the black sharpie, only by placing other droplets in the field? How few “control” droplets can you use?
+
+### Challenge 3. (All remaining time)
+By only placing droplets in a confined initial region, can you get a droplet to eject and follow a defined path (again, all without placing any droplets elsewhere in the field)?
+
+Note: Take pictures to help you answer the problem set questions. 
+
+***QUESTIONS***
+
+Part of these questions will also appear on PSET:
+
+— If you have two different droplets why do they chase each other? What other behaviors have you observed?
+
+— Why does the sharpie marker create a physical barrier and how do the droplets respond to it?
+
+— To what extent were you able to realize increasingly autonomous behavior?
+
+— How good do we have to become at implementing these different frames of reference in order to engineer living matter?
+
+— Extra:  Make your own dancing droplet video (30 to 60 seconds) with your own choice of background music.
+
+## Preclass for Friday:
+
+We ended class on Monday with an initial consideration of diffusion, introducing the idea that spontaneous diffusion of systems comprised of more than one molecule can *temporarily* result in non-trivial spatial patterns (e.g., a bullseye).
+
+Next we used simple rules to create a complex pattern with droplets. 
+
+On Friday, we will build on both ideas.E.g,. how can state (i.e., memory) be used to capture and make permanent fleeting patterns? How can patterns build upon patterns?
+
+We'll start by drawing again upon the preclass from Monday(i.e., the bacterial blinking oscillators) and end by working through a challenge of how to program the growth an arm-like structure.
+
+Please ponder how cells can act... I.e., the various primary functions that cells can "execute" or carry out.
+By combining spontaneous physical processes starting from diffusion with programmed cellular functions, both natural and engineered biological systems can realize non-trivial behaviors over both space and time. More specifically:
+
+### (1) Cells can grow and divide.
+I.e., one cell can become two and so on.
+[Cell Division - Exponential](https://www.youtube.com/watch?v=9x23n4zBOU8&feature=youtu.be)
+
+### (2) Cells can move.
+I.e., cell migration can result in significant changes in shape and form. Don't believe See a brand new movie of an immune cell moving inside the ear of a fish...
+[Immune Cell Migration in the Zebrafish Inner Ear](https://www.youtube.com/watch?v=Hz0VlUVjYfI&feature=youtu.be)
+
+Or, a slime mold swarming on a plate and growing a stalk...
+[Swarming](https://www.youtube.com/watch?v=vjRPla0BONA&feature=youtu.be)
+
+### (3) Cells can communicate with each other.
+I.e., cells can send chemical messages between and among each other.
+E.g., here's a type of "pulse" in gene expression generated across many cells during development of a tail-like structure...
+[Wave of gene expression in an embryo](https://www.youtube.com/watch?v=T-fa1gYfwJk&feature=youtu.be)
+
+
+### (4) Cells canchange state.
+I.e., one type of cell can become another type of cell, in response to signals or even spontaneously.E.g., here are bacterial cells infected with virus realizing different cell-fate outcomes.
+[Bacteriophage lambda lysis and lysogeny](https://www.youtube.com/watch?v=sLkZ9FPHJGM&feature=youtu.be)
+
+### (5) Cells can undergo programmed cell death
+I.e., cells can die.
+[Apoptosis](https://www.youtube.com/watch?v=WkATnXv9rsQ)
+
+Taken together these functions can be used to realize incredible outcomes.E.g., watch this old-time movie of a frog egg becoming a frog.
+
+[The Development of a Frog](https://www.youtube.com/watch?v=dXpAbezdOho&feature=youtu.be)
+
+**Question: How many of the five mechanisms introduced above can you observe or infer in the formation of a frog?**
+
+Additional video, if you have time watch [Marvels of Bacterial Behavior](https://www.youtube.com/watch?v=ioA1yuIA-t8&t=1s)
