@@ -31,7 +31,7 @@ Let's briefly learn about application of diffusion in engineering living matter 
 
 ### Case-1: Blinking Squares
 
-We've uploaded two [videos to Canvas]() of some blinking squares. Please see w6_preclass_video_1.mov, which shows 500 blinking squares. Each square is about 100μm x 100μm and there are 25 μm gaps between each square. Each square contains about 5,000 bacterial cells.
+We've uploaded [two videos to Canvas](https://canvas.stanford.edu/courses/115648/files/folder/Supplementary%20material) of some blinking squares. Please see *w6_preclass_video_1.mov*, which shows 500 blinking squares. Each square is about 100μm x 100μm and there are 25 μm gaps between each square. Each square contains about 5,000 bacterial cells.
 
 NOTE: if you have a hard time finding or playing the video upload to Canvas, you can find it in [the original paper](https://www.nature.com/articles/nature10722) in the Supplementary Material (Sup Movie 1). You can also use the paper as a reference in answering the questions below.
 
@@ -47,7 +47,7 @@ NOTE: if you have a hard time finding or playing the video upload to Canvas, you
 
 ### Case-2: Blinking Square
 
-We've also uploaded a second [videos to Canvas](), titled w6_preclass_video_2.mov, which depicts single blinking square (100μm x1 00μm) containing about approximately 5,000 cells. Please watch it.
+We've also uploaded a [second video to Canvas](https://canvas.stanford.edu/courses/115648/files/folder/Supplementary%20material), titled *w6_preclass_video_2.mov*, which depicts single blinking square (100μm x1 00μm) containing about approximately 5,000 cells. Please watch it.
 
 NOTE: if you have a hard time finding or playing the video upload to Canvas, you can find it in [the original paper](https://www.nature.com/articles/nature08753). You can also use the paper as a reference in answering the questions below.
 
