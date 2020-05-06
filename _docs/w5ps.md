@@ -29,9 +29,9 @@ Given the trends in DNA read and write, consider using DNA as an alternative sto
 
 Helpful numbers:
 
-- Volume of storage facility = $10*10^6 m^3$
+- Volume of storage facility = 10*10^6 m^3
 - Letters per cubic meter of typical government document = 10^9 letters/m^3
-- Volume of a DNA base pair ~ $10^-27 m^3$
+- Volume of a DNA base pair ~ 10^-27 m^3
 
 **Q.1.a.** Since DNA has only 4 bases, but English has 26 letters, you will somehow have to map letters to bases. 
 Briefly specify a simple encoding scheme for mapping bases into the 26 English letters. (You *do not* have to give a letter to DNA mapping for all letters. The first few will do the trick.)
@@ -63,19 +63,17 @@ Given the increasing trends in productivity of sequencing. In what century can a
 ![Carlson Curves](/assets/images/PSET6_Crlson_Productivity.png
  "Productivity in DNA Sequencing and Synthesis")
  
- There are many ways to solve this problem. 
- You can use your own method or use the suggested assumptions and steps.
+ There are many ways to solve this problem.  You can use your own method or use the suggested assumptions and steps.
  (Your final answer deponds on your assumptions).
    
    
- Assumption.1 Assume the trend in sequencing productivity since 2005 will continue
+ Assumption.1 assume the trend in sequencing productivity since 2005 will continue
     - estimate 2005 productivity 10^7 (bases per person per day)
     - estimate 2010 productivity to be 10^10  (bases\ person\day)
     - from above produtivity rate (R):  every 5 years, 1000x better
 
 
-Assumption.2 Assume
-- From the graph we can estimate our current productivity at 10^11 (bases\ person\day)
+Assumption.2 from the graph we can estimate our current (year 2015) productivity P0 = 10^11 (bases\ person\day)
 
 Step-1 (you have do some math here):
 - Let’s normalize total DNA: $5.3 x 10^37$ bases releative to our team size (10) and the required time (30 days).
