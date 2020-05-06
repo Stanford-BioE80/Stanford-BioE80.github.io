@@ -29,7 +29,7 @@ Given the trends in DNA read and write, consider using DNA as an alternative sto
 
 Helpful numbers:
 
-- Volume of storage facility = 10*10^6 m^3
+- Volume of storage facility = 10 million m^3
 - Letters per cubic meter of typical government document = 10^9 letters/m^3
 - Volume of a DNA base pair ~ 10^-27 m^3
 
@@ -40,9 +40,10 @@ Hint-1: In your encoding scheme, the length of bases should be consistent for th
 Hint-2: What is the minimum number of bases you need to map the entire 26 English letters. Consider what would be the problem if you pick 2 bases (AA, TA, CA, GA,...) to map 26 letters. 
 
 **Q.1.b.** Using your letter to DNA mapping, how many total base pairs of DNA would be needed to store the archival contents of the salt mine. Assume that the salt mine is completely packed with documents.
-Hint-3:  Your math should follow 
 
-**Q.1.c.** What would be the physical volume of DNA encoding the salt mine documents?  Will the DNA fit into a thimble?  Yes / No
+
+**Q.1.c.** What would be the physical volume of DNA encoding the salt mine documents?  
+Will the DNA fit into a thimble?  Yes / No
 
 **Q.1.d.**  How expensive would it be to print the DNA (assume cost ~1 cents/base)?  Compare your number against the United States GDP (20.54 trillion USD - 2018)
 
@@ -51,14 +52,17 @@ Hint-3:  Your math should follow
 **Q.1.f.** Can information be stored in the DNA in a living organism as opposed to DNA stored in a frozen tube (-80 freezer). If yes, what are one advantage and one disadvantage of using live cell storage? (2 bullet points)
 
 Helpful resources:
-- [How DNA Could Store All the World's Data](https://www.nature.com/news/how-dna-could-store-all-the-world-s-data-1.20496), - [Taking Cells to the Movies](https://wyss.harvard.edu/taking-cells-out-to-the-movies-with-new-crispr-technology/)
+
+- [How DNA Could Store All the World's Data](https://www.nature.com/news/how-dna-could-store-all-the-world-s-data-1.20496)
+
+- [Taking Cells to the Movies](https://wyss.harvard.edu/taking-cells-out-to-the-movies-with-new-crispr-technology/)
 
 
 ## (Q2) Sequencing the Total DNA in the Biosphere (20 pts)
 
-**Q.2.** The following [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002168) estimates that there are about $5.3 * 10^37$ bases of DNA in the biosphere.  
+**Q.2.** The following [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002168) estimates that there are about 5.3 * 10^37 bases of DNA in the biosphere.  
 
-Given the increasing trends in productivity of sequencing. In what century can a team of 10 sequence 5.3 x 10^37 bases in a month?  We will use the information from Carlson Curves to provide a projection. 
+Given the increasing trends in productivity of sequencing. In what century can a team of 10 sequence 5.3 * 10^37 bases in a month?  We will use the information from Carlson Curves to provide a projection. 
 
 ![Carlson Curves](/assets/images/PSET6_Crlson_Productivity.png
  "Productivity in DNA Sequencing and Synthesis")
@@ -68,15 +72,18 @@ Given the increasing trends in productivity of sequencing. In what century can a
    
    
  Assumption.1 assume the trend in sequencing productivity since 2005 will continue
-    - estimate 2005 productivity 10^7 (bases per person per day)
-    - estimate 2010 productivity to be 10^10  (bases\ person\day)
-    - from above produtivity rate (R):  every 5 years, 1000x better
+   
+   - estimate 2005 productivity at 10^7 (bases per person per day)
+    
+   - estimate 2010 productivity at 10^10  (bases per person per day)
+    
+   - from above numbers produtivity rate (R) for every 5 years, 1000x better
 
+Assumption.2 from the graph we can estimate our current productivity P0 = 10^11 (bases per person per day) for year 2015
 
-Assumption.2 from the graph we can estimate our current (year 2015) productivity P0 = 10^11 (bases\ person\day)
+Step.1 (you have do some math here):
 
-Step-1 (you have do some math here):
-- Let’s normalize total DNA: $5.3 x 10^37$ bases releative to our team size (10) and the required time (30 days).
+- Normalize total DNA: 5.3 * 10^37  bases to our team size (10) and time (30 days).
 
 $ 
 productivity (bases per person per day)= 
