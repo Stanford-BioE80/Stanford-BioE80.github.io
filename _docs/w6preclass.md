@@ -86,8 +86,8 @@ Take a look at the following [video](https://www.youtube.com/watch?v=5JuEomRki_M
 Khan Academy videos:  
 
 - Diffusion - Membranes and transport [link-2](https://www.youtube.com/watch?v=a_Y9wBQ610o)
-- Diffusion and osmosis Membranes and transport [link-3](https://www.youtube.com/watch?v=aubZU0iWtgI)
-- Fick's law of diffusion and Respiratory system physiology [link-4](https://www.youtube.com/watch?v=Cg4KlmI_acs)
+- Diffusion and osmosis membranes and transport [link-3](https://www.youtube.com/watch?v=aubZU0iWtgI)
+- Fick's law of diffusion and respiratory system physiology [link-4](https://www.youtube.com/watch?v=Cg4KlmI_acs)
 
 ## Preclass for Wednesday: Dancing Droplets
 
@@ -149,7 +149,7 @@ Now, practice by playing with making droplets dance:
 
 - Place the slide on the paper work surface, with the marked treated side facing UP.
 
-- Place small volumes (< 5-10 uL) of varying solutions of propylene glycol and colored water onto the slides 
+- Place small volumes (< 10 μL) of varying solutions of propylene glycol and colored water onto the slides 
 using pipettes (use one pipette per color). 
 
 - Observe. The droplets should start moving.
