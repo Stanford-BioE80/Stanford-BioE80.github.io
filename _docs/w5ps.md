@@ -171,3 +171,5 @@ Please include quantitative reasoning in your answer.
 
 **5.d.** Where would you use an Illumina sequencing machine instead of a minION sequencing machine?
 And vice versa?
+
+<sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w5ps.md) for teaching staff <sub><sup>
