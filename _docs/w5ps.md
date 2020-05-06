@@ -110,7 +110,7 @@ Step.3 (you have to do):
 
 Change t form number of five year periods to years. Add to initial time starting at (2015).
  
-*Q.2. Extra activity* Construct a table comparing expected time for R0: (1000, 2500, 5000, and 10,000).  Construct a second table where t is number of two year periods instead of five)
+*Q.2. Extra activity* Construct a table comparing expected time for R: (1000, 2500, 5000, and 10,000).  Construct a second table where t is number of two year periods instead of five.
  
 ## (Q3) (Nature + Nurture) or (Fab a Family) (20 pts)
 
