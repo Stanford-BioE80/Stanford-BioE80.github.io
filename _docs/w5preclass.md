@@ -132,6 +132,6 @@ ____________________________________________________________
 
 ## Preclass Reading for Friday  
 
-
+Task: As a team attempt a brainstorm and bring at least one idea per person to class on Friday.
 
 <sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w5preclass.md) for teaching staff <sub><sup>
