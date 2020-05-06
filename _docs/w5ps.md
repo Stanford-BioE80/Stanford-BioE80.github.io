@@ -28,9 +28,9 @@ Given the trends in DNA read and write, consider using DNA as an alternative sto
 
 Helpful numbers:
 
-- Volume of storage facility = $10x10^6 m^3$
+- Volume of storage facility = $10*10^6 m^3$
 - Letters per cubic meter of typical government document = 10^9 letters/m^3
-- Volume of a DNA base pair ~ 10^-27 m^3
+- Volume of a DNA base pair ~ $10^-27 m^3$
 
 Please round or simplify whenever convenient. **Please show your work and include units.**
 
@@ -57,7 +57,7 @@ Helpful resources:
 
 ## (Q2) Sequencing the Total DNA in the Biosphere (20 pts)
 
-**Q.2.** The following [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002168) estimates that there are about 5.3 x 10^37 bases of DNA in the biosphere.  
+**Q.2.** The following [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002168) estimates that there are about $5.3 * 10^37$ bases of DNA in the biosphere.  
 
 Given the increasing trends in productivity of sequencing. In what century can a team of 10 sequence 5.3 x 10^37 bases in a month?  We will use the information from Carlson Curves to provide a projection. 
 
@@ -69,20 +69,38 @@ Given the increasing trends in productivity of sequencing. In what century can a
    
 Assumption.1:
 - Let’s assume the trend in sequencing productivity since 2005 will continue.  
-Specifically let’s estimate 2005 productivity 10^7 (bases\ person\day) and let’s estimate 2010 productivity to be 10^10  (bases\ person\day).  We can use these numbers to say every 5 years sequencing productivity will get 1000x better.
+Specifically let’s estimate 2005 productivity 10^7 (bases\ person\day) and let’s estimate 2010 productivity to be $10^10  (bases\ person\day).  We can use these numbers to say every 5 years sequencing productivity will get 1000x better.
 
 Assumption.2:
 - From the graph we can estimate our current productivity at 10^11 (bases\ person\day)
 
 Step-1 (you have do some math here):
-- Let’s normalize total DNA: 5.3 x 10^37 bases releative to our team size (10) and the required time (30 days).
+- Let’s normalize total DNA: $5.3 x 10^37$ bases releative to our team size (10) and the required time (30 days).
 
 $ productivity (bases\ person\day)= \frac{Total DNA}{\(team size x 30 days)}$
 
- Step-2 (you have do some math here):
- Construct a function with time as the variabl that relates the productivity rate, current productivity, and normalize total DNA.
+Step-2 (you have do some math here):
+Construct a function with time as the variabl that relates the productivity rate, current productivity, and normalize total DNA.
  
- $ normalize total DNA(time - #five year periods) = function (time- #five year periods, current productivity, productivity rate) $
+- Normalize total DNA: Y(t)
+- Current productivity: P0
+- time with units of number of five year periods: t
+- Current productivity rate: R (we estimated to be 1000)
+ 
+$ Y(t) = function (P0, R, t)$
+ 
+$ Y(t) = P0 * R^t $
+
+To solve for number of five year periods you have to take $ log $ of both sides. 
+ 
+ Step-3 (you have do some math here):
+ Change number of five year periods to years and add to initial time (2015).
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
