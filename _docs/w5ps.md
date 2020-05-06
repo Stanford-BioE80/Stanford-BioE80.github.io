@@ -113,7 +113,7 @@ Change t form number of five year periods to years. Add to initial time starting
  
 *Q.2. Extra activity* Construct a table comparing expected time for R: (1000, 2500, 5000, and 10,000).  Construct a second table where t is number of two year periods instead of five.
  
-## (Q3) (Nature + Nurture) or (Fab a Family) (20 pts)
+## (Q3) Cost of Education vs Cost of Germline Editing (20 pts)
 
 Over the past 12 years, the price of synthesizing genes has dropped from  4 USD to 0.04 USD
 per base pair. Presume the future price of DNA synthesis will continue to drop two-fold every two years.
