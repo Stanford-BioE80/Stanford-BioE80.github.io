@@ -14,7 +14,7 @@ DUE: 5:00p Pacific 15 May 2020
 - Given the unique circumstance of Spring 2020, we ask you to do your best to maximize your learning. Each problem set is an opportunity to assess your learning, identify gaps, reflect on what you have learned, and determine what you wish to learn next.
 - You can discuss the PSET questions with other students. But your answers should be your own work. Please let us know if you collaborated with other students working on the PSET. 
 - Please turn in your completed problem sets as an electronic copy via Gradescope. Please make sure to clearly indicate the starting and ending boundaries of your answers to each question on Gradescope.
-- Please do not go over any word limits and where appropriate show your work (e.g., calculations with appropriate units).
+- Please do not go over any word limits.
 - Please **type** your answers. 
 - Please **label** and provide descriptions for the figures. 
 - **Please show your work and include units.**
@@ -86,7 +86,7 @@ Step.1 (you have do):
 
 - Normalize total DNA (5.3 * 10^37)  bases to our team size (10) and time (30 days) to calculate expected productivity (P) with units (bases per person per day)
 
-$P= \frac{total DNA}{team size * 30 days}$
+$P= \frac{total DNA}{team Size * 30 days}$
 
 Step.2 (you have do):
 
@@ -106,14 +106,13 @@ $
 P = P0 * R^t 
 $
 
-To solve for t (number of five year periods) you have to take $ log $ of both sides. 
+Then solve for t (number of five year periods)
  
 Step.3 (you have do):
 
-
 Change t form number of five year periods to years. Add to initial time startin at (2015).
  
- *Q.2. extra activity* Consturuct a table comparing expected time for R0=1000, 2500, 5000 and 10,000.
+*Q.2. extra activity* Consturuct a table comparing expected time for R0: (1000, 2500, 5000 and 10,000).
  
 
 ## (Q3) (Nature + Nurture) or (Fab a Family) (20 pts)
@@ -132,22 +131,18 @@ Hint: Use the facts given. Keep your math simple. Show your work. An approximate
 
 **Q.3.c** Given your answer from part (a) presume that you could then design, build, and bring to life a human encoded by a genome that you design (e.g., with any and all mutations that you and your partner choose).  As potential parents would you prefer to spend your savings on college tuition for a natural child or on realizing a genetically engineered offspring who then has to make  their own way? Why? (2-3 sentences)
  
- ## (Q4)Paper reading activity
+ ## (Q4) Paper reading activity (20 pts)
  
 Examine [Rapid reconstruction of SARS-CoV-2 using a synthetic genomics platform](https://www.nature.com/articles/s41586-020-2294-9_reference.pdf) or [here](https://www.nature.com/articles/s41586-020-2294-9)
  
 **Q.4.a** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? In your own words, describe how does the Repressilator work? (2-3 sentences)
  
- **Q.4.b.** What is your reaction and thoughts to this work?  Should this work be published? Think back to Rousseau and Hobbes discussion from Week-2, and onsider the interconvertability of DNA as matter and information. (~3 sentences)
+ **Q.4.b.** What is your reaction and thoughts to this work?  Should this work be published? Think back to Rousseau and Hobbes discussion from Week-2, and onsider the interconvertability of DNA as matter and information. (3-4 sentences)
  
 (We wish to hear your thoughts and we don’t have a “correct answer” in mind. Instead, we wish for you to think deeply and  practice your written communication skills)
  
- 
- 
- 
 
- 
- ## Extra learning (100% optional):
+## Extra learning (100% optional):
 
 
 ### (Q5)Sequencing and Synthesis technologies (0 pts)
