@@ -57,6 +57,7 @@ Helpful resources:
 
 - [Taking Cells to the Movies](https://wyss.harvard.edu/taking-cells-out-to-the-movies-with-new-crispr-technology/)
 
+- [Hardy microbe’s DNA could be a time capsule for the ages](https://www.sciencemag.org/news/2020/02/hardy-microbe-s-dna-could-be-time-capsule-ages)
 
 ## (Q2) Sequencing the Total DNA in the Biosphere (20 pts)
 
