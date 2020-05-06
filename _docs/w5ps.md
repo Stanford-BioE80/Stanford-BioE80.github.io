@@ -19,9 +19,9 @@ DUE: 5:00p Pacific 15 May 2020
 - Please **label** and provide descriptions for the figures. 
 - **Please show your work and include units.**
 
-**GOAL:** Welcome to PSET-5. This problem set will help you describe how DNA read and write work. You will examine the consequences of non-trivial *quantitative pacing* in the development of these technologies. Finally, you will examine the consequence of  interconvertability of matter and information as DNA read and write tools improve and discuss the *qualitative changes* that emerge.
+**GOAL:** Welcome to PSET-5. This problem set will help you describe how DNA read and write work. You will examine the consequences of non-trivial *quantitative pacing* in the development of these technologies. Finally, you will examine the consequence of interconvertability of matter and information as DNA read and write tools improve and discuss the *qualitative changes* that emerge.
 
-## (Q1) DNA as a Storage Medium (35 pts)
+## (Q1) DNA as a Storage Medium (40 pts)
 
 The US government has been using an underground salt mine in Pennsylvania as a long term storage facility for physical documents, primarily retirement related papers. According to the Washington Post, in this facility approximately 1000 employees pass thousands of case files from cavern to cavern and then type in retirees’ personal data, one line at a time. Basic document retrieval involves a forklift and takes days. 
 
@@ -60,7 +60,7 @@ Helpful resources:
 
 ## (Q2) Sequencing the Total DNA in the Biosphere (20 pts)
 
-**Q.2.** The following [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002168) estimates that there are about 5.3 * 10^37 bases of DNA in the biosphere.  
+**Q.2.a** The following [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002168) estimates that there are about 5.3 * 10^37 bases of DNA in the biosphere.  
 
 Given the increasing trends in productivity of sequencing. In what century can a team of 10 sequence 5.3 * 10^37 bases in a month?  We will use the information from Carlson Curves to provide a projection. 
 
@@ -81,72 +81,76 @@ Given the increasing trends in productivity of sequencing. In what century can a
 
 Assumption.2 from the graph we can estimate our current productivity P0 = 10^11 (bases per person per day) for year 2015
 
-Step.1 (you have do some math here):
 
-- Normalize total DNA: 5.3 * 10^37  bases to our team size (10) and time (30 days).
+Step.1 (you have do):
 
-$ 
-productivity (bases per person per day)= 
-\frac{total DNA}{\team size * 30 days}
-$
+- Normalize total DNA (5.3 * 10^37)  bases to our team size (10) and time (30 days) to calculate expected productivity (P) with units (bases per person per day)
 
-Step-2 (you have do some math here):
-Construct a function with time as the variabl that relates the productivity rate, current productivity, and normalize total DNA.
+$P= \frac{total DNA}{team size * 30 days}$
+
+Step.2 (you have do):
+
+
+Construct a function that relates expected productivity to productivity rate, current productivity, and time. 
  
-- Normalize total DNA: Y(t)
-- Current productivity: P0
-- time with units of number of five year periods: t
-- Current productivity rate: R (we estimated to be 1000)
- 
-$ 
-Y(t) = 
-function (P0, R, t)
-$
+  - Expected productivity: P (bases per person per day)
+  - Current productivity: P0 (bases per person per day)
+  - Time: t (number of five year periods)
+  - Current productivity rate: R (=1000, no units)
  
 $ 
-Y(t) = 
-P0 * R^t 
+P = function (P0, R, t)
+$
+ 
+$ 
+P = P0 * R^t 
 $
 
-To solve for number of five year periods you have to take $ log $ of both sides. 
+To solve for t (number of five year periods) you have to take $ log $ of both sides. 
  
- Step-3 (you have do some math here):
- Change number of five year periods to years and add to initial time (2015).
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- ## Final Notes 
-
-This week you learned about tools and technologies that enable DNA read and write. As part of your core bioengineering skills you should be able to describe how these technologies work. You also learned about the non-trivial speed of development in these technologies and the various ramifications of this development.
-
-**Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?**
+Step.3 (you have do):
 
 
-## Extra learning (100% optional):
+Change t form number of five year periods to years. Add to initial time startin at (2015).
+ 
+ *Q.2. extra activity* Consturuct a table comparing expected time for R0=1000, 2500, 5000 and 10,000.
+ 
 
-### (Q4) (Nature + Nurture) or (Fab a Family) (0 pts)
+## (Q3) (Nature + Nurture) or (Fab a Family) (20 pts)
 
 Over the past 12 years the price of synthesizing genes has dropped from $4 to $0.04
-per base pair; presume the future price of DNA synthesis will continue to drop two fold every two years.
+per base pair. Presume the future price of DNA synthesis will continue to drop two fold every two years.
 
 Meanwhile Stanford’s undergraduate tuition is approximately $50,000 per year up from $25,000 in 2000.  
 Presume Stanford’s tuition will continue to double every 15 years.
 
-**Q.4.a.** If a human genome is 4 billion base pairs long then when will the cost of synthesizing the DNA encoding an entire human genome be roughly the same as the tuition cost associated with attending Stanford for one year?
+**Q.3.a** If a human genome is 4 billion base pairs long then when will the cost of synthesizing the DNA encoding an entire human genome be roughly the same as the tuition cost associated with attending Stanford for one year?
 
-Hint: Use the facts given. Keep your math simple, and write out the equations (i.e., show your work).
-An approximate answer is fine.
+Hint: Use the facts given. Keep your math simple. Show your work. An approximate answer is fine.
 
-**Q.4.b.**  What would be your estimate if the price of synthesizing genes continue to drop two fold every 2.5 years instead of 2 years (i.e., only a 6-month longer doubling time). An approximate answer is fine.
+**Q.3.b**  What would be your estimate if the price of synthesizing genes continue to drop two fold every 2.5 years instead of 2 years (i.e., only a 6-month longer doubling time). An approximate answer is fine.
 
-**Q.4.c.** Given your answer from part (a) presume that you could then design, build, and bring to life a human encoded by a genome that you design (e.g., with any and all mutations that you and your partner choose).  As potential parents would you prefer to spend your savings on college tuition for a natural child or on realizing a genetically engineered offspring who then has to make  their own way? Why? (2-3 sentences)
+**Q.3.c** Given your answer from part (a) presume that you could then design, build, and bring to life a human encoded by a genome that you design (e.g., with any and all mutations that you and your partner choose).  As potential parents would you prefer to spend your savings on college tuition for a natural child or on realizing a genetically engineered offspring who then has to make  their own way? Why? (2-3 sentences)
+ 
+ ## (Q4)Paper reading activity
+ 
+Examine [Rapid reconstruction of SARS-CoV-2 using a synthetic genomics platform](https://www.nature.com/articles/s41586-020-2294-9_reference.pdf) or [here](https://www.nature.com/articles/s41586-020-2294-9)
+ 
+**Q.4.a** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? In your own words, describe how does the Repressilator work? (2-3 sentences)
+ 
+ **Q.4.b.** Think back to Rousseau and Hobbes discussion from Week-3. Consider the interconvertability of DNA as matter and information.  What is your reaction and thoughts to this work?  Should this work be published? (2-3 sentences)
+ 
+ 
+ What is the role interconvertability of DNA as matter and information in realizing this paper? 
+ 
+ 
+ 
+
+
+ ## Extra learning (100% optional):
+
+
+
 
 ### (Q5)Sequencing and Synthesis technologies (0 pts)
 
