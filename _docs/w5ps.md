@@ -21,7 +21,7 @@ DUE: 5:00p Pacific 15 May 2020
 
 **GOAL:** Welcome to PSET-5. This problem set will help you describe how DNA read and write work. You will examine the consequences of non-trivial *quantitative pacing* in the development of these technologies. Finally, you will examine the consequence of interconvertability of matter and information as DNA read and write tools improve and discuss the *qualitative changes* that emerge.
 
-## (Q1) DNA as a Storage Medium (40 pts)
+## (Q1) DNA as a Storage Medium (30 pts)
 
 The US government has been using an underground salt mine in Pennsylvania as a long term storage facility for physical documents, primarily retirement-related papers. According to the Washington Post, in this facility, approximately 1000 employees pass thousands of case files from cavern to cavern and then type in retirees’ data, one line at a time. Basic document retrieval involves a forklift and takes days. 
 
@@ -127,16 +127,21 @@ Hint: Use the facts given. Keep your math simple. Show your work. An approximate
 
 **Q.3.c** Given your answer from part (a) presume that you could then design, build, and bring to life a human encoded by a genome that you design (e.g., with any and all mutations that you and your partner choose).  As potential parents, would you prefer to spend your savings on college tuition for a natural child or on realizing a genetically engineered offspring who then has to make their own way? Why? (2-3 sentences)
  
- ## (Q4) Paper reading activity (20 pts)
+ ## (Q4) Paper reading activity (30 pts)
  
-Examine [Rapid reconstruction of SARS-CoV-2 using a synthetic genomics platform](https://www.nature.com/articles/s41586-020-2294-9_reference.pdf) or [here](https://www.nature.com/articles/s41586-020-2294-9)
+First examine, [Rapid reconstruction of SARS-CoV-2 using a synthetic genomics platform](https://www.nature.com/articles/s41586-020-2294-9_reference.pdf) or [here](https://www.nature.com/articles/s41586-020-2294-9)
  
 **Q.4.a** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? In your own words, describe how does the Repressilator work? (2-3 sentences)
  
- **Q.4.b.** What is your reaction and thoughts to this work? What are the benefits and risks of this work? Do the benefits of the paper outweigh its risks?  Should this work be published?  Think back to Rousseau and Hobbes's discussion from Week-2, and consider the interconvertability of DNA as matter and information. (3-4 sentences)
+**Q.4.b.** What is your reaction and thoughts to this work? What are the benefits and risks of this work? Do the benefits of the paper outweigh its risks?  Should this work be published?  Think back to Rousseau and Hobbes's discussion from Week-2, and consider the interconvertability of DNA as matter and information. (3-4 sentences)
  
 (We wish to hear your thoughts, and we don't have a "correct answer" in mind. Instead, we want you to think deeply and  practice your written communication skills.)
  
+Next examine,[Design and synthesis of a minimal bacterial genome](https://science.sciencemag.org/content/351/6280/aad6253).
+
+**Q.4.c** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? In your own words, describe how does the Repressilator work? (2-3 sentences)
+
+**Q.4.d** What were the genome size and number of genes in JCV-syn3.0?  How many were essential genes of previously unknown function discovered in this work? How is the whole genome synthesized in this work?  
 
 ## Extra learning (100% optional):
 
