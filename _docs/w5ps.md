@@ -17,6 +17,7 @@ DUE: 5:00p Pacific 15 May 2020
 - Please do not go over any word limits and where appropriate show your work (e.g., calculations with appropriate units).
 - Please **type** your answers. 
 - Please **label** and provide descriptions for the figures. 
+- **Please show your work and include units.**
 
 **GOAL:** Welcome to PSET-5. This problem set will help you describe how DNA read and write work. You will examine the consequences of non-trivial *quantitative pacing* in the development of these technologies. Finally, you will examine the consequence of  interconvertability of matter and information as DNA read and write tools improve and discuss the *qualitative changes* that emerge.
 
@@ -31,8 +32,6 @@ Helpful numbers:
 - Volume of storage facility = $10*10^6 m^3$
 - Letters per cubic meter of typical government document = 10^9 letters/m^3
 - Volume of a DNA base pair ~ $10^-27 m^3$
-
-Please round or simplify whenever convenient. **Please show your work and include units.**
 
 **Q.1.a.** Since DNA has only 4 bases, but English has 26 letters, you will somehow have to map letters to bases. 
 Briefly specify a simple encoding scheme for mapping bases into the 26 English letters. (You *do not* have to give a letter to DNA mapping for all letters. The first few will do the trick.)
@@ -64,20 +63,27 @@ Given the increasing trends in productivity of sequencing. In what century can a
 ![Carlson Curves](/assets/images/PSET6_Crlson_Productivity.png
  "Productivity in DNA Sequencing and Synthesis")
  
- There are many ways to solve this problem. Your final number will deponds on and is sensetive to your assumptions.  
- You can use your own method or use the suggested assumptions and steps
+ There are many ways to solve this problem. 
+ You can use your own method or use the suggested assumptions and steps.
+ (Your final answer deponds on your assumptions).
    
-Assumption.1:
-- Let’s assume the trend in sequencing productivity since 2005 will continue.  
-Specifically let’s estimate 2005 productivity 10^7 (bases\ person\day) and let’s estimate 2010 productivity to be $10^10  (bases\ person\day).  We can use these numbers to say every 5 years sequencing productivity will get 1000x better.
+   
+ Assumption.1 Assume the trend in sequencing productivity since 2005 will continue
+    - estimate 2005 productivity 10^7 (bases per person per day)
+    - estimate 2010 productivity to be 10^10  (bases\ person\day)
+    - from above produtivity rate (R):  every 5 years, 1000x better
 
-Assumption.2:
+
+Assumption.2 Assume
 - From the graph we can estimate our current productivity at 10^11 (bases\ person\day)
 
 Step-1 (you have do some math here):
 - Let’s normalize total DNA: $5.3 x 10^37$ bases releative to our team size (10) and the required time (30 days).
 
-$ productivity (bases\ person\day)= \frac{Total DNA}{\(team size x 30 days)}$
+$ 
+productivity (bases per person per day)= 
+\frac{total DNA}{\team size * 30 days}
+$
 
 Step-2 (you have do some math here):
 Construct a function with time as the variabl that relates the productivity rate, current productivity, and normalize total DNA.
@@ -87,9 +93,15 @@ Construct a function with time as the variabl that relates the productivity rate
 - time with units of number of five year periods: t
 - Current productivity rate: R (we estimated to be 1000)
  
-$ Y(t) = function (P0, R, t)$
+$ 
+Y(t) = 
+function (P0, R, t)
+$
  
-$ Y(t) = P0 * R^t $
+$ 
+Y(t) = 
+P0 * R^t 
+$
 
 To solve for number of five year periods you have to take $ log $ of both sides. 
  
