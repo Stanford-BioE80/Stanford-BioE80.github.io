@@ -46,7 +46,7 @@ To begin, let us consider this past flu season. (Which was considered as the wor
 Following is from an [article](https://www.theatlantic.com/health/archive/2018/01/the-perfect-storm-behind-this-years-nasty-flu-season/550469/) 
 published in January 2018: 
 
-“Every winter brings cautionary tales that the flu—just the regular old flu—can kill. And the cautionary tales this year are hard to beat. Twenty-one-year-old Kyler Baughman, for example, a fitness buff who liked to show off his six-pack, recently died a few days after getting a runny nose. [ref](https://www.denverpost.com/2018/01/11/kyler-baughman-pennsylvania-personal-trainer-dies-of-flu/)
+“Every winter brings cautionary tales that the flu—just the regular old flu—can kill. And the cautionary tales this year are hard to beat. Twenty-one-year-old Kyler Baughman, for example, a fitness buff who liked to show off his six-pack, recently died a few days after getting a runny nose. [source](https://www.denverpost.com/2018/01/11/kyler-baughman-pennsylvania-personal-trainer-dies-of-flu/)
 
 
 According to the numbers, this year’s flu season is in fact worse than usual. It got started early, and it’s been more severe. Twenty kids have died of the flu since October. And in the week ending January 6, 22.7 out of every 100,000 hospitalizations in the U.S. were for flu—twice the number of the previous week.” 
