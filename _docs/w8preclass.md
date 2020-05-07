@@ -33,7 +33,7 @@ and [link-2](https://www.nature.com/scitable/knowledge/library/mutations-are-the
 to better appreciate these examples.
 
 
-## Example-1: Why do you need to get a flu shot every year?
+### Example-1: Why do you need to get a flu shot every year?
 
 To begin, let us consider 2018 flu season. It considered as the worst flu season since 2009-2010.
 
@@ -76,7 +76,7 @@ Extracting out the idea of Evolution from this example evolution is the results 
 This example of flu virus highlights the algorithm of evolution acting on a *timescale* that is easy for us to understand.
 
 
-## Example-2: Ancient virus genomes reveal complex evolution of Hepatitis B
+### Example-2: Ancient virus genomes reveal complex evolution of Hepatitis B
 
 In a fascinating [research article](https://www.biorxiv.org/content/early/2018/05/06/315531.full.pdf+html) see also ([article](https://www.nytimes.com/2018/05/09/science/ancient-dna-bones-hepatitis.html)), “Scientists reported on Wednesday that they have recovered DNA from the oldest viruses known to have infected humans — and have succeeded in resurrecting some of them in the laboratory. The viruses were all strains of hepatitis B. Two teams of researchers independently discovered its DNA in 15 ancient skeletons, the oldest a farmer who lived 7,000 years ago in what is now Germany. Until now, the oldest viral DNA ever recovered from human remains was just 450 years old.” 
 
@@ -117,11 +117,83 @@ ____________________________________________________________
 
 ## Preclass for Friday
 
+In the previous class you were introduced to evolution as an algorithm. Next, you will examine the role of evolution as an engineering solution and approach. After considering the following example and the material throughout this week you will be able to:
+
+**Goal-1:** Abstract evolution from a population-wide biological force to a service that can be deployed by a group or an individual. (“Evolution, at your service!”) 
+
+**Goal-2:** Be able to identify when evolution is a good engineering choice and why? (also begin to address who gets to decide?) 
+
+**Goal-3:** Understand the limitations and benefits of this approach.  
 
 
+ ### Example-1: “Evolution, at your service!” 
+ 
+Since the days of Gregor Mendel, geneticists (and avid gardeners/monks) have understood that we can breed populations for certain traits.  By taking advantage of our understanding of heritability and genetics, we can - for example - make chickens with extravagant traits see here: ([link](https://www.pinterest.co.uk/pin/153685406008776095/), [link](https://www.pinterest.com/pin/266416134178755168/))
 
 
+Another example of human intervention in evolution is dog breeding. Take a look at the link to see the evolution of Petface [here](https://www.smithsonianmag.com/science-nature/evolution-petface-180967987/) From the article: Cranial length, snout length and skull length all contribute to the difficulties brachy dogs have in breathing. (PLOS One)
 
+**Q.1. Think back to the pre-class material for monday. What are the selection pressures (and their sources) in the case of flu and dog/chicken breeding? How is the fitness determined in each case?**
+
+**Q.2. Thinking of evolution as an algorithm, where else can we intervene?** 
+
+
+### Example-2: Directed evolution of proteins 
+ 
+[Directed evolution](https://www.nobelprize.org/prizes/chemistry/2018/press-release/) is an effective strategy for improving or altering the activity of biomolecules for industrial, research and therapeutic applications. Laboratory evolution of proteins requires methods for generating genetic diversity coupled with identifying protein variants with desired properties. (You can read on the scientific background on the Nobel Prize in Chemistry 2018 awarded to the Directed Evolution of enzymes and  binding proteins from [Link](https://www.nobelprize.org/uploads/2018/10/advanced-chemistryprize-2018.pdf))
+
+Here is an introduction from a [research article](https://www.nature.com/articles/nrg3927)
+
+“ Over many generations, iterated mutation and natural selection during biological evolution provide solutions for challenges that organisms face in the natural world. However, the traits that result from natural selection only occasionally overlap with features of organisms and biomolecules that are sought by humans. To guide evolution to access useful phenotypes more frequently, humans for centuries have used artificial selection, beginning with the selective breeding of crops and domestication of animals. 
+
+More recently, directed evolution in the laboratory has proved to be a highly effective and broadly applicable framework for optimizing or altering the activities of individual genes and gene products, which are the fundamental units of biology Genetic diversity fuels both natural and laboratory evolution. The occurrence rate of spontaneous mutations is generally insufficient to access desired gene variants on a time scale that is practical for laboratory evolution. A number of genetic diversification techniques are therefore used to generate libraries of gene variants that accelerate the exploration of a gene's sequence space. Methods to identify and isolate library members with desired properties are a second crucial component of laboratory evolution. During organismal evolution, phenotype and genotype are intrinsically coupled within each organism. However, during laboratory evolution, it is often inconvenient or impossible to manipulate genes and gene products in a coupled manner. Therefore, single-gene evolution in the laboratory requires carefully designed strategies for screening or selecting functional variants in ways that maintain the genotype–phenotype association."
+
+<figure>
+<a href="/assets/images/w5pc_fig2.png"><img src="/assets/images/w5pc_fig2.png"></a>
+</figure>
+
+**Figure-1** The work flow for the directed evolution of enzymes. [Source](https://www.nobelprize.org/uploads/2018/10/advanced-chemistryprize-2018.pdf)
+
+**Natural selection:** A process by which individuals with the highest reproductive fitness pass on their genetic material to their offspring, thus maintaining and enriching heritable traits that are adaptive to the natural environment. 
+
+**Artificial selection:** A process by which human intervention in the reproductive cycle imposes a selection pressure for phenotypic traits desired by the breeder. (Also known as selective breeding).  
+
+**Libraries:** Diverse populations of DNA fragments that are subject to downstream screening and selection. 
+
+**Q.3. How can directed evolution be used an approach to evolve desired proteins?**
+
+**Q.4. What are the challenges associated with this approach?** 
+
+**Q.5. When is directed evolution a good choice?**
+
+
+ ### Example-3: Antibiotic resistance
+ 
+ Antibiotic resistance and the threat of drug resistance bacteria is an emerging challenge that grows every year.
+ ([link-1](https://www.theatlantic.com/science/archive/2017/02/in-bacteria-persistence-leads-to-resistance/516138/), 
+ [link-2](https://www.theatlantic.com/science/archive/2016/05/the-ten-part-plan-to-avert-our-post-antibiotic-apocalypse/483360/). 
+ 
+
+According to [CDC](https://www.cdc.gov/antibiotic-use/community/about/antibiotic-resistance-faqs.html):
+ 
+“Overuse and misuse of antibiotics can promote the development of antibiotic resistance. Every time a person takes antibiotics, sensitive bacteria (bacteria that antibiotics can still attack) are killed, but resistant bacteria are left to grow and multiply. This is how repeated use of antibiotics can increase the number of drug-resistant bacteria.  Antibiotics are not effective against viral infections like the common cold, flu, most sore throats, bronchitis, and many sinus and ear infections. Widespread use of antibiotics for these illnesses is an example of how overuse of antibiotics can promote the spread of antibiotic resistance. Smart use of antibiotics is key to controlling the spread of resistance.”
+ 
+ 
+**Q.6. What is the role of evolution in antibiotic resistance?**
+
+To answer the question above recall that in an earlier module you came across the MEGA-plate. 
+The (120 × 60 centimeters) plate on which bacteria spread and evolved on a large antibiotic landscape
+([Mega-plate video](https://www.youtube.com/watch?v=plVk4NVIUh8))
+
+Here is the abstract from the [paper](http://science.sciencemag.org/content/353/6304/1147.full):
+
+"A key aspect of bacterial survival is the ability to evolve while migrating across spatially varying environmental challenges. Laboratory experiments, however, often study evolution in well-mixed systems. Here, we introduce an experimental device, the microbial evolution and growth arena (MEGA)–plate, in which bacteria spread and evolved on a large antibiotic landscape (120 × 60 centimeters) that allowed visual observation of mutation and selection in a migrating bacterial front. While resistance increased consistently, multiple coexisting lineages diversified both phenotypically and genotypically. Analyzing mutants at and behind the propagating front, we found that evolution is not always led by the most resistant mutants; highly resistant mutants may be trapped behind more sensitive lineages. The MEGA-plate provides a versatile platform for studying microbial adaption and directly visualizing evolutionary dynamics." 
+
+**Q.7. Could we use evolution to combat antibiotic resistance?**
+
+*Useful Additional Resource:* 
+Review the key Takeaways from: 
+[Methods for the directed evolution of proteins](https://www.nature.com/articles/nrg3927)
 
 
 <sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w8preclass.md) for teaching staff <sub><sup>
