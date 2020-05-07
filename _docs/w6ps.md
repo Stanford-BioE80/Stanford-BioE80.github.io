@@ -53,7 +53,7 @@ The diffusion constant for the same protein is in the cytoplasm of a eukaryotic 
 **2.b.** Intuitively do these numbers make sense? (Yes or No) Why? (Bullet points)
 
 Next, let’s estimate the time it takes for a protein to diffuse spontaneously across different types of cells
-(diffusion time τ). We will use the formula τ = R^2/6D, where R is the traverse distance.
+(diffusion time τ). We will use the formula $ τ=\frac{R^2}{6D} $, where R is the traverse distance.
 
 **2.c.** Calculate the times it takes for the protein (~30 kDa GFP) with a diffusion constant D=30 µm^2/s to diffuse across four different cell types:
 
