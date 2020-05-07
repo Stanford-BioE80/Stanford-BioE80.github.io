@@ -107,11 +107,13 @@ Briefly examine:
 
 We ask, 
 
-- How simple actions can lead to complex behaviors,
+- What rule did you observe (or read) about - which droplets chase which?
 
-- How patterns and behavior can be encoded implicitly or across a distributed system,
+- Why does the sharpie marker create a physical barrier and how do the droplets respond to it?
 
-- How external physical forces can interact with simple agents to realize shape and form.
+- To what extent were you able to realize increasingly autonomous behavior?
+
+- How would you use autonomous behaviors (with droplets or cells) to generate pattersn?
 
 To explore these concepts we are challenging you to realize three types of behaviors that illustrate the three modes 
 of patterning.
@@ -231,3 +233,5 @@ Taken together these functions can be used to realize incredible outcomes.E.g., 
 **Question: How many of the five mechanisms introduced above can you observe or infer in the formation of a frog?**
 
 Additional video, if you have time watch [Marvels of Bacterial Behavior](https://www.youtube.com/watch?v=ioA1yuIA-t8&t=1s)
+
+<sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w4ps.md) for teaching staff <sub><sup>
