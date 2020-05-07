@@ -4,153 +4,119 @@ permalink: /docs/w6ps/
 2018:
 ---
 
-**DUE:** Next Friday (May 17) beginning of class.
+## (Q1) Spatial GOOP (20 pts)
 
-**NOTES:**
-  - All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
-  - Please turn in your completed problem sets as an electronic copy via Gradescope.
-  - Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations) and include units.
+Two DNA devices have been engineered for use in a *cell-free extract* solution (known as GOOP) (Figure, below).  GOOP is the transcription - translation machinary harvested from cells.  DNA devices gets activated when GOOP reachs them. 
 
-**GOAL:** Welcome to PSET-6. This problem set will help you further develop your ability to
-describe how DNA read and write work. Coupled with this you will examine the consequences of
-non-trivial *quantitative pacing* in the development of these technologies. Finally, you will examine the consequence of  interconvertability of matter and information as DNA read and write tools improve and discuss the *qualitative changes* that emerge.
+- Device A expresses protein A in the absence of protein B.  
 
-## (Q1) DNA as a Storage Medium (35 pts)
+- Device B expresses protein B in the presence of protein A.  
 
-The US government has been using an underground salt mine in Pennsylvania as a long term storage facility for physical documents, primarily retirement related papers. According to the Washington Post, in this facility approximately 1000 employees pass thousands of case files from cavern to cavern and then type in retirees’ personal data, one line at a time. Basic document retrieval involves a forklift and takes days. 
+- Device A can also make GFP.  
 
-Given the trends in DNA read and write, consider using DNA as an alternative storage medium for these documents.
+Each device is placed in a distinct reservoir within a micro-scale fluidic channel. 
 
-Helpful numbers:
+Fresh GOOP is supplied from one end of the channel.   Using various channel lengths experimenters are testing a genetic system made from the two devices.
 
-Volume of storage facility = 10 million m^3
+**1.a.**  By studying the diagram in Figure 1.B, describe the expected relationships and behavior of the system.  
+(1-2 sentences max)
 
-Letters per cubic meter of typical government document = 10^9 letters/m^3
-
-Volume of a DNA base pair ~ 10^-27 m^3
-
-Please round or simplify whenever convenient. **Please show your work and include units.**
-
-**Q.1.a.** Since DNA has only 4 bases, but English has 26 letters, you will somehow have to map letters to bases. 
-Briefly specify a simple encoding scheme for mapping bases into the 26 English letters. (You *do not* have to give a letter to DNA mapping for all letters. The first few will do the trick.)
- 
-Hint-1: In your encoding scheme, the length of bases should be consistent for the entire scheme. 
-
-**Q.1.b.** Using your letter to DNA mapping, how many total base pairs of DNA would be needed to store the archival contents of the salt mine. Assume that the salt mine is completely packed with documents.
-
-**Q.1.c.** What would be the physical volume of this DNA?
-
-**Q.1.d.** Will the DNA fit into a thimble?  Yes / No
-
-**Q.1.e.**  How expensive would it be to print this DNA (with cost ~1 cents/base)
-
-**Q.1.f.** Give two major advantages of using DNA as storage medium (bullet points)
-
-**Q.1.g.**  Give two major disadvantages of using DNA as storage medium (bullet points)
-
-**Q.1.h.** How would you maintain and copy (replicate) this library (bullet points)
-
-**Q.1.i.** Can information be stored in the DNA in a living organism as opposed to DNA stored in a frozen tube (-80 freezer).
-If yes, what are one advantage and one disadvantage of using live cell storage? (2 bullet points)
-
-Helpful resources:[How DNA Could Store All the World's Data](https://www.nature.com/news/how-dna-could-store-all-the-world-s-data-1.20496), [Taking Cells to the Movies](https://wyss.harvard.edu/taking-cells-out-to-the-movies-with-new-crispr-technology/)
-
-## (Q2) Sequencing the Total DNA in the Biosphere (20 pts)
-
-**Q.2.** The following [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002168) estimates that there are about 5.3 x 10^37 bases of DNA in the biosphere.  Given the increasing trends in productivity of sequencing (see slide-2 from class on Wednesday). In what century can a team of 10 sequence 5.3 x 10^37 bases in a month?
-
-![Carlson Curves](/assets/images/PSET6_Crlson_Productivity.png
- "Productivity in DNA Sequencing and Synthesis")
-
-**Figure-1:** Carlson Curves.
- 
-## (Q3) Meet your Microbes (45 pts)
-
-On Wednesday and Friday of this week, you cultivated, grew, and examined the microbes from your skin.
-
-**Q.3.a.** Did you show up on Friday? (yes/no)
-
-**Q.3.b.** Define, in your own words, a microbiome (1-2 sentences).
-
-**Q.3.c.** ***Colony Morphology.*** Examine the morphology of the colonies on a plate from your table (your plate or a neighbor's  plate).
-Describe as comprehensively as possible the ONE most interesting colony at your table (you decide what’s interesting!).
-What is the size, shape, and color of the colony? What is the narrowest classification you can make of this colony (or, in other words, what type of bacteria do you think this might be)?  (4-5 sentences; make sure to include a picture and figure caption!)
-
-***Sequencing microbes.*** As sequencing has become cheaper and more accessible, we can now generate huge datasets of sequences. Because of this, we no longer have to rely on culturing microorganisms (ie: growing them on a plate in the lab) to know what’s there. We can take a sample, break open the cells to extract DNA and sequence all of the DNA that is present.  
-
-In [this paper](https://www.nature.com/articles/nature13786), a group sequenced several skin samples from the human body. Below, you can see a table of the top 15 most abundant bacteria (classified at the genus level) for one healthy individual’s left palm, given as a % relative abundance (ie: 100 would be a pure culture of 1 single organism). The relative abundance of a sample from that same individual’s right palm is also given. 
-
-**Table 1:** Relative Abundance of Microbes on an Individual's Left and Right Palm
-
-![Table of Relative Abundance](/assets/images/Microbes_PalmSample_Table.png
- "Relative Abundance of Microbes on Individual's Left and Right Palm")
- 
-**Q.3.d.** Take a look at this data and compare it to what you saw on your plates. Write down two observations that you find interesting about this data. 
-
-**Q.3.e.** In class, we mentioned four genera that are likely to be found on your plates: *Staphylococcus*, *Corynebacterium*, *Acinetobacter*, and *Pseudomonas*. What is the combined relative abundance of these types of bacteria for this individual’s left palm? Is this number surprising to you? Why or why not?
-
-**Q.3.f.** What are two advantages to using a sequencing approach to identify microbes? What are two advantages to culturing organisms in lab (growing them on a plate or in a liquid flask)? 
-
-**Q.3.g.** Look up one of these microbes from the table using an internet search. On your pset, include a picture and a short paragraph (3-4 sentences) about what is known about this microbe. A picture can take the form of an image of a colony on a plate or a microscope-based image, including a SEM. Make sure to include your source(s).
-
-**Additional Resources for microbial sequencing of skin microbiome:**
-
-When dealing with microbes, a common strategy to identify what microbes are present is to look at a biomarker on their DNA that is present in all bacteria. For this to work, the biomarker must contain regions that are highly similar to each other as well as variable regions that can be used to identify specific types of bacteria.  For an overview of the most commonly used taxonomic marker, a sequence from the small subunit of the ribosome (16S rRNA), see Wikipedia: https://en.wikipedia.org/wiki/16S_ribosomal_RNA 
-
-Here are two reviews about the skin microbiome:
-[Link 1](https://www.nature.com/articles/nrmicro.2017.157), [Link 2](https://www.nature.com/articles/nrmicro2537)
-
-Feel free to reach out if you’re interested in the human microbiome or other microbiomes in general! We’d be happy to direct you to additional resources.
-
-## Final Notes 
-
-This week you learned about tools and technologies that enable DNA read and write. As part of your core bioengineering skills you should be able to describe how these technologies work. You also learned about the non-trivial speed of development in these technologies and the various ramifications of this development.
-
-**Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?**
+**1.b.** Fig. 1.C shows two spatial arrangements of the genetic system. In the top arrangement device A is 50 µm away from device B. In the lower arrangement device A is 150 µm away from device B. The time responses for each arrangement is measured by GFP production from device A as presented below.  Does “trace-1” come from the 50 µm or 150 µm arrangement?
 
 
-## Extra learning (100% optional):
+**1.c.** Explain your choice, use appropriate equation(s). (Hint: think about diffusion)
 
-### (Q4) (Nature + Nurture) or (Fab a Family) (0 pts)
+<figure>
+<a href="/assets/images/Spatial GOOP.png"><img src="/assets/images/Spatial GOOP.png"></a>
+<figcaption><b>Figure 1</b>. Spatial GOOP .</figcaption>
+</figure>
 
-Over the past 12 years the price of synthesizing genes has dropped from $4 to $0.04
-per base pair; presume the future price of DNA synthesis will continue to drop two fold every two years.
 
-Meanwhile Stanford’s undergraduate tuition is approximately $50,000 per year up from $25,000 in 2000.  
-Presume Stanford’s tuition will continue to double every 15 years.
+## (Q2) Diffusion, Diffusion constant, and Diffusion time (25 pts)
 
-**Q.4.a.** If a human genome is 4 billion base pairs long then when will the cost of synthesizing the DNA encoding an entire human genome be roughly the same as the tuition cost associated with attending Stanford for one year?
+ In the class you were introduced to diffusion both qualitatively.
+ In this question you will additionally explore diffusion quantitatively.
 
-Hint: Use the facts given. Keep your math simple, and write out the equations (i.e., show your work).
-An approximate answer is fine.
+First let's warm up:
 
-**Q.4.b.**  What would be your estimate if the price of synthesizing genes continue to drop two fold every 2.5 years instead of 2 years (i.e., only a 6-month longer doubling time). An approximate answer is fine.
+Diffusion coefficient is described by the following equation: D=k<sub>B</sub>T/6πηa
 
-**Q.4.c.** Given your answer from part (a) presume that you could then design, build, and bring to life a human encoded by a genome that you design (e.g., with any and all mutations that you and your partner choose).  As potential parents would you prefer to spend your savings on college tuition for a natural child or on realizing a genetically engineered offspring who then has to make  their own way? Why? (2-3 sentences)
+ - k<sub>B</sub> is Boltzmann's constant (1.3807 x 10 ^-23 J/K),
+ - T is the temperature (K) of the surrounding medium ,
+ - η is viscosity of surrounding medium (N x s / m^2),
+ - “a” is a measure of length (radius of a sphere approximating the molecule).  
 
-### (Q5)Sequencing and Synthesis technologies (0 pts)
+ **2.a.** Using above determine the units for diffusion coefficient? (show your work)
 
-In the pre-class material you were introduced to a DNA read method commonly referred to as next-generation sequencing (NGS) or massively parallel sequencing. Let’s examine an alternative approach, namely nanopore sequencing.
+You learn that the diffusion coefficient for a protein (~30 kDa GFP) in water is about 100 µm^2/s.
+The diffusion constant for the same protein is in the cytoplasm of a eukaryotic cell is only 30 µm^2/s.
 
-Watch this [video](https://nanoporetech.com/products/minion)
+**2.b.** Intuitively do these numbers make sense? (Yes or No) Why? (Bullet points)
 
-**5.a.** Describe how Nanopore sequencing works (use bullet points)
+Next, let’s estimate the time it takes for a protein to diffuse spontaneously across different types of cells
+(diffusion time τ). We will use the formula τ = R^2/6D, where R is the traverse distance.
 
-MinION is a product that uses Nanopores for sequencing.
-While the error rate with Nanopore technology is between 5-10%. [additional Link](https://f1000research.com/articles/6-760/v1). This tool can be used to sequence and assemble a human genome
-[additional link](https://www.nature.com/articles/nbt.4060).  Now briefly examine the various products sequencing technology from Illumina [link](https://www.illumina.com/systems/sequencing-platforms/comparison-tool.html).
+**2.c.** Calculate the times it takes for the protein (~30 kDa GFP) with a diffusion constant D=30 µm^2/s to diffuse across four different cell types:
 
-**5.b.** How are NGS and Nanopore sequencing different?
+(i) *E.coli* with R≈1 μm,
 
-**5.c.** Imagine that the storage of information in DNA from the previous question has become a routine platform.
-You have been hired as a consultant for a library that seeks to store its archive inside the DNA medium.
-Your task is to determine suitable reading platforms. What type of“read technology” would you recommend:
-a sequencer that gives massive simultaneous short reads with very low error,
-or fast readers that reads long sequences with error rates as high as 15 %.
-Please include quantitative reasoning in your answer.  
+(ii)  Yeast cell with R≈10 μm,
 
-**5.d.** Where would you use an Illumina sequencing machine instead of a minION sequencing machine?
-and vice versa?
+(iii) HeLa cell with R≈20 μm, and
+
+(iv) A neuronal cell axon with R≈1 cm.
+
+**2.d.** What does the the diffusion time for the axon suggests to you?
+
+This question is from the [Cell Biology by the Numbers](http://book.bionumbers.org/what-are-the-time-scales-for-diffusion-in-cells/)
+
+## (Q3) Bacterial Edge Detection (15)
+
+We talked about engineered *E.coli* which detects light earlier in the quarter.  Building on earlier [work](https://www.nature.com/articles/nature04405) first published in 2005, Jeff Tabor and colleagues eventually demonstrated a bacterial edge detection system. In their system a bacterial lawn (i.e., a uniform layer of identically engineered bacteria growing on a plate) detect a light-encoded image. The bacteria are initially all the same but, depending on whether they are exposed to light or not, send or receive small molecule-encoded signals that diffuse across the light/dark boundary. Only bacteria positioned at the boundary between light and dark express an enzyme that results in formation of a dark pigment (HINT: see Figure on next page and also the primary [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775486/) article).
+
+<figure>
+<a href="/assets/images/pset8_fig.2.png"><img src="/assets/images/pset8_fig.2.png"></a>
+<figcaption><b>Figure 2</b>. Bacterial edge detection.</figcaption>
+</figure>
+
+Take a look at the photo of the system in action. Note the edge detection in the case of a square or Alfred Hitchcock’s portrait.
+
+**3.a.** What do you observe?  (1-2 sentences)
+
+**3.b.** Using concepts from this week, why is there more pigment inside the corners of the square, or inside the bottom left angle of Alfred’s portrait?
+
+## (Q4)  Dancing Droplets (40 pts)
+
+On Friday you participated in the Dancing Droplets activity.  Use pictures, diagrams, or drawings as appropriate.
+
+**4.a.** If you have two different droplets why do they chase each other? What other behaviors have you observed?
+
+**4.b.** Why does the sharpie marker create a physical barrier and how do the droplets respond to it?
+
+**4.c.** To what extent were you able to realize increasingly autonomous behavior? (Include photos from each challenge)
+
+**4.d.** How good do we have to become at implementing these different frames of reference (3 challenges) in order to engineer living matter?
+
+**Extra credit: (5 pts)**  Make your own dancing droplet video (30 to 60 seconds) with your own choice of background music. Submit your file on Canvas (under Discussions -> Dancing Droplets). Note that the rest of your problem set should be submitted on Gradescope. This part only will be submitted through Canvas.
+
+
+**Your questions**
+Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
+
+*Additional Resources*    
+
+The following link takes you to a paper titled [Life at Low Reynolds Number](https://www2.gwu.edu/~phy21bio/Reading/Purcell_life_at_low_reynolds_number.pdf) that examines physics at the scale of a bacteria.  The following link takes you to a digital copy of a great book titled [The Machinery of life](https://searchworks.stanford.edu/view/11568895) which can help you with the concepts we have covered both this week and in previous weeks.
+
+*The following links* are **explorables** that can help you explore and build an intuition about patterns and pattern formation.  We hope that you take some time and examine them on your own:
+
+
+(1) [Fireflies and Patterns](http://ncase.me/fireflies)
+
+(2) [Explorables Collection ](http://www.complexity-explorables.org/explorables/)
+
+
+**Your questions**
+Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
 
 <sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w6ps.md) for teaching staff <sub><sup>
