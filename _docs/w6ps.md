@@ -4,7 +4,7 @@ permalink: /docs/w6ps/
 2018:
 ---
 
-## (Q1) Spatial GOOP (20 pts)
+## (Q1) Spatial DNA devices (20 pts)
 
 Two DNA devices have been engineered for use in a *cell-free extract* solution (known as GOOP) (Figure, below).  GOOP is the transcription - translation machinary harvested from cells.  DNA devices gets activated when GOOP reachs them. 
 
@@ -22,7 +22,6 @@ Fresh GOOP is supplied from one end of the channel.   Using various channel leng
 (1-2 sentences max)
 
 **1.b.** Fig. 1.C shows two spatial arrangements of the genetic system. In the top arrangement device A is 50 µm away from device B. In the lower arrangement device A is 150 µm away from device B. The time responses for each arrangement is measured by GFP production from device A as presented below.  Does “trace-1” come from the 50 µm or 150 µm arrangement?
-
 
 **1.c.** Explain your choice. (Hint: think about diffusion) (1-2 sentences max or math)
 
@@ -74,7 +73,13 @@ This question is from the [Cell Biology by the Numbers](http://book.bionumbers.o
 
 ## (Q3) Bacterial Edge Detection (10)
 
-We talked about engineered *E.coli* which detects light earlier in the quarter.  Building on earlier [work](https://www.nature.com/articles/nature04405) first published in 2005, Jeff Tabor and colleagues eventually demonstrated a bacterial edge detection system. In their system a bacterial lawn (i.e., a uniform layer of identically engineered bacteria growing on a plate) detect a light-encoded image. The bacteria are initially all the same but, depending on whether they are exposed to light or not, send or receive small molecule-encoded signals that diffuse across the light/dark boundary. Only bacteria positioned at the boundary between light and dark express an enzyme that results in formation of a dark pigment (HINT: see Figure on next page and also the primary [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775486/) article).
+We have talked about engineered *E.coli* which detects light earlier in the quarter. 
+
+Building on earlier [work](https://www.nature.com/articles/nature04405) first published in 2005, Jeff Tabor and colleagues eventually demonstrated a bacterial edge detection system. 
+
+In their system a bacterial lawn (i.e., a uniform layer of identically engineered bacteria growing on a plate) detect a light-encoded image. The bacteria are initially all the same but, depending on whether they are exposed to light or not, send or receive small molecule-encoded signals that diffuse across the light/dark boundary.
+
+Only bacteria positioned at the boundary between light and dark express an enzyme that results in formation of a dark pigment (HINT: see Figure and also the primary [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775486/) article).
 
 <figure>
 <a href="/assets/images/pset8_fig.2.png"><img src="/assets/images/pset8_fig.2.png"></a>
@@ -83,7 +88,7 @@ We talked about engineered *E.coli* which detects light earlier in the quarter. 
 
 Take a look at the photo of the system in action. Note the edge detection in the case of a square or Alfred Hitchcock’s portrait.
 
-**3.a.** What do you observe?  (1-2 sentences)
+**3.a.** What do you observe? Are all the edges uniform?  (1-2 sentences)
 
 **3.b.** Using concepts from this week, why is there more pigment inside the corners of the square, or inside the bottom left angle of Alfred’s portrait?
 
@@ -110,9 +115,6 @@ First examine,[A synchronized quorum of genetic clocks](https://www.nature.com/a
 
 **Q.5.b** In your opinion, what are the paper’s strengths and significance? What are the paper's shortcomings and deficiencies? How can the paper improve?
 
-**Your questions**
-Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
-
 *Additional Resources*    
 
 The following link takes you to a paper titled [Life at Low Reynolds Number](https://www2.gwu.edu/~phy21bio/Reading/Purcell_life_at_low_reynolds_number.pdf) that examines physics at the scale of a bacteria.  
@@ -123,10 +125,6 @@ The following link takes you to a paper titled [Life at Low Reynolds Number](htt
 (1) [Fireflies and Patterns](http://ncase.me/fireflies)
 
 (2) [Explorables Collection ](http://www.complexity-explorables.org/explorables/)
-
-
-**Your questions**
-Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
 
 <sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w6ps.md) for teaching staff <sub><sup>
