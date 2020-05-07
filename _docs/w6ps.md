@@ -24,7 +24,7 @@ Fresh GOOP is supplied from one end of the channel.   Using various channel leng
 **1.b.** Fig. 1.C shows two spatial arrangements of the genetic system. In the top arrangement device A is 50 µm away from device B. In the lower arrangement device A is 150 µm away from device B. The time responses for each arrangement is measured by GFP production from device A as presented below.  Does “trace-1” come from the 50 µm or 150 µm arrangement?
 
 
-**1.c.** Explain your choice, use appropriate equation(s). (Hint: think about diffusion)
+**1.c.** Explain your choice. (Hint: think about diffusion) (1-2 sentences max or math)
 
 <figure>
 <a href="/assets/images/Spatial GOOP.png"><img src="/assets/images/Spatial GOOP.png"></a>
@@ -66,6 +66,8 @@ Next, let’s estimate the time it takes for a protein to diffuse spontaneously 
 
 (iv) A neuronal cell axon with R≈1 cm.
 
+(Extra- activity create a plot that demonstrates the relationship between τ vs R)
+
 **2.d.** What does the the diffusion time for the axon suggests to you?
 
 This question is from the [Cell Biology by the Numbers](http://book.bionumbers.org/what-are-the-time-scales-for-diffusion-in-cells/)
@@ -97,15 +99,14 @@ On Friday you participated in the Dancing Droplets activity.  Use pictures, diag
 
 **4.d.** How good do we have to become at implementing these different frames of reference (3 challenges) in order to engineer living matter?
 
-**Extra credit: (5 pts)**  Make your own dancing droplet video (30 to 60 seconds) with your own choice of background music. Submit your file on Canvas (under Discussions -> Dancing Droplets). Note that the rest of your problem set should be submitted on Gradescope. This part only will be submitted through Canvas.
-
+**Extra **  Make your own dancing droplet video (30 to 60 seconds) with your own choice of background music. Submit your file on Canvas (under Discussions -> Dancing Droplets). Note that the rest of your problem set should be submitted on Gradescope. This part only will be submitted through Canvas.
 
 **Your questions**
 Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
 
 *Additional Resources*    
 
-The following link takes you to a paper titled [Life at Low Reynolds Number](https://www2.gwu.edu/~phy21bio/Reading/Purcell_life_at_low_reynolds_number.pdf) that examines physics at the scale of a bacteria.  The following link takes you to a digital copy of a great book titled [The Machinery of life](https://searchworks.stanford.edu/view/11568895) which can help you with the concepts we have covered both this week and in previous weeks.
+The following link takes you to a paper titled [Life at Low Reynolds Number](https://www2.gwu.edu/~phy21bio/Reading/Purcell_life_at_low_reynolds_number.pdf) that examines physics at the scale of a bacteria.  
 
 *The following links* are **explorables** that can help you explore and build an intuition about patterns and pattern formation.  We hope that you take some time and examine them on your own:
 
