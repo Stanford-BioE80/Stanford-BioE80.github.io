@@ -1,3 +1,10 @@
+---
+title: "Additional Resources"
+permalink: /docs/resources/
+last_modified_at:
+toc: true
+---
+
 This list organizes two types of extra resources for your consideration. Everything here is optional but valuable. 
 
 First, we have a set of links to software tools supporting design and analysis of biomolecular and genetic systems. Learning to use these tools is a great way to gain understanding and also demonstrate to others (e.g., future co-founders or employers) that you can do useful things with state of the art software. Second, we have a set of links to background reading in case you wish to learn more about the details of biology. We will periodically update this post with new resources, so check back!
