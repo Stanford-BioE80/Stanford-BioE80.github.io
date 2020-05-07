@@ -38,6 +38,8 @@ docs:
         url: /docs/online_etiquette/
       - title: "TA Office Hours"
         url: /docs/calendar/
+      - title: "Additional Resources"
+        url: /docs/resources
   - title: Class Materials
     children:
       - title: "Week 1 Readings"
