@@ -143,7 +143,7 @@ First examine, [Rapid reconstruction of SARS-CoV-2 using a synthetic genomics pl
  
 Next examine,[Design and synthesis of a minimal bacterial genome](https://science.sciencemag.org/content/351/6280/aad6253).
 
-**Q.4.c** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? In your own words, describe how does the Repressilator work? (2-3 sentences)
+**Q.4.c** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? (2-3 sentences)
 
 **Q.4.d** What were the genome size and number of genes in JCV-syn3.0?  How many were essential genes of previously unknown function discovered in this work? How is the whole genome synthesized in this work?  
 
