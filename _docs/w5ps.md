@@ -147,7 +147,39 @@ Next examine,[Design and synthesis of a minimal bacterial genome](https://scienc
 
 **Q.4.d** What were the genome size and number of genes in JCV-syn3.0?  How many were essential genes of previously unknown function discovered in this work? How is the whole genome synthesized in this work?  
 
-## Extra learning (100% optional):
+## Final Project - Group Activity.1
+
+### Brainstorm report + Team Rules
+
+ASSIGNED: Friday 08 May 2020
+
+DUE: 5:00p Pacific 15 May 2020
+
+**NOTES:**
+
+- Include your group number and names of your group members.
+- Team Rules is 6 points of your Final Project.
+- Brainstorm is 5 points of your Final Project.
+- Please turn in a **single** (one person per team) electronic copy of your Group Activity.1 via Gradescope.
+
+**Q.1.** What is your group number? (If you have a group name - let us know)
+
+
+**Q.2.** Turn in a copy of your team rules. We expect to see between 8 and 20 rules (8 rules < # rules < 20 rules) that you have all agreed upon. (6 points)
+
+**Q.3.** Brainstorm report: 
+As a group for your project brainstorm ideas.  Brainstorm should include following three themes:
+
+- People health 
+
+- Planet health 
+
+- Political health 
+
+we expect 30 ideas for each theme **total  90 ideas**.  If you have more ideas, please share them.
+
+__________________________________________________
+### Extra learning (100% optional):
 
 #### (Q5)Sequencing and Synthesis technologies (0 pts)
 
