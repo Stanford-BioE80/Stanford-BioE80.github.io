@@ -62,8 +62,8 @@ docs:
         url: /docs/w5preclass/
       - title: "Week 5 In-Class"
         url: /docs/w5inclass/
-      #- title: "Week 6 Readings"
-      #  url: /docs/w6preclass/
+      - title: "Week 6 Readings"
+        url: /docs/w6preclass/
       #- title: "Week 6 In-Class"
       #  url: /docs/w6inclass/
       #- title: "Week 7 Readings"
@@ -89,8 +89,8 @@ docs:
         url: /docs/w3ps/
       - title: "Week 4 PS"
         url: /docs/w4ps/
-      #- title: "Week 5 PS"
-      #  url: /docs/w5ps/
+      - title: "Week 5 PS"
+        url: /docs/w5ps/
       #- title: "Week 6 PS"
       #  url: /docs/w6ps/
       #- title: "Week 7 PS"
