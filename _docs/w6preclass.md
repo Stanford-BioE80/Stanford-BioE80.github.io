@@ -161,7 +161,7 @@ Ask questions or ask for help as needed!
 
 When you feel ready...
 
-**Three Challenge**
+**Three Challenge** 
 
 ### Challenge 1.( ~ 5-7 minutes)
 Can you get one droplet to chase another along a curved path between two points? (Hint: Sharpie)
