@@ -99,7 +99,7 @@ Briefly examine:
 
 - [Vapour-mediated sensing and motility in two-component droplets](https://www.nature.com/articles/nature14272)
 
-- [NYtimes video: the physics of droplets](http://www.nytimes.com/video/science/100000003584880/dancing)
+- [NYtimes video: the physics of droplets](https://www.nytimes.com/2015/03/24/science/tiny-internal-tornadoes-bring-drops-to-life.html?action=click&module=RelatedLinks&pgtype=Article)
 
 **Here is what we will do in class together on Wednesday**
 
