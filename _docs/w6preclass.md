@@ -91,7 +91,7 @@ Khan Academy videos:
 
 ## Preclass for Wednesday: Dancing Droplets
 
-Note:  To prepare for Wednesday class, you can attend Physics of Dancing Droplets tutorial (live Tuesday, May 12th 5p PT via class Zoom - the recording will be posted) or read the following pre-class material. 
+Note:  To prepare for Wednesday's class, you can attend Physics of Dancing Droplets tutorial (live Tuesday, May 12th 5p PT via class Zoom - the recording will be posted) or read the following pre-class material. 
 
 To get started please spend ~5 minutes watching these two videos:
 
