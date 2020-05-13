@@ -1,7 +1,7 @@
 ---
 title: "Week 6 Preclass"
 permalink: /docs/w6preclass/
-last_modified_at: 
+last_modified_at:
 toc: true
 ---
 
@@ -91,13 +91,13 @@ Khan Academy videos:
 
 ## Preclass for Wednesday: Dancing Droplets
 
-Note:  To prepare for Wednesday's class, you can attend Physics of Dancing Droplets tutorial (live Tuesday, May 12th 5p PT via class Zoom - the recording will be posted) or read the following pre-class material. 
+Note:  To prepare for Wednesday's class, you can attend Physics of Dancing Droplets tutorial ([video recording is available at this link](https://stanford.zoom.us/rec/play/uZMlcbqrqjs3GYeXuASDAvR7W426L_6s0iccqPoFnUi2VHRVZleiYbVDamsKxgtNmh2qvpRkc3LoRwk) and [slides are on Canvas](https://canvas.stanford.edu/courses/115648/files/folder/Optional%20On-Ramping%20-%20Dancing%20%20Droplets)), or read the following pre-class material.
 
 To get started please spend ~5 minutes watching these two videos:
 
 [Dancing Droplets](https://youtu.be/ZMsaH6SY4CY)
 
-Briefly examine: 
+Briefly examine:
 
 - [Vapour-mediated sensing and motility in two-component droplets](https://www.nature.com/articles/nature14272)
 
@@ -105,9 +105,9 @@ Briefly examine:
 
 **Here is what we will do in class together on Wednesday**
 
-**Goal** our practical goal is to gain experience programing the behavior of simple systems in space and time. 
+**Goal** our practical goal is to gain experience programing the behavior of simple systems in space and time.
 
-We ask, 
+We ask,
 
 - What rule did you observe (or read) about - which droplets chase which?
 
@@ -117,44 +117,44 @@ We ask,
 
 - How would you use autonomous behaviors (with droplets or cells) to generate pattersn?
 
-To explore these concepts we are challenging you to realize three types of behaviors that illustrate the three modes 
+To explore these concepts we are challenging you to realize three types of behaviors that illustrate the three modes
 of patterning.
 
 First, a pattern that you control directly by your own hand marking a path.
 
 Second, a pattern that you control somewhat indirectly, by using spontaneous physical processes to create an external coordinate system.
 
-Third, a pattern that you initiate but that otherwise entirely controls itself via its own autogeneration of a coordinate 
+Third, a pattern that you initiate but that otherwise entirely controls itself via its own autogeneration of a coordinate
 system.
 
 **MATERIALS & METHODS**
 
-Materials (you have recieved): 
-- 3 cleaned glass slides (side with a black dot is cleaned), 
-- 4 colored solutions, 
-- 4 transfer pipettes 
+Materials (you have recieved):
+- 3 cleaned glass slides (side with a black dot is cleaned),
+- 4 colored solutions,
+- 4 transfer pipettes
 
-You will also need a sharpie marker. 
+You will also need a sharpie marker.
 
 
 We have prepared the following solutions of propylene glycol and water (% v/v)
 
-30% (Purple), 
-15% (Teal), 
-5% (Orange), 
+30% (Purple),
+15% (Teal),
+5% (Orange),
 2.5% (Pink).
 
 A few notes on the glass slides and cleanliness:
 
-To preserve the cleanliness of the slides and help the activity work properly, please do not touch the slide 
+To preserve the cleanliness of the slides and help the activity work properly, please do not touch the slide
 surface with your hands. Hold the slide from the side.  Glass slides have been cleaned with a Plasma cleaning machine; this makes the glass slides both incredibly clean and hydrophilic.
 
 Now, practice by playing with making droplets dance:
 
 - Place the slide on the paper work surface, with the marked treated side facing UP.
 
-- Place small volumes (< 10 μL) of varying solutions of propylene glycol and colored water onto the slides 
-using pipettes (use one pipette per color). 
+- Place small volumes (< 10 μL) of varying solutions of propylene glycol and colored water onto the slides
+using pipettes (use one pipette per color).
 
 - Observe. The droplets should start moving.
 
@@ -163,7 +163,7 @@ Ask questions or ask for help as needed!
 
 When you feel ready...
 
-**Three Challenge** 
+**Three Challenge**
 
 ### Challenge 1.( ~ 5-7 minutes)
 Can you get one droplet to chase another along a curved path between two points? (Hint: Sharpie)
@@ -174,7 +174,7 @@ Can you get one droplet to follow a defined path withoutusing the black sharpie,
 ### Challenge 3. (All remaining time)
 By only placing droplets in a confined initial region, can you get a droplet to eject and follow a defined path (again, all without placing any droplets elsewhere in the field)?
 
-Note: Take pictures to help you answer the problem set questions. 
+Note: Take pictures to help you answer the problem set questions.
 
 ***QUESTIONS***
 
@@ -194,7 +194,7 @@ Part of these questions will also appear on PSET:
 
 We ended class on Monday with an initial consideration of diffusion, introducing the idea that spontaneous diffusion of systems comprised of more than one molecule can *temporarily* result in non-trivial spatial patterns (e.g., a bullseye).
 
-Next we used simple rules to create a complex pattern with droplets. 
+Next we used simple rules to create a complex pattern with droplets.
 
 On Friday, we will build on both ideas.E.g,. how can state (i.e., memory) be used to capture and make permanent fleeting patterns? How can patterns build upon patterns?
 
