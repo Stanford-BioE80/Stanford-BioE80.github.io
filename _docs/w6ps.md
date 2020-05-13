@@ -107,13 +107,43 @@ On Wednesday you experienced (or read about) the the Dancing Droplets.  Use pict
 
 *Extra-activity*  Make your own dancing droplet video (30 to 60 seconds) with your own choice of background music and share a link with us.
 
-## (Q5) Paper reading activity (20 pts)
+
+## (Q5) Regrowing a newt arm (X pts)
+
+Please watch this [video of a newt regrowing its arm](http://www.hhmi.org/biointeractive/newt-limb-regeneration).  How does this work? Let's apply the concepts we've learned from dancing droplets challenges to figure this out from a programming patterns perspective. 
+
+Pictured below is a newt's body with five regenerative cells (green circles) that are ready to regenerate a limb. You are a sculptor of limbs and create a physical scaffold that outlines and limits the aggregate shape that the cells should grow into. The cells just need to grow into the shape that you’ve defined (the simple “bent-arm” solid line trace).
+
+<figure>
+<a href="/assets/images/Week-6-pic1.png"><img src="/assets/images/Week-6-pic1.png" height="500"></a>
+</figure>
+
+**Q.5.a. "The hand of god"** What do the cells need to do in order fill the physical form you have preshaped for them? 
+
+Next, consider a different set of starting conditions: You no longer exist. In the picture below, the newt still has to regrow its arm into the shape indicated by the faint dotted line, but this time, without your barrier into which the cells could simply grow. However, two external beacon cells have been added to the system (purple, blue).  Each beacon cell emits a distinct and freely diffusing small molecule that the regenerative cells (green) can detect and respond to as you like (i.e., attract, repel, other). Purple and blue cells’ signaling molecules diffuse simply (see “time > 0” inset).
+
+<figure>
+<a href="/assets/images/Week-6-pic2.png"><img src="/assets/images/Week-6-pic2.png" height="500"></a>
+</figure>
+
+**Q.5.b. "Celestial navigation"** Develop a biological pseudo-code routine that details how the five green cells can grow into the desired pattern in response to the signals initially emanating from the external beacons.
+
+Finally, pictured below is a newt that needs to regrow its arm using only its own regenerative cells (there are no external inputs to the system). The two outside regenerative cells have differentiated into distinct left and right cells (below).
+
+<figure>
+<a href="/assets/images/Week-6-pic3.png"><img src="/assets/images/Week-6-pic3.png" height="500"></a>
+</figure>
+
+**Q.5.c. "Full autonomy"** Develop a biological pseudo-code routine that details how the five originating cells (purple, green, green, green, blue) can grow into the desired pattern by themselves, using no outside information or control.
+
+
+## (Q6) Paper reading activity (20 pts)
 
 First examine,[A synchronized quorum of genetic clocks](https://www.nature.com/articles/nature08753).
 
-**Q.5.a** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? (2-3 sentences)
+**Q.6.a** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? (2-3 sentences)
 
-**Q.5.b** In your opinion, what are the paper’s strengths and significance? What are the paper's shortcomings and deficiencies? How can the paper improve?
+**Q.6.b** In your opinion, what are the paper’s strengths and significance? What are the paper's shortcomings and deficiencies? How can the paper improve?
 
 *Additional Resources*    
 
