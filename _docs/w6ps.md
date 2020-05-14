@@ -34,19 +34,19 @@ Diffusion coefficient is described by the following equation: D=k<sub>B</sub>T/6
  - η is viscosity of surrounding medium $ \frac{N x s}{m^2} $,
  - “a” is a measure of length (radius of a sphere approximating the molecule).  
 
-**2.a.** Using above determine the units for diffusion coefficient? (show your work)
+**1.a.** Using above determine the units for diffusion coefficient? (show your work)
 
 You learn that the diffusion coefficient for a protein (~30 kDa GFP) in water is about 100 µm^2/s.
 The diffusion constant for the same protein is in the cytoplasm of a eukaryotic cell is only 30 µm^2/s.
 
-**2.b.** Intuitively do these numbers make sense? (Yes or No) Why? (Bullet points)
+**1.b.** Intuitively do these numbers make sense? (Yes or No) Why? (Bullet points)
 
 Next, let’s estimate the time it takes for a protein to diffuse spontaneously across different types of cells
 (diffusion time τ). 
 
 - We will use the formula $ τ=\frac{R^2}{6D} $, where R is the traverse distance.
 
-**2.c.** Calculate the times it takes for the protein (~30 kDa GFP) with a diffusion constant D=30 µm^2/s to diffuse across four different cell types:
+**1.c.** Calculate the times it takes for the protein (~30 kDa GFP) with a diffusion constant D=30 µm^2/s to diffuse across four different cell types:
 
 (i) *E.coli* with R≈1 μm,
 
@@ -56,9 +56,9 @@ Next, let’s estimate the time it takes for a protein to diffuse spontaneously 
 
 (iv) A neuronal cell axon with R≈1 cm.
 
-**2.d.** Create a τ vs R plot for the above four cases. 
+**1.d.** Create a τ vs R plot (use the above four cases). 
 
-**2.e.** What does the the diffusion time for the axon suggests to you?
+**1.e.** What does the the diffusion time for the axon suggests to you?
 
 This question is from the [Cell Biology by the Numbers](http://book.bionumbers.org/what-are-the-time-scales-for-diffusion-in-cells/)
 
