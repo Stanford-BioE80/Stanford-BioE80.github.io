@@ -109,7 +109,7 @@ Take a look at the photo of the system in action. Note the edge detection in the
 
 **3.b.** Using concepts from this week, why is there more pigment inside the corners of the square, or inside the bottom left angle of Alfred’s portrait?
 
-## (Q4) Regrowing a newt arm (25 pts)
+## (Q4) Regrowing a newt arm (30 pts)
 
 Please watch this [video of a newt regrowing its arm](http://www.hhmi.org/biointeractive/newt-limb-regeneration).  How does this work? Let's apply the concepts we've learned from dancing droplets challenges to figure this out from a programming patterns perspective. 
 
