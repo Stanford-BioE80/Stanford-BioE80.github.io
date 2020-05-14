@@ -48,13 +48,13 @@ Next, let’s estimate the time it takes for a protein to diffuse spontaneously 
 
 **1.c.** Calculate the times it takes for the protein (~30 kDa GFP) with a diffusion constant D=30 µm^2/s to diffuse across four different cell types:
 
-(i) *E.coli* with R≈1 μm,
+- (i) *E.coli* with R≈1 μm,
 
-(ii)  Yeast cell with R≈10 μm,
+- (ii)  Yeast cell with R≈10 μm,
 
-(iii) HeLa cell with R≈20 μm, and
+- (iii) HeLa cell with R≈20 μm, 
 
-(iv) A neuronal cell axon with R≈1 cm.
+- (iv) A neuronal cell axon with R≈1 cm.
 
 **1.d.** Create a τ vs R plot (use the above four cases). 
 
@@ -111,11 +111,14 @@ Take a look at the photo of the system in action. Note the edge detection in the
 
 ## (Q4) Regrowing a newt arm (30 pts)
 
-Please watch this [video of a newt regrowing its arm](http://www.hhmi.org/biointeractive/newt-limb-regeneration).  How does this work? Let's apply the concepts we've learned from dancing droplets challenges to figure this out from a programming patterns perspective. 
+Please watch this [video of a newt regrowing its arm](http://www.hhmi.org/biointeractive/newt-limb-regeneration).  
+
+How does this work? Let's apply the concepts we've learned from dancing droplets challenges to figure this out from a programming patterns perspective. 
 
 **Q.4.a. "The hand of god"**
 
-Pictured below is a newt's body with five regenerative cells (green circles) that are ready to regenerate a limb. You are a sculptor of limbs and create a physical scaffold that outlines and limits the aggregate shape that the cells should grow into. The cells just need to grow into the shape that you’ve defined (the simple “bent-arm” solid line trace). 
+Pictured below is a newt's body with five regenerative cells (green circles) that are ready to regenerate a limb. 
+You are a sculptor of limbs and create a physical scaffold that outlines and limits the aggregate shape that the cells should grow into. The cells just need to grow into the shape that you’ve defined (the simple “bent-arm” solid line trace). 
 
 ***What do the cells need to do in order fill the physical form you have preshaped for them?***
 <figure>
@@ -124,7 +127,9 @@ Pictured below is a newt's body with five regenerative cells (green circles) tha
 
 **Q.4.b. "Celestial navigation"** 
 
-Next, consider a different set of starting conditions: <i>You no longer exist</i>. In the picture below, the newt still has to regrow its arm into the shape indicated by the faint dotted line, but this time, without your barrier into which the cells could simply grow. However, two external beacon cells have been added to the system (purple, blue).  Each beacon cell emits a distinct and freely diffusing small molecule that the regenerative cells (green) can detect and respond to as you like (i.e., attract, repel, other). Purple and blue cells’ signaling molecules diffuse simply (see “time > 0” inset). 
+Next, consider a different set of starting conditions: <i>You no longer exist</i>. 
+
+In the picture below, the newt still has to regrow its arm into the shape indicated by the faint dotted line, but this time, without your barrier into which the cells could simply grow. However, two external beacon cells have been added to the system (purple, blue).  Each beacon cell emits a distinct and freely diffusing small molecule that the regenerative cells (green) can detect and respond to as you like (i.e., attract, repel, other). Purple and blue cells’ signaling molecules diffuse simply (see “time > 0” inset). 
 
 ***Develop a biological pseudo-code routine that details how the five green cells can grow into the desired pattern in response to the signals initially emanating from the external beacons.***
 <figure>
