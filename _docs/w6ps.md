@@ -129,9 +129,12 @@ You are a sculptor of limbs and create a physical scaffold that outlines and lim
 
 Next, consider a different set of starting conditions: <i>You no longer exist</i>. 
 
-In the picture below, the newt still has to regrow its arm into the shape indicated by the faint dotted line, but this time, without your barrier into which the cells could simply grow. However, two external beacon cells have been added to the system (purple, blue).  Each beacon cell emits a distinct and freely diffusing small molecule that the regenerative cells (green) can detect and respond to as you like (i.e., attract, repel, other). Purple and blue cells’ signaling molecules diffuse simply (see “time > 0” inset). 
+In the picture below, the newt still has to regrow its arm into the shape indicated by the faint dotted line, but this time, without your barrier into which the cells could simply grow. However, two external beacon cells (purple and blue) have been added to the system. Each beacon cell emits a distinct and freely diffusing small molecule (see "time > 0 inset) that the regenerative cells (green) can detect and respond to using the following programmed functions:
+```
+move, divide, attract, repel, change color, count cell divisions
+```
 
-***Develop a biological pseudo-code routine that details how the five green cells can grow into the desired pattern in response to the signals initially emanating from the external beacons.***
+***Describe how the five green cells can use their programmed functions to grow into the desired pattern in response to the signals initially emanating from the external beacons.***
 <figure>
 <a href="/assets/images/Week-6-pic2.png"><img src="/assets/images/Week-6-pic2.png" height="500"></a>
 </figure>
@@ -140,10 +143,17 @@ In the picture below, the newt still has to regrow its arm into the shape indica
 
 Finally, pictured below is a newt that needs to regrow its arm using only its own regenerative cells (there are no external inputs to the system). The two outside regenerative cells have differentiated into distinct left and right cells (below). 
 
-***Develop a biological pseudo-code routine that details how the five originating cells (purple, green, green, green, blue) can grow into the desired pattern by themselves, using no outside information or control.***
+***Describe how the five originating cells (purple, green, green, green, blue) can use their programmed functions to grow into the desired pattern by themselves, using no outside information or control.***
 <figure>
 <a href="/assets/images/Week-6-pic3.png"><img src="/assets/images/Week-6-pic3.png" height="500"></a>
 </figure>
+
+**Q.4.d.  Applications**
+
+The concept of using gradients to drive the behavior of autonomous devices can be observed in many other applications besides newt arm regeneration.
+
+***Briefly describe (in 1-2 sentences) another application of this concept: where else is this behavior seen and how does it relate?***
+
 
 *Additional Questions and Resources*     
 
