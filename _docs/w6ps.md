@@ -27,12 +27,12 @@ DUE: 11:59 PM Pacific 22 May 2020
 
 First let's warm up:
 
-Diffusion coefficient is described by the following equation: $D=\frac{k_BT}{6\pi \eta a}$ D=k<sub>B</sub>T/6πηa
+Diffusion coefficient is described by the following equation: $D=\frac{k_BT}{6\pi \eta a}$
 
- - k<sub>B</sub> is Boltzmann's constant 1.3807 x 10 ^-23 $ \frac{J}{K} $
- - T is the temperature (K) of the surrounding medium ,
- - η is viscosity of surrounding medium $ \frac{N x s}{m^2} $,
- - “a” is a measure of length (radius of a sphere approximating the molecule).  
+ - $k_B$ is Boltzmann's constant 1.3807 x 10 ^-23 $ \frac{J}{K} $
+ - $T$ is the temperature (K) of the surrounding medium ,
+ - $\eta$ is viscosity of surrounding medium $ \frac{N \cdot s}{m^2} $,
+ - $a$ is a measure of length (radius of a sphere approximating the molecule).  
 
 **1.a.** Using above determine the units for diffusion coefficient? (show your work)
 
@@ -44,7 +44,7 @@ The diffusion constant for the same protein is in the cytoplasm of a eukaryotic 
 Next, let’s estimate the time it takes for a protein to diffuse spontaneously across different types of cells
 (diffusion time τ). 
 
-- We will use the formula $ τ=\frac{R^2}{6D} $, where R is the traverse distance.
+- We will use the formula $\tau =\frac{R^2}{6D} $, where $R$ is the traverse distance.
 
 **1.c.** Calculate the times it takes for the protein (~30 kDa GFP) with a diffusion constant D=30 µm^2/s to diffuse across four different cell types:
 
@@ -56,7 +56,7 @@ Next, let’s estimate the time it takes for a protein to diffuse spontaneously 
 
 - (iv) A neuronal cell axon with R≈1 cm.
 
-**1.d.** Create a τ vs R plot (use the above four cases). 
+**1.d.** Create a $\tau$ vs $R$ plot (use the above four cases). 
 
 **1.e.** What does the the diffusion time for the axon suggests to you?
 
