@@ -4,7 +4,65 @@ permalink: /docs/w6ps/
 2018:
 ---
 
-## (Q1) Spatial DNA devices (20 pts)
+**PSET #6**
+
+ASSIGNED: Friday 15 May 2020
+
+DUE: 11:59 PM Pacific 22 May 2020
+
+**NOTES:**
+
+- Given the unique circumstance of Spring 2020, we ask you to do your best to maximize your learning. Each problem set is an opportunity to assess your learning, identify gaps, reflect on what you have learned, and determine what you wish to learn next.
+- You can discuss the PSET questions with other students. But your answers should be your own work. Please let us know if you collaborated with other students working on the PSET. 
+- Please turn in your completed problem sets as an electronic copy via Gradescope. Please make sure to clearly indicate the starting and ending boundaries of your answers to each question on Gradescope.
+- Please do not go over any word limits.
+- Please **type** your answers. 
+- Please **label** and provide descriptions for the figures. 
+- **Please show your work and include units.**
+
+## (Q1) Diffusion, Diffusion constant, and Diffusion time (30 pts)
+
+ In the class you were introduced to diffusion both qualitatively.
+ In this question you will additionally explore diffusion quantitatively.
+
+First let's warm up:
+
+Diffusion coefficient is described by the following equation: D=k<sub>B</sub>T/6πηa
+
+ - k<sub>B</sub> is Boltzmann's constant 1.3807 x 10 ^-23 $frac{J}{K}$
+ - T is the temperature (K) of the surrounding medium ,
+ - η is viscosity of surrounding medium $frac{N x s}{m^2}$,
+ - “a” is a measure of length (radius of a sphere approximating the molecule).  
+
+**2.a.** Using above determine the units for diffusion coefficient? (show your work)
+
+You learn that the diffusion coefficient for a protein (~30 kDa GFP) in water is about 100 µm^2/s.
+The diffusion constant for the same protein is in the cytoplasm of a eukaryotic cell is only 30 µm^2/s.
+
+**2.b.** Intuitively do these numbers make sense? (Yes or No) Why? (Bullet points)
+
+Next, let’s estimate the time it takes for a protein to diffuse spontaneously across different types of cells
+(diffusion time τ). 
+
+- We will use the formula $ τ=\frac{R^2}{6D} $, where R is the traverse distance.
+
+**2.c.** Calculate the times it takes for the protein (~30 kDa GFP) with a diffusion constant D=30 µm^2/s to diffuse across four different cell types:
+
+(i) *E.coli* with R≈1 μm,
+
+(ii)  Yeast cell with R≈10 μm,
+
+(iii) HeLa cell with R≈20 μm, and
+
+(iv) A neuronal cell axon with R≈1 cm.
+
+**2.d.** Create a τ vs R plot for the above four cases. 
+
+**2.e.** What does the the diffusion time for the axon suggests to you?
+
+This question is from the [Cell Biology by the Numbers](http://book.bionumbers.org/what-are-the-time-scales-for-diffusion-in-cells/)
+
+## (Q2) Diffusion and Spatial DNA devices (20 pts)
 
 Two DNA devices have been engineered for use in a *cell-free extract* solution (known as GOOP) (Figure, below).  GOOP is the transcription - translation machinary harvested from cells.  DNA devices gets activated when GOOP reachs them. 
 
@@ -18,60 +76,19 @@ Each device is placed in a distinct reservoir within a micro-scale fluidic chann
 
 Fresh GOOP is supplied from one end of the channel.   Using various channel lengths experimenters are testing a genetic system made from the two devices.
 
-**1.a.**  By studying the diagram in Figure 1.B, describe the expected relationships and behavior of the system.  
+**2.a.**  By studying the diagram in Figure 1.B, describe the expected relationships and behavior of the system.  
 (1-2 sentences max)
 
-**1.b.** Fig. 1.C shows two spatial arrangements of the genetic system. In the top arrangement device A is 50 µm away from device B. In the lower arrangement device A is 150 µm away from device B. The time responses for each arrangement is measured by GFP production from device A as presented below.  Does “trace-1” come from the 50 µm or 150 µm arrangement?
+**2.b.** Figure 1.C shows two spatial arrangements of the genetic system. In the top arrangement device A is 50 µm away from device B. In the lower arrangement device A is 150 µm away from device B. The time responses for each arrangement is measured by GFP production from device A as presented below.  Does “trace-1” come from the 50 µm or 150 µm arrangement?
 
-**1.c.** Explain your choice. (Hint: think about diffusion) (1-2 sentences max or math)
+**2.c.** Explain your choice. (Hint: think about diffusion) (1-2 sentences max or math)
 
 <figure>
 <a href="/assets/images/Spatial GOOP.png"><img src="/assets/images/Spatial GOOP.png"></a>
 <figcaption><b>Figure 1</b>. Spatial GOOP .</figcaption>
 </figure>
 
-
-## (Q2) Diffusion, Diffusion constant, and Diffusion time (25 pts)
-
- In the class you were introduced to diffusion both qualitatively.
- In this question you will additionally explore diffusion quantitatively.
-
-First let's warm up:
-
-Diffusion coefficient is described by the following equation: D=k<sub>B</sub>T/6πηa
-
- - k<sub>B</sub> is Boltzmann's constant (1.3807 x 10 ^-23 J/K),
- - T is the temperature (K) of the surrounding medium ,
- - η is viscosity of surrounding medium (N x s / m^2),
- - “a” is a measure of length (radius of a sphere approximating the molecule).  
-
- **2.a.** Using above determine the units for diffusion coefficient? (show your work)
-
-You learn that the diffusion coefficient for a protein (~30 kDa GFP) in water is about 100 µm^2/s.
-The diffusion constant for the same protein is in the cytoplasm of a eukaryotic cell is only 30 µm^2/s.
-
-**2.b.** Intuitively do these numbers make sense? (Yes or No) Why? (Bullet points)
-
-Next, let’s estimate the time it takes for a protein to diffuse spontaneously across different types of cells
-(diffusion time τ). We will use the formula $ τ=\frac{R^2}{6D} $, where R is the traverse distance.
-
-**2.c.** Calculate the times it takes for the protein (~30 kDa GFP) with a diffusion constant D=30 µm^2/s to diffuse across four different cell types:
-
-(i) *E.coli* with R≈1 μm,
-
-(ii)  Yeast cell with R≈10 μm,
-
-(iii) HeLa cell with R≈20 μm, and
-
-(iv) A neuronal cell axon with R≈1 cm.
-
-(Extra- activity create a plot that demonstrates the relationship between τ vs R)
-
-**2.d.** What does the the diffusion time for the axon suggests to you?
-
-This question is from the [Cell Biology by the Numbers](http://book.bionumbers.org/what-are-the-time-scales-for-diffusion-in-cells/)
-
-## (Q3) Bacterial Edge Detection (10)
+## (Q3) Bacterial Edge Detection (20)
 
 We have talked about engineered *E.coli* which detects light earlier in the quarter. 
 
@@ -123,8 +140,9 @@ Finally, pictured below is a newt that needs to regrow its arm using only its ow
 <a href="/assets/images/Week-6-pic3.png"><img src="/assets/images/Week-6-pic3.png" height="500"></a>
 </figure>
 
+*Additional Questions and Resources*     
 
-## (Q5) Paper reading activity (20 pts)
+#### (Q5) Paper reading activity (0 pts)
 
 First examine,[A synchronized quorum of genetic clocks](https://www.nature.com/articles/nature08753).
 
@@ -132,9 +150,7 @@ First examine,[A synchronized quorum of genetic clocks](https://www.nature.com/a
 
 **Q.5.b** In your opinion, what are the paper’s strengths and significance? What are the paper's shortcomings and deficiencies? How can the paper improve?
 
-*Additional Resources*    
-
-### (Q6)  Dancing Droplets (0 pts)
+#### (Q6)  Dancing Droplets (0 pts)
 
 On Wednesday you experienced (or read about) the the Dancing Droplets.  Use pictures, diagrams, or drawings as appropriate.
 
