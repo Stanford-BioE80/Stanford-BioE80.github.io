@@ -27,7 +27,7 @@ DUE: 11:59 PM Pacific 22 May 2020
 
 First let's warm up:
 
-Diffusion coefficient is described by the following equation: D=k<sub>B</sub>T/6πηa
+Diffusion coefficient is described by the following equation: $D=\frac{k_BT}{6\pi \eta a}$ D=k<sub>B</sub>T/6πηa
 
  - k<sub>B</sub> is Boltzmann's constant 1.3807 x 10 ^-23 $ \frac{J}{K} $
  - T is the temperature (K) of the surrounding medium ,
