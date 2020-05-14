@@ -23,7 +23,7 @@ DUE: 11:59 PM Pacific 22 May 2020
 ## (Q1) Diffusion, Diffusion constant, and Diffusion time (30 pts)
 
  In the class you were introduced to diffusion both qualitatively.
- In this question you will additionally explore diffusion quantitatively.
+ In this question you will additionally explore diffusion both qualitatively and quantitatively.
 
 First let's warm up:
 
