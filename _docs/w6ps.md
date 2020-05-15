@@ -130,7 +130,7 @@ Next, consider a different set of starting conditions: <i>You no longer exist</i
 
 In the picture below, the newt still has to regrow its arm into the shape indicated by the faint dotted line, but this time, without your barrier into which the cells could simply grow. However, two external beacon cells (purple and blue) have been added to the system. Each beacon cell emits a distinct and freely diffusing small molecule (see "time > 0 inset) that the regenerative cells (green) can detect and respond to using the following programmed functions:
 ```
-move, divide, attract, repel, change color, count cell divisions
+move, divide, sense, attract, repel, change color, count cell divisions
 ```
 
 ***Describe how the five green cells can use their programmed functions to grow into the desired pattern in response to the signals initially emanating from the external beacons.***
@@ -153,10 +153,11 @@ The concept of using gradients to drive the behavior of autonomous devices can b
 
 ***Briefly describe (in 1-2 sentences) another application of this concept: where else is this behavior seen and how does it relate?***
 
+---
 
 *Additional Questions and Resources*     
 
-#### (Q5) Paper reading activity (0 pts)
+### (Q5) Paper reading activity (0 pts)
 
 First examine,[A synchronized quorum of genetic clocks](https://www.nature.com/articles/nature08753).
 
@@ -164,7 +165,7 @@ First examine,[A synchronized quorum of genetic clocks](https://www.nature.com/a
 
 **Q.5.b** In your opinion, what are the paper’s strengths and significance? What are the paper's shortcomings and deficiencies? How can the paper improve?
 
-#### (Q6)  Dancing Droplets (0 pts)
+### (Q6)  Dancing Droplets (0 pts)
 
 On Wednesday you experienced (or read about) the the Dancing Droplets.  Use pictures, diagrams, or drawings as appropriate.
 
