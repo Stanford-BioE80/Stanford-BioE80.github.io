@@ -153,13 +153,13 @@ The concept of using gradients to drive the behavior of autonomous devices can b
 
 ***Briefly describe (in 1-2 sentences) another application of this concept: where else is this behavior seen and how does it relate?***
 
----
+***
 
 *Additional Questions and Resources*     
 
 ### (Q5) Paper reading activity (0 pts)
 
-First examine,[A synchronized quorum of genetic clocks](https://www.nature.com/articles/nature08753).
+First examine, [A synchronized quorum of genetic clocks](https://www.nature.com/articles/nature08753).
 
 **Q.5.a** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? (2-3 sentences)
 
