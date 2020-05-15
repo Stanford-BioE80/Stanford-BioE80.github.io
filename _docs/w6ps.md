@@ -26,17 +26,17 @@ In this question you will explore diffusion both qualitatively and quantitativel
 
 First let's warm up:
 
-Diffusion coefficient is described by the following equation: $D=\frac{k_BT}{6\pi \eta a}$
+The diffusion coefficient is described by the following equation: $D=\frac{k_BT}{6\pi \eta a}$
 
  - $k_B$ is Boltzmann's constant 1.3807 x 10 ^-23 $ \frac{J}{K} $
  - $T$ is the temperature (K) of the surrounding medium ,
  - $\eta$ is viscosity of surrounding medium $ \frac{N \cdot s}{m^2} $,
  - $a$ is a measure of length (radius of a sphere approximating the molecule).  
 
-**1.a.** Using above determine the units for diffusion coefficient? (show your work)
+**1.a.** Using the facts above determine the units for diffusion coefficient (show your work):
 
-You learn that the diffusion coefficient for a protein (~30 kDa GFP) in water is about 100 µm^2/s.
-The diffusion constant for the same protein is in the cytoplasm of a eukaryotic cell is only 30 µm^2/s.
+You learn that the diffusion coefficient for a protein (green fluorescent protein, GFP) in water is about 100 µm^2/s.
+But, the diffusion coefficient for the same protein in the cytoplasm of a living cell is only 30 µm^2/s.
 
 **1.b.** Intuitively do these numbers make sense? (Yes or No) Why? (Bullet points)
 
@@ -45,7 +45,7 @@ Next, let’s estimate the time it takes for a protein to diffuse spontaneously 
 
 - We will use the formula $\tau =\frac{R^2}{6D} $, where $R$ is the traverse distance.
 
-**1.c.** Calculate the times it takes for the protein (~30 kDa GFP) with a diffusion constant D=30 µm^2/s to diffuse across four different cell types:
+**1.c.** Calculate the times it takes for the GFP protein with a diffusion constant D=30 µm^2/s to diffuse across four different cell types:
 
 - (i) *E.coli* with R≈1 μm,
 
@@ -57,13 +57,13 @@ Next, let’s estimate the time it takes for a protein to diffuse spontaneously 
 
 **1.d.** Create a $\tau$ vs $R$ plot (use the above four cases). 
 
-**1.e.** What does the the diffusion time for the axon suggests to you?
+**1.e.** What does the the diffusion time for the axon suggests to you in terms of how axons work?
 
 This question is from the [Cell Biology by the Numbers](http://book.bionumbers.org/what-are-the-time-scales-for-diffusion-in-cells/)
 
 ## (Q2) Diffusion and Spatial DNA devices (20 pts)
 
-Two DNA devices have been engineered for use in a *cell-free extract* solution (known as GOOP) (Figure, below).  GOOP is the transcription - translation machinary harvested from cells.  DNA devices gets activated when GOOP reachs them. 
+Two DNA devices have been engineered for use in a *cell-free extract* (i.e., a "goopy" solution derived from living cells, aka "GOOP") (Figure, below).  Bioengineered DNA-based devices placed into the extract will have their encoded DNA transcribed into mRNA and the mRNA translated into protein. 
 
 - Device A expresses protein A in the absence of protein B.  
 
@@ -73,7 +73,7 @@ Two DNA devices have been engineered for use in a *cell-free extract* solution (
 
 Each device is placed in a distinct reservoir within a micro-scale fluidic channel. 
 
-Fresh GOOP is supplied from one end of the channel.   Using various channel lengths experimenters are testing a genetic system made from the two devices.
+Fresh extract is supplied from one end of the channel.   Using various channel lengths experimenters are testing a genetic system made from the two devices.
 
 **2.a.**  By studying the diagram in Figure 1.B, describe the expected relationships and behavior of the system.  
 (1-2 sentences max)
@@ -102,7 +102,7 @@ Only bacteria positioned at the boundary between light and dark express an enzym
 <figcaption><b>Figure 2</b>. Bacterial edge detection.</figcaption>
 </figure>
 
-Take a look at the photo of the system in action. Note the edge detection in the case of a square or Alfred Hitchcock’s portrait.
+Carefully study the photo of the system in action. Note various details about the edge detection beahvoir in the case of a square or Alfred Hitchcock’s portrait.
 
 **3.a.** What do you observe? Are all the edges uniform?  (1-2 sentences)
 
