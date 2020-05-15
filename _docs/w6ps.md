@@ -153,7 +153,27 @@ The concept of using gradients to drive the behavior of autonomous devices can b
 
 ***Briefly describe (in 1-2 sentences) another application of this concept: where else is this behavior seen and how does it relate?***
 
-***
+_____________________________________________________________
+
+## Final Project - Group Activity.2 (10 points)
+
+NOTES:
+
+- Due: Next Friday (with PSET)
+
+- Include your group number, names of your group members, and name of your digital (TA) mentor.
+
+- Please turn in a single electronic copy of your Group Activity via Gradescope.
+
+**Group Activity.2.a.** Please share your team's top selection for the final project. 
+
+**Group Activity.2.b.** Please share two back-up selections for the final project.
+
+**Group Activity.2.c.** Why did your team select your top choice? (about 150 words)
+
+**Group Activity.2.d.** How did you reach your decision? (about 150 words)
+
+_____________________________________________________________
 
 *Additional Questions and Resources*     
 
