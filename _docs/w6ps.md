@@ -8,7 +8,7 @@ permalink: /docs/w6ps/
 
 ASSIGNED: Friday 15 May 2020
 
-DUE: 11:59 PM Pacific 22 May 2020
+DUE: Tuesday 26 May 2020  5:00 PM Pacific
 
 **NOTES:**
 
