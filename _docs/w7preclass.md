@@ -46,11 +46,11 @@ Your goal is to make what you write understandable. Nothing else matters nearly 
 
 A few words about narrative structure and this project: for the purposes of your project think of a play as a box or a filing cabinet with, in this case, three sections. You can put whatever you want into that box as long as it is driven by a narrative that takes the reader on a journey with you. We want you to do it in three acts and we have given you the outlines of that journey: 
  
-Act 1)  You are in the future. Wow. How great is it now that we have your chosen tool working in 2030? 
+- Act 1)  You are in the future. Wow. How great is it now that we have your chosen tool working in 2030? 
 
-Act 2) Nobody achieves greatness without crises (and failures) along the way. What were yours?  Did they change your approach, your outcome, your goals?  
+- Act 2) Nobody achieves greatness without crises (and failures) along the way. What were yours?  Did they change your approach, your outcome, your goals?  
 
-Act 3) Finally, how did you get where you were going? What were the big achievements and how did you navigate? How did your perspective change once you got your hands dirty and started to build this tool?
+- Act 3) Finally, how did you get where you were going? What were the big achievements and how did you navigate? How did your perspective change once you got your hands dirty and started to build this tool?
 
 Focus on the scientific evidence you need to show how you accomplished your goal by the end of this decade.  That is critical. A play (or a book, or movie) is simply a device that lets you put that information into a digestible package. An essential part of your job, as scientists and bioengineers in the future, will be to communicate the value and purpose of your work to people who do not understand it. This project should help you do that.
 
