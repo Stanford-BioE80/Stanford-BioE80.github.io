@@ -62,22 +62,22 @@ Why not just ask for a powerpoint presentation or something more conventional?  
 This is the hardest part of my job as a writer. By far. But it is also the most rewarding. Below I have included a few examples of the more complicated terms I have had to explain in stories for The New Yorker. They are not perfect, and you can probably find others that are as good or better.  But this is just to give you an idea how one writer tries to make smart, non-technical people, pay attention to complicated ideas. Read a few or all or none. If you have questions about anything in this memo I will be happy to answer them.
 
 
-#### Example-1: Viruses
+### Example-1: Viruses
 
 Viruses reproduce rapidly and often with violent results, yet they are so rudimentary that many scientists don’t even consider them to be alive. A virus is nothing more than a few strands of genetic material wrapped in a package of protein—a parasite, unable to function on its own. In order to survive, it must ﬁnd a cell to infect. Only then can any virus make use of its single talent, which is to take control of a host’s cellular machinery and use it to churn out thousands of copies of itself. These viruses then move from one cell to the next, transforming each new host into a factory that makes even more virus. In this way, one infected cell soon becomes billions.
 
-#### Example-2: What on earth is an endogenous retrovirus?  And why do we care?
+### Example-2: What on earth is an endogenous retrovirus?  And why do we care?
 
 It takes less than two per cent of our genome to create all the proteins necessary for us to live. Eight per cent, however, is composed of broken and disabled retroviruses, which, millions of years ago, managed to embed themselves in the DNA of our ancestors. They are called endogenous retroviruses, because once they infect the DNA of a species they become part of that species. One by one, though, after molecular battles that raged for thousands of generations, they have been defeated by evolution. Like dinosaur bones, these viral fragments are fossils. Instead of having been buried in sand, they reside within each of us, carrying a record that goes back millions of years.
 
 
-#### Example-3: What is so great about DNA?
+### Example-3: What is so great about DNA?
 
 The rungs of the ladder of human DNA consist of three billion pairs of nucleotides spread across forty-six chromosomes. 
 The sequences of those nucleotides determine how each person diﬀers from another, and from all other living things.
 
 
-#### Example-4: This CRISPR thing. Why the fuss?
+### Example-4: This CRISPR thing. Why the fuss?
 
 CRISPR is a strange cluster of DNA sequences that can recognize invading viruses, dispatch a special enzyme to chop them into pieces, and use the viral shards that remain to form a rudimentary immune system. The sequences, identical strings of nucleotides that could be read the same way backward and forward, look like Morse code, a series of dashes punctuated by an occasional dot.
 
@@ -85,11 +85,11 @@ CRISPR has two components. The ﬁrst is essentially a cellular scalpel that cut
 
 Scientists took the ﬁrst serious step toward controlling our genes in the early nineteen-seventies, when they learned to cut chains of DNA by using proteins called restriction enzymes. Suddenly, genes from organisms that would never have been able to mate in nature could be combined in the laboratory. But those initial tools were more hatchet than scalpel, and, because they could recognize only short stretches within the vast universe of the human genome, the editing was rarely precise. (Imagine searching through all of Shakespeare for Hamlet’s soliloquy on suicide, relying solely on the phrase “to be.” You’d ﬁnd the passage, but only after landing on several hundred others.)
 
-#### Example-5: What is a microbiome?
+### Example-5: What is a microbiome?
 
 We inherit every one of our genes, but we leave the womb without a single microbe. As we pass through our mother’s birth canal, we begin to attract entire colonies of bacteria. By the time a child can crawl, he has been blanketed by an enormous, unseen cloud of microorganisms—a hundred trillion or more. They are bacteria, mostly, but also viruses and fungi (including a variety of yeasts), and they come at us from all directions: other people, food, furniture, clothing, cars, buildings, trees, pets, even the air we breathe. They congregate in our digestive systems and our mouths, ﬁll the space between our teeth, cover our skin, and line our throats. We are inhabited by as many as ten thousand bacterial species; these cells outnumber those which we consider our own by ten to one, and weigh, all told, about three pounds—the same as our brain. Together, they are referred to as our microbiome—and they play such a crucial role in our lives that  some scientists have begun to reconsider what it means to be human.
 
-#### Example-6: Why are we so susceptible to viruses from far away?
+### Example-6: Why are we so susceptible to viruses from far away?
 
 Deadly viruses have always threatened humanity, but a virus can travel only as far as the cells it infects. For most of human history, that wasn’t very far. A few hundred years ago, if H.I.V. had passed from an ape to a hunter, that person would have become sick and died. He might even have infected his entire village, killing everyone around him. But that would have been the end of it. There were no motorcycles to carry the infected carcasses of slaughtered apes to markets in Yaoundé, and, for that matter, no airplanes to ship them to Paris or New York. Forests had been impenetrable for thousands of years. In the past few decades, however, new roads, built largely by logging companies, have brought economic opportunity to millions of Africans, along with better medicine, clean water, and improved access to education. Yet, seen from the perspective of a virus, those roads, combined with air travel, have created another kind of opportunity, transforming humanity into one long chain of easily infected hosts—no less vulnerable in California than in Cameroon.
 
