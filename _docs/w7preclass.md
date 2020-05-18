@@ -97,9 +97,9 @@ _______________________________________________________________________
 
 ## Preclass for Wednesday
 
-Watch the free two-minute introductory video for Wednesday’s in-class guest, Malcolm Gladwell, online [here]( https://www.masterclass.com/classes/malcolm-gladwell-teaches-writing).
+Watch the free two-minute introductory video for Wednesday’s in-class guest, Malcolm Gladwell, [here]( https://www.masterclass.com/classes/malcolm-gladwell-teaches-writing).
 
-Next, ponder Kurt Vonnegut’s eight rules for writing fiction[here](http://www.troubling.info/vonnegut.html).
+Next, ponder Kurt Vonnegut’s eight rules for writing fiction [here](http://www.troubling.info/vonnegut.html).
 
 **Q.1. What do you think about Vonnegut's rules?**
 
