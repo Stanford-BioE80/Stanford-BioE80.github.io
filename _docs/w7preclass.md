@@ -10,7 +10,7 @@ Week-7 is about the group project.  There are two goals for this week:
 **Goal-1** Help you select your project’s topic. If you make a good decision, then the rest of your project work will also be pretty good!
 
 
-**Goal-2** Enable you with three skills that are needed for an excellent project.  These skills are tools for “communicating”, “storytelling”, and “performing”.
+**Goal-2** Enable you with three skills that are needed for an excellent project.  These skills are tools for “communicating,” “storytelling,” and “performing.”
 
 _______________________________________________________________________
 
