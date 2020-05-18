@@ -40,7 +40,7 @@ Many successful academics, including people who teach at places like Stanford an
 
 Somewhere along the line, though, a lot of academic writing became obscure, confusing and prolix. I know that because I have spent a good deal of my life trying to translate it into English for readers of The New Yorker. (There are obviously MANY exceptions at universities everywhere. And some of the best  science writers are, or were, scientists: Richard Dawkins; Lewis Thomas; Oliver Sacks, Carl Sagan. This is a somewhat random list. There are many others.)
 
-Your goal is to make what you write understandable. Nothing else matters nearly as much. One suggestion: read what you have done out loud. Even if only to yourself. I always do. Does each sentence matter? Does it sound confusing? Are there words that add nothing ? Is it repetitious? If so, delete with abandon.  The best writing is rewriting. But you have to get the ore out of the ground before you can extract the gem. If you saw my rough drafts you would laugh but my editors never do. Because they know a first draft is a beginning. Only a beginning.
+Your goal is to make what you write understandable. Nothing else matters nearly as much. One suggestion: read what you have done out loud. Even if only to yourself. I always do. Does each sentence matter? Does it sound confusing? Are there words that add nothing? Is it repetitious? If so, delete with abandon.  The best writing is rewriting. But you have to get the ore out of the ground before you can extract the gem. If you saw my rough drafts you would laugh but my editors never do. Because they know a first draft is a beginning. Only a beginning.
 
 **Goals of your final project:**
 
@@ -110,7 +110,7 @@ Rule.8 states, *'Give your readers as much information as possible as soon as po
 Extra reading-1: [Kurt Vonnegut graphed the world’s most popular stories](https://www.washingtonpost.com/news/wonk/wp/2015/02/09/kurt-vonnegut-graphed-the-worlds-most-popular-stories/)
 
 
-Extra reading-2:[How to write with style by Kurt Vonnegut](https://kmh-lanl.hansonhub.com/pc-24-66-vonnegut.pdf)
+Extra reading-2: [How to write with style by Kurt Vonnegut](https://kmh-lanl.hansonhub.com/pc-24-66-vonnegut.pdf)
 
 _______________________________________________________________________
 
