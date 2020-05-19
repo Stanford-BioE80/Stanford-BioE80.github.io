@@ -171,7 +171,7 @@ NOTES:
 
 **Group Activity.2.c.** Why did your team select your top choice? (about 150 words)
 
-**Group Activity.2.d.** How did you reach your decision? (about 150 words)
+**Group Activity.2.d.** How did you reach your decision? *Please also include each individual team member's "bang for your buck" (effort v. impact) plot.* (about 150 words)
 
 _____________________________________________________________
 
