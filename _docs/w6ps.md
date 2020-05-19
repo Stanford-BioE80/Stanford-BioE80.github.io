@@ -159,7 +159,7 @@ _____________________________________________________________
 
 NOTES:
 
-- Due: Next Friday (with PSET)
+- Due: Next Tuesday (with PSET)
 
 - Include your group number, names of your group members, and name of your digital (TA) mentor.
 
