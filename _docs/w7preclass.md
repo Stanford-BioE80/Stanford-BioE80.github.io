@@ -154,5 +154,7 @@ Please select and watch (minimum) one of the following videos and watch it [#24 
 
 - [Stanford's Talisman perform "Amazing Grace"](https://www.youtube.com/watch?v=g8lilTTVsd8&feature=youtu.be)
 
+- [Cub Scouts Video Challenge: Camouflage](https://www.youtube.com/watch?v=MnYYVx5DrEM&feature=youtu.be)
+
 
 <sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w7preclass.md) for teaching staff <sub><sup>
