@@ -1,21 +1,28 @@
+---
+title: "Week 7 In class"
+permalink: /docs/w7inclass/
+toc: true
+---
 
-_________________________________________________________
+Link to course materals from Week 6. 
 
-## Friday In Class Gene Drives Activity
+# Day 19: May 18, 2020
 
-Dear ENGR/BIOE.80ers,
+[Class Audio/Video](https://canvas.stanford.edu/courses/115648/files/folder/11%20May%202020%20-%20Audio%20Video)
 
-In class today you will confront the puzzle of malaria and decide whether (or not) bioengineers should intervene in an ongoing evolutionary process. 
+<!---
+# Day 20: May 20, 2020
 
-By the end of class today you should have developed draft answers to the following three questions:
+[Class Slides](https://stanford-bioe80.github.io/docs/Stanford_BIOE80_Day17_13May20.pdf)
 
-1. Who should decide whether to release engineered mosquitoes in Mombasa?
+[Class Audio/Video](https://canvas.stanford.edu/courses/115648/files/folder/13%20May%202020%20-%20Audio%20Video)
+--->
 
-2. If *you* were responsible for the decision what would you decide?
+<!---
+# Day 21: May 22, 2020
 
-3a. If you decided NO then why not?
+[Class Slides](https://stanford-bioe80.github.io/docs/Stanford_BIOE80_Day18_15May20.pdf)
 
-3b. If you decided YES then via what release option? (see “Release Options” primer)
+[Class Audio/Video](https://canvas.stanford.edu/courses/115648/files/folder/15%20May%202020%20-%20Audio%20Video)
+--->
 
-Files  will be shared in class. 
-(To get started please access the files available here, in order:)
