@@ -8,7 +8,7 @@ Link to course materals from Week 6.
 
 # Day 19: May 18, 2020
 
-[Class Audio/Video](https://canvas.stanford.edu/courses/115648/files/folder/11%20May%202020%20-%20Audio%20Video)
+[Class Audio/Video](https://canvas.stanford.edu/courses/115648/files/folder/181%20May%202020%20-%20Audio%20Video)
 
 <!---
 # Day 20: May 20, 2020
