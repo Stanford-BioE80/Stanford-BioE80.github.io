@@ -150,7 +150,7 @@ Please select and watch (minimum) one of the following videos and watch it [#24 
 
 **Inspirational Examples:**
 
-*Note: Though these examples were not recorded on Zoom, feel free to use Zoom to record, or use your own software to mix audio/video! *
+<i>Note: Though these examples were not recorded on Zoom, feel free to use Zoom to record, or use your own software to mix audio/video!</i>
 
 - [Hamilton Original Broadway Cast Zoom Performance "Alexander Hamilton"](https://www.youtube.com/watch?v=cqvVL8IurMw&feature=youtu.be)
 
