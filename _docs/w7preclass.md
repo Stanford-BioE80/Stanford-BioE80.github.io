@@ -116,6 +116,40 @@ _______________________________________________________________________
 
 ## Preclass for Friday
 
-Note: Preclass for Friday will be shared later this week. 
+Watch the video [Mouse Trap - Cheese Advertisement](https://www.youtube.com/watch?v=0K8lrVjT6fM&feature=youtu.be) start to finish.  
+
+**Q.1. How many acts or chapters in this performance?**  
+
+**Q.2. What emotions do you experience specific to each chapter?** 
+
+**Q.3. What is the role of music (i.e., soundtrack) is setting your emotional state?**  
+
+**Q.4. How much dialog or text was used?**
+
+Next, watch [Embrace Life - always wear your seat belt](https://www.youtube.com/watch?v=h-8PBx7isoM&feature=youtu.be).
+
+Complete the following *“Story Spine”* prompts to reveal the narrative structure for this performance.  
+
+-Once upon a time _________.  
+
+-Every day _______. 
+
+-But, one day _______. 
+
+-Because of that ________. 
+
+-Until, finally, ________.
+
+-And, ever since then ________.
+
+Extra-reading [The Story Spine: Pixar's 4th Rule of Storytelling](https://www.aerogrammestudio.com/2013/03/22/the-story-spine-pixars-4th-rule-of-storytelling/) and a [Video](https://www.youtube.com/watch?v=C7D8yDB7Tlk&feature=youtu.be) to accompany the reading.
+
+**Inspirational Examples:**
+
+- [Hamilton Original Broadway Cast Zoom Performance "Alexander Hamilton"](https://www.youtube.com/watch?v=cqvVL8IurMw&feature=youtu.be)
+
+- [Stanford's Talisman perform "Amazing Grace"](https://www.youtube.com/watch?v=g8lilTTVsd8&feature=youtu.be)
+
+- [#24viralmonologues](https://www.youtube.com/results?search_query=%2324viralmonologues)
 
 <sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w7preclass.md) for teaching staff <sub><sup>
