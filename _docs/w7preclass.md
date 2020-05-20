@@ -144,12 +144,15 @@ Complete the following *“Story Spine”* prompts to reveal the narrative struc
 
 Extra-reading [The Story Spine: Pixar's 4th Rule of Storytelling](https://www.aerogrammestudio.com/2013/03/22/the-story-spine-pixars-4th-rule-of-storytelling/) and a [Video](https://www.youtube.com/watch?v=C7D8yDB7Tlk&feature=youtu.be) to accompany the reading.
 
+Please select and watch (minimum) one of the following videos and watch it [#24 Viral Monologues](https://www.youtube.com/results?search_query=%2324viralmonologues).
+
+**Q.5. What works in their video?  What can be improved?** 
+
 **Inspirational Examples:**
 
 - [Hamilton Original Broadway Cast Zoom Performance "Alexander Hamilton"](https://www.youtube.com/watch?v=cqvVL8IurMw&feature=youtu.be)
 
 - [Stanford's Talisman perform "Amazing Grace"](https://www.youtube.com/watch?v=g8lilTTVsd8&feature=youtu.be)
 
-- [#24viralmonologues](https://www.youtube.com/results?search_query=%2324viralmonologues)
 
 <sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w7preclass.md) for teaching staff <sub><sup>
