@@ -4,7 +4,7 @@ permalink: /docs/w7inclass/
 toc: true
 ---
 
-Link to course materals from Week 6. 
+Link to course materals from Week 7. 
 
 # Day 19: May 18, 2020
 
