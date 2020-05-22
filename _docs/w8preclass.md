@@ -37,14 +37,14 @@ to better appreciate these examples.
 
 ### Example-1: Why do you need to get a flu shot every year?
 
-To begin, let us consider 2018 flu season. It considered as the worst flu season since 2009-2010.
+To begin, let us consider 2018 flu season, which was considered as the worst flu season since 2009-2010.
 
 Following is from an [article](https://www.theatlantic.com/health/archive/2018/01/the-perfect-storm-behind-this-years-nasty-flu-season/550469/) 
 published in January 2018: 
 
 “Every winter brings cautionary tales that the flu—just the regular old flu—can kill. And the cautionary tales this year are hard to beat. Twenty-one-year-old Kyler Baughman, for example, a fitness buff who liked to show off his six-pack, recently died a few days after getting a runny nose. [ref](https://www.denverpost.com/2018/01/11/kyler-baughman-pennsylvania-personal-trainer-dies-of-flu/)
 
-According to the numbers, this year’s flu season is in fact worse than usual. It got started early, and it’s been more severe. Twenty kids have died of the flu since October. And in the week ending January 6, 22.7 out of every 100,000 hospitalizations in the U.S. were for flu—twice the number of the previous week.” 
+According to the numbers, this (2018) year’s flu season is in fact worse than usual. It got started early, and it’s been more severe. Twenty kids have died of the flu since October. And in the week ending January 6, 22.7 out of every 100,000 hospitalizations in the U.S. were for flu—twice the number of the previous week.” 
 
 Every year, we are reminded to go get a flu shot. 
 
@@ -64,18 +64,20 @@ Briefly examine the two following links:
 
 2. [How the Flu Virus Can Change](https://www.cdc.gov/flu/about/viruses/change.htm)
 
-
 An **algorithm** can be defined as:  
 “A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.” (via Google) 
 
 Given this definition, think about evolution in this new context.  
 
-**Q.5. If evolution is an algorithm, what problem is being solved, and by whom(or what)? What are the rules?**
+**Q.5. If evolution is an algorithm, what problem is being solved, and by whom (or what)? What are the rules?**
 
-Extracting out the idea of Evolution from this example evolution is the results of two intertwined processes: Random Mutations beget genetic variation; non-random selection to improve “fitness”. The end result may look non-random, but the mechanism that enables evolution and natural selection to occur is entirely random. 
+Extracting out the idea of Evolution from this example evolution is the results of two intertwined processes: 
 
+- Random Mutations beget genetic variation; non-random selection to improve “fitness”. 
 
-This example of flu virus highlights the algorithm of evolution acting on a *timescale* that is easy for us to understand.
+- The end result may look non-random, but the mechanism that enables evolution and natural selection to occur is entirely random. 
+
+The example of flu virus highlights the algorithm of evolution acting on a *timescale* that is easy for us to understand.
 
 
 ### Example-2: Ancient virus genomes reveal complex evolution of Hepatitis B
@@ -84,10 +86,13 @@ In a fascinating [research article](https://www.biorxiv.org/content/early/2018/0
 
 Here is the abstract from the article: 
 
-“The hepatitis B virus (HBV) is one of the most widespread human pathogens known today,  yet its origin and evolutionary history are still unclear and controversial. Here, we report the analysis of three ancient HBV genomes recovered from human skeletons found at three  different archaeological sites in Germany. We reconstructed two Neolithic and one medieval  HBV genomes by de novo assembly from shotgun DNA sequencing data. Additionally, we observed HBV-specific peptides using paleo-proteomics. Our results show that HBV circulates in the European population for at least 7000 years. **The Neolithic HBV genomes show a high genomic similarity to each other. In a phylogenetic network, they do not group with any human-associated HBV genome and are most closely related to those infecting African non-human primates. These ancient virus forms appear to represent distinct lineages that have no close relatives today and went possibly extinct.** Our results reveal the great  potential of ancient DNA from human skeletons in order to study the long-time evolution of blood borne viruses.”
+“The hepatitis B virus (HBV) is one of the most widespread human pathogens known today,  yet its origin and evolutionary history are still unclear and controversial. Here, we report the analysis of three ancient HBV genomes recovered from human skeletons found at three  different archaeological sites in Germany. 
+
+We reconstructed two Neolithic and one medieval  HBV genomes by de novo assembly from shotgun DNA sequencing data. Additionally, we observed HBV-specific peptides using paleo-proteomics. Our results show that HBV circulates in the European population for at least 7000 years. **The Neolithic HBV genomes show a high genomic similarity to each other. In a phylogenetic network, they do not group with any human-associated HBV genome and are most closely related to those infecting African non-human primates. These ancient virus forms appear to represent distinct lineages that have no close relatives today and went possibly extinct.** 
+
+Our results reveal the great  potential of ancient DNA from human skeletons in order to study the long-time evolution of blood borne viruses.”
 
 Note the highlighted lines from the abstract.
-
 
 <figure>
 <a href="/assets/images/Week-5 - network diagram.png"><img src="/assets/images/Week-5 - network diagram.png"></a>
@@ -98,11 +103,9 @@ Note the highlighted lines from the abstract.
 
 **Q.6. What is the role of evolution (as an algorithm) in this example?**
 
-
 ## Summary
 
-Through the two examples, you have started to synthesize the workings of evolution and natural selection as an algorithm. This week you will engage with this algorithm as a tool (and service) that can be used to solve challenges in science engineering. In doing so, you will start to identify the current limitations of evolution, and consider what it would mean to “improve” evolution. 
-
+Through the two examples, you have started to synthesize the workings of evolution and natural selection as an algorithm. This week you will engage with this algorithm as a tool (and service) that can be used to solve challenges in science and engineering. In doing so, you will start to identify the current limitations of evolution, and consider what it would mean to “improve” evolution. 
 
 *Additional Resources:*
  Please make sure to briefly take a look at these great resources: 
