@@ -181,7 +181,9 @@ More recently, directed evolution in the laboratory has proved to be a highly ef
  
 According to [CDC](https://www.cdc.gov/antibiotic-use/community/about/antibiotic-resistance-faqs.html):
  
-“Overuse and misuse of antibiotics can promote the development of antibiotic resistance. Every time a person takes antibiotics, sensitive bacteria (bacteria that antibiotics can still attack) are killed, but resistant bacteria are left to grow and multiply. This is how repeated use of antibiotics can increase the number of drug-resistant bacteria.  Antibiotics are not effective against viral infections like the common cold, flu, most sore throats, bronchitis, and many sinus and ear infections. Widespread use of antibiotics for these illnesses is an example of how overuse of antibiotics can promote the spread of antibiotic resistance. Smart use of antibiotics is key to controlling the spread of resistance.”
+“Overuse and misuse of antibiotics can promote the development of antibiotic resistance. Every time a person takes antibiotics, sensitive bacteria (bacteria that antibiotics can still attack) are killed, but resistant bacteria are left to grow and multiply. 
+
+This is how repeated use of antibiotics can increase the number of drug-resistant bacteria.  Antibiotics are not effective against viral infections like the common cold, flu, most sore throats, bronchitis, and many sinus and ear infections. Widespread use of antibiotics for these illnesses is an example of how overuse of antibiotics can promote the spread of antibiotic resistance. Smart use of antibiotics is key to controlling the spread of resistance.”
  
 **Q.6. What is the role of evolution in antibiotic resistance?**
 
