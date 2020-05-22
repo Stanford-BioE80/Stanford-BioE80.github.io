@@ -169,7 +169,7 @@ More recently, directed evolution in the laboratory has proved to be a highly ef
  
  Antibiotic resistance and the threat of drug resistance bacteria is an emerging challenge that grows every year.
  ([link-1](https://www.theatlantic.com/science/archive/2017/02/in-bacteria-persistence-leads-to-resistance/516138/), 
- [link-2](https://www.theatlantic.com/science/archive/2016/05/the-ten-part-plan-to-avert-our-post-antibiotic-apocalypse/483360/). 
+ [link-2](https://www.theatlantic.com/science/archive/2016/05/the-ten-part-plan-to-avert-our-post-antibiotic-apocalypse/483360/)).
  
 According to [CDC](https://www.cdc.gov/antibiotic-use/community/about/antibiotic-resistance-faqs.html):
  
