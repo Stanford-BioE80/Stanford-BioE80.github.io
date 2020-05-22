@@ -58,9 +58,9 @@ Every year, we are reminded to go get a flu shot.
 
 Briefly examine the two following links:
 
-1. [Why You Need the Flu Shot Every Year](https://www.nytimes.com/2017/12/12/smarter-living/why-you-need-the-flu-shot-every-year.html) Let’s highlight to the following from above link: 
+1. [Why You Need the Flu Shot Every Year](https://www.nytimes.com/2017/12/12/smarter-living/why-you-need-the-flu-shot-every-year.html) 
 
-**“Tiny mutations help the virus evade detection, and as it evades detection, it’s more successful at multiplying”**
+Let’s highlight to the following from above link: **“Tiny mutations help the virus evade detection, and as it evades detection, it’s more successful at multiplying.”**
 
 2. [How the Flu Virus Can Change](https://www.cdc.gov/flu/about/viruses/change.htm)
 
@@ -143,13 +143,17 @@ Another example of human intervention in evolution is dog breeding. Take a look 
 
 ### Example-2: Directed evolution of proteins 
  
-[Directed evolution](https://www.nobelprize.org/prizes/chemistry/2018/press-release/) is an effective strategy for improving or altering the activity of biomolecules for industrial, research and therapeutic applications. Laboratory evolution of proteins requires methods for generating genetic diversity coupled with identifying protein variants with desired properties. (You can read on the scientific background on the Nobel Prize in Chemistry 2018 awarded to the Directed Evolution of enzymes and  binding proteins from [Link](https://www.nobelprize.org/uploads/2018/10/advanced-chemistryprize-2018.pdf))
+[Directed evolution](https://www.nobelprize.org/prizes/chemistry/2018/press-release/) is an effective strategy for improving or altering the activity of biomolecules for industrial, research and therapeutic applications. 
 
-Here is an introduction from a [research article](https://www.nature.com/articles/nrg3927)
+Laboratory evolution of proteins requires methods for generating genetic diversity coupled with identifying protein variants with desired properties. (You can read on the scientific background on the Nobel Prize in Chemistry 2018 awarded to the Directed Evolution of enzymes and  binding proteins from [Link](https://www.nobelprize.org/uploads/2018/10/advanced-chemistryprize-2018.pdf))
+
+Here is an introduction from [Methods for the directed evolution of proteins](https://www.nature.com/articles/nrg3927)
 
 “ Over many generations, iterated mutation and natural selection during biological evolution provide solutions for challenges that organisms face in the natural world. However, the traits that result from natural selection only occasionally overlap with features of organisms and biomolecules that are sought by humans. To guide evolution to access useful phenotypes more frequently, humans for centuries have used artificial selection, beginning with the selective breeding of crops and domestication of animals. 
 
-More recently, directed evolution in the laboratory has proved to be a highly effective and broadly applicable framework for optimizing or altering the activities of individual genes and gene products, which are the fundamental units of biology Genetic diversity fuels both natural and laboratory evolution. The occurrence rate of spontaneous mutations is generally insufficient to access desired gene variants on a time scale that is practical for laboratory evolution. A number of genetic diversification techniques are therefore used to generate libraries of gene variants that accelerate the exploration of a gene's sequence space. Methods to identify and isolate library members with desired properties are a second crucial component of laboratory evolution. During organismal evolution, phenotype and genotype are intrinsically coupled within each organism. However, during laboratory evolution, it is often inconvenient or impossible to manipulate genes and gene products in a coupled manner. Therefore, single-gene evolution in the laboratory requires carefully designed strategies for screening or selecting functional variants in ways that maintain the genotype–phenotype association."
+More recently, directed evolution in the laboratory has proved to be a highly effective and broadly applicable framework for optimizing or altering the activities of individual genes and gene products, which are the fundamental units of biology Genetic diversity fuels both natural and laboratory evolution. **The occurrence rate of spontaneous mutations is generally insufficient to access desired gene variants on a time scale that is practical for laboratory evolution. A number of genetic diversification techniques are therefore used to generate libraries of gene variants that accelerate the exploration of a gene's sequence space.**
+
+**Methods to identify and isolate library members with desired properties are a second crucial component of laboratory evolution.** During organismal evolution, phenotype and genotype are intrinsically coupled within each organism. However, during laboratory evolution, it is often inconvenient or impossible to manipulate genes and gene products in a coupled manner. Therefore, single-gene evolution in the laboratory requires carefully designed strategies for screening or selecting functional variants in ways that maintain the genotype–phenotype association."
 
 <figure>
 <a href="/assets/images/w5pc_fig2.png"><img src="/assets/images/w5pc_fig2.png"></a>
@@ -169,7 +173,6 @@ More recently, directed evolution in the laboratory has proved to be a highly ef
 
 **Q.5. When is directed evolution a good choice?**
 
-
 ### Example-3: Antibiotic resistance
  
  Antibiotic resistance and the threat of drug resistance bacteria is an emerging challenge that grows every year.
@@ -179,7 +182,6 @@ More recently, directed evolution in the laboratory has proved to be a highly ef
 According to [CDC](https://www.cdc.gov/antibiotic-use/community/about/antibiotic-resistance-faqs.html):
  
 “Overuse and misuse of antibiotics can promote the development of antibiotic resistance. Every time a person takes antibiotics, sensitive bacteria (bacteria that antibiotics can still attack) are killed, but resistant bacteria are left to grow and multiply. This is how repeated use of antibiotics can increase the number of drug-resistant bacteria.  Antibiotics are not effective against viral infections like the common cold, flu, most sore throats, bronchitis, and many sinus and ear infections. Widespread use of antibiotics for these illnesses is an example of how overuse of antibiotics can promote the spread of antibiotic resistance. Smart use of antibiotics is key to controlling the spread of resistance.”
- 
  
 **Q.6. What is the role of evolution in antibiotic resistance?**
 
