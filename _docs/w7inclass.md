@@ -16,11 +16,7 @@ Link to course materials from Week 7. <i> No slides this week. </i>
 [Class Audio/Video](https://canvas.stanford.edu/courses/115648/files/folder/20%20May%202020%20-%20Audio%20Video)
 
 
-<!---
 # Day 21: May 22, 2020
 
-[Class Slides](https://stanford-bioe80.github.io/docs/Stanford_BIOE80_Day18_15May20.pdf)
-
-[Class Audio/Video](https://canvas.stanford.edu/courses/115648/files/folder/15%20May%202020%20-%20Audio%20Video)
---->
+[Class Audio/Video](https://canvas.stanford.edu/courses/115648/files/folder/22%20May%202020%20-%20Audio%20Video)
 
