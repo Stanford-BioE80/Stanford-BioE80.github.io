@@ -6,9 +6,11 @@ permalink: /docs/w8preclass/
 
 ## Evolution as Tool for Engineering
 
-Please read and consider the below before start of class on Monday.
+Please read and consider the below before start of class.
 The questions given are only study questions not homework to be graded.
 Talk about it all with your classmates, friends, or TAs, as you like.
+
+## No class on Monday
 
 ## Preclass for Wednesday
 
