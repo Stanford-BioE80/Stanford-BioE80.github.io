@@ -125,8 +125,7 @@ In the previous class you were introduced to evolution as an algorithm. Next, yo
 
 **Goal-3:** Understand the limitations and benefits of this approach.  
 
-
- ### Example-1: “Evolution, at your service!” 
+### Example-1: “Evolution, at your service!” 
  
 Since the days of Gregor Mendel, geneticists (and avid gardeners/monks) have understood that we can breed populations for certain traits.  By taking advantage of our understanding of heritability and genetics, we can - for example - make chickens with extravagant traits see here: ([link](https://www.pinterest.co.uk/pin/153685406008776095/), [link](https://www.pinterest.com/pin/266416134178755168/))
 
@@ -136,7 +135,6 @@ Another example of human intervention in evolution is dog breeding. Take a look 
 **Q.1. Think back to the pre-class material for monday. What are the selection pressures (and their sources) in the case of flu and dog/chicken breeding? How is the fitness determined in each case?**
 
 **Q.2. Thinking of evolution as an algorithm, where else can we intervene?** 
-
 
 ### Example-2: Directed evolution of proteins 
  
@@ -167,13 +165,12 @@ More recently, directed evolution in the laboratory has proved to be a highly ef
 **Q.5. When is directed evolution a good choice?**
 
 
- ### Example-3: Antibiotic resistance
+### Example-3: Antibiotic resistance
  
  Antibiotic resistance and the threat of drug resistance bacteria is an emerging challenge that grows every year.
  ([link-1](https://www.theatlantic.com/science/archive/2017/02/in-bacteria-persistence-leads-to-resistance/516138/), 
  [link-2](https://www.theatlantic.com/science/archive/2016/05/the-ten-part-plan-to-avert-our-post-antibiotic-apocalypse/483360/). 
  
-
 According to [CDC](https://www.cdc.gov/antibiotic-use/community/about/antibiotic-resistance-faqs.html):
  
 “Overuse and misuse of antibiotics can promote the development of antibiotic resistance. Every time a person takes antibiotics, sensitive bacteria (bacteria that antibiotics can still attack) are killed, but resistant bacteria are left to grow and multiply. This is how repeated use of antibiotics can increase the number of drug-resistant bacteria.  Antibiotics are not effective against viral infections like the common cold, flu, most sore throats, bronchitis, and many sinus and ear infections. Widespread use of antibiotics for these illnesses is an example of how overuse of antibiotics can promote the spread of antibiotic resistance. Smart use of antibiotics is key to controlling the spread of resistance.”
