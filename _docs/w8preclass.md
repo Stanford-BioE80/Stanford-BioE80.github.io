@@ -197,7 +197,7 @@ Here is the abstract from the [paper](http://science.sciencemag.org/content/353/
 
 **Q.7. Could we use evolution to combat antibiotic resistance?**
 
-* Useful Additional Resource:* 
+*Useful Additional Resource:* 
 Review the key Takeaways from: 
 [Methods for the directed evolution of proteins](https://www.nature.com/articles/nrg3927)
 
