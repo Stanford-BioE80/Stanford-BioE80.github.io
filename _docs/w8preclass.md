@@ -137,7 +137,7 @@ Since the days of Gregor Mendel, geneticists (and avid gardeners/monks) have und
 
 Another example of human intervention in evolution is dog breeding. Take a look at the link to see the evolution of Petface [here](https://www.smithsonianmag.com/science-nature/evolution-petface-180967987/) From the article: Cranial length, snout length and skull length all contribute to the difficulties brachy dogs have in breathing. (PLOS One)
 
-**Q.1. Think back to the pre-class material for monday. What are the selection pressures (and their sources) in the case of flu and dog/chicken breeding? How is the fitness determined in each case?**
+**Q.1. Think back to the pre-class material for Wednesday. What are the selection pressures (and their sources) in the case of flu and dog/chicken breeding? How is the fitness determined in each case?**
 
 **Q.2. Thinking of evolution as an algorithm, where else can we intervene?** 
 
