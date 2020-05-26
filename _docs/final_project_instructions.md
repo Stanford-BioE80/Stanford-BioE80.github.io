@@ -29,7 +29,7 @@ You and your team will have to complete the following deliverables as part of th
 
 ***Priority setting and project selection (10 pts, Due: Fri 22 May)***  
 
-***Written project description (24 pts, 3 points per, Due: Fri 29 May)***  
+***Written project description (24 pts, 3 points per, Due: Monday June 1st)***  
 
 Answer the following eight questions (adapted from DARPA's Heilmeier Catechism):
 
