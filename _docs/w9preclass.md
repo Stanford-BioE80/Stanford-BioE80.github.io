@@ -6,7 +6,7 @@ permalink: /docs/w9preclass/
 
 Please read and consider the below before start of class. The questions given are only study questions not homework to be answered. Talk about it all with your classmates, friends, or TAs, as you like.
 
-## Preclass for Wednesday 
+## Preclass for Monday
    
 (1) Please read the brief article, *"George the Snail, Believed to Be the Last of His Species, Dies at 14 in Hawaii.”*
 
@@ -50,6 +50,7 @@ Please pay special attention to the 2.5 minutes of material starting around 30 s
 
 [See](https://youtu.be/KgvhUPiDdq8?t=98) (Hint — listen for when the narrator exclaims, “…also contained a little bit of code…”)   
 
+## Preclass for Wednesday 
 
 ## Preclass for Friday 
 
