@@ -34,7 +34,7 @@ Note: it may be very helpful to write out all the possible genomes by hand.
 
 **Q.2.c.** A microbial genome is approximately _n_ ~ 10<sup>7</sup>. How many unique microbial genomes could be made of this length? We will use this number for the rest of the problem set as an approximation for the number of possible microbial genomes.
 
-**Q.2.d.** Physicists estimate that there are 10<sup>80</sup> atoms in the known Universe ([link to popular science article describing how this number was estimated](https://www.universetoday.com/36302/atoms-in-the-universe/)). How does the number of atoms in the known Universe compare to the number of possible microbial genomes?
+**Q.2.d.** Physicists estimate that there are 10<sup>80</sup> atoms in the known Universe ([link to popular science article describing how this number was estimated](https://www.universetoday.com/36302/atoms-in-the-universe/)). How does the number of atoms in the known Universe compare to the number of possible microbial genomes?  
 
 ## (Q3) How much of the Evolutionary "Search Space" has been Searched? (35 points)
 
