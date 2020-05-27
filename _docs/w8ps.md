@@ -4,118 +4,59 @@ permalink: /docs/w8ps/
 2018: Week 4
 ---
 
-**DUE:** Next Friday start of class via Canvas.
+## (Q1) Evolution Fundamentals & Misconceptions (20 points)
 
-**NOTES:**
+True / False questions, please select the best answer.  If *False* please explain why (1-2 sentences). Please see preclass materials from Monday and Wednesday for background material.
 
-- All BIOE.80 problem sets must be completed individually unless plainly noted otherwise.
-- Please turn in your completed problem sets as an electronic copy via via Gradescope.
-- Please make sure to not go over the word limits and when appropriate show your work (e.g., calculations and units)
+**Q.1.a.** Individual mutations occur at random (True /  False)
 
+**Q.1.b.** Evolution of living matter is independent of the environment (True /  False)
 
-## (Q1) Spatial GOOP (20 pts)
+**Q.1.c.** Selection is random and unbiased (True /  False)
 
-Two DNA devices have been engineered for use in GOOP (Figure, below).  Device A expresses protein A in the absence of protein B.  Device B expresses protein B in the presence of protein A.  Device A can also make GFP.  Each device is placed in a distinct reservoir within a micro-scale fluidic channel. Fresh GOOP (i.e., cell-free extract) is supplied from one end of the channel.   Using various channel lengths experimenters are testing a genetic system made from the two devices.
+**Q.1.d.** Evolution works on the scale of individuals, not on populations (True /  False)
 
-**1.a.**  By studying the diagram in Figure 1.B, describe the expected relationships and behavior of the system.  
-(2-3 sentences max)
+**Q.1.e.** Engineers, including bioengineers, can use evolution to optimize human-designed systems  (True /  False)
 
-**1.b.** Fig. 1.C shows two spatial arrangements of the genetic system. In the top arrangement device A is 50 µm away from device B. In the lower arrangement device A is 150 µm away from device B. The time responses for each arrangement is measured by GFP production from device A as presented below.  Does “trace-1” come from the 50 µm or 150 µm arrangement?
+## (Q2) Understanding the "Search Space" of Evolution (30 points)
 
+In class, we talked about thinking of evolution as an algorithm. In this problem we will try and make some elements of this metaphor more concrete. We can think of evolution as a type of [optimization algorithm](https://en.wikipedia.org/wiki/Mathematical_optimization#Optimization_algorithms). In lecture we talked about so called "evolutionary algorithms," which are a type of optimization algorithm in the field of computer science that borrows heavily from biological evolution.
 
-**1.c.** Explain your choice, use appropriate equation(s). (Hint: think about diffusion)
+These optimization algorithms seek to find the best solution, or at least a really good one, from a set of possible choices. What is defined as "really good" depends on the particular problem being optimized, but generally engineers deal with systems where an input choice maps to an output number. The goal then becomes to maximize or minimize the output number over all possible choices. This output number could be something like a "cost of production," or an "energy consumption," or the "mass of product". For example, a manufacturing engineer may wish to maximize the number of Foldscopes that can be made with $1M. The set of all possible input choices defines a "search space" over which the evolutionary algorithm seeks to find the best set of outputs.
 
-<figure>
-<a href="/assets/images/Spatial GOOP.png"><img src="/assets/images/Spatial GOOP.png"></a>
-<figcaption><b>Figure 1</b>. Spatial GOOP .</figcaption>
-</figure>
+In biological evolution, the search space is the space of all possible genomes (the **"genotype space"**) and the output is biological fitness.
 
+**Q.2.a.** Recall that there are 4 nucleotides / letters in the DNA alphabet (A, C, T, G). If asked to make a genome that is one base long, how many possible genomes could you make? As in, how many unique genomes of length 1 could exist? How many unique genomes of length 2 could exist? Of length 3?
 
-## (Q2) Diffusion, Diffusion constant, and Diffusion time (25 pts)
+Note: it may be very helpful to write out all the possible genomes by hand.
 
- In the class you were introduced to diffusion both qualitatively.
- In this question you will additionally explore diffusion quantitatively.
+**Q.2.b.** How does the number of unique genomes grow as you increased the length of the genome? Given a genome length of _n_, how many unique genome of length _n_ could exist?
 
-First let's warm up:
+**Q.2.c.** A microbial genome is approximately _n_ ~ 10<sup>7</sup>. How many unique microbial genomes could be made of this length? We will use this number for the rest of the problem set as an approximation for the number of possible microbial genomes.
 
-Diffusion coefficient is described by the following equation: D=k<sub>B</sub>T/6πηa
+**Q.2.d.** Physicists estimate that there are 10<sup>80</sup> atoms in the known Universe ([link to popular science article describing how this number was estimated](https://www.universetoday.com/36302/atoms-in-the-universe/)). How does the number of atoms in the known Universe compare to the number of possible microbial genomes?
 
- - k<sub>B</sub> is Boltzmann's constant (1.3807 x 10 ^-23 J/K),
- - T is the temperature (K) of the surrounding medium ,
- - η is viscosity of surrounding medium (N x s / m^2),
- - “a” is a measure of length (radius of a sphere approximating the molecule).  
+## (Q3) How much of the Evolutionary "Search Space" has been Searched? (35 points)
 
- **2.a.** Using above determine the units for diffusion coefficient? (show your work)
+In the previous problem, we estimated how big is the space of all possible microbial genomes (spoiler: very big). In this problem, we will estimate how much of this space has been searched. Thanks to a long-term evolution [experiment](http://myxo.css.msu.edu/) it is possible to estimate that *E. coli* has a mutation rate on the order of 10<sup>-10</sup> (mutations)/(base x generation) [bionumber-source](https://bionumbers.hms.harvard.edu/bionumber.aspx?&id=105813).
 
-You learn that the diffusion coefficient for a protein (~30 kDa GFP) in water is about 100 µm^2/s.
-The diffusion constant for the same protein is in the cytoplasm of a eukaryotic cell is only 30 µm^2/s.
+**Q.3.a.**  What is the rate of mutations/genome x generation for a typical microbe? That is to say, how many mutations should we expect per individual bacterial genome replication event? Assume the microbe has a mutation rate of 10<sup>-10</sup> (mutations)/(base x generation) and a genome length of _n_ = 10<sup>7</sup>.
 
-**2.b.** Intuitively do these numbers make sense? (Yes or No) Why? (Bullet points)
+**Q.3.b.** Assume there are 10<sup>30</sup> microbes on Earth ([estimate from a 1998 study out of University of Georgia](https://www.pnas.org/content/95/12/6578)). If every one of these microbes replicates all at once, how many mutations should we expect to occur in a single replication cycle?
 
-Next, let’s estimate the time it takes for a protein to diffuse spontaneously across different types of cells
-(diffusion time τ). We will use the formula τ = R^2/6D, where R is the traverse distance.
+**Q.3.c.** Life on Earth is approximately 10<sup>9.5</sup> years old. The fastest rate at which _E. coli_ can replicate is about one generation per 20 minutes, or 3 replications per hour. Assume that all microbes can double at this rate. How many microbial generations have passed since life began on Earth? That is to say, how many times would we expect a microbe to have doubled if that microbe had existed since the beginning of life on Earth?
 
-**2.c.** Calculate the times it takes for the protein (~30 kDa GFP) with a diffusion constant D=30 µm^2/s to diffuse across four different cell types:
+**Q.3.d.** Let's assume that the global population size of microbes remains constant over time. Given your answers for 3.b. (the total number of mutations that arise every time all the microbes in the world replicate) and 3.c. (the number of times microbes could have replicated since life began), how many total mutation events would you expect have happened in Earth's history?
 
-(i) *E.coli* with R≈1 μm,
+**Q.3.e.** Let's observe two things:
 
-(ii)  Yeast cell with R≈10 μm,
+* Microbes in nature are really good at what they do and are highly optimized for their environments
+* As you have just calculated, there has not been enough time to search hardly any part of the total search space.
 
-(iii) HeLa cell with R≈20 μm, and
+Given that mutations are random, what else is at play in evolution that the resulting organisms are so highly optimized? (1 bullet point)
 
-(iv) A neuronal cell axon with R≈1 cm.
+Note: Question-3 is based on an entry from [*Cell Biology by the Numbers*](http://book.bionumbers.org/what-is-the-mutation-rate-during-genome-replication/), and from material from Dan Fisher's course Evolution by the Numbers [APPPHYS237/BIO251](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=APPPHYS%20237:%20Evolution%20by%20the%20numbers&academicYear=20182019).
 
-**2.d.** What does the the diffusion time for the axon suggests to you?
-
-This question is from the [Cell Biology by the Numbers](http://book.bionumbers.org/what-are-the-time-scales-for-diffusion-in-cells/)
-
-## (Q3) Bacterial Edge Detection (15)
-
-We talked about engineered *E.coli* which detects light earlier in the quarter.  Building on earlier [work](https://www.nature.com/articles/nature04405) first published in 2005, Jeff Tabor and colleagues eventually demonstrated a bacterial edge detection system. In their system a bacterial lawn (i.e., a uniform layer of identically engineered bacteria growing on a plate) detect a light-encoded image. The bacteria are initially all the same but, depending on whether they are exposed to light or not, send or receive small molecule-encoded signals that diffuse across the light/dark boundary. Only bacteria positioned at the boundary between light and dark express an enzyme that results in formation of a dark pigment (HINT: see Figure on next page and also the primary [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775486/) article).
-
-<figure>
-<a href="/assets/images/pset8_fig.2.png"><img src="/assets/images/pset8_fig.2.png"></a>
-<figcaption><b>Figure 2</b>. Bacterial edge detection.</figcaption>
-</figure>
-
-Take a look at the photo of the system in action. Note the edge detection in the case of a square or Alfred Hitchcock’s portrait.
-
-**3.a.** What do you observe?  (1-2 sentences)
-
-**3.b.** Using concepts from this week, why is there more pigment inside the corners of the square, or inside the bottom left angle of Alfred’s portrait?
-
-## (Q4)  Dancing Droplets (40 pts)
-
-On Friday you participated in the Dancing Droplets activity.  Use pictures, diagrams, or drawings as appropriate.
-
-**4.a.** If you have two different droplets why do they chase each other? What other behaviors have you observed?
-
-**4.b.** Why does the sharpie marker create a physical barrier and how do the droplets respond to it?
-
-**4.c.** To what extent were you able to realize increasingly autonomous behavior? (Include photos from each challenge)
-
-**4.d.** How good do we have to become at implementing these different frames of reference (3 challenges) in order to engineer living matter?
-
-**Extra credit: (5 pts)**  Make your own dancing droplet video (30 to 60 seconds) with your own choice of background music. Submit your file on Canvas (under Discussions -> Dancing Droplets). Note that the rest of your problem set should be submitted on Gradescope. This part only will be submitted through Canvas.
-
-
-**Your questions**
-Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
-
-*Additional Resources*    
-
-The following link takes you to a paper titled [Life at Low Reynolds Number](https://www2.gwu.edu/~phy21bio/Reading/Purcell_life_at_low_reynolds_number.pdf) that examines physics at the scale of a bacteria.  The following link takes you to a digital copy of a great book titled [The Machinery of life](https://searchworks.stanford.edu/view/11568895) which can help you with the concepts we have covered both this week and in previous weeks.
-
-*The following links* are **explorables** that can help you explore and build an intuition about patterns and pattern formation.  We hope that you take some time and examine them on your own:
-
-
-(1) [Fireflies and Patterns](http://ncase.me/fireflies)
-
-(2) [Explorables Collection ](http://www.complexity-explorables.org/explorables/)
-
-
-**Your questions**
-Do you have any unanswered questions (from this week, past weeks, or general BIOE) that you would like to share with us?
-
+## (Q4)Paper reading activity (15 points) + (10 points extra credit)
 
 <sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w8ps.md) for teaching staff <sub><sup>
