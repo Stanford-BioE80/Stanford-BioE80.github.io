@@ -77,6 +77,9 @@ Read the following paper, [Fail-safe genetic codes designed to intrinsically con
 
 Design your own BIOE\ENGR 80 question based on any of the material that we have covered so far in the class.  A student successfully finishing BIOE\ENGR 80 should be able to answer your question.  
 
-Start by thinking about your learning goals.  What do you expect the learner by engaging your question?  Next, provide an answer to the question. Your questions can have multiple parts.  Make sure to include references if you draw inspiration from a source. 
+- Start by thinking about your learning goals.  What do you expect the learners to gain after engaging your question? 
+
+- Next, provide your question. Your questions can have multiple parts.  Make sure to include references if you draw inspiration from a source. 
+- Finally, provide an answer to the question. (Optional: you can also include potential mistakes and misunderstandings.)
 
 <sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w8ps.md) for teaching staff <sub><sup>
