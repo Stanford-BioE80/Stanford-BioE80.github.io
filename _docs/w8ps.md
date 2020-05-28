@@ -62,7 +62,7 @@ Note: Question-3 is based on an entry from [*Cell Biology by the Numbers*](http:
 
 Note: Use a calculator that can handle large numbers. Or use Log to compare the exponents of large numbers.  
 
-## (Q4)Paper reading activity (15 points) 
+## (Q4) Paper reading activity (15 points) 
 
 Read the following paper, [Fail-safe genetic codes designed to intrinsically contain engineered organisms](https://academic.oup.com/nar/article/47/19/10439/5568210)
 
@@ -73,7 +73,7 @@ Read the following paper, [Fail-safe genetic codes designed to intrinsically con
 
 **Q.4.C** What are the paper’s shortcomings and deficiencies? How can the paper improve? (Bullet points) 
 
-## Extra Credit - Design and solve a problem (20 points)
+## Extra Credit - Design and solve a question (20 points)
 
 Design your own BIOE\ENGR 80 question based on any of the material that we have covered so far in the class.  A student successfully finishing BIOE\ENGR 80 should be able to answer your question.  
 
