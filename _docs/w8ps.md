@@ -6,7 +6,8 @@ permalink: /docs/w8ps/
 
 ## (Q1) Evolution Fundamentals & Misconceptions (20 points)
 
-True / False questions, please select the best answer.  If *False* please explain why (1-2 sentences). Please see preclass materials from Monday and Wednesday for background material.
+True / False questions, please select the best answer.  If **False** please explain why (1-2 sentences). 
+Please see preclass materials for background material.
 
 **Q.1.a.** Individual mutations occur at random (True /  False)
 
@@ -36,6 +37,8 @@ Note: it may be very helpful to write out all the possible genomes by hand.
 
 **Q.2.d.** Physicists estimate that there are 10<sup>80</sup> atoms in the known Universe ([link to popular science article describing how this number was estimated](https://www.universetoday.com/36302/atoms-in-the-universe/)). How does the number of atoms in the known Universe compare to the number of possible microbial genomes?  
 
+Note: Use a calculator that can handle large numbers. Or use Log to compare the exponents of large numbers.  
+
 ## (Q3) How much of the Evolutionary "Search Space" has been Searched? (35 points)
 
 In the previous problem, we estimated how big is the space of all possible microbial genomes (spoiler: very big). In this problem, we will estimate how much of this space has been searched. Thanks to a long-term evolution [experiment](http://myxo.css.msu.edu/) it is possible to estimate that *E. coli* has a mutation rate on the order of 10<sup>-10</sup> (mutations)/(base x generation) [bionumber-source](https://bionumbers.hms.harvard.edu/bionumber.aspx?&id=105813).
@@ -56,6 +59,8 @@ In the previous problem, we estimated how big is the space of all possible micro
 Given that mutations are random, what else is at play in evolution that the resulting organisms are so highly optimized? (1 bullet point)
 
 Note: Question-3 is based on an entry from [*Cell Biology by the Numbers*](http://book.bionumbers.org/what-is-the-mutation-rate-during-genome-replication/), and from material from Dan Fisher's course Evolution by the Numbers [APPPHYS237/BIO251](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=APPPHYS%20237:%20Evolution%20by%20the%20numbers&academicYear=20182019).
+
+Note: Use a calculator that can handle large numbers. Or use Log to compare the exponents of large numbers.  
 
 ## (Q4)Paper reading activity (15 points) 
 
