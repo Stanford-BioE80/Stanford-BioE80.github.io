@@ -57,6 +57,21 @@ Given that mutations are random, what else is at play in evolution that the resu
 
 Note: Question-3 is based on an entry from [*Cell Biology by the Numbers*](http://book.bionumbers.org/what-is-the-mutation-rate-during-genome-replication/), and from material from Dan Fisher's course Evolution by the Numbers [APPPHYS237/BIO251](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=APPPHYS%20237:%20Evolution%20by%20the%20numbers&academicYear=20182019).
 
-## (Q4)Paper reading activity (15 points) + (10 points extra credit)
+## (Q4)Paper reading activity (15 points) 
+
+Read the following paper, [Fail-safe genetic codes designed to intrinsically contain engineered organisms](https://academic.oup.com/nar/article/47/19/10439/5568210)
+
+**Q.4.a** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? (2-3 sentences)
+
+**Q.4.b** What are the paper’s strengths and significance?  (Bullet points) 
+
+
+**Q.4.C** What are the paper’s shortcomings and deficiencies? How can the paper improve? (Bullet points) 
+
+## Extra Credit - Design and solve a problem (20 points)
+
+Design your own BIOE\ENGR 80 question based on any of the material that we have covered so far in the class.  A student successfully finishing BIOE\ENGR 80 should be able to answer your question.  
+
+Start by thinking about your learning goals.  What do you expect the learner by engaging your question?  Next, provide an answer to the question. Your questions can have multiple parts.  Make sure to include references if you draw inspiration from a source. 
 
 <sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w8ps.md) for teaching staff <sub><sup>
