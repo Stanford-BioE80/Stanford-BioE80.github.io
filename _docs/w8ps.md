@@ -79,16 +79,21 @@ EXTRA INFORMATION: In making our toy system, we made some implicit assumptions i
 - the organisms reproduce asexually and cannot perform [recombination](https://en.wikipedia.org/wiki/Genetic_recombination)
 - the Environment does not change over time
 In general, these assumptions do not apply. However, scientists have made great headway in describing evolution using simple models that make some or all of these assumptions.
+
 ## (Q4) Paper reading activity (15 points)
 
 Read the following paper, [Fail-safe genetic codes designed to intrinsically contain engineered organisms](https://academic.oup.com/nar/article/47/19/10439/5568210)
 
-**Q.4.a** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? (2-3 sentences)
+**Q.4.a** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? (2-3 Bullet points)
 
-**Q.4.b** What are the paper’s strengths and significance?  (Bullet points)
+**Q.4.b** What are the paper’s strengths and significance? What are the paper’s shortcomings and deficiencies?  (Bullet points)? How can the paper improve? (3-4 Bullet points)
 
 
-**Q.4.C** What are the paper’s shortcomings and deficiencies? How can the paper improve? (Bullet points)
+Read the following pre-print, [Content-based similarity search in large-scale DNA data storage systems](https://www.biorxiv.org/content/10.1101/2020.05.25.115477v1.full.pdf+html)
+
+**Q.4.c** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? (2-3 Bullet points)
+
+**Q.4.d** What are the paper’s strengths and significance? What are the paper’s shortcomings and deficiencies?  (Bullet points)? How can the paper improve? (3-4 Bullet points)
 
 ## Extra Credit - Design and solve a question (20 points)
 
