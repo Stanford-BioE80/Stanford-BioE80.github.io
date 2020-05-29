@@ -1,6 +1,6 @@
 ---
 title: "Week 8 In class"
-permalink: /docs/w7inclass/
+permalink: /docs/w8inclass/
 toc: true
 ---
 
