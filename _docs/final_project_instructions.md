@@ -31,7 +31,7 @@ You and your team will have to complete the following deliverables as part of th
 
 ***Written project description (24 pts, 3 points per, Due: Monday June 1st)***  
 
-(Notes: Please share 1 copy per group, submit via Gradescope.  Bullet point answers are fine.  Make sure to include references.)
+(Notes: Please turn in a single document per group, via Gradescope.  Include your group number.  Bullet point answers are fine.  Make sure to include references.)
 
 Answer the following eight questions (adapted from DARPA's Heilmeier Catechism):
 
