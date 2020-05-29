@@ -55,7 +55,7 @@ Suppose that we wish find the most fit genome "111...111" in the space of all ge
 
 HINT: this problem uses the same math you used for Question 2a and 2b. Instead of considering n nucleotides (of which there are 4 types), we are considering 100 genes (of which there are 2 types)
 
-**3.b.** Let's now try and get a better sense of how long it takes evolution to find the fittest genome in our toy system. Check out [this cloud notebook](https://colab.research.google.com/drive/1w57b1R19w49yTg4b9Gat8v9ygWNjdxhm?usp=sharing), which simulates the evolution of a population of ten thousand (1e4) organisms in our toy system.
+**3.b.** Let's now try and get a better sense of how long it takes evolution to find the fittest genome in our toy system. Check out [this cloud notebook](https://colab.research.google.com/drive/1w57b1R19w49yTg4b9Gat8v9ygWNjdxhm?usp=sharing), which simulates the evolution of a population of ten thousand (1e4) organisms in our toy system. To run this notebook, go to the toolbar at the top of the page and click Runtime > Run all.
 
 How many generations does it take for our simulated population to evolve a genome of fitness 100? How many genome-generations does it take? How does the size of the genome space (from 3.a) compare to the number of genome generations it took for our simulation to find the most fit genome?
 
@@ -63,7 +63,7 @@ HINT: genome-generations is a unit that combines the number of individuals in a 
 
 **3.c.** Let's try and see how sensitive our evolving system is to the parameters we chose for our simulation. We may have just gotten lucky! First, let's try changing the size of our population, which is represented by the parameter named "NUM_GENOMES".
 
-Repeat the simulation using a population size of one thousand (1e3) individuals. Does this simulation to converge to a genome of fitness 100? If so, how many genome-generations does it take?
+Repeat the simulation using a population size of one thousand (1e3) individuals. Run the simulation by clicking Runtime > Run all, otherwise the code will run using the default parameters instead of the updated ones. Does this simulation to converge to a genome of fitness 100? If so, how many genome-generations does it take?
 
 Repeat the simulation again using a population size of one hundred thousand (1e5) individuals. Does this simulation to converge to a genome of fitness 100? If so, how many genome-generations does it take? Given the answers you got in this problem, how sensitive is our model to the population size?
 
