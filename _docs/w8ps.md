@@ -4,6 +4,22 @@ permalink: /docs/w8ps/
 2018: Week 4
 ---
 
+**PSET #7**
+
+ASSIGNED: Friday 29 May 2020
+
+DUE: Friday 05 June 2020  5:00 PM Pacific
+
+**NOTES:**
+
+- Given the unique circumstance of Spring 2020, we ask you to do your best to maximize your learning. Each problem set is an opportunity to assess your learning, identify gaps, reflect on what you have learned, and determine what you wish to learn next.
+- You can discuss the PSET questions with other students. But your answers should be your own work. Please let us know if you collaborated with other students working on the PSET. 
+- Please turn in your completed problem sets as an electronic copy via Gradescope. Please make sure to clearly indicate the starting and ending boundaries of your answers to each question on Gradescope.
+- Please do not go over any word limits.
+- Please **type** your answers. 
+- Please **label** and provide descriptions for the figures. 
+- **Please show your work and include units.**
+
 ## (Q1) Evolution Fundamentals & Misconceptions (20 points)
 
 True / False questions, please select the best answer.  If **False** please explain why (1-2 sentences).
