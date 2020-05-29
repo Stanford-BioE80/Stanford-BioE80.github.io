@@ -6,7 +6,7 @@ permalink: /docs/w8ps/
 
 ## (Q1) Evolution Fundamentals & Misconceptions (20 points)
 
-True / False questions, please select the best answer.  If **False** please explain why (1-2 sentences). 
+True / False questions, please select the best answer.  If **False** please explain why (1-2 sentences).
 Please see preclass materials for background material.
 
 **Q.1.a.** Individual mutations occur at random (True /  False)
@@ -39,47 +39,64 @@ Note: it may be very helpful to write out all the possible genomes by hand.
 
 Note: Use a calculator that can handle large numbers. Or use Log to compare the exponents of large numbers.  
 
-## (Q3) How much of the Evolutionary "Search Space" has been Searched? (35 points)
+## Question 3: Evolution vs Random Searching
+To illustrate just how powerful evolution is as an "algorithm" for optimization, let's consider the following toy system. Imagine a species with a **genome of 100 genes**. Suppose that each of these 100 genes has **one of two forms: 0 or 1**. We can describe the genome of one of these imaginary organisms as a list of a hundred 0s and 1s (e.g., "0110001...010").
 
-In the previous problem, we estimated how big is the space of all possible microbial genomes (spoiler: very big). In this problem, we will estimate how much of this space has been searched. Thanks to a long-term evolution [experiment](http://myxo.css.msu.edu/) it is possible to estimate that *E. coli* has a mutation rate on the order of 10<sup>-10</sup> (mutations)/(base x generation) [bionumber-source](https://bionumbers.hms.harvard.edu/bionumber.aspx?&id=105813).
+In general, it is difficult or impossible to quantitatively predict the fitness of an organism from the organism's *genotype*. This is because the fitness of an organism depends only indirectly on genotype. Fitness depends directly on how the organism looks and acts (its *phenotype*) in the context of a given *environment*, which is difficult to predict. In order to avoid some of these complications, let's make our toy system have the following properties:
+- the total population of our system remains constant throughout (e.g., if 4 organisms die, 4 new ones will be born)
+- the 1 form of each gene is more fit than the 0 form of the same gene
+- genes can only change form by "mutation"; a gene in the 0 form mutates to 1 form and vice versa
+- each time an organism reproduces, it's offspring will have a random mutation in exactly one of its genes (e.g., an organism with genome "010" may give rise to an offspring with genome "110", "000", or "011" with equal probability)
+- the fitness of a given organism is equal to the number of genes in its genome in the 1 form (e.g., an organism with genome "011" has a fitness of 2)
 
-**Q.3.a.**  What is the rate of mutations/genome x generation for a typical microbe? That is to say, how many mutations should we expect per individual bacterial genome replication event? Assume the microbe has a mutation rate of 10<sup>-10</sup> (mutations)/(base x generation) and a genome length of _n_ = 10<sup>7</sup>.
+Suppose that we wish find the most fit genome "111...111" in the space of all genomes, but we don't know ahead of time which genome is the most fit. That is to say, we don't know that the 1 form is more fit than the 0 form.
 
-**Q.3.b.** Assume there are 10<sup>30</sup> microbes on Earth ([estimate from a 1998 study out of University of Georgia](https://www.pnas.org/content/95/12/6578)). If every one of these microbes replicates all at once, how many mutations should we expect to occur in a single replication cycle?
+**3.a.** Let's first try and guess how long it will take to find the most fit genome by randomly searching the space of all genomes. How big is the space of possible genomes of 100 genes if each gene has 2 forms?
 
-**Q.3.c.** Life on Earth is approximately 10<sup>9.5</sup> years old. The fastest rate at which _E. coli_ can replicate is about one generation per 20 minutes, or 3 replications per hour. Assume that all microbes can double at this rate. How many microbial generations have passed since life began on Earth? That is to say, how many times would we expect a microbe to have doubled if that microbe had existed since the beginning of life on Earth?
+HINT: this problem uses the same math you used for Question 2a and 2b. Instead of considering n nucleotides (of which there are 4 types), we are considering 100 genes (of which there are 2 types)
 
-**Q.3.d.** Let's assume that the global population size of microbes remains constant over time. Given your answers for 3.b. (the total number of mutations that arise every time all the microbes in the world replicate) and 3.c. (the number of times microbes could have replicated since life began), how many total mutation events would you expect have happened in Earth's history?
+**3.b.** Let's now try and get a better sense of how long it takes evolution to find the fittest genome in our toy system. Check out [this cloud notebook](https://colab.research.google.com/drive/1w57b1R19w49yTg4b9Gat8v9ygWNjdxhm?usp=sharing), which simulates the evolution of a population of ten thousand (1e4) organisms in our toy system.
 
-**Q.3.e.** Let's observe two things:
+How many generations does it take for our simulated population to evolve a genome of fitness 100? How many genome-generations does it take? How does the size of the genome space (from 3.a) compare to the number of genome generations it took for our simulation to find the most fit genome?
 
-* Microbes in nature are really good at what they do and are highly optimized for their environments
-* As you have just calculated, there has not been enough time to search hardly any part of the total search space.
+HINT: genome-generations is a unit that combines the number of individuals in a population and the number of generations over which that population evolves. You can derive the number of genome-generations by multiplying the number of genomes and the number of generations (e.g., a population of 10 individuals over 4 generations represent 40 genome-generations)
 
-Given that mutations are random, what else is at play in evolution that the resulting organisms are so highly optimized? (1 bullet point)
+**3.c.** Let's try and see how sensitive our evolving system is to the parameters we chose for our simulation. We may have just gotten lucky! First, let's try changing the size of our population, which is represented by the parameter named "NUM_GENOMES".
 
-Note: Question-3 is based on an entry from [*Cell Biology by the Numbers*](http://book.bionumbers.org/what-is-the-mutation-rate-during-genome-replication/), and from material from Dan Fisher's course Evolution by the Numbers [APPPHYS237/BIO251](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=APPPHYS%20237:%20Evolution%20by%20the%20numbers&academicYear=20182019).
+Repeat the simulation using a population size of one thousand (1e3) individuals. Does this simulation to converge to a genome of fitness 100? If so, how many genome-generations does it take?
 
-Note: Use a calculator that can handle large numbers. Or use Log to compare the exponents of large numbers.  
+Repeat the simulation again using a population size of one hundred thousand (1e5) individuals. Does this simulation to converge to a genome of fitness 100? If so, how many genome-generations does it take? Given the answers you got in this problem, how sensitive is our model to the population size?
 
-## (Q4) Paper reading activity (15 points) 
+**3.d.** Now, let's try and change the strength of selection that we impose on our system, which is represented by the parameter named "SELECTION". SELECTION represents the percentage of the population that dies within each generation and is replaced by newborn individuals. With SELECTION = 0.5, which is the default setting we've used thusfar, half of the population is replaced every generation!
+
+Repeat the simulation using a population size of ten thousand (1e4) individuals, like we did in 3.b, but set the selective pressure to 0.2. Does this simulation to converge to a genome of fitness 100? If so, how many genome-generations does it take?
+
+Repeat the simulation using a population size of ten thousand (1e4) individuals and a selective pressure of 0.9. Does this simulation to converge to a genome of fitness 100? If so, how many genome-generations does it take? Given the answers you got in this problem, how sensitive is our model to the selective pressure?
+
+EXTRA INFORMATION: In making our toy system, we made some implicit assumptions in order for the properties listed above to hold. Below, we highlight some of these assumptions.
+- the fitness that any given gene contributes to the organism is only determined by the form of that gene (there is no [epistasis](https://en.wikipedia.org/wiki/Epistasis) in this system)
+- the fitness of one organism does not affect the fitness of any other organism (there is no [density dependence](https://en.wikipedia.org/wiki/Density_dependence) or [frequency dependence](https://en.wikipedia.org/wiki/Frequency-dependent_selection))
+- the organisms reproduce asexually and cannot perform [recombination](https://en.wikipedia.org/wiki/Genetic_recombination)
+- the Environment does not change over time
+In general, these assumptions do not apply. However, scientists have made great headway in describing evolution using simple models that make some or all of these assumptions.
+## (Q4) Paper reading activity (15 points)
 
 Read the following paper, [Fail-safe genetic codes designed to intrinsically contain engineered organisms](https://academic.oup.com/nar/article/47/19/10439/5568210)
 
 **Q.4.a** In your own words, what is the primary claim of the paper? What are the primary evidence in support of the claim? (2-3 sentences)
 
-**Q.4.b** What are the paper’s strengths and significance?  (Bullet points) 
+**Q.4.b** What are the paper’s strengths and significance?  (Bullet points)
 
 
-**Q.4.C** What are the paper’s shortcomings and deficiencies? How can the paper improve? (Bullet points) 
+**Q.4.C** What are the paper’s shortcomings and deficiencies? How can the paper improve? (Bullet points)
 
 ## Extra Credit - Design and solve a question (20 points)
 
 Design your own BIOE\ENGR 80 question based on any of the material that we have covered so far in the class.  A student successfully finishing BIOE\ENGR 80 should be able to answer your question.  
 
-- Start by thinking about your learning goals.  What do you expect the learners to gain after engaging your question? 
+- Start by thinking about your learning goals.  What do you expect the learners to gain after engaging your question?
 
-- Next, provide your question. Your questions can have multiple parts.  Make sure to include references if you draw inspiration from a source. 
+- Next, provide your question. Your questions can have multiple parts.  Make sure to include references if you draw inspiration from a source.
 - Finally, provide an answer to the question. (Optional: you can also include potential mistakes and misunderstandings.)
 
 <sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w8ps.md) for teaching staff <sub><sup>
