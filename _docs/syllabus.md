@@ -148,7 +148,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ----------- | -------|
 | Mon 1 June | Bioengineering futures related to planet health |
 | Wed 3 June | Bioengineering futures related to human health|
-| Fri 5 June | Team Project – Working session |
+| Fri 5 June | Bioengineering futures related to Political health |
 
 ## Week 10: Bioengineering Futures & Charge to Class
 
