@@ -13,11 +13,11 @@ DUE: Friday 05 June 2020  5:00 PM Pacific
 **NOTES:**
 
 - Given the unique circumstance of Spring 2020, we ask you to do your best to maximize your learning. Each problem set is an opportunity to assess your learning, identify gaps, reflect on what you have learned, and determine what you wish to learn next.
-- You can discuss the PSET questions with other students. But your answers should be your own work. Please let us know if you collaborated with other students working on the PSET. 
+- You can discuss the PSET questions with other students. But your answers should be your own work. Please let us know if you collaborated with other students working on the PSET.
 - Please turn in your completed problem sets as an electronic copy via Gradescope. Please make sure to clearly indicate the starting and ending boundaries of your answers to each question on Gradescope.
 - Please do not go over any word limits.
-- Please **type** your answers. 
-- Please **label** and provide descriptions for the figures. 
+- Please **type** your answers.
+- Please **label** and provide descriptions for the figures.
 - **Please show your work and include units.**
 
 ## (Q1) Evolution Fundamentals & Misconceptions (20 points)
@@ -55,7 +55,7 @@ Note: it may be very helpful to write out all the possible genomes by hand.
 
 Note: Use a calculator that can handle large numbers. Or use Log to compare the exponents of large numbers.  
 
-## Question 3: Evolution vs Random Searching
+## Question 3: Evolution vs Random Searching (35 points)
 To illustrate just how powerful evolution is as an "algorithm" for optimization, let's consider the following toy system. Imagine a species with a **genome of 100 genes**. Suppose that each of these 100 genes has **one of two forms: 0 or 1**. We can describe the genome of one of these imaginary organisms as a list of a hundred 0s and 1s (e.g., "0110001...010").
 
 In general, it is difficult or impossible to quantitatively predict the fitness of an organism from the organism's *genotype*. This is because the fitness of an organism depends only indirectly on genotype. Fitness depends directly on how the organism looks and acts (its *phenotype*) in the context of a given *environment*, which is difficult to predict. In order to avoid some of these complications, let's make our toy system have the following properties:
