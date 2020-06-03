@@ -1,6 +1,8 @@
 ---
 title: "Week 9 Preclass"
 permalink: /docs/w9preclass/
+last_modified_at:
+toc: true
 ---
 
 
