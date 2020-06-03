@@ -54,7 +54,7 @@ _______________________________________________________________________
 
 Please skim the essay by John Maynard Keynes, [Economic Possibilities for Our Grandchildren](http://www.econ.yale.edu/smith/econ116a/keynes1.pdf)
 
-full link also: http://www.econ.yale.edu/smith/econ116a/keynes1.pdf
+*full link also: http://www.econ.yale.edu/smith/econ116a/keynes1.pdf*
 
 **Q.1. What was the state of the global economy when Keynes published his essay?**
 
@@ -62,7 +62,7 @@ full link also: http://www.econ.yale.edu/smith/econ116a/keynes1.pdf
 
 **Q.3. Did Keynes' prediction come true? If not, why?**
 
-Next, watch the following 5' of [Martin Luther King, Jr. I Have A Dream](https://www.youtube.com/watch?v=3vDWWy4CMhE&feature=youtu.be)speech
+Next, watch the following 5' of [Martin Luther King, Jr. I Have A Dream](https://www.youtube.com/watch?v=3vDWWy4CMhE&feature=youtu.be) speech
 
 **Q.4. What is the difference between a dream and a plan?**
 
