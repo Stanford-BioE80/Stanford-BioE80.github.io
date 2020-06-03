@@ -77,6 +77,10 @@ Now watch Michael Render's (AKA Killer Mike) powerful speech [Plot, Plan, Strate
 
 **Q.8. What is Mike's message?**
 
+Now familiarize yourself with Brandenburg v. Ohio, 395 U.S. 444 (1969) by skimming the material online here:
+[Brandenburg v. Ohio](https://en.wikipedia.org/wiki/Brandenburg_v._Ohio)
+
+**Q.9. According to this case, what conditions must all be met in order to make certain speech or acts illegal?**
 
 
 <sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w9preclass.md) for teaching staff <sub><sup>
