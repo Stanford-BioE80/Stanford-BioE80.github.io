@@ -11,7 +11,6 @@ Please read and consider the below before start of class. The questions given ar
 (1) Please read the brief article, *"George the Snail, Believed to Be the Last of His Species, Dies at 14 in Hawaii.”*
 
 Available online via: [George the Snail, Believed to Be the Last of His Species, Dies at 14 in Hawaii](https://www.nytimes.com/2019/01/10/science/snail-dead-george-species.html)  
-(And, also shared as a .PDF file via email)
 
 **Q.1. What fraction of Hawaiian snail species have gone extinct in the last several hundred years?**  
 
@@ -66,7 +65,7 @@ Next, watch the following 5' of [Martin Luther King, Jr. I Have A Dream](https:/
 
 **Q.5. How would the speech be different if it was addressing a plan instead of a dream?**
 
-Briefly examine the United Nations' [17 Sustainable Development Goals (SDGs)](https://sustainabledevelopment.un.org/)
+Please briefly examine the United Nations' [17 Sustainable Development Goals (SDGs)](https://sustainabledevelopment.un.org/)
 
 **Q.6. Which one do you think is most important?**
 
@@ -77,10 +76,16 @@ Now watch Michael Render's (AKA Killer Mike) powerful speech [Plot, Plan, Strate
 
 **Q.8. What is Mike's message?**
 
-Now familiarize yourself with Brandenburg v. Ohio, 395 U.S. 444 (1969) by skimming the material online here:
+Familiarize yourself with Brandenburg v. Ohio, 395 U.S. 444 (1969) by skimming the material online here:
+
 [Brandenburg v. Ohio](https://en.wikipedia.org/wiki/Brandenburg_v._Ohio)
 
 **Q.9. According to this case, what conditions must all be met in order to make certain speech or acts illegal?**
 
+Finally, familiarize yourself with Jacobellis v. Ohio, 378 U.S. 184 (1964) by skimming the material online here:
+
+[Jacobellis v. Ohio](https://en.wikipedia.org/wiki/Jacobellis_v._Ohio)
+
+**Q.10.  What is Justice Potter Stewart most known for regarding his opinion in this case?** 
 
 <sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w9preclass.md) for teaching staff <sub><sup>
