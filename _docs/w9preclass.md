@@ -6,14 +6,12 @@ permalink: /docs/w9preclass/
 
 Please read and consider the below before start of class. The questions given are only study questions not homework to be answered. Talk about it all with your classmates, friends, or TAs, as you like.
 
-## Preclass for Monday
+## Post-class for Monday
    
 (1) Please read the brief article, *"George the Snail, Believed to Be the Last of His Species, Dies at 14 in Hawaii.”*
 
 Available online via: [George the Snail, Believed to Be the Last of His Species, Dies at 14 in Hawaii](https://www.nytimes.com/2019/01/10/science/snail-dead-george-species.html)  
 (And, also shared as a .PDF file via email)
-
-*Self-study Questions:*
 
 **Q.1. What fraction of Hawaiian snail species have gone extinct in the last several hundred years?**  
 
@@ -25,9 +23,6 @@ Available online via: [George the Snail, Believed to Be the Last of His Species,
 (2) Please skim the article by our own Michael Specter, *“Could Genetically Modified Mosquitoes Save Hawaii’s Endangered Birds?”*  
 
 Available online via: [Could Genetically Modified Mosquitoes Save Hawaii’s Endangered Birds?](https://www.newyorker.com/news/daily-comment/could-genetically-modified-mosquitoes-save-hawaiis-endangered-birds)   
-(And, also shared as a .PDF file via email)
-
-*Self-study Questions:*
 
 **Q.4. How do mosquitoes contribute to the extinction of native Hawaiian birds?**  
 
@@ -50,9 +45,38 @@ Please pay special attention to the 2.5 minutes of material starting around 30 s
 
 [See](https://youtu.be/KgvhUPiDdq8?t=98) (Hint — listen for when the narrator exclaims, “…also contained a little bit of code…”)   
 
-## Preclass for Wednesday 
+## Post-class for Wednesday 
+
+To be shared. 
 
 ## Preclass for Friday 
+
+Please skim the essay by John Maynard Keynes, [Economic Possibilities for Our Grandchildren](http://www.econ.yale.edu/smith/econ116a/keynes1.pdf)
+full link: http://www.econ.yale.edu/smith/econ116a/keynes1.pdf
+
+**Q.1.  What was the state of the global economy when Keynes published his essay?**
+
+**Q.2.  Who are Keynes "grandchildren" and what does Keynes conclude regarding their future economic prospects?**
+
+**Q.3.  Did Keynes' prediction come true? If not, why?**
+
+Next, watch the following 5' of [Martin Luther King, Jr. I Have A Dream](https://www.youtube.com/watch?v=3vDWWy4CMhE&feature=youtu.be)speech
+
+**Q.4. What is the difference between a dream and a plan?**
+
+**Q.5. How would the speech be different if it was addressing a plan instead of a dream?**
+
+Briefly examine the United Nations' [17 Sustainable Development Goals (SDGs)](https://sustainabledevelopment.un.org/)
+
+**Q.6. Which one do you think is most important?**
+
+**Q.7. Are these goals articulated as a dream or a plan?**
+
+Now watch Michael Render's (AKA Killer Mike) powerful speech [Plot, Plan, Strategize, Organize & Mobilize]
+(https://www.youtube.com/watch?v=vuvaMe_JUQU&feature=youtu.be)
+
+**Q.8. What is Mike's message?**
+
 
 
 <sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w9preclass.md) for teaching staff <sub><sup>
