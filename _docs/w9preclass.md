@@ -43,12 +43,10 @@ Please pay special attention to the 2.5 minutes of material starting around 30 s
 **Q.8. What is the key insight enabling CRISPR-enabled gene drives?**    
 
 [See](https://youtu.be/KgvhUPiDdq8?t=98) (Hint — listen for when the narrator exclaims, “…also contained a little bit of code…”)   
-_______________________________________________________________________
 
 ## Post-class for Wednesday 
 
 Post-class will be shared after the class. 
-_______________________________________________________________________
 
 ## Preclass for Friday 
 
