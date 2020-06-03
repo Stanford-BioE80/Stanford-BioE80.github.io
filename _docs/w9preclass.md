@@ -74,8 +74,7 @@ Please briefly examine the United Nations' [17 Sustainable Development Goals (SD
 
 **Q.7. Are these goals articulated as a dream or a plan?**
 
-Now watch Michael Render's (AKA Killer Mike) speech [Plot, Plan, Strategize, Organize & Mobilize]
-(https://www.youtube.com/watch?v=vuvaMe_JUQU&feature=youtu.be)
+Now watch Michael Render's (AKA Killer Mike) speech [Plot, Plan, Strategize, Organize and Mobilize](https://www.youtube.com/watch?v=vuvaMe_JUQU&feature=youtu.be)
 
 **Q.8. What is Mike's message?**
 
