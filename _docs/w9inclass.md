@@ -12,5 +12,9 @@ Link to course materials from Week 9.
 
 [Class Audio/Video](https://canvas.stanford.edu/courses/115648/files/folder/1%20June%202020%20-%20Audio%20Video)
 
+# Day 25: June 3, 2020
 
+[Class Slides](https://stanford-bioe80.github.io/docs/Stanford_BIOE80_Day25_3June20.pdf)
+
+[Class Audio/Video](https://canvas.stanford.edu/courses/115648/files/folder/3%20June%202020%20-%20Audio%20Video)
 
