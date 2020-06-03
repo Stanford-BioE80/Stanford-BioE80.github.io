@@ -89,7 +89,7 @@ Finally, familiarize yourself with Jacobellis v. Ohio, 378 U.S. 184 (1964) by sk
 **Q.10. What is Justice Potter Stewart most known for regarding his opinion in this case?** 
 
 Optional video: Please watch late Elijah Cummings' [remarks](https://www.youtube.com/watch?v=72gy-LZ4UN0) at Cohen hearing
-from Feb of 2019.  Particularly pay attention to his wish (around 2’) for a better and intact democracy, the greatest gift, that we can can give to our children.
+from Feb of 2019.  Particularly pay attention to his wish (start around 2’) for a better and intact democracy, the greatest gift, that we can can give to our children.
 
 
 <sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w9preclass.md) for teaching staff <sub><sup>
