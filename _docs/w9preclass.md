@@ -43,21 +43,24 @@ Please pay special attention to the 2.5 minutes of material starting around 30 s
 **Q.8. What is the key insight enabling CRISPR-enabled gene drives?**    
 
 [See](https://youtu.be/KgvhUPiDdq8?t=98) (Hint — listen for when the narrator exclaims, “…also contained a little bit of code…”)   
+_______________________________________________________________________
 
 ## Post-class for Wednesday 
 
-To be shared. 
+Post-class will be shared after the class. 
+_______________________________________________________________________
 
 ## Preclass for Friday 
 
 Please skim the essay by John Maynard Keynes, [Economic Possibilities for Our Grandchildren](http://www.econ.yale.edu/smith/econ116a/keynes1.pdf)
-full link: http://www.econ.yale.edu/smith/econ116a/keynes1.pdf
 
-**Q.1.  What was the state of the global economy when Keynes published his essay?**
+full link also: http://www.econ.yale.edu/smith/econ116a/keynes1.pdf
 
-**Q.2.  Who are Keynes "grandchildren" and what does Keynes conclude regarding their future economic prospects?**
+**Q.1. What was the state of the global economy when Keynes published his essay?**
 
-**Q.3.  Did Keynes' prediction come true? If not, why?**
+**Q.2. Who are Keynes "grandchildren" and what does Keynes conclude regarding their future economic prospects?**
+
+**Q.3. Did Keynes' prediction come true? If not, why?**
 
 Next, watch the following 5' of [Martin Luther King, Jr. I Have A Dream](https://www.youtube.com/watch?v=3vDWWy4CMhE&feature=youtu.be)speech
 
@@ -71,7 +74,7 @@ Please briefly examine the United Nations' [17 Sustainable Development Goals (SD
 
 **Q.7. Are these goals articulated as a dream or a plan?**
 
-Now watch Michael Render's (AKA Killer Mike) powerful speech [Plot, Plan, Strategize, Organize & Mobilize]
+Now watch Michael Render's (AKA Killer Mike) speech [Plot, Plan, Strategize, Organize & Mobilize]
 (https://www.youtube.com/watch?v=vuvaMe_JUQU&feature=youtu.be)
 
 **Q.8. What is Mike's message?**
@@ -86,6 +89,6 @@ Finally, familiarize yourself with Jacobellis v. Ohio, 378 U.S. 184 (1964) by sk
 
 [Jacobellis v. Ohio](https://en.wikipedia.org/wiki/Jacobellis_v._Ohio)
 
-**Q.10.  What is Justice Potter Stewart most known for regarding his opinion in this case?** 
+**Q.10. What is Justice Potter Stewart most known for regarding his opinion in this case?** 
 
 <sub><sup> [github source code](https://github.com/Stanford-BioE80/Stanford-BioE80.github.io/edit/master/_docs/w9preclass.md) for teaching staff <sub><sup>
