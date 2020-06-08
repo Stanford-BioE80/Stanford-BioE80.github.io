@@ -78,7 +78,9 @@ docs:
         url: /docs/w9preclass/
       - title: "Week 9 In-Class"
         url: /docs/w9inclass/
-
+      - title: "Week 10 Readings"
+        url: /docs/w10preclass/
+        
   - title: Problem Sets
     children:
       - title: "Week 1 PS"
