@@ -80,6 +80,8 @@ docs:
         url: /docs/w9inclass/
       - title: "Week 10 Readings"
         url: /docs/w10preclass/
+      - title: "Week 10 In-Class"
+        url: /docs/w10inclass/
         
   - title: Problem Sets
     children:
