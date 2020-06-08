@@ -1,5 +1,5 @@
 ---
-title: "Week 10 Reading"
+title: "Week 10 Readings"
 permalink: /docs/w10preclass/
 last_modified_at:
 toc: true
